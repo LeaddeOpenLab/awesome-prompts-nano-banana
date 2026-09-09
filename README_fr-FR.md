@@ -133,13 +133,13 @@ Traduction en cours
 
 <a name="prompt-2097549831489405424"></a>
 
-### Traduction en cours
+### Prompt d'affiche de voyage alpine cinématographique 9:16 avec lac de montagne, voyageur sur un ponton et typographie de magazine.
 
 Auteur：[@aniyaintel](https://x.com/aniyaintel) · [Publication originale](https://x.com/aniyaintel/status/2097549831489405424)
 
 Affiche / Flyer · Image cinématographique / Photogramme de film · Paysage / Nature · Texte / Typographie · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt d'affiche de voyage alpine cinématographique 9:16 avec lac de montagne, voyageur sur un ponton et typographie de magazine.
 
 <img src="images/2097549831489405424-1.jpg" alt="Image 1" width="480" />
 
@@ -152,7 +152,29 @@ Affiche / Flyer · Image cinématographique / Photogramme de film · Paysage / N
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une affiche éditoriale de voyage cinématographique haut de gamme et hyperréaliste au format vertical 9:16.
+
+Scène : Un lac de montagne alpin à couper le souffle avec une eau turquoise cristalline, entouré de montagnes spectaculaires aux sommets enneigés, de denses forêts de pins à feuilles persistantes et de falaises rocheuses escarpées. Le lac reflète parfaitement les montagnes et le ciel. Une petite cabane en bois rustique se dresse près de la rive droite, tandis qu'une barque traditionnelle en bois est amarrée le long d'un ponton en bois au premier plan.
+
+Au centre du premier plan, montrez un voyageur solitaire assis sur le ponton en bois, le dos tourné vers l'appareil photo, regardant paisiblement vers les montagnes. Le voyageur porte un chapeau marron à larges bords, une veste d'extérieur orange brûlé, un sac à dos de randonnée beige/marron et des vêtements de plein air aux tons neutres. Proportions naturelles et réalistes, texture subtile des vêtements.
+
+Composition : Photographie grand angle cinématographique, voyageur positionné en bas au centre, barque en bas à droite, lac vaste et montagnes dominant l'arrière-plan. Forte profondeur, perspective naturelle, paysage en couches, atmosphère paisible et aventureuse.
+
+Éclairage : Douce lumière dorée du matin, ciel bleu vif avec quelques nuages duveteux épars, brume atmosphérique subtile autour des montagnes, lumière du soleil réaliste et ombres naturelles. Couleurs riches mais authentiques, eau turquoise, premier plan brun terreux, forêt verdoyante luxuriante, montagnes bleu frais.
+
+Typographie : Ajoutez une typographie élégante d'affiche de voyage sur la partie supérieure de l'image :
+
+Petit texte en majuscules : « COLLECT »
+Grand texte manuscrit / cursif élégant : « Moments »
+Texte moyen en majuscules en dessous : « NOT THINGS »
+Lignes horizontales décoratives minimales avec un petit symbole de cœur
+Petit slogan en majuscules : « TRAVEL • EXPLORE • LIVE »
+
+Utilisez une typographie raffinée bleu canard foncé, un espacement net, un design éditorial haut de gamme, une hiérarchie équilibrée, un texte parfaitement lisible et une décoration minimaliste de bon goût.
+
+Style : Magazine de voyage de luxe, photographie cinématographique, ultra-détaillée, photoréaliste, photographie reflex numérique professionnelle, HDR, reflets d'eau réalistes, textures naturelles de la peau et des vêtements, étalonnage des couleurs subtilement filmique, profondeur atmosphérique, esthétique de voyage haut de gamme style Pinterest, ambiance inspirante et paisible.
+
+À éviter : personnes déformées, membres surnuméraires, architecture irréaliste, saturation excessive, détails flous, aspect dessin animé, eau à l'apparence artificielle, typographie encombrée, logos, filigranes.
 ```
 
 [↑ Retour aux catégories](#catalog)

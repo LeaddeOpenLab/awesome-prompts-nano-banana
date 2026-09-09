@@ -133,13 +133,13 @@ Traduzione in corso
 
 <a name="prompt-2097549831489405424"></a>
 
-### Traduzione in corso
+### Prompt per poster di viaggio alpino cinematografico 9:16 con lago di montagna, viaggiatore sul molo e tipografia da rivista.
 
 Autore：[@aniyaintel](https://x.com/aniyaintel) · [Post originale](https://x.com/aniyaintel/status/2097549831489405424)
 
 Poster / Volantino · Fermo immagine cinematografico / Still fotografico · Paesaggio / Natura · Testo / Tipografia · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per poster di viaggio alpino cinematografico 9:16 con lago di montagna, viaggiatore sul molo e tipografia da rivista.
 
 <img src="images/2097549831489405424-1.jpg" alt="Immagine 1" width="480" />
 
@@ -152,7 +152,29 @@ Poster / Volantino · Fermo immagine cinematografico / Still fotografico · Paes
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un poster editoriale di viaggio premium, iperrealistico e cinematografico in formato verticale 9:16.
+
+Scena: Un mozzafiato lago alpino montano con acque turchesi cristalline, circondato da spettacolari montagne innevate, fitte foreste di pini sempreverdi e ripide scogliere rocciose. Il lago riflette perfettamente le montagne e il cielo. Una piccola baita rustica in legno sorge vicino alla riva destra, mentre una tradizionale barca a remi in legno è ormeggiata accanto a un molo in legno in primo piano.
+
+Al centro del primo piano, mostra un viaggiatore solitario seduto sul molo di legno con le spalle rivolte alla fotocamera, che guarda serenamente verso le montagne. Il viaggiatore indossa un cappello marrone a tesa larga, una giacca outdoor color arancione bruciato, uno zaino da trekking beige/marrone e abbigliamento outdoor neutro. Proporzioni naturali e realistiche, con texture delicata dei vestiti.
+
+Composizione: Fotografia grandangolare cinematografica, viaggiatore posizionato in basso al centro, barca in basso a destra, lago sconfinato e montagne che dominano lo sfondo. Forte profondità, prospettiva naturale, paesaggio a strati, atmosfera pacifica e avventurosa.
+
+Illuminazione: Morbida luce dorata del mattino, cielo azzurro brillante con sparse nuvole soffici, sottile foschia atmosferica attorno alle montagne, luce solare realistica e ombre naturali. Colori ricchi ma autentici, acqua turchese, primo piano marrone terra, foresta verde lussureggiante, montagne blu freddo.
+
+Tipografia: Aggiungi un'elegante tipografia da poster di viaggio sulla parte superiore dell'immagine:
+
+Testo piccolo in maiuscolo: “COLLECT”
+Testo grande ed elegante in corsivo/scritto a mano: “Moments”
+Testo medio in maiuscolo sotto: “NOT THINGS”
+Minime linee orizzontali decorative con un piccolo simbolo a forma di cuore
+Piccolo slogan in maiuscolo: “TRAVEL • EXPLORE • LIVE”
+
+Usa una sofisticata tipografia color ottanio scuro, spaziatura pulita, design editoriale premium, gerarchia equilibrata, testo altamente leggibile e decorazione minimale di buon gusto.
+
+Stile: Rivista di viaggi di lusso, fotografia cinematografica, ultra-dettagliata, fotorealistica, fotografia professionale DSLR, HDR, riflessi d'acqua realistici, texture naturali di pelle/abbigliamento, sottile color grading filmico, profondità atmosferica, estetica di viaggio premium stile Pinterest, atmosfera ispiratrice e pacifica.
+
+Evitare: persone deformate, arti extra, architettura irrealistica, saturazione eccessiva, dettagli sfocati, aspetto da cartone animato, acqua dall'aspetto finto, tipografia caotica, loghi, filigrane.
 ```
 
 [↑ Torna alle categorie](#catalog)

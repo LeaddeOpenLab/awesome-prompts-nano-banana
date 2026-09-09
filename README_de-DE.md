@@ -133,13 +133,13 @@ Kinematisch / Filmstill · Porträt / Selfie · Stadtbild / Straße · Veröffen
 
 <a name="prompt-2097549831489405424"></a>
 
-### Übersetzung läuft
+### Cinematischer 9:16-Alpenreiseplakat-Prompt mit Bergsee, Reisendem am Steg und Magazintypografie.
 
 Autor：[@aniyaintel](https://x.com/aniyaintel) · [Originalbeitrag](https://x.com/aniyaintel/status/2097549831489405424)
 
 Plakat / Flyer · Kinematisch / Filmstill · Landschaft / Natur · Text / Typografie · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Cinematischer 9:16-Alpenreiseplakat-Prompt mit Bergsee, Reisendem am Steg und Magazintypografie.
 
 <img src="images/2097549831489405424-1.jpg" alt="Bild 1" width="480" />
 
@@ -152,7 +152,29 @@ Plakat / Flyer · Kinematisch / Filmstill · Landschaft / Natur · Text / Typogr
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein erstklassiges, hyperrealistisches, filmisches Reise-Editorial-Poster im vertikalen Format 9:16.
+
+Szene: Ein atemberaubender alpiner Bergsee mit kristallklarem, türkisblauem Wasser, umgeben von dramatischen schneebedeckten Bergen, dichten immergrünen Kiefernwäldern und steilen Felsklippen. Der See spiegelt die Berge und den Himmel perfekt wider. Eine kleine rustikale Holzhütte liegt nahe dem rechten Ufer, während ein traditionelles Holzruderboot neben einem Holzsteg im Vordergrund festgemacht ist.
+
+Zeige in der Mitte des Vordergrunds einen Alleinreisenden, der mit dem Rücken zur Kamera auf dem Holzsteg sitzt und friedlich auf die Berge blickt. Der Reisende trägt einen braunen Schlapphut mit breiter Krempe, eine outdoor-Jacke in Rostorange, einen beigen/braunen Wanderrucksack und neutrale Outdoor-Kleidung. Natürliche, realistische Proportionen und subtile Kleidungstextur.
+
+Komposition: Filmische Weitwinkelfotografie, Reisender im unteren Zentrum positioniert, Boot unten rechts, weitläufiger See und Berge dominieren den Hintergrund. Starke Tiefe, natürliche Perspektive, geschichtete Landschaft, friedliche, abenteuerliche Atmosphäre.
+
+Beleuchtung: Sanftes goldenes Morgenlicht, strahlend blauer Himmel mit vereinzelten lockeren Wolken, subtiler atmosphärischer Dunst um die Berge, realistisches Sonnenlicht und natürliche Schatten. Satte, aber authentische Farben, türkisblaues Wasser, erdig-brauner Vordergrund, üppig grüner Wald, kühle blaue Berge.
+
+Typografie: Füge eine elegante Reiseplakat-Typografie über dem oberen Teil des Bildes hinzu:
+
+Kleiner Text in Großbuchstaben: „COLLECT“
+Großer, stilvoller handgeschriebener Text / Schreibschrifttext: „Moments“
+Mittlerer Text in Großbuchstaben darunter: „NOT THINGS“
+Minimale dekorative horizontale Linien mit einem kleinen Herzsymbol
+Kleine Tagline in Großbuchstaben: „TRAVEL • EXPLORE • LIVE“
+
+Verwende eine anspruchsvolle dunkel-petrolfarbene Typografie, klare Abstände, erstklassiges redaktionelles Design, ausgewogene Hierarchie, gut lesbaren Text und geschmackvolle, minimale Dekoration.
+
+Stil: Luxus-Reisemagazin, filmische Fotografie, extrem detailliert, fotorealistisch, professionelle DSLR-Fotografie, HDR, realistische Wasserreflexionen, natürliche Haut-/Kleidungstexturen, subtiles filmisches Color Grading, atmosphärische Tiefe, erstklassige Pinterest-Reiseästhetik, inspirierende und friedliche Stimmung.
+
+Vermeide: verzerrte Personen, zusätzliche Gliedmaßen, unrealistische Architektur, übermäßige Sättigung, verschwommene Details, Cartoon-Aussehen, unecht wirkendes Wasser, überladene Typografie, Logos, Wasserzeichen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
