@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T20:24:35.290Z",
+  "model": "nano-banana",
+  "prompt": "#masterpiece #realistic photo #landscape #Long exposure #floating paper lanterns #dark current #warm reflections #midnight quiet",
+  "promptTranslations": {
+    "en": "#masterpiece #realistic photo #landscape #Long exposure #floating paper lanterns #dark current #warm reflections #midnight quiet"
+  },
+  "summaryTranslations": {
+    "en": "Long-exposure night landscape with floating paper lanterns on a dark river."
+  },
+  "translationVersion": 2,
+  "summary": "Long-exposure night landscape with floating paper lanterns on a dark river.",
+  "summaryEn": "Long-exposure night landscape with floating paper lanterns on a dark river.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097775925899436414",
+    "canonicalUrl": "https://x.com/dfl_inc_jp/status/2097775925899436414",
+    "author": {
+      "username": "dfl_inc_jp",
+      "displayName": "DFL inc.",
+      "profileUrl": "https://x.com/dfl_inc_jp"
+    },
+    "publishedAt": "2026-09-09T19:55:30.000Z",
+    "collectedAt": "2026-09-09T20:16:32.197Z",
+    "language": "fr",
+    "originalText": "AI image generation\n\n#Nano Banana 2 #masterpiece #realistic photo #landscape #Long exposure #floating paper lanterns #dark current #warm reflections #midnight quiet https://t.co/mzPf0ZNyT0",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRzMFHibUAAWwEf.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRzMFHibUAAWwEf.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 6
+    },
+    "matchedRuleIds": [
+      "custom:fr:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/dfl_inc_jp/status/2097775925899436414",
+  "coverUrl": "https://pbs.twimg.com/media/HRzMFHibUAAWwEf.jpg",
+  "coverPath": "images/2097775925899436414-1.jpg",
+  "imagePaths": [
+    "images/2097775925899436414-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRzMFHibUAAWwEf",
+    "x-post:2097775925899436414"
+  ],
+  "analysis": {
+    "summary": "Long-exposure night landscape with floating paper lanterns on a dark river.",
+    "summaryEn": "Long-exposure night landscape with floating paper lanterns on a dark river.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The image precisely depicts a quiet midnight river landscape with paper lanterns floating and casting long-exposure warm light trails across the water."
+    },
+    "videoQuality": null,
+    "originalPrompt": "#masterpiece #realistic photo #landscape #Long exposure #floating paper lanterns #dark current #warm reflections #midnight quiet",
+    "sourceRange": {
+      "start": 36,
+      "end": 164
+    },
+    "translations": {
+      "zh": "#杰作 #写实照片 #风景 #长曝光 #漂浮的纸灯笼 #暗流 #温暖倒影 #午夜寂静",
+      "en": "#masterpiece #realistic photo #landscape #Long exposure #floating paper lanterns #dark current #warm reflections #midnight quiet"
+    },
+    "targetModels": [
+      "nano-banana"
+    ],
+    "category": "text-to-image",
+    "useCase": "creative artwork",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
