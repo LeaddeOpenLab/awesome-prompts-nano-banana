@@ -446,20 +446,20 @@ Eine atemberaubende vertikale Ansicht einer futuristischen Metropole, die in der
 
 <a name="prompt-2097775925899436414"></a>
 
-### Übersetzung läuft
+### Nächtliche Langzeitbelichtungslandschaft mit treibenden Papierlaternen auf einem dunklen Fluss.
 
 Autor：[@dfl\_inc\_jp](https://x.com/dfl_inc_jp) · [Originalbeitrag](https://x.com/dfl_inc_jp/status/2097775925899436414)
 
 Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Nächtliche Langzeitbelichtungslandschaft mit treibenden Papierlaternen auf einem dunklen Fluss.
 
 <img src="images/2097775925899436414-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+#Meisterwerk #realistisches Foto #Landschaft #Langzeitbelichtung #treibende Papierlaternen #dunkle Strömung #warme Reflexionen #Mitternachtsstille
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

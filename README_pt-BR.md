@@ -446,20 +446,20 @@ Uma vista vertical deslumbrante de uma metrópole futurista flutuando graciosame
 
 <a name="prompt-2097775925899436414"></a>
 
-### Tradução em andamento
+### Paisagem noturna de longa exposição com lanternas de papel flutuando em um rio escuro.
 
 Autor：[@dfl\_inc\_jp](https://x.com/dfl_inc_jp) · [Publicação original](https://x.com/dfl_inc_jp/status/2097775925899436414)
 
 Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Paisagem noturna de longa exposição com lanternas de papel flutuando em um rio escuro.
 
 <img src="images/2097775925899436414-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+#obra-prima #foto realista #paisagem #longa exposição #lanternas de papel flutuantes #correnteza escura #reflexos quentes #silêncio da meia-noite
 ```
 
 [↑ Voltar às categorias](#catalog)

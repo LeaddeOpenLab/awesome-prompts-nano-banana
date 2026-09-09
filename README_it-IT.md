@@ -446,20 +446,20 @@ Un'incredibile vista verticale di una metropoli futuristica che fluttua con graz
 
 <a name="prompt-2097775925899436414"></a>
 
-### Traduzione in corso
+### Paesaggio notturno a lunga esposizione con lanterne di carta galleggianti su un fiume scuro.
 
 Autore：[@dfl\_inc\_jp](https://x.com/dfl_inc_jp) · [Post originale](https://x.com/dfl_inc_jp/status/2097775925899436414)
 
 Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Paesaggio notturno a lunga esposizione con lanterne di carta galleggianti su un fiume scuro.
 
 <img src="images/2097775925899436414-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+#capolavoro #foto realistica #paesaggio #lunga esposizione #lanterne di carta galleggianti #corrente scura #riflessi caldi #quiete di mezzanotte
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -476,20 +476,20 @@ Alacakaranlıkta, dalgalanan yoğun koyu gri bulutlardan oluşan sonsuz bir deni
 
 <a name="prompt-2097775925899436414"></a>
 
-### Çeviri sürüyor
+### Karanlık bir nehirde yüzen kâğıt fenerlerle uzun pozlama gece manzarası.
 
 Yazar：[@dfl\_inc\_jp](https://x.com/dfl_inc_jp) · [Orijinal gönderi](https://x.com/dfl_inc_jp/status/2097775925899436414)
 
 Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Karanlık bir nehirde yüzen kâğıt fenerlerle uzun pozlama gece manzarası.
 
 <img src="images/2097775925899436414-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+#şaheser #gerçekçi fotoğraf #manzara #uzun pozlama #yüzen kâğıt fenerler #karanlık akıntı #sıcak yansımalar #gece yarısı sessizliği
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -446,20 +446,20 @@ Une vue verticale à couper le souffle d'une métropole futuriste flottant graci
 
 <a name="prompt-2097775925899436414"></a>
 
-### Traduction en cours
+### Paysage nocturne en pose longue avec des lanternes en papier flottant sur une rivière sombre.
 
 Auteur：[@dfl\_inc\_jp](https://x.com/dfl_inc_jp) · [Publication originale](https://x.com/dfl_inc_jp/status/2097775925899436414)
 
 Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Paysage nocturne en pose longue avec des lanternes en papier flottant sur une rivière sombre.
 
 <img src="images/2097775925899436414-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+#chef-d'œuvre #photo réaliste #paysage #pose longue #lanternes en papier flottantes #courant sombre #reflets chauds #calme de minuit
 ```
 
 [↑ Retour aux catégories](#catalog)
