@@ -276,13 +276,13 @@ Traduction en cours
 
 <a name="prompt-2097482618992570627"></a>
 
-### Traduction en cours
+### Prompt poétique d'un dragon cosmique aux ailes anciennes et holographiques planant au-dessus d'une ville moderne au néon.
 
 Auteur：[@ToshiArte](https://x.com/ToshiArte) · [Publication originale](https://x.com/ToshiArte/status/2097482618992570627)
 
 Animal / Créature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt poétique d'un dragon cosmique aux ailes anciennes et holographiques planant au-dessus d'une ville moderne au néon.
 
 <img src="images/2097482618992570627-1.jpg" alt="Image 1" width="480" />
 
@@ -295,7 +295,57 @@ Animal / Créature · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Là où l'aile se souvient des deux rives
+
+Le dragon ne choisit pas un siècle.
+C'est le siècle qui se choisit lui-même
+à travers un corps fait d'ajournement et de lueur rémanente.
+Une aile traîne la dernière page non brûlée d'une bibliothèque
+qui tomba avant que le papier n'apprenne son propre nom.
+L'autre peigne la pluie holographique
+de tours qui n'ont pas encore décidé
+si elles resteront debout ou deviendront une rumeur.
+Entre elles, l'air tient deux calendriers
+et oublie lequel s'écoule.
+Ses écailles sont plus anciennes que le mot écaille.
+Elles se souviennent de la chaleur de forges
+qui n'ont pas encore été allumées,
+et du froid d'étoiles
+qui se sont déjà éteintes
+dans un autre récit.
+Des runes émergent et sombrent comme des pensées
+qu'une ville n'a pas encore mérité le droit de penser.
+Chaque pulsation de lumière est à la fois relique et prototype.
+En bas, les rues sont mouillées de ce qui est arrivé
+et de ce qui négocie encore son arrivée.
+Le néon écrit sur une eau qui fut autrefois la patience d'un glacier
+et ne sera, plus tard, qu'une rumeur de soif.
+Les fondations reposent sur le silence de forêts
+qui rêvent encore qu'elles sont debout.
+Des panneaux d'affichage annoncent des lendemains
+déjà nostalgiques du crépuscule qui n'est pas encore venu.
+Les yeux de la créature renferment le seul temps honnête :
+l'un le vert d'un souvenir
+qui ne sait pas encore qu'il est achevé,
+l'autre le bleu d'une question
+qui n'a pas trouvé la bouche qui la posera.
+Ils nous regardent comme le temps se regarde lui-même
+quand personne n'observe,
+sans pitié, sans verdict,
+seulement la longue courtoisie de l'attention.
+Nous vivons dans le bref souffle descendant de son passage,
+cet intervalle étrange et miséricordieux
+où le passé n'en a pas encore fini avec nous
+et où l'avenir a déjà commencé
+à regretter ce que nous n'avons pas encore perdu.
+Rien n'est promis hormis le virage :
+la charnière lente et lumineuse d'une aile
+qui appartient à chaque heure à la fois
+et à aucune d'elles complètement.
+La brume qu'elle laisse n'est ni fin ni commencement.
+C'est le lieu où ils se reconnaissent brièvement
+avant que la prochaine incertitude
+n'ouvre sa main silencieuse et nécessaire.
 ```
 
 [↑ Retour aux catégories](#catalog)

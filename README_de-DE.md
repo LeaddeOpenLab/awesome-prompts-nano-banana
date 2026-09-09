@@ -276,13 +276,13 @@ Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2097482618992570627"></a>
 
-### Übersetzung läuft
+### Poetischer Prompt eines kosmischen Drachen mit uralten und holografischen Flügeln, der über einer modernen Neonstadt schwebt.
 
 Autor：[@ToshiArte](https://x.com/ToshiArte) · [Originalbeitrag](https://x.com/ToshiArte/status/2097482618992570627)
 
 Tier / Kreatur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Poetischer Prompt eines kosmischen Drachen mit uralten und holografischen Flügeln, der über einer modernen Neonstadt schwebt.
 
 <img src="images/2097482618992570627-1.jpg" alt="Bild 1" width="480" />
 
@@ -295,7 +295,57 @@ Tier / Kreatur · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Wo der Flügel sich an beide Ufer erinnert
+
+Der Drache wählt kein Jahrhundert.
+Es ist das Jahrhundert, das sich selbst wählt
+durch einen Körper aus Aufschub und Nachglimmen.
+Ein Flügel zieht die letzte unberührte, unbrannte Seite einer Bibliothek hinter sich her,
+die fiel, bevor das Papier seinen eigenen Namen lernte.
+Der andere kämmt holografischen Regen
+von Türmen, die noch nicht entschieden haben,
+ob sie stehen bleiben oder zum Gerücht werden.
+Zwischen ihnen führt die Luft zwei Kalender
+und vergisst, welcher gerade läuft.
+Seine Schuppen sind älter als das Wort für Schuppe.
+Sie erinnern sich an die Hitze von Schmieden,
+die noch nicht entzündet wurden,
+und an die Kälte von Sternen,
+die in einer anderen Erzählung
+bereits erloschen sind.
+Runen tauchen auf und versinken wie Gedanken,
+die zu denken eine Stadt sich noch nicht verdient hat.
+Jeder Lichtpuls ist zugleich Reliquie und Prototyp.
+Unten sind die Straßen nass von dem, was geschehen ist,
+und dem, was seine Ankunft noch verhandelt.
+Neon schreibt auf Wasser, das einst die Geduld eines Gletschers war
+und später nur noch das Gerücht von Durst sein wird.
+Fundamente ruhen auf der Stille von Wäldern,
+die immer noch träumen, sie stünden noch.
+Plakatwände werben für ein Morgen,
+das bereits Heimweh nach der noch nicht angebrochenen Dämmerung hat.
+Die Augen der Kreatur bergen das einzige ehrliche Wetter:
+das eine im Grün einer Erinnerung,
+die noch nicht weiß, dass sie vorüber ist,
+das andere im Blau einer Frage,
+die den Mund noch nicht gefunden hat, der sie stellen wird.
+Sie blicken uns an, wie die Zeit sich selbst ansieht,
+wenn niemand zuschaut:
+ohne Mitleid, ohne Urteil,
+nur die lange Höflichkeit der Aufmerksamkeit.
+Wir leben im kurzen Abwind seines Vorüberziehens,
+jenem seltsamen, barmherzigen Intervall,
+in dem die Vergangenheit noch nicht mit uns abgeschlossen hat
+und die Zukunft bereits begonnen hat,
+das zu vermissen, was wir noch gar nicht verloren haben.
+Nichts ist versprochen außer der Wendung:
+dem langsamen, leuchtenden Scharnier eines Flügels,
+der jeder Stunde zugleich gehört
+und keiner von ihnen ganz.
+Der Nebel, den er hinterlässt, ist weder Ende noch Anfang.
+Er ist der Ort, an dem sie sich flüchtig erkennen,
+bevor die nächste Ungewissheit
+ihre stille, notwendige Hand öffnet.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -276,13 +276,13 @@ Traduzione in corso
 
 <a name="prompt-2097482618992570627"></a>
 
-### Traduzione in corso
+### Prompt poetico di un drago cosmico con ali antiche e olografiche sospeso sopra una moderna città al neon.
 
 Autore：[@ToshiArte](https://x.com/ToshiArte) · [Post originale](https://x.com/ToshiArte/status/2097482618992570627)
 
 Animale / Creatura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt poetico di un drago cosmico con ali antiche e olografiche sospeso sopra una moderna città al neon.
 
 <img src="images/2097482618992570627-1.jpg" alt="Immagine 1" width="480" />
 
@@ -295,7 +295,57 @@ Animale / Creatura · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Dove l'ala ricorda entrambe le rive
+
+Il drago non sceglie un secolo.
+È il secolo che sceglie se stesso
+attraverso un corpo fatto di rinvio e bagliore residuo.
+Un'ala trascina l'ultima pagina non bruciata di una biblioteca
+crollata prima che la carta imparasse il proprio nome.
+L'altra pettina la pioggia olografica
+da torri che non hanno ancora deciso
+se rimarranno in piedi o diventeranno diceria.
+Tra di loro l'aria custodisce due calendari
+e dimentica quale stia scorrendo.
+Le sue squame sono più antiche della parola squama.
+Ricordano il calore di fucine
+che non sono state accese,
+e il freddo di stelle
+che si sono già spente
+in qualche altro racconto.
+Le rune affiorano e sprofondano come pensieri
+che una città non ha ancora meritato il diritto di formulare.
+Ogni battito di luce è insieme reliquia e prototipo.
+In basso, le strade sono bagnate da ciò che è accaduto
+e da ciò che sta ancora negoziando il proprio arrivo.
+Il neon scrive sull'acqua che un tempo fu la pazienza di un ghiacciaio
+e sarà, più tardi, solo una voce di sete.
+Le fondamenta poggiano sulla quiete di foreste
+che ancora sognano di essere ritte.
+I cartelloni pubblicitari reclamizzano domani
+già nostalgici del crepuscolo che non è ancora arrivato.
+Gli occhi della creatura racchiudono l'unico clima onesto:
+uno è il verde di un ricordo
+che non sa ancora di essere finito,
+l'altro è il blu di una domanda
+che non ha trovato la bocca che la pronuncerà.
+Ci guardano come il tempo guarda se stesso
+quando nessuno sta a guardare,
+senza pietà, senza verdetto,
+solo la lunga cortesia dell'attenzione.
+Viviamo nella breve corrente discendente del suo passaggio,
+quel singolare, misericordioso intervallo
+in cui il passato non ha ancora finito con noi
+e il futuro ha già cominciato
+a sentire la mancanza di ciò che non abbiamo ancora perduto.
+Nulla è promesso se non il volgersi:
+la lenta, luminosa cerniera di un'ala
+che appartiene a ogni ora simultaneamente
+e a nessuna di esse del tutto.
+La nebbia che lascia non è fine né principio.
+È il luogo in cui per un attimo si riconoscono l'un l'altro
+prima che la prossima incertezza
+apra la sua mano quieta e necessaria.
 ```
 
 [↑ Torna alle categorie](#catalog)

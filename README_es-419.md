@@ -276,13 +276,13 @@ Traducción en curso
 
 <a name="prompt-2097482618992570627"></a>
 
-### Traducción en curso
+### Prompt poético de un dragón cósmico con alas antiguas y holográficas flotando sobre una ciudad moderna de neón.
 
 Autor：[@ToshiArte](https://x.com/ToshiArte) · [Publicación original](https://x.com/ToshiArte/status/2097482618992570627)
 
 Animal / Criatura · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt poético de un dragón cósmico con alas antiguas y holográficas flotando sobre una ciudad moderna de neón.
 
 <img src="images/2097482618992570627-1.jpg" alt="Imagen 1" width="480" />
 
@@ -295,7 +295,57 @@ Animal / Criatura · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Donde el ala recuerda ambas orillas
+
+El dragón no elige un siglo.
+Es el siglo eligiéndose a sí mismo
+a través de un cuerpo hecho de postergación y resplandor crepuscular.
+Un ala arrastra la última página no quemada de una biblioteca
+que cayó antes de que el papel aprendiera su propio nombre.
+La otra peina lluvia holográfica
+de torres que aún no han decidido
+si permanecerán en pie o se convertirán en rumor.
+Entre ellas, el aire lleva dos calendarios
+y olvida cuál está corriendo.
+Sus escamas son más antiguas que la palabra para escama.
+Recuerdan el calor de fraguas
+que no han sido encendidas,
+y el frío de estrellas
+que ya se han apagado
+en algún otro relato.
+Las runas emergen y se hunden como pensamientos
+que una ciudad no se ha ganado el derecho de pensar.
+Cada pulso de luz es a la vez reliquia y prototipo.
+Abajo, las calles están húmedas con lo que ha sucedido
+y lo que aún negocia su llegada.
+El neón escribe sobre agua que alguna vez fue la paciencia de un glaciar
+y será, más tarde, solo un rumor de sed.
+Los cimientos descansan sobre la quietud de bosques
+que aún sueñan que están en pie.
+Los carteles publicitarios anuncian mañanas
+que ya sienten nostalgia por el anochecer que no ha llegado.
+Los ojos de la criatura albergan el único clima honesto:
+uno es el verde de un recuerdo
+que aún no sabe que ha terminado,
+el otro es el azul de una pregunta
+que no ha encontrado la boca que la formulará.
+Nos miran del modo en que el tiempo se mira a sí mismo
+cuando nadie está observando:
+sin piedad, sin veredicto,
+solo la larga cortesía de la atención.
+Vivimos en la breve corriente descendente de su paso,
+ese extraño y misericordioso intervalo
+donde el pasado aún no ha terminado con nosotros
+y el futuro ya ha comenzado
+a extrañar lo que todavía no hemos perdido.
+Nada está prometido excepto el giro:
+la bisagra lenta y luminosa de un ala
+que pertenece a todas las horas a la vez
+y a ninguna de ellas por completo.
+La niebla que deja no es final ni principio.
+Es el lugar donde se reconocen brevemente
+antes de que la siguiente incertidumbre
+abra su mano silenciosa y necesaria.
 ```
 
 [↑ Volver a categorías](#catalog)
