@@ -315,24 +315,24 @@ Traduzione in corso
 
 <a name="prompt-2097548956251168916"></a>
 
-### Ritratto in studio di alta moda di un'elegante donna in abito nero su una sedia scultorea nera.
+### Ritratto da studio di alta moda di un'elegante donna in abito nero su una sedia scultorea nera.
 
 Autore：[@Elvorya](https://x.com/Elvorya) · [Post originale](https://x.com/Elvorya/status/2097548956251168916)
 
 Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
 
-**Riepilogo:** Ritratto in studio di alta moda di un'elegante donna in abito nero su una sedia scultorea nera.
+**Riepilogo:** Ritratto da studio di alta moda di un'elegante donna in abito nero su una sedia scultorea nera.
 
 <img src="images/2097548956251168916-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Ritratto in studio di alta moda ultra-realistico di una donna elegante seduta con grazia contro uno sfondo grigio antracite scuro. Indossa un sofisticato abito monospalla in raso nero con sottili dettagli scintillanti. Capelli castano scuro lisci e lucidi, pettinati all'indietro con cura dietro le spalle. Trucco glamour raffinato, sopracciglia leggermente definite, ombretto marrone sfumato smokey, eyeliner netto, ciglia lunghe, blush caldo, pelle naturale radiosa e labbra nude rosate lucide. Indossa eleganti orecchini pendenti geometrici in argento, molteplici anelli delicati in argento, un bracciale sottile e un piccolo ear cuff.
+Ritratto da studio di alta moda ultra-realistico di una donna elegante seduta con grazia contro uno sfondo grigio antracite scuro. Indossa un sofisticato abito in raso nero monospalla con sottili decorazioni scintillanti. Capelli castano scuro lisci e lucenti, pettinati all'indietro con cura dietro le spalle. Trucco glamour raffinato, sopracciglia leggermente definite, ombretto marrone sfumato, eyeliner marcato, ciglia lunghe, blush caldo, pelle naturale luminosa e labbra nude rosate lucide. Indossa eleganti orecchini pendenti geometrici in argento, molteplici anelli delicati in argento, un bracciale sottile e un piccolo ear cuff.
 
-Posa: seduta su una sedia scultorea nera lucida, un braccio appoggiato naturalmente sulla sedia e l'altra mano sollevata delicatamente sotto il mento, con dita rilassate ed eleganti. Unghie lunghe e curate con smalto nero lucido. Sguardo diretto verso la fotocamera, calmo e sicuro di sé, espressione sofisticata.
+Posa: seduta su una sedia scultorea nera lucida, un braccio appoggiato con naturalezza sulla sedia e l'altra mano sollevata delicatamente sotto il mento, con dita rilassate ed eleganti. Unghie lunghe e curate con smalto nero lucido. Sguardo diretto verso la fotocamera, calmo e sicuro di sé, espressione sofisticata.
 
-Fotografia di bellezza professionale di lusso, luce principale morbida e diffusa, sottile controluce di profilo, ombre profonde, alto contrasto, texture della pelle realistica, lineamenti del viso dettagliati, finitura editoriale impeccabile, atmosfera cinematografica, messa a fuoco nitida, obiettivo per ritratti da 85 mm, profondità di campo ridotta, estetica da rivista di moda prestigiosa, fotorealistico, 4K, composizione verticale.
+Fotografia di bellezza di lusso professionale, luce principale soffusa e diffusa, sottile luce d'accento sui contorni, ombre profonde, contrasto elevato, texture della pelle realistica, lineamenti del viso dettagliati, finitura editoriale impeccabile, atmosfera cinematografica, messa a fuoco nitida, obiettivo per ritratti da 85 mm, profondità di campo ridotta, estetica da rivista di moda di alta gamma, fotorealistica, 4K, composizione verticale.
 ```
 
 [↑ Torna alle categorie](#catalog)

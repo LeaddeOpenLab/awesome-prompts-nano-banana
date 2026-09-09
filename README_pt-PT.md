@@ -315,24 +315,24 @@ Tradução em curso
 
 <a name="prompt-2097548956251168916"></a>
 
-### Retrato de estúdio de alta-costura de uma mulher elegante num vestido preto sobre uma cadeira escultural preta.
+### Retrato de estúdio de alta-costura de uma mulher elegante num vestido preto numa cadeira escultural preta.
 
 Autor：[@Elvorya](https://x.com/Elvorya) · [Publicação original](https://x.com/Elvorya/status/2097548956251168916)
 
 Retrato / Selfie · Personagem · Item de Moda · Publicado
 
-**Resumo:** Retrato de estúdio de alta-costura de uma mulher elegante num vestido preto sobre uma cadeira escultural preta.
+**Resumo:** Retrato de estúdio de alta-costura de uma mulher elegante num vestido preto numa cadeira escultural preta.
 
 <img src="images/2097548956251168916-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Retrato de estúdio de alta-costura ultrarrealista de uma mulher elegante sentada com graça contra um fundo cinzento-carvão escuro. Veste um vestido sofisticado de cetim preto de um ombro só com subtis enfeites brilhantes. Cabelo castanho-escuro, liso e polido, escovado cuidadosamente para trás dos ombros. Maquilhagem sofisticada e glamorosa, sobrancelhas suavemente delineadas, sombra castanha esfumada, delineador preciso, pestanas longas, blush quente, pele natural radiante e lábios nude rosados brilhantes. Usa brincos pendentes geométricos elegantes em prata, múltiplos anéis finos em prata, uma pulseira estreita e um pequeno ear cuff.
+Retrato de estúdio de alta-costura ultrarrealista de uma mulher elegante sentada graciosamente contra um fundo cinzento-antracite escuro. Veste um sofisticado vestido de cetim preto de um ombro só com subtis aplicações cintilantes. Cabelo castanho-escuro liso e polido, penteado para trás dos ombros com cuidado. Maquilhagem sofisticada e glamorosa, sobrancelhas suavemente definidas, sombra castanha esfumada, eyeliner delineado, pestanas compridas, blush quente, pele natural luminosa e lábios rosa nude brilhantes. Usa elegantes brincos pendentes geométricos prateados, múltiplos anéis delicados em prata, uma pulseira fina e um pequeno ear cuff.
 
-Pose: sentada numa cadeira escultural preta brilhante, com um braço a descansar naturalmente sobre a cadeira e a outra mão delicadamente levantada sob o queixo, com dedos relaxados e elegantes. Unhas compridas e bem cuidadas com verniz preto brilhante. Olhar direto para a câmara, calmo e confiante, expressão sofisticada.
+Pose: sentada numa cadeira escultural preta brilhante, um braço apoiado naturalmente sobre a cadeira e a outra mão delicadamente pousada sob o queixo, com dedos relaxados e elegantes. Unhas compridas e arranjadas com verniz preto brilhante. Olhar direto, sereno e confiante para a câmara, expressão sofisticada.
 
-Fotografia de beleza de luxo profissional, iluminação principal suave e difusa, subtil luz de recorte, sombras profundas, alto contraste, textura de pele realista, traços faciais detalhados, acabamento editorial impecável, atmosfera cinematográfica, foco nítido, lente de retrato de 85 mm, profundidade de campo reduzida, estética de revista de moda de topo, fotorrealista, 4K, composição vertical.
+Fotografia profissional de beleza de luxo, iluminação principal suave e difusa, luz de recorte subtil, sombras profundas, contraste elevado, textura de pele realista, traços faciais detalhados, acabamento editorial impecável, atmosfera cinematográfica, foco nítido, objetiva de retrato de 85 mm, profundidade de campo reduzida, estética de revista de moda de prestígio, fotorrealista, 4K, composição vertical.
 ```
 
 [↑ Voltar às categorias](#catalog)

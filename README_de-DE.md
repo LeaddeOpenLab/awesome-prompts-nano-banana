@@ -328,11 +328,11 @@ Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 **Prompt**
 
 ```text
-Ultrarealistisches High-Fashion-Studioporträt einer eleganten Frau, die anmutig vor einem dunklen, anthrazitgrauen Hintergrund sitzt. Sie trägt eine raffinierte schwarze One-Shoulder-Satinstirnrobe mit dezenten, glitzernden Verzierungen. Glattes, dunkles, braunes Haar, das ordentlich nach hinten hinter die Schultern gebürstet ist. Raffiniertes, glamouröses Make-up, sanft definierte Brauen, rauchig-brauner Lidschatten, scharfer Eyeliner, lange Wimpern, warmes Rouge, strahlende, natürliche Haut und glänzende nudefarbene Lippen. Sie trägt elegante geometrische silberne Tropfenohrringe, mehrere zarte Silberringe, ein schmales Armband und eine kleine Ohrklemme.
+Ultrarealistisches High-Fashion-Studioporträt einer eleganten Frau, die anmutig vor einem dunkel anthrazitgrauen Hintergrund sitzt. Sie trägt ein raffiniertes schwarzes One-Shoulder-Satinkleid mit dezenten, glitzernden Verzierungen. Glattes, dunkles braunes Haar, das ordentlich nach hinten über die Schultern gekämmt ist. Raffiniertes, glamouröses Make-up, sanft definierte Brauen, rauchbrauner Lidschatten, scharfer Eyeliner, lange Wimpern, warmer Rouge-Ton, strahlende natürliche Haut und glänzende nude-rosafarbene Lippen. Sie trägt elegante geometrische silberne Ohrhänger, mehrere zarte Silberringe, ein schmales Armband und eine kleine Ohrklemme.
 
-Pose: Sitzend auf einem glänzend schwarzen skulpturalen Stuhl, ein Arm ruht natürlich auf dem Stuhl und die andere Hand ist zart unter ihr Kinn gehoben, die Finger entspannt und elegant. Lange, manikürte Nägel mit glänzendem schwarzem Lack. Ruhiger, selbstbewusster direkter Blick in die Kamera, anspruchsvoller Ausdruck.
+Pose: sitzend auf einem glänzend schwarzen, skulpturalen Stuhl, ein Arm ruht natürlich über dem Stuhl und die andere Hand ist zart unter ihr Kinn gehoben, die Finger entspannt und elegant. Lange, manikürte Nägel mit glänzend schwarzem Lack. Ruhiger, selbstbewusster, direkter Blick in die Kamera, anspruchsvoller Ausdruck.
 
-Professionelle Luxus-Beauty-Fotografie, weiches, diffuses Führungslicht, dezentes Kantenlicht, tiefe Schatten, hoher Kontrast, realistische Hauttextur, detaillierte Gesichtszüge, makelloses redaktionelles Finish, filmische Atmosphäre, scharfer Fokus, 85-mm-Porträtobjektiv, geringe Schärfentiefe, Ästhetik eines erstklassigen Modemagazins, fotorealistisch, 4K, vertikale Komposition.
+Professionelle Luxus-Beauty-Fotografie, weiches diffuses Führungslicht, subtiles Kantenlicht, tiefe Schatten, hoher Kontrast, realistische Hauttextur, detaillierte Gesichtszüge, makelloses redaktionelles Finish, filmische Atmosphäre, scharfer Fokus, 85-mm-Porträtobjektiv, geringe Schärfentiefe, Premium-Modemagazin-Ästhetik, fotorealistisch, 4K, vertikale Komposition.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
