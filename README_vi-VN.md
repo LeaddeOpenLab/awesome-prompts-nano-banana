@@ -315,20 +315,24 @@ Tiếp thị sản phẩm · Áp phích / Tờ rơi · Đã xuất bản
 
 <a name="prompt-2097548956251168916"></a>
 
-### Đang dịch
+### Chân dung studio thời trang cao cấp của một người phụ nữ thanh lịch trong chiếc đầm đen trên chiếc ghế điêu khắc màu đen.
 
 Tác giả：[@Elvorya](https://x.com/Elvorya) · [Bài gốc](https://x.com/Elvorya/status/2097548956251168916)
 
 Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung studio thời trang cao cấp của một người phụ nữ thanh lịch trong chiếc đầm đen trên chiếc ghế điêu khắc màu đen.
 
 <img src="images/2097548956251168916-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chân dung studio thời trang cao cấp siêu thực của một người phụ nữ thanh lịch ngồi duyên dáng trên phông nền màu xám than tối. Cô mặc một chiếc đầm dạ hội satin lệch vai màu đen tinh xảo với các chi tiết lấp lánh nhẹ nhàng. Mái tóc thẳng màu nâu sẫm bóng mượt được chải gọn gàng ra sau vai. Lớp trang điểm quyến rũ tinh tế: lông mày được định hình mềm mại, phấn mắt khói màu nâu, đường kẻ mắt sắc sảo, hàng mi dài, má hồng ấm áp, làn da tự nhiên rạng rỡ và đôi môi màu hồng nude căng bóng. Cô đeo đôi hoa tai bạc dáng dài hình học thanh lịch, nhiều chiếc nhẫn bạc thanh mảnh, một chiếc vòng tay nhỏ và một chiếc ear cuff nhỏ.
+
+Tư thế: ngồi trên chiếc ghế điêu khắc màu đen bóng, một cánh tay đặt tự nhiên trên ghế và tay kia nhẹ nhàng nâng lên dưới cằm, các ngón tay thả lỏng và duyên dáng. Móng tay dài được chăm sóc tỉ mỉ sơn màu đen bóng. Ánh nhìn điềm tĩnh, tự tin hướng thẳng vào ống kính, biểu cảm sang trọng.
+
+Nhiếp ảnh làm đẹp xa xỉ chuyên nghiệp, ánh sáng chính khuếch tán mềm mại, ánh sáng viền tinh tế, bóng đổ sâu, độ tương phản cao, kết cấu da chân thực, đường nét khuôn mặt chi tiết, hoàn thiện mang tính biên tập bóng bẩy, bầu không khí điện ảnh, lấy nét sắc nét, ống kính chân dung 85mm, độ sâu trường ảnh nông, tính thẩm mỹ tạp chí thời trang cao cấp, chân thực như ảnh chụp, 4K, bố cục dọc.
 ```
 
 [↑ Về danh mục](#catalog)

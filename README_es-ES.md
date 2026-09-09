@@ -315,20 +315,24 @@ Traducción en curso
 
 <a name="prompt-2097548956251168916"></a>
 
-### Traducción en curso
+### Retrato de estudio de alta costura de una mujer elegante con vestido negro en una silla escultórica negra.
 
 Autor：[@Elvorya](https://x.com/Elvorya) · [Publicación original](https://x.com/Elvorya/status/2097548956251168916)
 
 Retrato / Selfie · Personaje · Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato de estudio de alta costura de una mujer elegante con vestido negro en una silla escultórica negra.
 
 <img src="images/2097548956251168916-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Retrato de estudio de alta costura fotorrealista de una mujer elegante sentada con gracia contra un fondo gris carbón oscuro. Lleva un sofisticado vestido de satén negro de un solo hombro con sutiles adornos brillantes. Cabello castaño oscuro, liso y brillante, peinado prolijamente hacia atrás detrás de los hombros. Maquillaje glamoroso y refinado: cejas suavemente definidas, sombra de ojos marrón ahumada, delineador afilado, pestañas largas, rubor cálido, piel radiante y natural, y labios nude rosados brillantes. Lleva elegantes pendientes colgantes geométricos de plata, múltiples anillos de plata delicados, una pulsera delgada y un pequeño ear cuff.
+
+Pose: sentada en una silla escultórica negra brillante, con un brazo apoyado de forma natural sobre la silla y la otra mano levantada delicadamente bajo la barbilla, con los dedos relajados y elegantes. Uñas largas y cuidadas con esmalte negro brillante. Mirada directa a la cámara, tranquila y segura, con una expresión sofisticada.
+
+Fotografía de belleza de lujo profesional, iluminación principal suave y difusa, sutil luz de contorno, sombras profundas, alto contraste, textura de piel realista, rasgos faciales detallados, acabado editorial pulido, atmósfera cinematográfica, enfoque nítido, lente de retrato de 85 mm, profundidad de campo reducida, estética de revista de moda de primera calidad, fotorrealista, 4K, composición vertical.
 ```
 
 [↑ Volver a categorías](#catalog)
