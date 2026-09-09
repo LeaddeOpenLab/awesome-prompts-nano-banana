@@ -305,20 +305,45 @@ Anuncio comercial de bebidas premium ultrarrealista, líquido cristalino, carbon
 
 <a name="prompt-2097629839209758892"></a>
 
-### Traducción en curso
+### Un prompt con estilo de pseudocódigo para una cuadrícula de 2x2 de dioramas de santuarios de mármol en 3D dedicados a pensadores famosos.
 
 Autor：[@Gdgtify](https://x.com/Gdgtify) · [Publicación original](https://x.com/Gdgtify/status/2097629839209758892)
 
 Render 3D · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un prompt con estilo de pseudocódigo para una cuadrícula de 2x2 de dioramas de santuarios de mármol en 3D dedicados a pensadores famosos.
 
 <img src="images/2097629839209758892-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Cuadrícula de 2x2, 16:9, haz esto para 4 pensadores, autores o inventores famosos: class Mind_As_Shrine_Diorama:
+    def __init__(self, thinker="[THINKER_NAME]"):
+        self.canvas = "Viñeta escultórica monumental en 3D, única y autónoma, sobre un fondo de estudio blanco puro."
+        self.material_palette = "Mármol blanco de Carrara pulido, latón cepillado, lentes de vidrio y brillantes vistas cósmicas."
+
+    def construct_face_and_hair_arch(self):
+        # El juego visual central: el cabello se convierte en el edificio
+        hair_motif = infer_iconic_hair_or_silhouette(self.thinker)
+        name_arch = f"Letras masivas en 3D de mármol dorado que forman '{self.thinker.upper()}', integradas directamente en un ornamentado arco de nubes arremolinadas de estilo barroco que representa el exagerado {hair_motif}."
+        face_core = f"Centro: Un rostro realista de mármol tallado de {self.thinker} que emerge del suelo de piedra, con gafas circulares cuyas lentes de vidrio muestran su fórmula/símbolo principal."
+        return [name_arch, face_core]
+
+    def construct_internal_brain_chambers(self):
+        # INFERENCIA AUTOMÁTICA DE IA: Divide su legado intelectual en dos cámaras distintas
+        theory_left = infer_primary_breakthrough(self.thinker) # p. ej., Relatividad Especial, puertas lógicas, selección natural
+        theory_right = infer_secondary_breakthrough(self.thinker) # p. ej., Relatividad General, estado cuántico, óptica
+        
+        chamber_left = f"Cámara superior izquierda: Pizarras en miniatura con ecuaciones auténticas de {theory_left}, modelos mecánicos de experimentos mentales (p. ej., trenes, relojes, engranajes) y una biblioteca de libros diminutos."
+        chamber_right = f"Cámara superior derecha: Vista cósmica del espacio profundo que muestra {theory_right}, completa con instrumentos ópticos, modelos atómicos y un pozo/embudo gravitatorio volumétrico."
+        return [chamber_left, chamber_right]
+
+    def construct_base(self):
+        quote = infer_signature_quote(self.thinker)
+        return f"Un plinto circular escalonado de mármol con remaches de latón, un manuscrito abierto con texto escrito a mano y una placa curva de latón grabada con: '{quote}'."
+
+render_sculptural_masterpiece(Mind_As_Shrine_Diorama())
 ```
 
 [↑ Volver a categorías](#catalog)

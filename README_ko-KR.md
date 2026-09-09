@@ -305,20 +305,45 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 <a name="prompt-2097629839209758892"></a>
 
-### 번역 중
+### 유명 사상가들을 기리는 3D 대리석 신전 디오라마의 2x2 그리드를 위한 의사코드 스타일 프롬프트.
 
 작성자：[@Gdgtify](https://x.com/Gdgtify) · [원본 게시물](https://x.com/Gdgtify/status/2097629839209758892)
 
 3D 렌더링 · 배포 완료
 
-**요약:** 번역 중
+**요약:** 유명 사상가들을 기리는 3D 대리석 신전 디오라마의 2x2 그리드를 위한 의사코드 스타일 프롬프트.
 
 <img src="images/2097629839209758892-1.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-번역 중
+2x2 그리드, 16:9, 유명한 사상가, 작가, 발명가 4인을 위해 다음을 수행: class Mind_As_Shrine_Diorama:
+    def __init__(self, thinker="[THINKER_NAME]"):
+        self.canvas = "순백의 스튜디오 배경 위 단일하고 독립적인 3D 기념비적 조각 비네트."
+        self.material_palette = "광택이 나는 백색 카라라 대리석, 브러시드 황동, 유리 렌즈, 그리고 빛나는 우주의 풍경."
+
+    def construct_face_and_hair_arch(self):
+        # 핵심 시각적 언어유희: 머리카락이 건축물이 됨
+        hair_motif = infer_iconic_hair_or_silhouette(self.thinker)
+        name_arch = f"과장된 {hair_motif}을(를) 나타내는 화려한 바로크 양식의 소용돌이치는 구름 아치형 통로에 직접 통합된, '{self.thinker.upper()}' 철자의 거대한 3D 금박 대리석 글자들."
+        face_core = f"중앙: 석재 바닥에서 솟아오르는 정교하게 조각된 {self.thinker}의 사실적인 대리석 얼굴, 유리 렌즈에 주요 공식/기호가 표시된 원형 안경 착용."
+        return [name_arch, face_core]
+
+    def construct_internal_brain_chambers(self):
+        # AI 자동 추론: 그들의 지적 유산을 두 개의 별도 방으로 분할
+        theory_left = infer_primary_breakthrough(self.thinker) # 예: 특수 상대성 이론, 논리 게이트, 자연선택설
+        theory_right = infer_secondary_breakthrough(self.thinker) # 예: 일반 상대성 이론, 양자 상태, 광학
+        
+        chamber_left = f"좌측 상단 방: {theory_left}의 실제 방정식이 적힌 소형 칠판, 기계적 사고 실험 모델(예: 기차, 시계, 톱니바퀴), 그리고 작은 책들이 가득한 서재."
+        chamber_right = f"우측 상단 방: 광학 기기, 원자 모델, 입체적인 중력 우물/깔때기를 갖추고 {theory_right}을(를) 보여주는 심우주 풍경."
+        return [chamber_left, chamber_right]
+
+    def construct_base(self):
+        quote = infer_signature_quote(self.thinker)
+        return f"황동 리벳이 박힌 계단식 원형 대리석 기단, 손글씨 텍스트가 적힌 펼쳐진 필사본, 그리고 다음이 새겨진 곡선형 황동 명판: '{quote}'."
+
+render_sculptural_masterpiece(Mind_As_Shrine_Diorama())
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

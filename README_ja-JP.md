@@ -305,20 +305,45 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 <a name="prompt-2097629839209758892"></a>
 
-### 翻訳中
+### 有名な思想家に捧げる3D大理石の聖堂ジオラマの2x2グリッド用疑似コード形式プロンプト。
 
 作者：[@Gdgtify](https://x.com/Gdgtify) · [元の投稿](https://x.com/Gdgtify/status/2097629839209758892)
 
 3D レンダリング · 配信済み
 
-**概要:** 翻訳中
+**概要:** 有名な思想家に捧げる3D大理石の聖堂ジオラマの2x2グリッド用疑似コード形式プロンプト。
 
 <img src="images/2097629839209758892-1.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-翻訳中
+2x2グリッド、16:9、4人の有名な思想家、作家、発明家に対してこれを実行：class Mind_As_Shrine_Diorama:
+    def __init__(self, thinker="[THINKER_NAME]"):
+        self.canvas = "純白のスタジオ背景に置かれた、単一で自己完結型の3D記念碑的彫刻ビネット。"
+        self.material_palette = "磨き上げられた白いカッラーラ大理石、つや消し真鍮、ガラスレンズ、そして輝く宇宙の眺望。"
+
+    def construct_face_and_hair_arch(self):
+        # 視覚的な核となる洒落：髪が建造物になる
+        hair_motif = infer_iconic_hair_or_silhouette(self.thinker)
+        name_arch = f"誇張された{hair_motif}を表現する華麗でバロック調の渦巻く雲のアーチ道に直接統合された、'{self.thinker.upper()}'を綴る巨大な3D金箔大理石文字。"
+        face_core = f"中央：石の床から現れるリアルな{self.thinker}の彫刻された大理石の顔。丸眼鏡をかけており、ガラスレンズには主要な数式/記号が表示されている。"
+        return [name_arch, face_core]
+
+    def construct_internal_brain_chambers(self):
+        # AI自動推論：知的遺産を2つの異なる小室に分割
+        theory_left = infer_primary_breakthrough(self.thinker) # 例：特殊相対性理論、論理ゲート、自然選択説
+        theory_right = infer_secondary_breakthrough(self.thinker) # 例：一般相対性理論、量子状態、光学
+        
+        chamber_left = f"左上の小室：{theory_left}の本物の数式が書かれたミニチュア黒板、機械仕掛けの思考実験モデル（例：電車、時計、歯車）、そして極小の本が並ぶ図書室。"
+        chamber_right = f"右上の小室：光学機器、原子モデル、立体的な重力井戸/漏斗を備えた、{theory_right}を示す深宇宙の光景。"
+        return [chamber_left, chamber_right]
+
+    def construct_base(self):
+        quote = infer_signature_quote(self.thinker)
+        return f"真鍮のリベットが付いた段状の円形大理石台座、手書きのテキストが書かれた開いた原稿、そして次のように刻まれた湾曲した真鍮の銘板：'{quote}'。"
+
+render_sculptural_masterpiece(Mind_As_Shrine_Diorama())
 ```
 
 [↑ カテゴリに戻る](#catalog)

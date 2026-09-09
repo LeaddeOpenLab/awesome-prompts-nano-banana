@@ -305,20 +305,45 @@ Quảng cáo đồ uống cao cấp siêu thực, chất lỏng trong suốt nh�
 
 <a name="prompt-2097629839209758892"></a>
 
-### Đang dịch
+### Một lời nhắc theo phong cách mã giả cho lưới 2x2 gồm các mô hình thu nhỏ điện thờ bằng đá cẩm thạch 3D dành riêng cho các nhà tư tưởng nổi tiếng.
 
 Tác giả：[@Gdgtify](https://x.com/Gdgtify) · [Bài gốc](https://x.com/Gdgtify/status/2097629839209758892)
 
 Kết xuất 3D · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một lời nhắc theo phong cách mã giả cho lưới 2x2 gồm các mô hình thu nhỏ điện thờ bằng đá cẩm thạch 3D dành riêng cho các nhà tư tưởng nổi tiếng.
 
 <img src="images/2097629839209758892-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Lưới 2x2, 16:9, thực hiện điều này cho 4 nhà tư tưởng, tác giả, nhà phát minh nổi tiếng: class Mind_As_Shrine_Diorama:
+    def __init__(self, thinker="[THINKER_NAME]"):
+        self.canvas = "Một hoạt cảnh điêu khắc hoành tráng 3D khép kín, độc lập trên nền studio màu trắng tinh khiết."
+        self.material_palette = "Đá cẩm thạch Carrara trắng bóng, đồng thau đánh bóng, thấu kính thủy tinh và khung cảnh vũ trụ rực rỡ."
+
+    def construct_face_and_hair_arch(self):
+        # Phép chơi chữ thị giác cốt lõi: tóc trở thành tòa nhà
+        hair_motif = infer_iconic_hair_or_silhouette(self.thinker)
+        name_arch = f"Các chữ cái bằng đá cẩm thạch mạ vàng 3D đồ sộ ghép thành chữ '{self.thinker.upper()}' được tích hợp trực tiếp vào cổng vòm mây xoáy kiểu Baroque trang trí công phu, đại diện cho {hair_motif} được cường điệu hóa."
+        face_core = f"Trung tâm: Một khuôn mặt bằng đá cẩm thạch chạm khắc chân thực của {self.thinker} nhô lên từ sàn đá, đeo kính mắt tròn nơi các tròng kính hiển thị công thức/biểu tượng chính của họ."
+        return [name_arch, face_core]
+
+    def construct_internal_brain_chambers(self):
+        # AI TỰ ĐỘNG SUY LUẬN: Chia di sản trí tuệ của họ thành hai gian phòng riêng biệt
+        theory_left = infer_primary_breakthrough(self.thinker) # ví dụ: Thuyết tương đối hẹp, cổng logic, chọn lọc tự nhiên
+        theory_right = infer_secondary_breakthrough(self.thinker) # ví dụ: Thuyết tương đối rộng, trạng thái lượng tử, quang học
+        
+        chamber_left = f"Gian phòng phía trên bên trái: Các bảng đen thu nhỏ với các phương trình chân thực về {theory_left}, các mô hình thí nghiệm tưởng tượng cơ học (ví dụ: xe lửa, đồng hồ, bánh răng) và một thư viện sách tí hon."
+        chamber_right = f"Gian phòng phía trên bên phải: Khung cảnh không gian sâu thẳm của vũ trụ thể hiện {theory_right}, hoàn chỉnh với các dụng cụ quang học, mô hình nguyên tử và một giếng/phễu hấp dẫn thể tích."
+        return [chamber_left, chamber_right]
+
+    def construct_base(self):
+        quote = infer_signature_quote(self.thinker)
+        return f"Một bệ đá cẩm thạch hình tròn dạng bậc thang có đinh tán bằng đồng thau, một bản thảo mở có văn bản viết tay, và một tấm bảng đồng uốn cong được khắc chữ: '{quote}'."
+
+render_sculptural_masterpiece(Mind_As_Shrine_Diorama())
 ```
 
 [↑ Về danh mục](#catalog)

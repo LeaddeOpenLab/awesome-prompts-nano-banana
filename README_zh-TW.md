@@ -305,20 +305,45 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 <a name="prompt-2097629839209758892"></a>
 
-### 翻譯中
+### 一份偽代碼風格的提示詞，用於生成獻給著名思想家的 2x2 網格 3D 大理石聖殿立體模型透視畫。
 
 作者：[@Gdgtify](https://x.com/Gdgtify) · [查看 X 原帖](https://x.com/Gdgtify/status/2097629839209758892)
 
 3D 渲染 · 已推流
 
-**概括:** 翻譯中
+**概括:** 一份偽代碼風格的提示詞，用於生成獻給著名思想家的 2x2 網格 3D 大理石聖殿立體模型透視畫。
 
 <img src="images/2097629839209758892-1.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
 ```text
-翻譯中
+2x2 網格，16:9，為 4 位著名的思想家、作家、發明家執行此操作：class Mind_As_Shrine_Diorama:
+    def __init__(self, thinker="[THINKER_NAME]"):
+        self.canvas = "純白攝影棚背景下獨立的、自成一體的 3D 紀念碑式雕塑小品。"
+        self.material_palette = "拋光白色卡拉拉大理石、拉絲黃銅、玻璃透鏡和發光的宇宙景觀。"
+
+    def construct_face_and_hair_arch(self):
+        # 核心視覺雙關：頭髮化作建築
+        hair_motif = infer_iconic_hair_or_silhouette(self.thinker)
+        name_arch = f"巨大的 3D 鍍金大理石字母拼寫出 '{self.thinker.upper()}'，直接融入華麗的巴洛克漩渦雲拱門中，展現出誇張的 {hair_motif}。"
+        face_core = f"中心：從石質地面浮現的逼真 {self.thinker} 雕刻大理石面孔，戴著圓形眼鏡，玻璃鏡片上顯示著他們的主要公式/符號。"
+        return [name_arch, face_core]
+
+    def construct_internal_brain_chambers(self):
+        # AI 自動推斷：將他們思想遺產分成兩個獨立的腦室
+        theory_left = infer_primary_breakthrough(self.thinker) # 例如：狹義相對論、邏輯門、天擇說
+        theory_right = infer_secondary_breakthrough(self.thinker) # 例如：廣義相對論、量子態、光學
+        
+        chamber_left = f"左上腦室：寫有 {theory_left} 真實方程式的微型黑板、機械思想實驗模型（如火車、鐘錶、齒輪）以及藏有微型書籍的圖書館。"
+        chamber_right = f"右上腦室：展示 {theory_right} 的深邃宇宙景觀，配有光學儀器、原子模型和體積化的重力井/漏斗。"
+        return [chamber_left, chamber_right]
+
+    def construct_base(self):
+        quote = infer_signature_quote(self.thinker)
+        return f"帶黃銅鉚釘的階梯狀圓形大理石基座、一本寫有手寫文本的打開手稿，以及刻有以下內容的弧形黃銅銘牌：'{quote}'。"
+
+render_sculptural_masterpiece(Mind_As_Shrine_Diorama())
 ```
 
 [↑ 返回分類目錄](#catalog)
