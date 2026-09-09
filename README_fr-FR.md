@@ -105,13 +105,13 @@ Un beau jeune homme à la peau bronzée et éclatante se tient face à l'apparei
 
 <a name="prompt-2097564694974541836"></a>
 
-### Traduction en cours
+### Créez un portrait éditorial de streetwear cinématographique et ultra-réaliste dans un cadre urbain.
 
 Auteur：[@shushant\_l](https://x.com/shushant_l) · [Publication originale](https://x.com/shushant_l/status/2097564694974541836)
 
 Image cinématographique / Photogramme de film · Portrait / Selfie · Paysage urbain / Rue · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Créez un portrait éditorial de streetwear cinématographique et ultra-réaliste dans un cadre urbain.
 
 <img src="images/2097564694974541836-1.jpg" alt="Image 1" width="480" />
 
@@ -124,7 +124,7 @@ Image cinématographique / Photogramme de film · Portrait / Selfie · Paysage u
 **Consigne**
 
 ```text
-Traduction en cours
+Créez un portrait éditorial de streetwear cinématographique et ultra-réaliste de moi, en préservant fidèlement mon identité faciale, mes traits, ma couleur de peau, ma coiffure et mes proportions naturelles. Habillez-moi dans un style streetwear moderne haut de gamme avec une tenue oversize superposée, des accessoires subtils et une pose confiante et décontractée dans un cadre urbain avec une architecture en béton, des murs texturés et des détails citadins discrets. Utilisez un éclairage naturel spectaculaire, des ombres douces, une faible profondeur de champ, une texture de peau réaliste, des tons neutres sophistiqués, un grain de film subtil, une composition de magazine de haute couture, une photographie professionnelle et un étalonnage des couleurs cinématographique. Faites en sorte que l'image paraisse authentique, naturellement cool, minimaliste, esthétique et éditoriale, comme une campagne de streetwear de luxe photographiée avec un appareil plein format doté d'un objectif de 85 mm.
 ```
 
 [↑ Retour aux catégories](#catalog)

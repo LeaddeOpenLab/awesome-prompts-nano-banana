@@ -105,13 +105,13 @@ Ein gutaussehender junger Mann mit strahlender, gebräunter Haut steht in selbst
 
 <a name="prompt-2097564694974541836"></a>
 
-### Übersetzung läuft
+### Erstelle ein filmisches, ultrarealistisches Streetwear-Editorial-Porträt in einer urbanen Umgebung.
 
 Autor：[@shushant\_l](https://x.com/shushant_l) · [Originalbeitrag](https://x.com/shushant_l/status/2097564694974541836)
 
 Kinematisch / Filmstill · Porträt / Selfie · Stadtbild / Straße · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Erstelle ein filmisches, ultrarealistisches Streetwear-Editorial-Porträt in einer urbanen Umgebung.
 
 <img src="images/2097564694974541836-1.jpg" alt="Bild 1" width="480" />
 
@@ -124,7 +124,7 @@ Kinematisch / Filmstill · Porträt / Selfie · Stadtbild / Straße · Veröffen
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein filmisches, ultrarealistisches Streetwear-Editorial-Porträt von mir, wobei meine genaue Gesichtsidentität, Gesichtszüge, mein Hautton, meine Frisur und meine natürlichen Proportionen erhalten bleiben. Style mich in hochwertiger, moderner Streetwear mit einem mehrlagigen Oversize-Outfit, dezenten Accessoires und einer selbstbewussten, entspannten Pose in einer urbanen Umgebung mit Betonarchitektur, strukturierten Wänden und dezenten Stadtdetails. Verwende dramatische natürliche Beleuchtung, weiche Schatten, geringe Tiefenschärfe, realistische Hauttextur, anspruchsvolle neutrale Töne, subtiles Filmkorn, High-Fashion-Magazin-Komposition, professionelle Fotografie und filmisches Color Grading. Lass das Bild authentisch, mühelos cool, minimalistisch, ästhetisch und redaktionell wirken, wie eine Luxus-Streetwear-Kampagne, die mit einer Vollformatkamera und einem 85-mm-Objektiv fotografiert wurde.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

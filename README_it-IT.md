@@ -105,13 +105,13 @@ Un bell'uomo giovane dalla pelle abbronzata e luminosa è in piedi rivolto diret
 
 <a name="prompt-2097564694974541836"></a>
 
-### Traduzione in corso
+### Crea un ritratto editoriale streetwear cinematografico e ultra-realistico in un contesto urbano.
 
 Autore：[@shushant\_l](https://x.com/shushant_l) · [Post originale](https://x.com/shushant_l/status/2097564694974541836)
 
 Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Paesaggio urbano / Strada · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Crea un ritratto editoriale streetwear cinematografico e ultra-realistico in un contesto urbano.
 
 <img src="images/2097564694974541836-1.jpg" alt="Immagine 1" width="480" />
 
@@ -124,7 +124,7 @@ Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Paesa
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un ritratto editoriale streetwear cinematografico e ultra-realistico di me, preservando l'esatta identità del mio viso, i tratti somatici, la tonalità della pelle, l'acconciatura e le proporzioni naturali. Crea per me un look streetwear moderno di alta qualità con un outfit a strati oversize, accessori discreti e una posa rilassata e sicura in un contesto urbano con architettura in cemento, pareti materiche e dettagli cittadini sobri. Utilizza un'illuminazione naturale drammatica, ombre morbide, una profondità di campo ridotta, una texture della pelle realistica, sofisticati toni neutri, una grana della pellicola sottile, una composizione da rivista di alta moda, fotografia professionale e un color grading cinematografico. Rendi l'immagine autentica, spontaneamente cool, minimale, estetica ed editoriale, come una campagna di streetwear di lusso scattata con una fotocamera full-frame e un obiettivo da 85 mm.
 ```
 
 [↑ Torna alle categorie](#catalog)

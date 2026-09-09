@@ -105,13 +105,13 @@ Um jovem atraente com pele bronzeada e brilhante está de frente para a câmera 
 
 <a name="prompt-2097564694974541836"></a>
 
-### Tradução em andamento
+### Crie um retrato editorial de streetwear cinematográfico e ultrarrealista em um ambiente urbano.
 
 Autor：[@shushant\_l](https://x.com/shushant_l) · [Publicação original](https://x.com/shushant_l/status/2097564694974541836)
 
 Cinematográfico / Imagem de Filme · Retrato / Selfie · Paisagem Urbana / Rua · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Crie um retrato editorial de streetwear cinematográfico e ultrarrealista em um ambiente urbano.
 
 <img src="images/2097564694974541836-1.jpg" alt="Imagem 1" width="480" />
 
@@ -124,7 +124,7 @@ Cinematográfico / Imagem de Filme · Retrato / Selfie · Paisagem Urbana / Rua 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um retrato editorial de streetwear cinematográfico e ultrarrealista de mim, preservando exatamente minha identidade facial, traços, tom de pele, penteado e proporções naturais. Vista-me com streetwear moderno de alta qualidade com um look em camadas oversized, acessórios sutis e uma pose confiante e relaxada em um cenário urbano com arquitetura de concreto, paredes texturizadas e detalhes urbanos discretos. Use iluminação natural dramática, sombras suaves, profundidade de campo rasa, textura de pele realista, tons neutros sofisticados, granulação de filme sutil, composição de revista de alta moda, fotografia profissional e gradação de cores cinematográfica. Faça a imagem parecer autêntica, descontraída e estilosa, minimalista, estética e editorial, como uma campanha de streetwear de luxo fotografada em uma câmera full-frame com lente de 85 mm.
 ```
 
 [↑ Voltar às categorias](#catalog)

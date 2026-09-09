@@ -105,13 +105,13 @@ Un apuesto joven de piel bronceada y radiante se encuentra de pie mirando direct
 
 <a name="prompt-2097564694974541836"></a>
 
-### Traducción en curso
+### Crea un retrato editorial de streetwear cinematográfico y ultrarrealista en un entorno urbano.
 
 Autor：[@shushant\_l](https://x.com/shushant_l) · [Publicación original](https://x.com/shushant_l/status/2097564694974541836)
 
 Cine / Fotograma · Retrato / Selfie · Paisaje urbano / Calle · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Crea un retrato editorial de streetwear cinematográfico y ultrarrealista en un entorno urbano.
 
 <img src="images/2097564694974541836-1.jpg" alt="Imagen 1" width="480" />
 
@@ -124,7 +124,7 @@ Cine / Fotograma · Retrato / Selfie · Paisaje urbano / Calle · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un retrato editorial de streetwear cinematográfico y ultrarrealista de mí, preservando mi identidad facial exacta, mis rasgos, mi tono de piel, mi peinado y mis proporciones naturales. Vísteme con ropa urbana moderna de primera calidad con un atuendo en capas oversize, accesorios sutiles y una pose relajada y segura en un entorno urbano con arquitectura de concreto, paredes con textura y detalles citadinos discretos. Utiliza iluminación natural dramática, sombras suaves, poca profundidad de campo, textura de piel realista, tonos neutros sofisticados, grano de película sutil, composición de revista de alta moda, fotografía profesional y etalonaje de color cinematográfico. Haz que la imagen se sienta auténtica, naturalmente genial, minimalista, estética y editorial, como una campaña de streetwear de lujo fotografiada con una cámara de formato completo con un lente de 85 mm.
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -105,13 +105,13 @@ Işıltılı bronz tene sahip yakışıklı genç bir erkek, göğsünü açığ
 
 <a name="prompt-2097564694974541836"></a>
 
-### Çeviri sürüyor
+### Kentsel bir ortamda sinematik, ultra gerçekçi bir sokak modası editoryal portresi oluşturun.
 
 Yazar：[@shushant\_l](https://x.com/shushant_l) · [Orijinal gönderi](https://x.com/shushant_l/status/2097564694974541836)
 
 Sinematik / Film Karesi · Portre / Selfie · Şehir Manzarası / Sokak · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kentsel bir ortamda sinematik, ultra gerçekçi bir sokak modası editoryal portresi oluşturun.
 
 <img src="images/2097564694974541836-1.jpg" alt="Görsel 1" width="480" />
 
@@ -124,7 +124,7 @@ Sinematik / Film Karesi · Portre / Selfie · Şehir Manzarası / Sokak · Yayı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Tam yüz kimliğimi, hatlarımı, cilt tonumu, saç stilimi ve doğal oranlarımı koruyarak sinematik, ultra gerçekçi bir sokak modası editoryal portremi oluşturun. Beni büyük beden katmanlı bir kıyafet, zarif aksesuarlar ve beton mimarisi, dokulu duvarları ve sade şehir ayrıntılarına sahip kentsel bir ortamda kendinden emin, rahat bir pozla birinci sınıf modern sokak modası tarzında giydirin. Dramatik doğal aydınlatma, yumuşak gölgeler, sığ alan derinliği, gerçekçi cilt dokusu, sofistike nötr tonlar, ince film greni, yüksek moda dergisi kompozisyonu, profesyonel fotoğrafçılık ve sinematik renk derecelendirmesi kullanın. Görüntünün, 85 mm lensli bir tam kare fotoğraf makinesiyle çekilmiş lüks bir sokak modası kampanyası gibi otantik, zahmetsizce havalı, minimalist, estetik ve editoryal hissettirmesini sağlayın.
 ```
 
 [↑ Kategorilere dön](#catalog)
