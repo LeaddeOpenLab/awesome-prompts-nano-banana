@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**9** Prompts · Última adição: **2026-09-09**
+**10** Prompts · Última adição: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -80,6 +80,34 @@ Um jovem atraente com pele bronzeada e brilhante está de frente para a câmera 
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematográfico / Imagem de Filme
+
+<a name="prompt-2097564694974541836"></a>
+
+### Tradução em andamento
+
+Autor：[@shushant\_l](https://x.com/shushant_l) · [Publicação original](https://x.com/shushant_l/status/2097564694974541836)
+
+Cinematográfico / Imagem de Filme · Retrato / Selfie · Paisagem Urbana / Rua · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2097564694974541836-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2097564694974541836-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2097564694974541836-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2097564694974541836-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097549831489405424"></a>
 

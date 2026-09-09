@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**9** Prompts · Latest addition: **2026-09-09**
+**10** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -80,6 +80,34 @@ A handsome young male with glowing tanned skin stands facing the camera directly
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2097564694974541836"></a>
+
+### Create a cinematic, ultra-realistic streetwear editorial portrait in an urban setting.
+
+Author：[@shushant\_l](https://x.com/shushant_l) · [Source](https://x.com/shushant_l/status/2097564694974541836)
+
+Cinematic / Film Still · Portrait / Selfie · Cityscape / Street · Published
+
+**Summary:** Create a cinematic, ultra-realistic streetwear editorial portrait in an urban setting.
+
+<img src="images/2097564694974541836-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097564694974541836-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097564694974541836-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2097564694974541836-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Create a cinematic, ultra-realistic streetwear editorial portrait of me, preserving my exact facial identity, features, skin tone, hairstyle, and natural proportions. Style me in premium modern streetwear with an oversized layered outfit, subtle accessories, and a confident relaxed pose in an urban setting with concrete architecture, textured walls, and understated city details. Use dramatic natural lighting, soft shadows, shallow depth of field, realistic skin texture, sophisticated neutral tones, subtle film grain, high-fashion magazine composition, professional photography, and cinematic color grading. Make the image feel authentic, effortlessly cool, minimal, aesthetic, and editorial, like a luxury streetwear campaign photographed on a full-frame camera with an 85mm lens.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097549831489405424"></a>
 
