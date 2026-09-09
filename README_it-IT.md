@@ -14,13 +14,13 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**1** Prompt · Ultima aggiunta: **2026-09-09**
+**2** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Sfoglia per categoria
 
-[Fotografia](#category-photography)
+[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still)
 
 <a name="all-prompts"></a>
 
@@ -34,7 +34,7 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 Autore：[@pictsbyai](https://x.com/pictsbyai) · [Post originale](https://x.com/pictsbyai/status/2097238007426490758)
 
-Fotografia · Ritratto / Selfie · Personaggio · Distribuzione in attesa
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
 **Riepilogo:** Traduzione in corso
 
@@ -50,6 +50,30 @@ Traduzione in corso
 
 ---
 
-[Esplora Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)
+<a name="category-cinematic-film-still"></a>
 
-Riferimento di navigazione: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
+## Fermo immagine cinematografico / Still fotografico
+
+<a name="prompt-2097237465887338994"></a>
+
+### Traduzione in corso
+
+Autore：[@Strength04\_X](https://x.com/Strength04_X) · [Post originale](https://x.com/Strength04_X/status/2097237465887338994)
+
+Fumetto / Storyboard · Marketing di Prodotto · Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Prodotto · Cibo / Bevande · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2097237465887338994.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+[Esplora Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)

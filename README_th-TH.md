@@ -14,13 +14,13 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 กดดาวให้คลังนี้เพื่อติดตามพรอมต์ที่คัดสรรทุกวันและค้นหาแนวคิดสร้างสรรค์ใหม่ ๆ
 
-**1** รายการ · เพิ่มล่าสุด: **2026-09-09**
+**2** รายการ · เพิ่มล่าสุด: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## เรียกดูตามหมวดหมู่
 
-[การถ่ายภาพ](#category-photography)
+[การถ่ายภาพ](#category-photography) · [ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still)
 
 <a name="all-prompts"></a>
 
@@ -34,7 +34,7 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 ผู้เขียน：[@pictsbyai](https://x.com/pictsbyai) · [โพสต์ต้นฉบับ](https://x.com/pictsbyai/status/2097238007426490758)
 
-การถ่ายภาพ · ภาพบุคคล / เซลฟี่ · ตัวละคร · รอเผยแพร่
+การถ่ายภาพ · ภาพบุคคล / เซลฟี่ · ตัวละคร · เผยแพร่แล้ว
 
 **สรุป:** กำลังแปล
 
@@ -50,6 +50,30 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 ---
 
-[สำรวจ Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)
+<a name="category-cinematic-film-still"></a>
 
-แหล่งอ้างอิงการนำทาง: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
+## ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์
+
+<a name="prompt-2097237465887338994"></a>
+
+### กำลังแปล
+
+ผู้เขียน：[@Strength04\_X](https://x.com/Strength04_X) · [โพสต์ต้นฉบับ](https://x.com/Strength04_X/status/2097237465887338994)
+
+คอมิก / สตอรี่บอร์ด · การตลาดผลิตภัณฑ์ · ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · ภาพบุคคล / เซลฟี่ · ผลิตภัณฑ์ · อาหาร / เครื่องดื่ม · เผยแพร่แล้ว
+
+**สรุป:** กำลังแปล
+
+<img src="covers/2097237465887338994.jpg" alt="รูปภาพ 1" width="480" />
+
+**พรอมต์**
+
+```text
+กำลังแปล
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
+
+---
+
+[สำรวจ Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)

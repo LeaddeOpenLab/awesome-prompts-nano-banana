@@ -14,13 +14,13 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**1** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**2** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Nach Kategorie durchsuchen
 
-[Fotografie](#category-photography)
+[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still)
 
 <a name="all-prompts"></a>
 
@@ -34,7 +34,7 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 Autor：[@pictsbyai](https://x.com/pictsbyai) · [Originalbeitrag](https://x.com/pictsbyai/status/2097238007426490758)
 
-Fotografie · Porträt / Selfie · Charakter · Verteilung ausstehend
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
 **Zusammenfassung:** Übersetzung läuft
 
@@ -50,6 +50,30 @@ Fotografie · Porträt / Selfie · Charakter · Verteilung ausstehend
 
 ---
 
-[Leadde.ai entdecken →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)
+<a name="category-cinematic-film-still"></a>
 
-Navigationsvorlage: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
+## Kinematisch / Filmstill
+
+<a name="prompt-2097237465887338994"></a>
+
+### Übersetzung läuft
+
+Autor：[@Strength04\_X](https://x.com/Strength04_X) · [Originalbeitrag](https://x.com/Strength04_X/status/2097237465887338994)
+
+Comic / Storyboard · Produktmarketing · Kinematisch / Filmstill · Porträt / Selfie · Produkt · Essen / Trinken · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2097237465887338994.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+[Leadde.ai entdecken →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)

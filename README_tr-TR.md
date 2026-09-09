@@ -14,13 +14,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**1** Prompt · Son eklenen: **2026-09-09**
+**2** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Fotoğrafçılık](#category-photography)
+[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still)
 
 <a name="all-prompts"></a>
 
@@ -34,7 +34,7 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 Yazar：[@pictsbyai](https://x.com/pictsbyai) · [Orijinal gönderi](https://x.com/pictsbyai/status/2097238007426490758)
 
-Fotoğrafçılık · Portre / Selfie · Karakter · Dağıtım bekliyor
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
 **Özet:** Çeviri sürüyor
 
@@ -50,6 +50,30 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Dağıtım bekliyor
 
 ---
 
-[Leadde.ai’yi keşfedin →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)
+<a name="category-cinematic-film-still"></a>
 
-Gezinme kaynağı: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
+## Sinematik / Film Karesi
+
+<a name="prompt-2097237465887338994"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Strength04\_X](https://x.com/Strength04_X) · [Orijinal gönderi](https://x.com/Strength04_X/status/2097237465887338994)
+
+Çizgi Roman / Hikaye Taslağı · Ürün Pazarlaması · Sinematik / Film Karesi · Portre / Selfie · Ürün · Yiyecek / İçecek · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2097237465887338994.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+[Leadde.ai’yi keşfedin →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)

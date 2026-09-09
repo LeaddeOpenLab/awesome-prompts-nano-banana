@@ -14,13 +14,13 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**1** Prompts · Última incorporación: **2026-09-09**
+**2** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoría
 
-[Fotografía](#category-photography)
+[Fotografía](#category-photography) · [Cine / Fotograma de película](#category-cinematic-film-still)
 
 <a name="all-prompts"></a>
 
@@ -34,7 +34,7 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 Autor：[@pictsbyai](https://x.com/pictsbyai) · [Publicación original](https://x.com/pictsbyai/status/2097238007426490758)
 
-Fotografía · Retrato / Selfie · Personaje · Pendiente de distribución
+Fotografía · Retrato / Selfie · Personaje · Publicado
 
 **Resumen:** Traducción en curso
 
@@ -50,6 +50,30 @@ Traducción en curso
 
 ---
 
-[Explora Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)
+<a name="category-cinematic-film-still"></a>
 
-Referencia de navegación: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
+## Cine / Fotograma de película
+
+<a name="prompt-2097237465887338994"></a>
+
+### Traducción en curso
+
+Autor：[@Strength04\_X](https://x.com/Strength04_X) · [Publicación original](https://x.com/Strength04_X/status/2097237465887338994)
+
+Cómic / Guion gráfico · Marketing de producto · Cine / Fotograma de película · Retrato / Selfie · Producto · Comida / Bebida · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2097237465887338994.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+[Explora Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)

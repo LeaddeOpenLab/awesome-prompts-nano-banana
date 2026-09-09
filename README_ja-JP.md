@@ -14,13 +14,13 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**1** 件 · 最新の追加: **2026-09-09**
+**2** 件 · 最新の追加: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## カテゴリから探す
 
-[写真撮影](#category-photography)
+[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still)
 
 <a name="all-prompts"></a>
 
@@ -34,7 +34,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 作者：[@pictsbyai](https://x.com/pictsbyai) · [元の投稿](https://x.com/pictsbyai/status/2097238007426490758)
 
-写真撮影 · ポートレート / セルフィー · キャラクター · 配信待ち
+写真撮影 · ポートレート / セルフィー · キャラクター · 配信済み
 
 **概要:** 翻訳中
 
@@ -50,6 +50,30 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 ---
 
-[Leadde.ai を見る →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)
+<a name="category-cinematic-film-still"></a>
 
-ナビゲーション参考: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
+## シネマティック / フィルムスチル
+
+<a name="prompt-2097237465887338994"></a>
+
+### 翻訳中
+
+作者：[@Strength04\_X](https://x.com/Strength04_X) · [元の投稿](https://x.com/Strength04_X/status/2097237465887338994)
+
+コミック / ストーリーボード · プロダクトマーケティング · シネマティック / フィルムスチル · ポートレート / セルフィー · 製品 · 食品・飲料 · 配信済み
+
+**概要:** 翻訳中
+
+<img src="covers/2097237465887338994.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+[Leadde.ai を見る →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)

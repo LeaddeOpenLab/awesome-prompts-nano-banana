@@ -14,13 +14,13 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**1** Prompts · Última adição: **2026-09-09**
+**2** Prompts · Última adição: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Fotografia](#category-photography)
+[Fotografia](#category-photography) · [Cinematográfico / Imagem de Filme](#category-cinematic-film-still)
 
 <a name="all-prompts"></a>
 
@@ -34,7 +34,7 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 Autor：[@pictsbyai](https://x.com/pictsbyai) · [Publicação original](https://x.com/pictsbyai/status/2097238007426490758)
 
-Fotografia · Retrato / Selfie · Personagem · Distribuição pendente
+Fotografia · Retrato / Selfie · Personagem · Publicado
 
 **Resumo:** Tradução em andamento
 
@@ -50,6 +50,30 @@ Tradução em andamento
 
 ---
 
-[Explore a Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)
+<a name="category-cinematic-film-still"></a>
 
-Referência de navegação: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
+## Cinematográfico / Imagem de Filme
+
+<a name="prompt-2097237465887338994"></a>
+
+### Tradução em andamento
+
+Autor：[@Strength04\_X](https://x.com/Strength04_X) · [Publicação original](https://x.com/Strength04_X/status/2097237465887338994)
+
+Quadrinhos / Storyboard · Marketing de Produto · Cinematográfico / Imagem de Filme · Retrato / Selfie · Produto · Alimentos / Bebidas · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2097237465887338994.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+[Explore a Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)

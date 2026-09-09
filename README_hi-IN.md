@@ -14,13 +14,13 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 दैनिक चुने हुए प्रॉम्प्ट और नई रचनात्मक प्रेरणा के लिए इस रिपॉज़िटरी को स्टार दें।
 
-**1** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-09**
+**2** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## श्रेणी के अनुसार देखें
 
-[फोटोग्राफी](#category-photography)
+[फोटोग्राफी](#category-photography) · [सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still)
 
 <a name="all-prompts"></a>
 
@@ -34,7 +34,7 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 लेखक：[@pictsbyai](https://x.com/pictsbyai) · [मूल पोस्ट](https://x.com/pictsbyai/status/2097238007426490758)
 
-फोटोग्राफी · पोर्ट्रेट / सेल्फ़ी · कैरेक्टर · प्रकाशन लंबित
+फोटोग्राफी · पोर्ट्रेट / सेल्फ़ी · कैरेक्टर · प्रकाशित
 
 **सारांश:** अनुवाद जारी है
 
@@ -50,6 +50,30 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 ---
 
-[Leadde.ai देखें →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)
+<a name="category-cinematic-film-still"></a>
 
-नेविगेशन संदर्भ: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
+## सिनेमैटिक / फ़िल्म स्टिल
+
+<a name="prompt-2097237465887338994"></a>
+
+### अनुवाद जारी है
+
+लेखक：[@Strength04\_X](https://x.com/Strength04_X) · [मूल पोस्ट](https://x.com/Strength04_X/status/2097237465887338994)
+
+कॉमिक / स्टोरीबोर्ड · प्रोडक्ट मार्केटिंग · सिनेमैटिक / फ़िल्म स्टिल · पोर्ट्रेट / सेल्फ़ी · उत्पाद · भोजन / पेय · प्रकाशित
+
+**सारांश:** अनुवाद जारी है
+
+<img src="covers/2097237465887338994.jpg" alt="चित्र 1" width="480" />
+
+**प्रॉम्प्ट**
+
+```text
+अनुवाद जारी है
+```
+
+[↑ श्रेणियों पर लौटें](#catalog)
+
+---
+
+[Leadde.ai देखें →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)

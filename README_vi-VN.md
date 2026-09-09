@@ -14,13 +14,13 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**1** Prompt · Bổ sung mới nhất: **2026-09-09**
+**2** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Duyệt theo danh mục
 
-[Nhiếp ảnh](#category-photography)
+[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still)
 
 <a name="all-prompts"></a>
 
@@ -34,7 +34,7 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 Tác giả：[@pictsbyai](https://x.com/pictsbyai) · [Bài gốc](https://x.com/pictsbyai/status/2097238007426490758)
 
-Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Chờ phân phối
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
 **Tóm tắt:** Đang dịch
 
@@ -50,6 +50,30 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Chờ phân ph
 
 ---
 
-[Khám phá Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)
+<a name="category-cinematic-film-still"></a>
 
-Tham khảo điều hướng: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
+## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2097237465887338994"></a>
+
+### Đang dịch
+
+Tác giả：[@Strength04\_X](https://x.com/Strength04_X) · [Bài gốc](https://x.com/Strength04_X/status/2097237465887338994)
+
+Truyện tranh / Bảng phân cảnh · Tiếp thị sản phẩm · Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Sản phẩm · Thực phẩm / Đồ uống · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2097237465887338994.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+[Khám phá Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)

@@ -14,13 +14,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**1** Prompts · Latest addition: **2026-09-09**
+**2** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Photography](#category-photography)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still)
 
 <a name="all-prompts"></a>
 
@@ -34,7 +34,7 @@ Star this repository to follow our daily prompt curation and find fresh creative
 
 Author：[@pictsbyai](https://x.com/pictsbyai) · [Source](https://x.com/pictsbyai/status/2097238007426490758)
 
-Photography · Portrait / Selfie · Character · Pending distribution
+Photography · Portrait / Selfie · Character · Published
 
 **Summary:** A high-end lifestyle flash photograph of a stylish tanned man in an unbuttoned black shirt and sunglasses standing beside an infinity pool during coastal twilight.
 
@@ -50,6 +50,74 @@ A handsome young male with glowing tanned skin stands facing the camera directly
 
 ---
 
-[Explore Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)
+<a name="category-cinematic-film-still"></a>
 
-Navigation reference: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
+## Cinematic / Film Still
+
+<a name="prompt-2097237465887338994"></a>
+
+### TITLE: Premium Sparkling Lemon Drink Product Commercial Storyboard FORMAT: • Single-page premium storyboard • 3:4 Portrait ratio • Luxury beverage campaign • 8 cinematic product-focused scenes • Product remains the visual hero • High-end commercial presentation
+
+Author：[@Strength04\_X](https://x.com/Strength04_X) · [Source](https://x.com/Strength04_X/status/2097237465887338994)
+
+Comic / Storyboard · Product Marketing · Cinematic / Film Still · Portrait / Selfie · Product · Food / Drink · Published
+
+**Summary:** TITLE: Premium Sparkling Lemon Drink Product Commercial Storyboard FORMAT: • Single-page premium storyboard • 3:4 Portrait ratio • Luxury beverage campaign • 8 cinematic product-focused scenes • Product remains the visual hero • High-end commercial presentation
+
+<img src="covers/2097237465887338994.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+TITLE:
+Premium Sparkling Lemon Drink Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Luxury beverage campaign
+• 8 cinematic product-focused scenes
+• Product remains the visual hero
+• High-end commercial presentation
+
+HEADER:
+• Bold contemporary typography
+• Information cards:
+  - Duration: 20 Seconds
+  - Style: High-Speed Cinematic Beverage Commercial
+  - Product: Sparkling Lemon Drink
+  - Audio: Fizz + Ice Crack + Liquid ASMR
+• Why This Style Works section
+• Crystal white, lemon yellow and silver aesthetic
+• Minimal citrus-inspired graphic accents
+
+STORYBOARD:
+1. Ice-cold bottle standing alone with heavy condensation
+2. Extreme macro of water droplets sliding down the bottle
+3. Bottle cap opening with a dramatic burst of carbonation
+4. Sparkling drink exploding upward in a controlled liquid splash
+5. Lemon slices spinning through the sparkling liquid
+6. Ice cubes falling into a crystal glass in ultra slow motion
+7. Extreme macro showing thousands of carbonation bubbles rising through the drink
+8. Final hero packshot with bottle, glass, lemon slices and frozen splash surrounding the product
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+120fps high-speed liquid photography, extreme macro, frozen splash, rotating lemon slices, dramatic backlight, condensation close-up, smooth 360° product movement.
+
+STYLE:
+Ultra-realistic premium beverage commercial, crystal-clear liquid, explosive carbonation, physically accurate water droplets
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+[Explore Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)

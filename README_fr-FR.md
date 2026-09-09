@@ -14,13 +14,13 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**1** Prompts · Dernier ajout: **2026-09-09**
+**2** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Parcourir par catégorie
 
-[Photographie](#category-photography)
+[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still)
 
 <a name="all-prompts"></a>
 
@@ -34,7 +34,7 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 Auteur：[@pictsbyai](https://x.com/pictsbyai) · [Publication originale](https://x.com/pictsbyai/status/2097238007426490758)
 
-Photographie · Portrait / Selfie · Personnage · Diffusion en attente
+Photographie · Portrait / Selfie · Personnage · Publié
 
 **Résumé:** Traduction en cours
 
@@ -50,6 +50,30 @@ Traduction en cours
 
 ---
 
-[Explorer Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)
+<a name="category-cinematic-film-still"></a>
 
-Référence de navigation: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
+## Image cinématographique / Photogramme de film
+
+<a name="prompt-2097237465887338994"></a>
+
+### Traduction en cours
+
+Auteur：[@Strength04\_X](https://x.com/Strength04_X) · [Publication originale](https://x.com/Strength04_X/status/2097237465887338994)
+
+Bande dessinée / Storyboard · Marketing produit · Image cinématographique / Photogramme de film · Portrait / Selfie · Produit · Alimentation / Boissons · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2097237465887338994.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+[Explorer Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)
