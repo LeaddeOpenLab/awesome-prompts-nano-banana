@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**2** Prompts · Latest addition: **2026-09-09**
+**3** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,28 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2097478436105384108"></a>
+
+### A stop-motion reference photo prompt featuring a handmade matte-clay coral-pink cosmos flower in dark brown soil against a warm cream backdrop, specifying precise coordinates, camera angle, and clay texture details.
+
+Author：[@higgsfield](https://x.com/higgsfield) · [Source](https://x.com/higgsfield/status/2097478436105384108)
+
+Photography · Published
+
+**Summary:** A stop-motion reference photo prompt featuring a handmade matte-clay coral-pink cosmos flower in dark brown soil against a warm cream backdrop, specifying precise coordinates, camera angle, and clay texture details.
+
+<img src="covers/2097478436105384108.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create one square stop-motion reference photo, not a storyboard: a handmade matte-clay coral-pink cosmos flower in dark brown soil against a warm cream backdrop. Locked straight-on low camera, 70mm macro, orthographic feel. Soil fills the bottom 22%, peaking at (50%,79%); the centered stem runs from (50%,80%) to the flower center at (50%,33%). Add exactly two green leaves and a 35%-wide flower head with exactly 10 coral petals and a textured golden center. Include subtle fingerprints, soil crumbs, and a few pebbles. Use soft upper-left lighting and fixed shadows. Keep the full flower visible, with the camera and soil stationary for animation. No pot, extra plants, characters, insects, hands, text, watermark, border, or grid.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097238007426490758"></a>
 
