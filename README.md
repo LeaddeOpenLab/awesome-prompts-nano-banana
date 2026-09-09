@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**10** Prompts · Latest addition: **2026-09-09**
+**11** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2097600395073966528"></a>
+
+### Portrait of a muscular man leaning against an Audi sedan by a twilight gas station, with snowy mountains in the background.
+
+Author：[@pictsbyai](https://x.com/pictsbyai) · [Source](https://x.com/pictsbyai/status/2097600395073966528)
+
+Photography · Portrait / Selfie · Character · Landscape / Nature · Abstract / Background · Published
+
+**Summary:** Portrait of a muscular man leaning against an Audi sedan by a twilight gas station, with snowy mountains in the background.
+
+<img src="images/2097600395073966528-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A confident, muscular young adult male stands centrally framed, looking directly at the viewer with a subtle closed smile and relaxed eyebrows, his textured wavy curtain hair catching bright specular highlights. He is dressed in a fitted black t-shirt and black pants, deliberately posing with his arms crossed over his chest to accentuate his musculature; his left hand rests naturally on his right bicep with fingers slightly curled, displaying a thick, fully visible silver chain bracelet. He leans facing the camera against the pristine, glossy black finish of an Audi sedan in the foreground, with an S-line badge visible on the front fender. To the right in the midground, worn gas station pumps with white and yellow casings and green and black nozzles stand on a solid dark grey concrete floor. Above him, a weathered industrial canopy roof features matte pale beige metal paneling with horizontal ribbing and bright square recessed light fixtures. Towering in the deep background, majestic steep, jagged rocky peaks with patches of white snow are silhouetted against spatial depth. The scene is enveloped in a high-contrast, moody atmosphere under a dark blue twilight sky, dominated by a cool split-complementary palette of deep blacks and twilight blues pierced by warm yellow-white accents. Highly directional, hard overhead practical lighting from the canopy mixes with ambient twilight, casting deep black, harsh, defined shadows under his chin, beneath his arms, and under the car, while reflecting specular highlights across his cheekbones, the bridge of his nose, and the car's hood. Captured as a realistic digital photograph with a 35mm lens at f/2.8, ISO 800, and 1/125s, this tack-sharp portrait blends cinematic automotive aesthetics with contemporary social media lifestyle influences, enhanced by cool shadows, slight dodging on the face, and lifted highlights on the car reflections, all beautifully framed in a 3:4 aspect ratio.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097478436105384108"></a>
 
