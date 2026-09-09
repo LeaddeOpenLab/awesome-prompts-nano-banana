@@ -200,13 +200,13 @@ Ultra gerçekçi premium içecek reklamı, kristal berraklığında sıvı, patl
 
 <a name="prompt-2097435473043931201"></a>
 
-### Çeviri sürüyor
+### Devasa parıldayan kozmik halka bulutsularının altında, bulut denizlerinin üzerinde asılı duran yüzen ışıklandırılmış şehirleri betimleyen promptlar.
 
 Yazar：[@churvikv](https://x.com/churvikv) · [Orijinal gönderi](https://x.com/churvikv/status/2097435473043931201)
 
 Siberpunk / Bilim Kurgu · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Devasa parıldayan kozmik halka bulutsularının altında, bulut denizlerinin üzerinde asılı duran yüzen ışıklandırılmış şehirleri betimleyen promptlar.
 
 <img src="images/2097435473043931201-1.jpg" alt="Görsel 1" width="480" />
 
@@ -215,7 +215,11 @@ Siberpunk / Bilim Kurgu · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Prompt 1:
+Büyülü bir gökyüzünün altında, kabarık gece bulutlarından oluşan bir denizin üzerinde asılı duran bir şehir manzarasının büyüleyici bir dijital illüstrasyonu. Ön planda, pencereleri sıcak altın rengi ışıklarla aydınlatılmış yüksek gökdelenlerden oluşan yoğun bir küme, parıldayan bir kentsel siluet oluşturuyor. Şehir, uzaklara doğru uzanan koyu mavi ve gri bulutlardan oluşan kalın, dalgalı bir örtünün üzerinde duruyor gibi görünüyor. Şehrin üzerinde, gece gökyüzü göksel bir harikaya dönüşüyor: rengarenk bir bulutsunun oluşturduğu devasa, ışıl ışıl bir halka, yıldızlarla dolu karanlık bir boşluğu çevreliyor. Bulutsu; derin mor, elektrik mavisi ve ateşli turuncunun canlı tonlarıyla parıldıyor, uzaktaki parıldayan yıldızlar ve takımyıldızlarla bezenerek rüya gibi, başka bir dünyaya ait bir atmosfer yaratıyor.
+
+Prompt 2:
+Alacakaranlıkta, dalgalanan yoğun koyu gri bulutlardan oluşan sonsuz bir denizin üzerinde zarifçe yüzen fütüristik bir metropolün nefes kesici dikey görünümü. Şehrin genişleyen silueti, aşağıdaki kentsel manzaraya sıcak kehribar ve turuncu ışıklar saçan parıldayan pencerelere sahip çok sayıda yüksek gökdeleni içeriyor. Çerçevenin üst kısmına, zifiri karanlık gece gökyüzü boyunca sayısız parıldayan yıldız ve uzak galaksilerle serpiştirilmiş, canlı morlar, derin maviler ve parlak sıcak altın tonlarından oluşan ışıltılı dairesel bir bulutsu olan muhteşem bir kozmik halka hakim. Kompozisyon dengeli ve görkemli; alt ön planda yer alan koyu bulut tabakası, yukarıdaki ışıltılı kozmik fenomenle keskin bir kontrast oluşturuyor. Şehir ışıklarının sıcak yapay parıltısını bulutsunun kozmik ışıltısıyla harmanlayan aydınlatma gerçeküstü ve ruhani. Atmosfer sessiz, huşu uyandıran ve mistik olup yıldızlararası bir hayranlık ve kentsel yalnızlık hissi uyandırıyor. Yumuşak, hacimli bulutların ayrıntılı dokuları, gökdelenlerin şık cam ve çelik mimarisi ve yıldızlı kozmik toz, yüksek kontrastlı, görsel olarak çarpıcı bir sahne oluşturuyor.
 ```
 
 [↑ Kategorilere dön](#catalog)

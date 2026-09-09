@@ -200,13 +200,13 @@ Anúncio de bebida premium ultrarrealista, líquido cristalino, carbonatação e
 
 <a name="prompt-2097435473043931201"></a>
 
-### Tradução em curso
+### Prompts retratando cidades iluminadas flutuantes suspensas sobre mares de nuvens sob gigantescas nebulosas em anel cósmico brilhantes.
 
 Autor：[@churvikv](https://x.com/churvikv) · [Publicação original](https://x.com/churvikv/status/2097435473043931201)
 
 Cyberpunk / Ficção Científica · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompts retratando cidades iluminadas flutuantes suspensas sobre mares de nuvens sob gigantescas nebulosas em anel cósmico brilhantes.
 
 <img src="images/2097435473043931201-1.jpg" alt="Imagem 1" width="480" />
 
@@ -215,7 +215,11 @@ Cyberpunk / Ficção Científica · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Prompt 1:
+Uma encantadora ilustração digital de uma paisagem urbana suspensa sobre um mar de nuvens noturnas e fofas sob um céu mágico. Em primeiro plano, um denso aglomerado de arranha-céus imponentes, com as suas janelas iluminadas por luzes douradas e quentes, cria uma linha do horizonte urbana cintilante. A cidade parece repousar sobre um manto espesso e ondulante de nuvens azuis-escuras e cinzentas que se estendem na distância. Acima da cidade, o céu noturno transforma-se numa maravilha celestial: um anel enorme e luminoso de uma nebulosa colorida circunda um vazio escuro e repleto de estrelas. A nebulosa brilha com tons vibrantes de púrpura profundo, azul elétrico e laranja ardente, salpicada de estrelas cintilantes e constelações distantes, criando uma atmosfera de sonho e de outro mundo.
+
+Prompt 2:
+Uma vista vertical deslumbrante de uma metrópole futurista a flutuar graciosamente sobre um mar sem fim de nuvens cinzento-escuras, densas e ondulantes ao crepúsculo. A vasta linha do horizonte da cidade apresenta numerosos arranha-céus imponentes com janelas resplandecentes que projetam luzes quentes em tons de âmbar e laranja sobre a paisagem urbana abaixo. A dominar a parte superior do enquadramento encontra-se um magnífico anel cósmico, uma nebulosa circular brilhante composta por púrpuras vibrantes, azuis profundos e radiantes tons dourados quentes, salpicada de inúmeras estrelas cintilantes e galáxias distantes através do céu noturno profundamente negro. A composição é equilibrada e majestosa, com a camada escura de nuvens a ancorar o primeiro plano inferior, contrastando fortemente com o radiante fenómeno cósmico acima. A iluminação é surreal e etérea, misturando o brilho artificial quente das luzes da cidade com a luminescência cósmica da nebulosa. A atmosfera é silenciosa, inspiradora e mística, evocando uma sensação de maravilha interestelar e isolamento urbano. As texturas detalhadas das nuvens suaves e volumosas, a arquitetura elegante de vidro e aço dos arranha-céus e a poeira cósmica estrelada criam uma cena de alto contraste e visualmente impressionante.
 ```
 
 [↑ Voltar às categorias](#catalog)
