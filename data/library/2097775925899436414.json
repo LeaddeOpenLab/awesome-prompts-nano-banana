@@ -12,7 +12,14 @@
     "th-TH": "#ผลงานชิ้นเอก #ภาพถ่ายสมจริง #ทิวทัศน์ #การเปิดรับแสงนาน #โคมกระดาษลอยน้ำ #กระแสน้ำมืดมิด #แสงสะท้อนอันอบอุ่น #ความเงียบสงบยามเที่ยงคืน",
     "vi-VN": "#kiệt tác #ảnh thực tế #phong cảnh #phơi sáng lâu #đèn lồng giấy thả trôi #dòng nước tối #ánh phản chiếu ấm áp #đêm khuya tĩnh lặng",
     "hi-IN": "#मास्टरपीस #यथार्थवादी तस्वीर #परिदृश्य #लंबा एक्सपोज़र #तैरती कागज़ की लालटेनें #अंधेरी धारा #गर्म प्रतिबिंब #आधी रात की शांति",
-    "es-ES": "#obra maestra #foto realista #paisaje #larga exposición #farolillos de papel flotantes #corriente oscura #reflejos cálidos #tranquilidad de medianoche"
+    "es-ES": "#obra maestra #foto realista #paisaje #larga exposición #farolillos de papel flotantes #corriente oscura #reflejos cálidos #tranquilidad de medianoche",
+    "es-419": "#obra maestra #foto realista #paisaje #larga exposición #linternas de papel flotantes #corriente oscura #reflejos cálidos #silencio de medianoche",
+    "de-DE": "#Meisterwerk #realistisches Foto #Landschaft #Langzeitbelichtung #treibende Papierlaternen #dunkle Strömung #warme Reflexionen #Mitternachtsstille",
+    "fr-FR": "#chef-d'œuvre #photo réaliste #paysage #pose longue #lanternes en papier flottantes #courant sombre #reflets chauds #calme de minuit",
+    "it-IT": "#capolavoro #foto realistica #paesaggio #lunga esposizione #lanterne di carta galleggianti #corrente scura #riflessi caldi #quiete di mezzanotte",
+    "pt-BR": "#obra-prima #foto realista #paisagem #longa exposição #lanternas de papel flutuantes #correnteza escura #reflexos quentes #silêncio da meia-noite",
+    "pt-PT": "#obra-prima #foto realista #paisagem #longa exposição #lanternas de papel flutuantes #corrente escura #reflexos quentes #silêncio da meia-noite",
+    "tr-TR": "#şaheser #gerçekçi fotoğraf #manzara #uzun pozlama #yüzen kâğıt fenerler #karanlık akıntı #sıcak yansımalar #gece yarısı sessizliği"
   },
   "summaryTranslations": {
     "en": "Long-exposure night landscape with floating paper lanterns on a dark river.",
@@ -23,7 +30,14 @@
     "th-TH": "ทิวทัศน์ยามค่ำคืนที่เปิดรับแสงนานพร้อมโคมกระดาษลอยอยู่บนแม่น้ำอันมืดมิด",
     "vi-VN": "Phong cảnh ban đêm phơi sáng lâu với những chiếc đèn lồng giấy trôi trên dòng sông tối.",
     "hi-IN": "एक अंधेरी नदी पर तैरती कागज़ की लालटेनों के साथ लंबे एक्सपोज़र वाला रात का परिदृश्य।",
-    "es-ES": "Paisaje nocturno de larga exposición con farolillos de papel flotando en un río oscuro."
+    "es-ES": "Paisaje nocturno de larga exposición con farolillos de papel flotando en un río oscuro.",
+    "es-419": "Paisaje nocturno de larga exposición con linternas de papel flotando en un río oscuro.",
+    "de-DE": "Nächtliche Langzeitbelichtungslandschaft mit treibenden Papierlaternen auf einem dunklen Fluss.",
+    "fr-FR": "Paysage nocturne en pose longue avec des lanternes en papier flottant sur une rivière sombre.",
+    "it-IT": "Paesaggio notturno a lunga esposizione con lanterne di carta galleggianti su un fiume scuro.",
+    "pt-BR": "Paisagem noturna de longa exposição com lanternas de papel flutuando em um rio escuro.",
+    "pt-PT": "Paisagem noturna de longa exposição com lanternas de papel a flutuar num rio escuro.",
+    "tr-TR": "Karanlık bir nehirde yüzen kâğıt fenerlerle uzun pozlama gece manzarası."
   },
   "translationVersion": 2,
   "summary": "Long-exposure night landscape with floating paper lanterns on a dark river.",
