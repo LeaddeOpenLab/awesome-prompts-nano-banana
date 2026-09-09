@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T06:16:36.164Z",
+  "model": "nano-banana",
+  "prompt": "Ultra-realistic high-fashion studio portrait of an elegant woman seated gracefully against a dark charcoal-gray background. She wears a sophisticated black one-shoulder satin gown with subtle sparkling embellishments. Sleek, straight dark-brown hair brushed back neatly behind the shoulders. Refined glamorous makeup, softly defined brows, smoky brown eyeshadow, sharp eyeliner, long lashes, warm blush, glowing natural skin, and glossy nude rose lips. She wears elegant geometric silver drop earrings, multiple delicate silver rings, a slim bracelet, and a small ear cuff.\n\nPose: seated on a glossy black sculptural chair, one arm resting naturally across the chair and the other hand raised delicately beneath her chin, fingers relaxed and elegant. Long manicured nails with glossy black polish. Calm, confident direct gaze into the camera, sophisticated expression.\n\nProfessional luxury beauty photography, soft diffused key lighting, subtle rim light, deep shadows, high contrast, realistic skin texture, detailed facial features, polished editorial finish, cinematic atmosphere, sharp focus, 85mm portrait lens, shallow depth of field, premium fashion magazine aesthetic, photorealistic, 4K, vertical composition.",
+  "promptTranslations": {
+    "en": "Ultra-realistic high-fashion studio portrait of an elegant woman seated gracefully against a dark charcoal-gray background. She wears a sophisticated black one-shoulder satin gown with subtle sparkling embellishments. Sleek, straight dark-brown hair brushed back neatly behind the shoulders. Refined glamorous makeup, softly defined brows, smoky brown eyeshadow, sharp eyeliner, long lashes, warm blush, glowing natural skin, and glossy nude rose lips. She wears elegant geometric silver drop earrings, multiple delicate silver rings, a slim bracelet, and a small ear cuff.\n\nPose: seated on a glossy black sculptural chair, one arm resting naturally across the chair and the other hand raised delicately beneath her chin, fingers relaxed and elegant. Long manicured nails with glossy black polish. Calm, confident direct gaze into the camera, sophisticated expression.\n\nProfessional luxury beauty photography, soft diffused key lighting, subtle rim light, deep shadows, high contrast, realistic skin texture, detailed facial features, polished editorial finish, cinematic atmosphere, sharp focus, 85mm portrait lens, shallow depth of field, premium fashion magazine aesthetic, photorealistic, 4K, vertical composition."
+  },
+  "summaryTranslations": {
+    "en": "High-fashion studio portrait of an elegant woman in a black gown on a black sculptural chair."
+  },
+  "translationVersion": 2,
+  "summary": "High-fashion studio portrait of an elegant woman in a black gown on a black sculptural chair.",
+  "summaryEn": "High-fashion studio portrait of an elegant woman in a black gown on a black sculptural chair.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097548956251168916",
+    "canonicalUrl": "https://x.com/Elvorya/status/2097548956251168916",
+    "author": {
+      "username": "Elvorya",
+      "displayName": "Elvorya",
+      "profileUrl": "https://x.com/Elvorya"
+    },
+    "publishedAt": "2026-09-09T04:53:36.000Z",
+    "collectedAt": "2026-09-09T05:40:40.438Z",
+    "language": "en",
+    "originalText": "Nano Banana Pro\n\nPrompt:Ultra-realistic high-fashion studio portrait of an elegant woman seated gracefully against a dark charcoal-gray background. She wears a sophisticated black one-shoulder satin gown with subtle sparkling embellishments. Sleek, straight dark-brown hair brushed back neatly behind the shoulders. Refined glamorous makeup, softly defined brows, smoky brown eyeshadow, sharp eyeliner, long lashes, warm blush, glowing natural skin, and glossy nude rose lips. She wears elegant geometric silver drop earrings, multiple delicate silver rings, a slim bracelet, and a small ear cuff.\n\nPose: seated on a glossy black sculptural chair, one arm resting naturally across the chair and the other hand raised delicately beneath her chin, fingers relaxed and elegant. Long manicured nails with glossy black polish. Calm, confident direct gaze into the camera, sophisticated expression.\n\nProfessional luxury beauty photography, soft diffused key lighting, subtle rim light, deep shadows, high contrast, realistic skin texture, detailed facial features, polished editorial finish, cinematic atmosphere, sharp focus, 85mm portrait lens, shallow depth of field, premium fashion magazine aesthetic, photorealistic, 4K, vertical composition.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRv9p0cbAAAR-u5.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRv9p0cbAAAR-u5.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 15,
+      "repostCount": 1,
+      "replyCount": 11,
+      "quoteCount": 0,
+      "viewCount": 136
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Elvorya/status/2097548956251168916",
+  "coverUrl": "https://pbs.twimg.com/media/HRv9p0cbAAAR-u5.jpg",
+  "coverPath": "images/2097548956251168916-1.jpg",
+  "imagePaths": [
+    "images/2097548956251168916-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRv9p0cbAAAR-u5",
+    "x-post:2097548956251168916"
+  ],
+  "analysis": {
+    "summary": "High-fashion studio portrait of an elegant woman in a black gown on a black sculptural chair.",
+    "summaryEn": "High-fashion studio portrait of an elegant woman in a black gown on a black sculptural chair.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Matches the subject's pose, glossy black chair, one-shoulder dress, jewelry, and makeup style perfectly."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Ultra-realistic high-fashion studio portrait of an elegant woman seated gracefully against a dark charcoal-gray background. She wears a sophisticated black one-shoulder satin gown with subtle sparkling embellishments. Sleek, straight dark-brown hair brushed back neatly behind the shoulders. Refined glamorous makeup, softly defined brows, smoky brown eyeshadow, sharp eyeliner, long lashes, warm blush, glowing natural skin, and glossy nude rose lips. She wears elegant geometric silver drop earrings, multiple delicate silver rings, a slim bracelet, and a small ear cuff.\n\nPose: seated on a glossy black sculptural chair, one arm resting naturally across the chair and the other hand raised delicately beneath her chin, fingers relaxed and elegant. Long manicured nails with glossy black polish. Calm, confident direct gaze into the camera, sophisticated expression.\n\nProfessional luxury beauty photography, soft diffused key lighting, subtle rim light, deep shadows, high contrast, realistic skin texture, detailed facial features, polished editorial finish, cinematic atmosphere, sharp focus, 85mm portrait lens, shallow depth of field, premium fashion magazine aesthetic, photorealistic, 4K, vertical composition.",
+    "sourceRange": {
+      "start": 24,
+      "end": 1242
+    },
+    "translations": {
+      "zh": "超写实高端时尚摄影棚肖像，一位优雅女性端坐在深炭灰色背景前。她身着精致的黑色单肩缎面礼服，带有微妙的闪亮装饰。柔顺笔直的深棕色长发整齐梳向肩后。精致迷人的妆容，柔和的眉形，棕色烟熏眼影，利落的眼线，修长的睫毛，温暖的腮红，泛着自然光泽的肌肤，以及光泽感裸粉色双唇。佩戴典雅的几何银色吊坠耳环、多枚纤细银戒、细手镯和一只小耳骨夹。\n\n姿势：坐在光亮的黑色雕塑椅上，一只手臂自然搭在椅子上，另一只手轻抬于下巴下方，手指放松优美。涂有光泽黑甲油的长指甲。平静自信地直视镜头，表情成熟优雅。\n\n专业奢华美妆摄影，柔和漫射主光，微妙轮廓光，深邃阴影，高对比度，写实皮肤纹理，细腻面部细节，精致的杂志修饰风格，电影级氛围，清晰对焦，85毫米人像镜头，浅景深，高级时尚杂志美感，写实，4K，竖向构图。",
+      "en": "Ultra-realistic high-fashion studio portrait of an elegant woman seated gracefully against a dark charcoal-gray background. She wears a sophisticated black one-shoulder satin gown with subtle sparkling embellishments. Sleek, straight dark-brown hair brushed back neatly behind the shoulders. Refined glamorous makeup, softly defined brows, smoky brown eyeshadow, sharp eyeliner, long lashes, warm blush, glowing natural skin, and glossy nude rose lips. She wears elegant geometric silver drop earrings, multiple delicate silver rings, a slim bracelet, and a small ear cuff.\n\nPose: seated on a glossy black sculptural chair, one arm resting naturally across the chair and the other hand raised delicately beneath her chin, fingers relaxed and elegant. Long manicured nails with glossy black polish. Calm, confident direct gaze into the camera, sophisticated expression.\n\nProfessional luxury beauty photography, soft diffused key lighting, subtle rim light, deep shadows, high contrast, realistic skin texture, detailed facial features, polished editorial finish, cinematic atmosphere, sharp focus, 85mm portrait lens, shallow depth of field, premium fashion magazine aesthetic, photorealistic, 4K, vertical composition."
+    },
+    "targetModels": [
+      "nano-banana"
+    ],
+    "category": "text-to-image",
+    "useCase": "portrait",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
