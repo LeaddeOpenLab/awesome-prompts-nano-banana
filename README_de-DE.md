@@ -35,20 +35,36 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2097623415939076175"></a>
 
-### Übersetzung läuft
+### Prompt-Vorlage für Kampagnenfotos von Luxuslederwaren und Armbanduhren. Gibt eine Stillleben-Komposition mit schwerer Beleuchtung und Betonung handwerklicher Details vor.
 
 Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Originalbeitrag](https://x.com/AIGuideNote/status/2097623415939076175)
 
 Plakat / Flyer · Fotografie · Produkt · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt-Vorlage für Kampagnenfotos von Luxuslederwaren und Armbanduhren. Gibt eine Stillleben-Komposition mit schwerer Beleuchtung und Betonung handwerklicher Details vor.
 
 <img src="images/2097623415939076175-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+【Produkt- und Kampagneninformationen】
+・Werbetext: {goldText}
+・Marken-Slogan: {subtext}
+・Zielprodukte: {products}
+
+【Vorgaben für Bildqualität, Inszenierung und Komposition】
+・Stil: Stillleben-Produktfotografie für hochwertige High-End-Kataloge oder luxuriöse Magazin-Doppelseiten.
+・Motiv: {products}, platziert auf tiefem Vintage-Leder oder feinen, dunklen Texturen. Details, die handwerkliches Können spüren lassen (wie Nähte und gebürstete Metalloberflächen), sind wunderschön und detailreich dargestellt.
+・Beleuchtung und Farbgebung: Eine Farbpalette basierend auf tiefem Dunkelbraun, Schwarz und Messinggold. Warmes, bernsteinfarbenes Seitenlicht mit klassischen, schweren Schatten.
+・Textplatzierung (für GPT-image / Nano Banana Pro): Texte wie {goldText} und {subtext} sind unaufdringlich in einer feinen goldenen Schriftart als Typografie an einer ruhigen Position im Bild platziert.
+
+【Strenge Layout- und Ausgabebeschränkungen (Erforderlich)】
+・Geben Sie das fertige Design selbst vollflächig über die gesamte Leinwand aus. Hintergründe oder Szenenelemente innerhalb des Designs (Wände, Räume, Schatten usw.) dürfen den Anweisungen im Haupttext folgen.
+・Verbote: Fotos des fertigen Posters in Bilderrahmen, Fotos des Posters an einer Wand, Mockup-Fotos auf einem Schreibtisch oder Papier, perspektivische Verzerrungen der Papierkanten oder Schlagschatten.
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・Seitenverhältnis: --ar 3:4
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

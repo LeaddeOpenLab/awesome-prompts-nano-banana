@@ -35,20 +35,36 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 <a name="prompt-2097623415939076175"></a>
 
-### Traducción en curso
+### Plantilla de prompt para fotografía de campañas de productos de cuero de lujo o relojes. Especifica una composición de naturaleza muerta con iluminación sobria y énfasis en los detalles artesanales.
 
 Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Publicación original](https://x.com/AIGuideNote/status/2097623415939076175)
 
 Póster / Volante · Fotografía · Producto · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Plantilla de prompt para fotografía de campañas de productos de cuero de lujo o relojes. Especifica una composición de naturaleza muerta con iluminación sobria y énfasis en los detalles artesanales.
 
 <img src="images/2097623415939076175-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+【Información del producto y la campaña】
+・Texto destacado: {goldText}
+・Eslogan de marca: {subtext}
+・Productos objetivo: {products}
+
+【Especificaciones de calidad de imagen, ambientación y composición】
+・Estilo: Fotografía de producto de naturaleza muerta (still life) digna de un catálogo de alta gama o una doble página de revista de lujo.
+・Sujeto: {products} dispuestos sobre cuero vintage profundo o texturas refinadas en tonos oscuros. Se aprecian detalles ricos y hermosos que evocan el trabajo artesanal (como costuras y acabado metálico cepillado).
+・Iluminación y color: Paleta de colores dominada por tonos marrones oscuros profundos, negro y oro latón. Iluminación lateral cálida en tonos ámbar, con sombras clásicas y sobrias.
+・Disposición del texto (para GPT-image / Nano Banana Pro): Textos como {goldText} y {subtext} dispuestos discretamente con tipografía dorada en fuentes delgadas, situados en una zona equilibrada de la pantalla.
+
+【Restricciones estrictas de diseño y salida (Obligatorio)】
+・Genere el diseño final directamente, llenando todo el lienzo. Los fondos o elementos escénicos dentro del diseño (paredes, espacios, sombras, etc.) deben seguir las indicaciones del texto principal.
+・Prohibiciones: Fotografías del póster final enmarcado, fotos pegadas en una pared, maquetas sobre escritorios o papel, distorsiones de perspectiva en los bordes del papel o sombras paralelas externas.
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・Relación de aspecto: --ar 3:4
 ```
 
 [↑ Volver a categorías](#catalog)

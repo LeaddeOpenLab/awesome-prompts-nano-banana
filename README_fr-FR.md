@@ -35,20 +35,36 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2097623415939076175"></a>
 
-### Traduction en cours
+### Modèle de prompt pour photos de campagne de produits en cuir de luxe et de montres. Définit une composition de nature morte mettant en valeur un éclairage profond et les détails de l'artisanat.
 
 Auteur：[@AIGuideNote](https://x.com/AIGuideNote) · [Publication originale](https://x.com/AIGuideNote/status/2097623415939076175)
 
 Affiche / Flyer · Photographie · Produit · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Modèle de prompt pour photos de campagne de produits en cuir de luxe et de montres. Définit une composition de nature morte mettant en valeur un éclairage profond et les détails de l'artisanat.
 
 <img src="images/2097623415939076175-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+【Informations sur le produit et la campagne】
+・Texte d'accroche : {goldText}
+・Slogan de la marque : {subtext}
+・Produits ciblés : {products}
+
+【Spécifications de qualité d'image, de mise en scène et de composition】
+・Style : Photographie de produit en nature morte (still life) digne d'un catalogue de haute marque ou d'une double page de magazine de luxe.
+・Sujet : {products} disposés sur du cuir vintage profond ou des textures raffinées aux tons sombres. Les détails évoquant le savoir-faire artisanal (coutures, finitions en métal brossé, etc.) sont représentés avec finesse et richesse.
+・Éclairage et couleurs : Palette de couleurs dominée par des bruns sombres profonds, du noir et de l'or laiton. Éclairage latéral chaleureux aux tons ambrés, ombres classiques et profondes.
+・Disposition du texte (pour GPT-image / Nano Banana Pro) : Les textes {goldText} et {subtext} sont disposés avec discrétion dans une typographie dorée aux polices fines, à un emplacement posé de l'image.
+
+【Contraintes strictes de mise en page et de sortie (Obligatoire)】
+・Veuillez générer le design final lui-même, remplissant l'intégralité de la toile. Les arrière-plans ou éléments de scène à l'intérieur du design (murs, espaces, ombres, etc.) peuvent suivre les instructions du texte principal.
+・Interdictions : Photos de l'affiche finale dans un cadre, photos affichées sur un mur, photos de maquettes posées sur un bureau ou sur du papier, déformations de perspective des bords du papier ou ombres portées.
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・Format d'image : --ar 3:4
 ```
 
 [↑ Retour aux catégories](#catalog)

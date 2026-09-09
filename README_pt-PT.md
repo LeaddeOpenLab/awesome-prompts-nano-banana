@@ -35,20 +35,36 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2097623415939076175"></a>
 
-### Tradução em curso
+### Modelo de prompt para fotografias de campanha de relógios e artigos de couro de luxo. Define uma composição de still life que destaca a iluminação imponente e os pormenores artesanais.
 
 Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Publicação original](https://x.com/AIGuideNote/status/2097623415939076175)
 
 Pôster / Folheto · Fotografia · Produto · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Modelo de prompt para fotografias de campanha de relógios e artigos de couro de luxo. Define uma composição de still life que destaca a iluminação imponente e os pormenores artesanais.
 
 <img src="images/2097623415939076175-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+【Informações do produto e da campanha】
+・Texto promocional: {goldText}
+・Slogan da marca: {subtext}
+・Produtos-alvo: {products}
+
+【Especificações de qualidade de imagem, encenação e composição】
+・Estilo: Fotografia de produto em natureza-morta (still life) digna de catálogo de alta marca ou página dupla de revista de luxo.
+・Objeto: {products} posicionados sobre couro vintage profundo ou texturas refinadas de tons escuros. Pormenores que transmitem o trabalho artesanal (como pespontos e acabamento de metal escovado) são retratados de forma magnífica e rica em detalhes.
+・Iluminação e cores: Paleta de cores baseada em castanho-escuro profundo, preto e ouro-latão. Luz lateral quente em tom âmbar, sombras clássicas e imponentes.
+・Posicionamento do texto (para GPT-image / Nano Banana Pro): Textos como {goldText} e {subtext} são dispostos discretamente com tipografia dourada em tipos finos, situados numa posição equilibrada da imagem.
+
+【Restrições rigorosas de paginação e saída (Obrigatório)】
+・Gere o design final em si, preenchendo todo o ecrã. Os fundos ou elementos de cena no interior do design (paredes, espaços, sombras, etc.) podem seguir as instruções do corpo do texto.
+・Proibições: Fotografias do cartaz final numa moldura, fotografias coladas numa parede, fotografias de maquetes (mockups) em cima de uma secretária ou de papel, distorções de perspetiva nos bordos do papel ou sombras projetadas.
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・Proporção de aspeto: --ar 3:4
 ```
 
 [↑ Voltar às categorias](#catalog)

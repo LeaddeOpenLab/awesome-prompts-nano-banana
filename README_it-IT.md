@@ -35,20 +35,36 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2097623415939076175"></a>
 
-### Traduzione in corso
+### Template di prompt per fotografie di campagne pubblicitarie di prodotti in pelle di lusso e orologi. Specifica una composizione still life con illuminazione profonda e valorizzazione dei dettagli artigianali.
 
 Autore：[@AIGuideNote](https://x.com/AIGuideNote) · [Post originale](https://x.com/AIGuideNote/status/2097623415939076175)
 
 Poster / Volantino · Fotografia · Prodotto · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Template di prompt per fotografie di campagne pubblicitarie di prodotti in pelle di lusso e orologi. Specifica una composizione still life con illuminazione profonda e valorizzazione dei dettagli artigianali.
 
 <img src="images/2097623415939076175-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+【Informazioni sul prodotto e sulla campagna】
+・Testo promozionale: {goldText}
+・Slogan del brand: {subtext}
+・Prodotti di riferimento: {products}
+
+【Specifiche di qualità dell'immagine, resa visiva e composizione】
+・Stile: Fotografia di prodotto still life degna di un catalogo di alta moda o dell'inserto centrale di una rivista di lusso.
+・Soggetto: {products} posizionati su pelle vintage intensa o texture scure raffinate. I dettagli che richiamano l'artigianalità (come cuciture e lavorazioni in metallo spazzolato) sono resi in modo magnifico e dettagliato.
+・Illuminazione e colori: Palette cromatica basata su marroni scuri profondi, nero e oro ottone. Luce laterale calda dalle tonalità ambrate, ombre classiche e corpose.
+・Disposizione del testo (per GPT-image / Nano Banana Pro): I testi {goldText} e {subtext} sono disposti con discrezione tramite tipografia con font dorati e sottili, collocati in una posizione armoniosa dell'inquadratura.
+
+【Vincoli rigorosi di layout e di output (Obbligatorio)】
+・Generare il design finito in sé, riempiendo l'intera tela. Lo sfondo o gli elementi di scena all'interno del design (pareti, ambienti, ombre, ecc.) possono seguire le indicazioni del testo principale.
+・Elementi proibiti: Foto del poster finito inserito in una cornice, foto del poster appeso a una parete, foto mockup posizionate su una scrivania o su un foglio di carta, distorsioni prospettiche dei bordi della carta o ombre esterne.
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・Proporzioni: --ar 3:4
 ```
 
 [↑ Torna alle categorie](#catalog)

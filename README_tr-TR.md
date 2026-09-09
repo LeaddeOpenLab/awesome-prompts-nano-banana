@@ -35,20 +35,36 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2097623415939076175"></a>
 
-### Çeviri sürüyor
+### Lüks deri ürünler ve kol saatleri kampanya fotoğrafları için prompt şablonu. Ağırbaşlı ışıklandırmayı ve zanaatkarlık detaylarını vurgulayan natürmort kompozisyonunu belirtir.
 
 Yazar：[@AIGuideNote](https://x.com/AIGuideNote) · [Orijinal gönderi](https://x.com/AIGuideNote/status/2097623415939076175)
 
 Poster / El İlanı · Fotoğrafçılık · Ürün · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Lüks deri ürünler ve kol saatleri kampanya fotoğrafları için prompt şablonu. Ağırbaşlı ışıklandırmayı ve zanaatkarlık detaylarını vurgulayan natürmort kompozisyonunu belirtir.
 
 <img src="images/2097623415939076175-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+【Ürün ve Kampanya Bilgileri】
+・Dikkat çekici metin: {goldText}
+・Marka sloganı: {subtext}
+・Hedef ürünler: {products}
+
+【Görüntü Kalitesi, Sahneleme ve Kompozisyon Özellikleri】
+・Stil: Lüks, üst segment markaların kataloglarına veya lüks dergilerin çift sayfa yayılımlarına uygun natürmort (still life) ürün fotoğrafçılığı.
+・Özne: Derin vintage deri veya ince, koyu tonlu dokular üzerine yerleştirilmiş {products}. Usta işçiliği hissettiren detaylar (dikişler veya fırçalanmış metal yüzey gibi) zengin ve güzel ayrıntılarla tasvir edilmiştir.
+・Aydınlatma ve Renkler: Derin koyu kahve, siyah ve pirinç altını temel alan bir renk paleti. Kehribar tonlarında sıcak yan ışık, klasik ve ağırbaşlı gölgeler.
+・Metin Yerleşimi (GPT-image / Nano Banana Pro için): {goldText} ve {subtext} metinleri, ince altın renkli yazı tipleriyle tipografi olarak görselin sakin bir köşesine zarifçe yerleştirilmiştir.
+
+【Katı Düzen ve Çıktı Kısıtlamaları (Zorunlu)】
+・Tüm tuvali kaplayacak şekilde doğrudan tamamlanmış 2D tasarımın kendisini çıktı olarak verin. Tasarımın içindeki arka plan veya sahne tasvirleri (duvarlar, mekanlar, gölgeler vb.) metindeki talimatlara uygun olabilir.
+・Yasaklar: Tamamlanmış posterin çerçeve içindeki fotoğrafları, duvara asılmış haldeki fotoğraflar, masa veya kağıt üzerine yerleştirilmiş maket (mockup) fotoğrafları, kağıt kenarlarının perspektif bozulmaları veya alt gölgeler.
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・En-Boy Oranı: --ar 3:4
 ```
 
 [↑ Kategorilere dön](#catalog)
