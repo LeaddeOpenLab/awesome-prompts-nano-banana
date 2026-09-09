@@ -106,13 +106,13 @@ Plakat / Flyer · Kinematisch / Filmstill · Landschaft / Natur · Text / Typogr
 
 <a name="prompt-2097524090735075539"></a>
 
-### Übersetzung läuft
+### Ein Prompt für ein erstklassiges filmisches Modeporträt, das eine elegante Frau inmitten übergroßer, leuchtend roter Mohnblumen im warmen Licht der goldenen Stunde darstellt.
 
 Autor：[@codewithhajra](https://x.com/codewithhajra) · [Originalbeitrag](https://x.com/codewithhajra/status/2097524090735075539)
 
 Fotografie · Kinematisch / Filmstill · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein Prompt für ein erstklassiges filmisches Modeporträt, das eine elegante Frau inmitten übergroßer, leuchtend roter Mohnblumen im warmen Licht der goldenen Stunde darstellt.
 
 <img src="images/2097524090735075539-1.jpg" alt="Bild 1" width="480" />
 
@@ -121,7 +121,13 @@ Fotografie · Kinematisch / Filmstill · Porträt / Selfie · Charakter · Modea
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein atemberaubendes, ultrafotorealistisches, filmisches Modeporträt einer eleganten erwachsenen Frau, umgeben von riesigen, leuchtend roten Mohnblumen, aufgenommen in einer verträumten redaktionellen Gartenkulisse. Sie hat helle, leuchtende Haut mit realistischer natürlicher Textur, sanft gerötete Wangen, feine symmetrische Gesichtszüge, ausdrucksstarke hellblau-graue Augen, zarte Brauen, definierte Wimpern, eine anmutige gerade Nase und natürlich volle, glänzende nuderosafarbene Lippen. Ihr Ausdruck ist ruhig, gelassen und subtil fesselnd, mit direktem Blick in die Kamera.
+Ihr langes, goldblondes Haar ist akkurat mittig gescheitelt und glatt nach hinten genommen, wobei feine einzelne Strähnen das Sonnenlicht einfangen. Riesige scharlachrote Mohnblumen umrahmen die linke Seite ihres Gesichts und überlappen teilweise ihr Haar, während zusätzliche übergroße rote Blumen den Vorder- und Hintergrund ausfüllen und eine dramatische florale Komposition schaffen.
+Sie trägt ein exquisites, zart puderrosafarbenes Couture-Kleid aus leichtem plissiertem Chiffon/Tüll. Das Kleid zeichnet sich durch einen übertrieben hohen, viktorianisch inspirierten Rüschenkragen um ihren Hals, feine vertikale Plissees, voluminöse skulpturale Schultern und fließende Lagen aus durchscheinendem Stoff aus, die wunderschön kaskadenartig über den unteren Bildausschnitt fallen. Der zarte Stoff fängt das Sonnenlicht ein und erzeugt weiche Glanzlichter, Schatten, Falten und eine subtile Transparenz.
+Warmes Sonnenlicht der goldenen Stunde beleuchtet ihr Gesicht von der Seite und erzeugt eine strahlende pfirsichrosa Atmosphäre, leuchtende Hautglanzlichter, sanfte Gesichtsschatten und satte rote Reflexionen der Blumen. Hinter ihr befindet sich ein klarer pastellblauer Himmel mit einem sanft verschwommenen Horizont und endlosen Feldern roter Blumen.
+Komposition: Nahaufnahme bis mittleres Modeporträt, zentriertes Gesicht, vertikaler 4:5-Bildausschnitt, Blumen rahmen das Motiv dramatisch ein, geringe Schärfentiefe, Blütenblätter im Vordergrund für Tiefe sanft unscharf, filmische Trennung zwischen Motiv und Hintergrund.
+Stil: High-End-Luxusmode-Editorial, verträumte romantische Kunstfotografie, fotorealistisch, anspruchsvolles Color Grading, natürliche Hauttextur, realistische Stoffphysik, aufwendige Blumendetails, weiche atmosphärische Tiefe, filmische Beleuchtung, feines Filmkorn, HDR, 8K-Details, 85-mm-Porträtobjektiv, f/1.8, professionelle Fotografie in Studioqualität.
+Negativ-Prompt: Cartoon, Anime, Illustration, Plastikhaut, übermäßiges Make-up, verzerrtes Gesicht, asymmetrische Augen, missgebildete Hände, zusätzliche Finger, doppelte Blumen, unnatürliches Haar, übersättigte Farben, verschwommenes Gesicht, niedrige Auflösung, harte Schatten, künstliche Haut, Text, Wasserzeichen, Logo.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

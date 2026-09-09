@@ -106,13 +106,13 @@ Traduzione in corso
 
 <a name="prompt-2097524090735075539"></a>
 
-### Traduzione in corso
+### Un prompt per un ritratto di moda cinematografico di alto livello che raffigura un'elegante donna tra papaveri rosso vivo oversize nella calda luce della golden hour.
 
 Autore：[@codewithhajra](https://x.com/codewithhajra) · [Post originale](https://x.com/codewithhajra/status/2097524090735075539)
 
 Fotografia · Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un prompt per un ritratto di moda cinematografico di alto livello che raffigura un'elegante donna tra papaveri rosso vivo oversize nella calda luce della golden hour.
 
 <img src="images/2097524090735075539-1.jpg" alt="Immagine 1" width="480" />
 
@@ -121,7 +121,13 @@ Fotografia · Fermo immagine cinematografico / Still fotografico · Ritratto / S
 **Prompt**
 
 ```text
-Traduzione in corso
+Uno spettacolare ritratto di moda cinematografico ultra-fotorealistico di un'elegante donna adulta circondata da enormi fiori di papavero rosso vivo, catturato in un'ambientazione da giardino editoriale e sognante. Ha una pelle chiara e luminosa con una grana naturale realistica, guance leggermente arrossate, tratti del viso simmetrici e raffinati, espressivi occhi grigio-azzurri chiari, sopracciglia delicate, ciglia definite, un naso dritto e aggraziato e labbra rosa nude naturalmente piene e lucide. La sua espressione è calma, serena e sottilmente accattivante, mentre guarda direttamente nella fotocamera.
+I suoi lunghi capelli biondo dorato hanno una scriminatura netta al centro e sono tirati morbidamente indietro, con singole ciocche sottili che catturano la luce del sole. Papaveri giganti rosso scarlatto incorniciano il lato sinistro del suo viso e si sovrappongono parzialmente ai suoi capelli, mentre altri fiori rossi oversize riempiono il primo piano e lo sfondo, creando una drammatica composizione floreale.
+Indossa uno squisito abito couture rosa cipria tenue realizzato in leggero chiffon/tulle plissettato. L'abito presenta un esagerato colletto alto a balze di ispirazione vittoriana che circonda il collo, una complessa plissettatura verticale, voluminose spalle scultoree e strati fluidi di tessuto traslucido che scendono a cascata magnificamente attraverso la parte inferiore dell'inquadratura. Il delicato tessuto cattura la luce del sole e crea morbidi riflessi di luce, ombre, pieghe e una sottile trasparenza.
+La calda luce solare della golden hour illumina il suo viso lateralmente, producendo una luminosa atmosfera rosa pesca, lucentezze radiose sulla pelle, delicate ombre sul viso e ricchi riflessi rossi provenienti dai fiori. Dietro di lei c'è un limpido cielo blu pastello con un orizzonte morbidamente sfocato e infiniti campi di fiori rossi.
+Composizione: ritratto di moda da primo piano a mezzo busto, viso centrato, inquadratura verticale 4:5, fiori che incorniciano teatralmente il soggetto, profondità di campo ridotta, petali in primo piano leggermente sfocati per dare profondità, separazione cinematografica tra soggetto e sfondo.
+Stile: editoriale di moda di lusso di alto livello, fotografia artistica romantica e sognante, fotorealistico, sofisticata gradazione del colore, texture naturale della pelle, fisica dei tessuti realistica, dettagli floreali intricati, morbida profondità atmosferica, illuminazione cinematografica, sottile grana della pellicola, HDR, dettagli in 8K, obiettivo da ritratto da 85 mm, f/1.8, fotografia professionale di qualità da studio.
+Prompt negativo: cartone animato, anime, illustrazione, pelle di plastica, trucco eccessivo, viso distorto, occhi asimmetrici, mani malformate, dita in più, fiori duplicati, capelli innaturali, colori sovrasaturi, viso sfocato, bassa risoluzione, ombre dure, pelle artificiale, testo, filigrana, logo.
 ```
 
 [↑ Torna alle categorie](#catalog)

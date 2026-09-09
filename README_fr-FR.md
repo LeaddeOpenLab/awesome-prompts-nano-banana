@@ -106,13 +106,13 @@ Traduction en cours
 
 <a name="prompt-2097524090735075539"></a>
 
-### Traduction en cours
+### Un prompt de portrait de mode cinématographique haut de gamme représentant une femme élégante au milieu de coquelicots rouge vif surdimensionnés sous la lumière chaude de l'heure dorée.
 
 Auteur：[@codewithhajra](https://x.com/codewithhajra) · [Publication originale](https://x.com/codewithhajra/status/2097524090735075539)
 
 Photographie · Image cinématographique / Photogramme de film · Portrait / Selfie · Personnage · Article de mode · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un prompt de portrait de mode cinématographique haut de gamme représentant une femme élégante au milieu de coquelicots rouge vif surdimensionnés sous la lumière chaude de l'heure dorée.
 
 <img src="images/2097524090735075539-1.jpg" alt="Image 1" width="480" />
 
@@ -121,7 +121,13 @@ Photographie · Image cinématographique / Photogramme de film · Portrait / Sel
 **Consigne**
 
 ```text
-Traduction en cours
+Un portrait de mode cinématographique ultra-photoréaliste à couper le souffle d'une femme adulte élégante entourée d'énormes fleurs de coquelicot rouge vif, capturé dans un décor de jardin éditorial de rêve. Elle a une peau claire et lumineuse avec un grain naturel réaliste, des joues légèrement rosées, des traits du visage symétriques et raffinés, des yeux expressifs bleu-gris clair, des sourcils délicats, des cils définis, un nez droit gracieux et des lèvres nude-rose naturellement pulpeuses et brillantes. Son expression est calme, sereine et subtilement captivante, regardant directement l'objectif.
+Ses longs cheveux blond doré sont soigneusement séparés par une raie au milieu et lissés vers l'arrière, de fines mèches individuelles captant la lumière du soleil. De gigantesques coquelicots rouge écarlate encadrent le côté gauche de son visage et recouvrent partiellement ses cheveux, tandis que d'autres fleurs rouges surdimensionnées remplissent le premier plan et l'arrière-plan, créant une composition florale spectaculaire.
+Elle porte une exquise robe couture rose poudré doux confectionnée en mousseline/tulle plissé léger. La robe présente un col montant à volants exagéré d'inspiration victorienne entourant son cou, des plis verticaux complexes, des épaules sculpturales volumineuses et des couches fluides de tissu translucide qui cascadent magnifiquement à travers le bas du cadre. Le tissu délicat capte la lumière du soleil et crée de doux reflets, des ombres, des plis et une subtile transparence.
+La lumière chaude de l'heure dorée illumine son visage de côté, produisant une atmosphère pêche-rose éclatante, des reflets de peau lumineux, de douces ombres sur le visage et de riches reflets rouges provenant des fleurs. Derrière elle s'étend un ciel bleu pastel clair avec un horizon doucement flouté et des champs infinis de fleurs rouges.
+Composition : portrait de mode en gros plan à plan moyen, visage centré, cadrage vertical 4:5, fleurs encadrant le sujet de façon spectaculaire, faible profondeur de champ, pétales au premier plan légèrement floutés pour la profondeur, séparation cinématographique entre le sujet et l'arrière-plan.
+Style : éditorial de mode de luxe haut de gamme, photographie d'art romantique et onirique, photoréaliste, étalonnage des couleurs sophistiqué, grain de peau naturel, physique des tissus réaliste, détails floraux complexes, douce profondeur atmosphérique, éclairage cinématographique, subtil grain argentique, HDR, détails 8K, objectif portrait 85 mm, f/1.8, photographie professionnelle de qualité studio.
+Prompt négatif : dessin animé, anime, illustration, peau en plastique, maquillage excessif, visage déformé, yeux asymétriques, mains malformées, doigts supplémentaires, fleurs dupliquées, cheveux non naturels, couleurs sursaturées, visage flou, basse résolution, ombres dures, peau artificielle, texte, filigrane, logo.
 ```
 
 [↑ Retour aux catégories](#catalog)
