@@ -14,7 +14,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**8** Prompts · Última incorporación: **2026-09-09**
+**9** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -130,20 +130,64 @@ Traducción en curso
 
 <a name="prompt-2097237465887338994"></a>
 
-### Traducción en curso
+### TÍTULO: Storyboard para Anuncio Comercial de Bebida Espumosa de Limón Premium FORMATO: • Storyboard premium de una sola página • Proporción vertical 3:4 • Campaña de bebida de lujo • 8 escenas cinematográficas centradas en el producto • El producto se mantiene como el protagonista visual • Presentación comercial de alta gama
 
 Autor：[@Strength04\_X](https://x.com/Strength04_X) · [Publicación original](https://x.com/Strength04_X/status/2097237465887338994)
 
 Cómic / Guion gráfico · Marketing de producto · Cine / Fotograma de película · Retrato / Selfie · Producto · Comida / Bebida · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** TÍTULO: Storyboard para Anuncio Comercial de Bebida Espumosa de Limón Premium FORMATO: • Storyboard premium de una sola página • Proporción vertical 3:4 • Campaña de bebida de lujo • 8 escenas cinematográficas centradas en el producto • El producto se mantiene como el protagonista visual • Presentación comercial de alta gama
 
 <img src="covers/2097237465887338994.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+TÍTULO:
+Storyboard para Anuncio Comercial de Bebida Espumosa de Limón Premium
+
+FORMATO:
+• Storyboard premium de una sola página
+• Proporción vertical 3:4
+• Campaña de bebida de lujo
+• 8 escenas cinematográficas centradas en el producto
+• El producto se mantiene como el protagonista visual
+• Presentación comercial de alta gama
+
+ENCABEZADO:
+• Tipografía contemporánea y llamativa
+• Tarjetas de información:
+  - Duración: 20 segundos
+  - Estilo: Anuncio cinematográfico de bebidas a alta velocidad
+  - Producto: Bebida espumosa de limón
+  - Audio: Efervescencia + crujido de hielo + ASMR de líquido
+• Sección «Por qué funciona este estilo»
+• Estética en blanco cristalino, amarillo limón y plateado
+• Acentos gráficos minimalistas inspirados en cítricos
+
+STORYBOARD:
+1. Botella helada de pie en solitario con una densa condensación
+2. Macro extremo de gotas de agua deslizándose por la botella
+3. Apertura de la chapa de la botella con un estallido dramático de gas carbónico
+4. Bebida espumosa explotando hacia arriba en una salpicadura líquida controlada
+5. Rodajas de limón girando a través del líquido efervescente
+6. Cubitos de hielo cayendo en un vaso de cristal en cámara ultra lenta
+7. Macro extremo que muestra miles de burbujas de carbonatación subiendo a través de la bebida
+8. Packshot final icónico con la botella, el vaso, las rodajas de limón y una salpicadura congelada rodeando el producto
+
+CADA VIÑETA:
+• Número de escena
+• Insignia de duración
+• Dirección de cámara
+• Visual
+• Acción
+• Detalle del producto
+
+CÁMARA:
+Fotografía de líquidos a alta velocidad a 120 fps, macro extremo, salpicadura congelada, rodajas de limón en rotación, retroiluminación dramática, primer plano de condensación, movimiento de producto suave en 360°.
+
+ESTILO:
+Anuncio comercial de bebidas premium ultrarrealista, líquido cristalino, carbonatación explosiva, gotas de agua físicamente precisas
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -181,6 +225,28 @@ Traducción en curso
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2097547198523388128"></a>
+
+### Traducción en curso
+
+Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Publicación original](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Marketing de producto · Póster / Folleto · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097547198523388128-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097548956251168916"></a>
 

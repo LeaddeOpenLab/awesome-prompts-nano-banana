@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**8** Prompts · Latest addition: **2026-09-09**
+**9** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -257,6 +257,45 @@ A breathtaking vertical view of a futuristic metropolis floating gracefully abov
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097547198523388128"></a>
+
+### High-End Cosmetics &amp; Fragrance Launch Advertising Poster Design Prompt Template
+
+Author：[@AIGuideNote](https://x.com/AIGuideNote) · [Source](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Product Marketing · Poster / Flyer · Published
+
+**Summary:** High-End Cosmetics &amp; Fragrance Launch Advertising Poster Design Prompt Template
+
+<img src="images/2097547198523388128-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+[Brand & Product Copy]
+- Main copy: {copy}
+- Product features & sub-copy: {subtext}
+- Brand collection name: {brandName}
+
+[Image Quality, Staging & Composition Specifications]
+- Style: Live-action beauty advertisement photo for high-end luxury cosmetic brands (such as CHANEL, DIOR, SHISEIDO, etc.).
+- Subject: Close-up of a female model's glossy, alluring lips or radiant skin, or a luxurious rouge (lipstick) or beauty serum bottle.
+- Background: Elegant, deep textures such as satin fabric, reflective black water surfaces, or marble.
+- Color & Lighting: Dramatic, gorgeous color palette emphasizing contrasts such as deep red (red of destiny), jet black, and gold. Highlighting glossiness and three-dimensionality with spotlights.
+- Typography (for GPT-image / Nano Banana Pro): The messages "{copy}" and "{subtext}", along with the brand name "{brandName}", are tastefully laid out in an extremely elegant, slender serif font.
+
+[Strict Layout and Output Constraints (Mandatory)]
+- Output the finished design itself, filling the entire canvas edge-to-edge. Interior backgrounds and scene depictions within the design (walls, spaces, shadows, etc.) may follow the instructions in the text.
+- Prohibited: Photos of the finished poster inside a picture frame, photos of it affixed to a wall, mockup photos placed on a desk or paper, perspective distortion of paper edges, or drop shadows.
+- Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+- Aspect Ratio: --ar 3:4
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097548956251168916"></a>
 

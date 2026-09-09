@@ -14,7 +14,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**8** Prompt · Son eklenen: **2026-09-09**
+**9** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -181,6 +181,28 @@ Siberpunk / Bilim Kurgu · Yayımlandı
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2097547198523388128"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AIGuideNote](https://x.com/AIGuideNote) · [Orijinal gönderi](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Ürün Pazarlaması · Poster / El İlanı · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097547198523388128-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097548956251168916"></a>
 

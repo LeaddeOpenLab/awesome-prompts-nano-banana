@@ -14,7 +14,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**8** Prompt · Bổ sung mới nhất: **2026-09-09**
+**9** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -130,20 +130,64 @@ Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh t�
 
 <a name="prompt-2097237465887338994"></a>
 
-### Đang dịch
+### TIÊU ĐỀ: Bảng Phân Cảnh Quảng Cáo Sản Phẩm Nước Chanh Có Ga Cao Cấp ĐỊNH DẠNG: • Bảng phân cảnh cao cấp một trang • Tỷ lệ khung hình dọc 3:4 • Chiến dịch đồ uống cao cấp • 8 cảnh quay chuẩn điện ảnh tập trung vào sản phẩm • Sản phẩm luôn là tâm điểm thị giác • Phong cách trình bày thương mại đẳng cấp
 
 Tác giả：[@Strength04\_X](https://x.com/Strength04_X) · [Bài gốc](https://x.com/Strength04_X/status/2097237465887338994)
 
 Truyện tranh / Bảng phân cảnh · Tiếp thị sản phẩm · Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Sản phẩm · Thực phẩm / Đồ uống · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** TIÊU ĐỀ: Bảng Phân Cảnh Quảng Cáo Sản Phẩm Nước Chanh Có Ga Cao Cấp ĐỊNH DẠNG: • Bảng phân cảnh cao cấp một trang • Tỷ lệ khung hình dọc 3:4 • Chiến dịch đồ uống cao cấp • 8 cảnh quay chuẩn điện ảnh tập trung vào sản phẩm • Sản phẩm luôn là tâm điểm thị giác • Phong cách trình bày thương mại đẳng cấp
 
 <img src="covers/2097237465887338994.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+TIÊU ĐỀ:
+Bảng Phân Cảnh Quảng Cáo Sản Phẩm Nước Chanh Có Ga Cao Cấp
+
+ĐỊNH DẠNG:
+• Bảng phân cảnh cao cấp một trang
+• Tỷ lệ khung hình dọc 3:4
+• Chiến dịch đồ uống cao cấp
+• 8 cảnh quay chuẩn điện ảnh tập trung vào sản phẩm
+• Sản phẩm luôn là tâm điểm thị giác
+• Phong cách trình bày thương mại đẳng cấp
+
+PHẦN ĐẦU TRANG:
+• Nghệ thuật chữ hiện đại, in đậm
+• Thẻ thông tin:
+  - Thời lượng: 20 giây
+  - Phong cách: Quảng cáo đồ uống phong cách điện ảnh tốc độ cao
+  - Sản phẩm: Nước chanh có ga
+  - Âm thanh: Tiếng sủi bọt + Tiếng nứt của đá + ASMR chất lỏng
+• Mục "Tại sao phong cách này hiệu quả"
+• Tính thẩm mỹ với tông màu trắng pha lê, vàng chanh và bạc
+• Chi tiết đồ họa tối giản lấy cảm hứng từ quả chi cam chanh
+
+BẢNG PHÂN CẢNH:
+1. Chai nước lạnh băng đứng một mình với những giọt nước ngưng tụ dày đặc
+2. Cận cảnh cực đại (extreme macro) các giọt nước trượt xuống thân chai
+3. Nắp chai mở ra với sự bùng nổ đầy kịch tính của bọt khí có ga
+4. Đồ uống có ga bùng nổ vọt lên trên thành làn nước bắn tung tóe có kiểm soát
+5. Các lát chanh xoay tròn xuyên qua dòng chất lỏng có ga
+6. Những viên đá rơi vào ly pha lê ở chế độ chuyển động cực chậm (ultra slow motion)
+7. Cận cảnh cực đại hiển thị hàng ngàn bọt khí có ga đang dâng lên trong lòng thức uống
+8. Khung hình chụp sản phẩm chính (hero packshot) hoàn chỉnh với chai, ly, các lát chanh và làn nước bắn đóng băng bao quanh sản phẩm
+
+TRÊN MỖI KHUNG HÌNH:
+• Số thứ tự cảnh
+• Huy hiệu thời lượng
+• Hướng chuyển động máy quay
+• Hình ảnh
+• Hành động
+• Chi tiết sản phẩm
+
+CHIỀU HƯỚNG MÁY QUAY:
+Nhiếp ảnh chất lỏng tốc độ cao 120fps, cận cảnh cực đại, nước bắn đóng băng, các lát chanh xoay tròn, ánh sáng ngược kịch tính, cận cảnh giọt nước ngưng tụ, chuyển động xoay quanh sản phẩm 360° mượt mà.
+
+PHONG CÁCH:
+Quảng cáo đồ uống cao cấp siêu thực, chất lỏng trong suốt như pha lê, bọt khí bùng nổ, các giọt nước chính xác về mặt vật lý
 ```
 
 [↑ Về danh mục](#catalog)
@@ -181,6 +225,28 @@ Cyberpunk / Khoa học viễn tưởng · Đã xuất bản
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2097547198523388128"></a>
+
+### Đang dịch
+
+Tác giả：[@AIGuideNote](https://x.com/AIGuideNote) · [Bài gốc](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Tiếp thị sản phẩm · Áp phích / Tờ rơi · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097547198523388128-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097548956251168916"></a>
 

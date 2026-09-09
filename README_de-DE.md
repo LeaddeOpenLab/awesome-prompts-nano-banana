@@ -14,7 +14,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**8** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**9** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -181,6 +181,28 @@ Cyberpunk / Sci-Fi · Veröffentlicht
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2097547198523388128"></a>
+
+### Übersetzung läuft
+
+Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Originalbeitrag](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Produktmarketing · Plakat / Flyer · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097547198523388128-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2097548956251168916"></a>
 
