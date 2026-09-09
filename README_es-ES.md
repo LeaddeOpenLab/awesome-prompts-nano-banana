@@ -133,13 +133,13 @@ Traducción en curso
 
 <a name="prompt-2097549831489405424"></a>
 
-### Traducción en curso
+### Prompt de póster cinematográfico de viajes alpinos 9:16 con lago de montaña, viajero en el muelle y tipografía de revista.
 
 Autor：[@aniyaintel](https://x.com/aniyaintel) · [Publicación original](https://x.com/aniyaintel/status/2097549831489405424)
 
 Póster / Folleto · Cine / Fotograma de película · Paisaje / Naturaleza · Texto / Tipografía · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de póster cinematográfico de viajes alpinos 9:16 con lago de montaña, viajero en el muelle y tipografía de revista.
 
 <img src="images/2097549831489405424-1.jpg" alt="Imagen 1" width="480" />
 
@@ -152,7 +152,29 @@ Póster / Folleto · Cine / Fotograma de película · Paisaje / Naturaleza · Te
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un póster editorial de viajes cinematográfico, hiperrealista y de primera calidad en formato vertical 9:16.
+
+Escena: Un impresionante lago de montaña alpino con agua turquesa cristalina, rodeado de espectaculares montañas cubiertas de nieve, densos bosques de pinos perennes y empinados acantilados rocosos. El lago refleja perfectamente las montañas y el cielo. Una pequeña cabaña rústica de madera se encuentra cerca de la orilla derecha, mientras que un bote de remos de madera tradicional está atado junto a un muelle de madera en primer plano.
+
+En el centro del primer plano, muestra a un viajero solitario sentado en el muelle de madera de espaldas a la cámara, mirando pacíficamente hacia las montañas. El viajero viste un sombrero marrón de ala ancha, una chaqueta para actividades al aire libre color naranja tostado, una mochila de senderismo beige/marrón y ropa informal para exteriores en tonos neutros. Proporciones naturales y realistas, y textura sutil en la ropa.
+
+Composición: Fotografía cinematográfica de gran angular, el viajero colocado en la parte inferior central, el bote en la parte inferior derecha, el amplio lago y las montañas dominando el fondo. Fuerte profundidad, perspectiva natural, paisaje en capas, atmósfera pacífica y aventurera.
+
+Iluminación: Suave luz dorada de la mañana, cielo azul brillante con nubes dispersas y esponjosas, sutil bruma atmosférica alrededor de las montañas, luz solar realista y sombras naturales. Colores ricos pero auténticos, agua turquesa, primer plano en marrón tierra, bosque verde exuberante, montañas de un azul frío.
+
+Tipografía: Añade una elegante tipografía de póster de viajes sobre la parte superior de la imagen:
+
+Texto pequeño en mayúsculas: “COLLECT”
+Texto grande y elegante manuscrito/cursiva: “Moments”
+Texto mediano en mayúsculas debajo: “NOT THINGS”
+Líneas horizontales decorativas minimalistas con un pequeño símbolo de corazón
+Eslogan pequeño en mayúsculas: “TRAVEL • EXPLORE • LIVE”
+
+Utiliza una tipografía sofisticada en verde azulado oscuro, espaciado limpio, diseño editorial premium, jerarquía equilibrada, texto muy legible y una decoración minimalista de buen gusto.
+
+Estilo: Revista de viajes de lujo, fotografía cinematográfica, ultradetallada, fotorrealista, fotografía profesional réflex digital (DSLR), HDR, reflejos realistas en el agua, texturas naturales de piel y ropa, sutil gradación de color cinematográfica, profundidad atmosférica, estética de viajes premium de Pinterest, ambiente inspirador y pacífico.
+
+Evitar: personas deformadas, extremidades adicionales, arquitectura poco realista, saturación excesiva, detalles borrosos, apariencia de dibujos animados, agua de aspecto falso, tipografía desordenada, logotipos, marcas de agua.
 ```
 
 [↑ Volver a categorías](#catalog)

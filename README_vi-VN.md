@@ -133,13 +133,13 @@ Tác giả：[@shushant\_l](https://x.com/shushant_l) · [Bài gốc](https://x.
 
 <a name="prompt-2097549831489405424"></a>
 
-### Đang dịch
+### Lời nhắc áp phích du lịch vùng núi cao phong cách điện ảnh 9:16 với hồ nước trên núi, người du lịch trên bến tàu và kiểu chữ tạp chí.
 
 Tác giả：[@aniyaintel](https://x.com/aniyaintel) · [Bài gốc](https://x.com/aniyaintel/status/2097549831489405424)
 
 Áp phích / Tờ rơi · Điện ảnh / Ảnh tĩnh từ phim · Phong cảnh / Thiên nhiên · Văn bản / Kiểu chữ · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc áp phích du lịch vùng núi cao phong cách điện ảnh 9:16 với hồ nước trên núi, người du lịch trên bến tàu và kiểu chữ tạp chí.
 
 <img src="images/2097549831489405424-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -152,7 +152,29 @@ Tác giả：[@aniyaintel](https://x.com/aniyaintel) · [Bài gốc](https://x.c
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một áp phích biên tập du lịch điện ảnh chân thực đỉnh cao, cao cấp theo định dạng dọc 9:16.
+
+Bối cảnh: Một hồ nước trên núi vùng núi cao ngoạn mục với làn nước màu ngọc lam trong vắt như pha lê, được bao quanh bởi những ngọn núi phủ tuyết trắng hùng vĩ, những khu rừng thông thường xanh rậm rạp và những vách đá dốc đứng. Mặt hồ phản chiếu hoàn hảo hình ảnh núi non và bầu trời. Một cabin gỗ mộc mạc nhỏ nằm gần bờ bên phải, trong khi một chiếc thuyền chèo bằng gỗ truyền thống được buộc bên cạnh bến tàu gỗ ở tiền cảnh.
+
+Ở trung tâm tiền cảnh, hiển thị một người du lịch một mình đang ngồi trên bến tàu gỗ với lưng quay về phía máy ảnh, bình yên nhìn về phía những ngọn núi. Người du lịch đội một chiếc mũ rộng vành màu nâu, mặc áo khoác ngoài trời màu cam cháy, đeo ba lô leo núi màu be/nâu và mặc trang phục dã ngoại màu trung tính. Tỉ lệ tự nhiên, chân thực và kết cấu trang phục tinh tế.
+
+Bố cục: Nhiếp ảnh góc rộng đậm chất điện ảnh, người du lịch ở vị trí phía dưới trung tâm, thuyền ở phía dưới bên phải, hồ nước và núi non rộng lớn chiếm ưu thế ở hậu cảnh. Chiều sâu mạnh mẽ, phối cảnh tự nhiên, cảnh quan nhiều lớp, bầu không khí phiêu lưu yên bình.
+
+Ánh sáng: Ánh sáng ban mai vàng dịu nhẹ, bầu trời xanh trong với những đám mây bồng bềnh rải rác, làn sương mờ ảo bao quanh các ngọn núi, ánh sáng mặt trời chân thực và bóng đổ tự nhiên. Màu sắc phong phú nhưng chân thực, nước màu ngọc lam, tiền cảnh màu nâu đất, rừng xanh tươi tốt, núi non xanh lam mát mẻ.
+
+Nghệ thuật chữ: Thêm nghệ thuật chữ áp phích du lịch thanh lịch lên phần trên của hình ảnh:
+
+Chữ in hoa nhỏ: “COLLECT”
+Chữ viết tay/chữ viết nghệ thuật phong cách cỡ lớn: “Moments”
+Chữ in hoa cỡ vừa bên dưới: “NOT THINGS”
+Các đường ngang trang trí tối giản với biểu tượng trái tim nhỏ
+Khẩu hiệu in hoa nhỏ: “TRAVEL • EXPLORE • LIVE”
+
+Sử dụng kiểu chữ màu xanh mòng két đậm tinh tế, khoảng cách thoáng đãng, thiết kế biên tập cao cấp, phân cấp cân đối, chữ dễ đọc và chi tiết trang trí tối giản trang nhã.
+
+Phong cách: Tạp chí du lịch sang trọng, nhiếp ảnh điện ảnh, siêu chi tiết, chân thực như ảnh chụp, nhiếp ảnh DSLR chuyên nghiệp, HDR, hình ảnh phản chiếu trên mặt nước chân thực, kết cấu da/quần áo tự nhiên, chỉnh màu phong cách phim tinh tế, chiều sâu khí quyển, thẩm mỹ du lịch Pinterest cao cấp, tâm trạng truyền cảm hứng và yên bình.
+
+Tránh: người bị biến dạng, thừa chi, kiến trúc phi thực tế, độ bão hòa quá mức, chi tiết mờ, giao diện hoạt hình, nước trông giả tạo, kiểu chữ lộn xộn, logo, hình mờ.
 ```
 
 [↑ Về danh mục](#catalog)
