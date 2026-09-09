@@ -276,13 +276,13 @@ Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đ�
 
 <a name="prompt-2097482618992570627"></a>
 
-### Đang dịch
+### Lời nhắc mang tính thi vị về một con rồng vũ trụ với đôi cánh cổ xưa và đôi cánh ba chiều bay lượn trên một thành phố neon hiện đại.
 
 Tác giả：[@ToshiArte](https://x.com/ToshiArte) · [Bài gốc](https://x.com/ToshiArte/status/2097482618992570627)
 
 Động vật / Sinh vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc mang tính thi vị về một con rồng vũ trụ với đôi cánh cổ xưa và đôi cánh ba chiều bay lượn trên một thành phố neon hiện đại.
 
 <img src="images/2097482618992570627-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -295,7 +295,57 @@ Tác giả：[@ToshiArte](https://x.com/ToshiArte) · [Bài gốc](https://x.com
 **Câu lệnh**
 
 ```text
-Đang dịch
+Nơi Đôi Cánh Nhớ Về Cả Hai Bờ
+
+Con rồng không lựa chọn một thế kỷ.
+Chính thế kỷ đang tự chọn lấy mình
+qua một cơ thể tạo nên từ sự trì hoãn và ánh hoàng hôn tàn.
+Một bên cánh lướt qua trang sách chưa cháy cuối cùng của một thư viện
+đã sụp đổ trước khi giấy kịp học tên của chính mình.
+Cánh bên kia chải những cơn mưa ảnh ba chiều
+từ các tòa tháp vẫn chưa quyết định
+liệu chúng sẽ đứng vững hay trở thành lời đồn đại.
+Giữa chúng, không khí lưu giữ hai cuốn lịch
+và quên mất cuốn nào đang trôi.
+Những chiếc vảy của nó còn già cỗi hơn từ ngữ dùng để gọi vảy.
+Chúng nhớ sức nóng của những lò rèn
+chưa từng được thắp lửa,
+và cái lạnh của những vì sao
+đã lụi tàn từ lâu
+trong một câu chuyện kể khác.
+Các cổ tự nổi lên rồi chìm xuống như những ý nghĩ
+mà một thành phố chưa xứng đáng có quyền nghĩ đến.
+Mỗi nhịp đập của ánh sáng vừa là thánh tích vừa là nguyên mẫu.
+Bên dưới, những con phố ướt đẫm bởi những điều đã xảy ra
+và những điều vẫn đang thương lượng cho sự xuất hiện của mình.
+Ánh đèn neon viết trên làn nước từng là sự nhẫn nại của dòng sông băng
+và sau này, sẽ chỉ là một lời đồn về cơn khát.
+Nền móng tựa trên sự tĩnh lặng của những cánh rừng
+vẫn đang mơ rằng mình còn đứng đó.
+Những biển quảng cáo rao bán những ngày mai
+đã sớm nhớ nhung buổi hoàng hôn chưa kịp tới.
+Đôi mắt của sinh vật ấy chứa đựng thời tiết chân thật duy nhất:
+một bên là sắc xanh lục của ký ức
+vẫn chưa biết rằng mình đã kết thúc,
+bên kia là sắc xanh lam của một câu hỏi
+chưa tìm thấy khuôn miệng sẽ thốt ra nó.
+Chúng nhìn chúng ta theo cái cách thời gian tự nhìn chính mình
+khi không một ai đang dõi theo
+không thương hại, không phán xét,
+chỉ có sự ân cần dài lâu của sự chú ý.
+Chúng ta sống trong luồng gió hạ thoáng qua khi nó lướt tới,
+khoảng thời gian kỳ lạ và đầy khoan dung ấy
+nơi quá khứ vẫn chưa dứt điểm với chúng ta
+và tương lai đã bắt đầu
+nhớ nhung những gì chúng ta còn chưa đánh mất.
+Không có gì được hứa hẹn ngoại trừ sự chuyển mình:
+khớp nối chậm rãi, tỏa sáng của một đôi cánh
+thuộc về mọi thời khắc cùng một lúc
+và không hoàn toàn thuộc về bất kỳ thời khắc nào.
+Làn sương nó để lại không phải là kết thúc cũng chẳng phải khởi đầu.
+Đó là nơi chúng thoáng nhận ra nhau
+trước khi sự bất định tiếp theo
+mở ra bàn tay tĩnh lặng, tất yếu của mình.
 ```
 
 [↑ Về danh mục](#catalog)
