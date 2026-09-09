@@ -321,20 +321,45 @@ Publicité pour boisson haut de gamme ultra-réaliste, liquide cristallin, carbo
 
 <a name="prompt-2097629839209758892"></a>
 
-### Traduction en cours
+### Un prompt sous forme de pseudocode pour une grille 2x2 de dioramas de sanctuaires en marbre 3D dédiés à des penseurs célèbres.
 
 Auteur：[@Gdgtify](https://x.com/Gdgtify) · [Publication originale](https://x.com/Gdgtify/status/2097629839209758892)
 
 Rendu 3D · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un prompt sous forme de pseudocode pour une grille 2x2 de dioramas de sanctuaires en marbre 3D dédiés à des penseurs célèbres.
 
 <img src="images/2097629839209758892-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+grille 2x2, 16:9, appliquez ceci à 4 penseurs, auteurs ou inventeurs célèbres : class Mind_As_Shrine_Diorama:
+    def __init__(self, thinker="[NOM_DU_PENSEUR]"):
+        self.canvas = "Vignette sculpturale monumentale 3D unique et autonome sur un fond de studio d'un blanc pur."
+        self.material_palette = "Marbre blanc de Carrare poli, laiton brossé, lentilles en verre et perspectives cosmiques lumineuses."
+
+    def construct_face_and_hair_arch(self):
+        # Le jeu visuel central : la chevelure devient l'édifice
+        hair_motif = infer_iconic_hair_or_silhouette(self.thinker)
+        name_arch = f"Lettres monumentales en marbre doré 3D formant '{self.thinker.upper()}', directement intégrées dans une arche ornée de nuages tourbillonnants baroques qui représente le {hair_motif} exagéré."
+        face_core = f"Centre : Un visage réaliste sculpté dans le marbre de {self.thinker} émergeant du sol en pierre, portant des lunettes rondes dont les verres affichent sa formule/son symbole principal."
+        return [name_arch, face_core]
+
+    def construct_internal_brain_chambers(self):
+        # AUTO-DÉDUCTION DE L'IA : Diviser son héritage intellectuel en deux chambres distinctes
+        theory_left = infer_primary_breakthrough(self.thinker) # ex. : Relativité restreinte, portes logiques, sélection naturelle
+        theory_right = infer_secondary_breakthrough(self.thinker) # ex. : Relativité générale, état quantique, optique
+        
+        chamber_left = f"Chambre supérieure gauche : Tableaux noirs miniatures avec des équations authentiques de {theory_left}, des modèles mécaniques d'expériences de pensée (ex. trains, horloges, engrenages) et une bibliothèque de livres minuscules."
+        chamber_right = f"Chambre supérieure droite : Perspective cosmique de l'espace profond montrant {theory_right}, accompagnée d'instruments d'optique, de modèles d'atomes et d'un puits/entonnoir gravitationnel volumétrique."
+        return [chamber_left, chamber_right]
+
+    def construct_base(self):
+        quote = infer_signature_quote(self.thinker)
+        return f"Un socle circulaire en marbre à gradins avec des rivets en laiton, un manuscrit ouvert avec du texte manuscrit et une plaque incurvée en laiton gravée : '{quote}'."
+
+render_sculptural_masterpiece(Mind_As_Shrine_Diorama())
 ```
 
 [↑ Retour aux catégories](#catalog)

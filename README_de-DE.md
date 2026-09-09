@@ -321,20 +321,45 @@ Ultrarealistischer Premium-Getränkewerbespot, kristallklare Flüssigkeit, explo
 
 <a name="prompt-2097629839209758892"></a>
 
-### Übersetzung läuft
+### Ein Prompt im Pseudocode-Stil für ein 2x2-Raster aus 3D-Marmorschrein-Dioramen, die berühmten Denkern gewidmet sind.
 
 Autor：[@Gdgtify](https://x.com/Gdgtify) · [Originalbeitrag](https://x.com/Gdgtify/status/2097629839209758892)
 
 3D-Rendering · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein Prompt im Pseudocode-Stil für ein 2x2-Raster aus 3D-Marmorschrein-Dioramen, die berühmten Denkern gewidmet sind.
 
 <img src="images/2097629839209758892-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+2x2-Raster, 16:9, erstelle dies für 4 berühmte Denker, Autoren, Erfinder: class Mind_As_Shrine_Diorama:
+    def __init__(self, thinker="[NAME_DES_DENKERS]"):
+        self.canvas = "Einzelne, in sich geschlossene monumentale 3D-Skulpturenvignette auf reinweißem Studiohintergrund."
+        self.material_palette = "Polierter weißer Carrara-Marmor, gebürstetes Messing, Glaslinsen und leuchtende kosmische Ausblicke."
+
+    def construct_face_and_hair_arch(self):
+        # Das zentrale visuelle Wortspiel: Das Haar wird zum Gebäude
+        hair_motif = infer_iconic_hair_or_silhouette(self.thinker)
+        name_arch = f"Riesige vergoldete 3D-Marmorbuchstaben, die '{self.thinker.upper()}' buchstabieren, direkt integriert in einen kunstvollen, barocken Bogen aus wirbelnden Wolken, der das übertriebene {hair_motif} darstellt."
+        face_core = f"Zentrum: Ein realistisch gemeißeltes Marmorgesicht von {self.thinker}, das aus dem Steinboden hervortritt, mit runder Brille, deren Glaslinsen seine/ihre wichtigste Formel/Symbol zeigen."
+        return [name_arch, face_core]
+
+    def construct_internal_brain_chambers(self):
+        # KI-AUTO-INFERENZ: Unterteile das intellektuelle Erbe in zwei unterschiedliche Kammern
+        theory_left = infer_primary_breakthrough(self.thinker) # z. B. Spezielle Relativitätstheorie, Logikgatter, natürliche Selektion
+        theory_right = infer_secondary_breakthrough(self.thinker) # z. B. Allgemeine Relativitätstheorie, Quantenzustand, Optik
+        
+        chamber_left = f"Obere linke Kammer: Miniatur-Kreidetafeln mit authentischen Gleichungen von {theory_left}, mechanische Gedankenexperiment-Modelle (z. B. Züge, Uhren, Zahnräder) und eine Bibliothek winziger Bücher."
+        chamber_right = f"Obere rechte Kammer: Kosmischer Blick in die Weiten des Weltalls, der {theory_right} darstellt, komplett mit optischen Instrumenten, Atommodellen und einem volumetrischen Gravitationstrichter."
+        return [chamber_left, chamber_right]
+
+    def construct_base(self):
+        quote = infer_signature_quote(self.thinker)
+        return f"Ein gestufter, kreisförmiger Marmorsockel mit Messingnieten, ein aufgeschlagenes Manuskript mit handschriftlichem Text und eine geschwungene Messingplakette mit der Gravur: '{quote}'."
+
+render_sculptural_masterpiece(Mind_As_Shrine_Diorama())
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

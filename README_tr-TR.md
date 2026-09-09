@@ -321,20 +321,75 @@ Ultra gerçekçi premium içecek reklamı, kristal berraklığında sıvı, patl
 
 <a name="prompt-2097629839209758892"></a>
 
-### Çeviri sürüyor
+### Ünlü düşünürlere adanmış 3D mermer tapınak dioramalarından oluşan 2x2 ızgara için sözde kod tarzında bir istem.
 
 Yazar：[@Gdgtify](https://x.com/Gdgtify) · [Orijinal gönderi](https://x.com/Gdgtify/status/2097629839209758892)
 
 3D Modelleme · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Ünlü düşünürlere adanmış 3D mermer tapınak dioramalarından oluşan 2x2 ızgara için sözde kod tarzında bir istem.
 
 <img src="images/2097629839209758892-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+2x2 ızgara, 16:9, bunu 4 ünlü düşünür, yazar, mucit için yap,: class Mind_As_Shrine_Diorama:
+    def __init__(self, thinker="[DÜŞÜNÜR_ADI]"):
+        self.canvas = "Saf beyaz stüdyo arka planı üzerinde bağımsız, tek parça 3D anıtsal heykelsi vinyet."
+        self.material_palette = "Cilalı beyaz Carrara mermeri, fırçalanmış pirinç, cam mercekler ve parıldayan kozmik manzaralar."
+
+    def construct_face_and_hair_arch(self):
+        # Temel görsel nükte: saç binaya dönüşür
+        hair_motif = infer_iconic_hair_or_silhouette(self.thinker)
+        name_arch = f"Abartılı {hair_motif} motifini temsil eden süslü, Barok girdaplı bulut kemerine doğrudan entegre edilmiş, '{self.thinker.upper()}' yazan devasa 3D yaldızlı mermer harfler."
+        face_core = f"Merkez: Taş zeminden yükselen, cam merceklerinde ana formülleri/sembolleri görünen yuvarlak gözlükler takmış, {self.thinker} figürünün gerçekçi oyulmuş mermer yüzü."
+        return [name_arch, face_core]
+
+    def construct_internal_brain_chambers(self):
+        # YAPAY ZEKA OTOMATİK ÇIKARIMI: Entelektüel miraslarını iki ayrı odaya ayırın
+        theory_left = infer_primary_breakthrough(self.thinker) # örn., Özel Görelilik, mantık kapıları, doğal seçilim
+        theory_right = infer_secondary_breakthrough(self.thinker) # örn., Genel Görelilik, kuantum durumu, optik
+        
+        chamber_left = f"Sol Üst Oda: {theory_left} teorisine ait özgün denklemlerin bulunduğu minyatür kara tahtalar, mekanik düşünce deneyi modelleri (örn., trenler, saatler, dişliler) ve minik kitaplardan oluşan bir kütüphane."
+        chamber_right = f"Sağ Üst Oda: Optik aletler, atom modelleri ve hacimsel bir yerçekimi kuyusu/hunisi ile tamamlanan, {theory_right} gösteren kozmik derin uzay manzarası."
+        return [chamber_left, chamber_right]
+
+    def construct_base(self):
+        quote = infer_signature_quote(self.thinker)
+        return f"Pirinç perçinli, basamaklı, dairesel bir mermer kaide, el yazısı metin içeren açık bir el yazması ve üzerinde: '{quote}' kazınmış kavisli pirinç bir plaket."
+
+render_sculptural_masterpiece(Mind_As_Shrine_Diorama())", catch: ""
+  "tr-TR": {
+    "prompt": "2x2 ızgara, 16:9, bunu 4 ünlü düşünür, yazar, mucit için yap,: class Mind_As_Shrine_Diorama:
+    def __init__(self, thinker="[DÜŞÜNÜR_ADI]"):
+        self.canvas = "Saf beyaz stüdyo arka planı üzerinde bağımsız, tek parça 3D anıtsal heykelsi vinyet."
+        self.material_palette = "Cilalı beyaz Carrara mermeri, fırçalanmış pirinç, cam mercekler ve parıldayan kozmik manzaralar."
+
+    def construct_face_and_hair_arch(self):
+        # Temel görsel nükte: saç binaya dönüşür
+        hair_motif = infer_iconic_hair_or_silhouette(self.thinker)
+        name_arch = f"Abartılı {hair_motif} motifini temsil eden süslü, Barok girdaplı bulut kemerine doğrudan entegre edilmiş, '{self.thinker.upper()}' yazan devasa 3D yaldızlı mermer harfler."
+        face_core = f"Merkez: Taş zeminden yükselen, cam merceklerinde ana formülleri/sembolleri görünen yuvarlak gözlükler takmış, {self.thinker} figürünün gerçekçi oyulmuş mermer yüzü."
+        return [name_arch, face_core]
+
+    def construct_internal_brain_chambers(self):
+        # YAPAY ZEKA OTOMATİK ÇIKARIMI: Entelektüel miraslarını iki ayrı odaya ayırın
+        theory_left = infer_primary_breakthrough(self.thinker) # örn., Özel Görelilik, mantık kapıları, doğal seçilim
+        theory_right = infer_secondary_breakthrough(self.thinker) # örn., Genel Görelilik, kuantum durumu, optik
+        
+        chamber_left = f"Sol Üst Oda: {theory_left} teorisine ait özgün denklemlerin bulunduğu minyatür kara tahtalar, mekanik düşünce deneyi modelleri (örn., trenler, saatler, dişliler) ve minik kitaplardan oluşan bir kütüphane."
+        chamber_right = f"Sağ Üst Oda: Optik aletler, atom modelleri ve hacimsel bir yerçekimi kuyusu/hunisi ile tamamlanan, {theory_right} gösteren kozmik derin uzay manzarası."
+        return [chamber_left, chamber_right]
+
+    def construct_base(self):
+        quote = infer_signature_quote(self.thinker)
+        return f"Pirinç perçinli, basamaklı, dairesel bir mermer kaide, el yazısı metin içeren açık bir el yazması ve üzerinde: '{quote}' kazınmış kavisli pirinç bir plaket."
+
+render_sculptural_masterpiece(Mind_As_Shrine_Diorama())",
+    "summary": "Ünlü düşünürlere adanmış 3D mermer tapınak dioramalarından oluşan 2x2 ızgara için sözde kod tarzında bir istem."
+  }
+}
 ```
 
 [↑ Kategorilere dön](#catalog)

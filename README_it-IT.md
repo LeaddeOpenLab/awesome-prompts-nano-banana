@@ -321,20 +321,45 @@ Spot pubblicitario di bevande premium ultra-realistico, liquido cristallino, car
 
 <a name="prompt-2097629839209758892"></a>
 
-### Traduzione in corso
+### Un prompt in stile pseudocodice per una griglia 2x2 di diorami di santuari in marmo 3D dedicati a pensatori famosi.
 
 Autore：[@Gdgtify](https://x.com/Gdgtify) · [Post originale](https://x.com/Gdgtify/status/2097629839209758892)
 
 Rendering 3D · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un prompt in stile pseudocodice per una griglia 2x2 di diorami di santuari in marmo 3D dedicati a pensatori famosi.
 
 <img src="images/2097629839209758892-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+griglia 2x2, 16:9, applica questo a 4 celebri pensatori, autori o inventori: class Mind_As_Shrine_Diorama:
+    def __init__(self, thinker="[NOME_DEL_PENSATORE]"):
+        self.canvas = "Vignetta scultorea monumentale 3D singola e autonoma su sfondo da studio bianco puro."
+        self.material_palette = "Marmo bianco di Carrara lucidato, ottone spazzolato, lenti di vetro e viste cosmiche luminose."
+
+    def construct_face_and_hair_arch(self):
+        # Il nucleo del gioco visivo: la capigliatura diventa l'edificio
+        hair_motif = infer_iconic_hair_or_silhouette(self.thinker)
+        name_arch = f"Lettere monumentali in marmo dorato 3D che compongono '{self.thinker.upper()}', integrate direttamente in un arco ornato di nuvole vorticose barocche che rappresenta l'esagerato {hair_motif}."
+        face_core = f"Centro: Un volto realistico scolpito nel marmo di {self.thinker} che emerge dal pavimento di pietra, con occhiali circolari le cui lenti di vetro mostrano la sua formula/simbolo principale."
+        return [name_arch, face_core]
+
+    def construct_internal_brain_chambers(self):
+        # AUTO-DEDUZIONE DELL'IA: Suddividi la loro eredità intellettuale in due camere distinte
+        theory_left = infer_primary_breakthrough(self.thinker) # ad es. Relatività speciale, porte logiche, selezione naturale
+        theory_right = infer_secondary_breakthrough(self.thinker) # ad es. Relatività generale, stato quantico, ottica
+        
+        chamber_left = f"Camera superiore sinistra: Lavagne in miniatura con equazioni autentiche di {theory_left}, modelli meccanici di esperimenti mentali (ad es. treni, orologi, ingranaggi) e una biblioteca di minuscoli libri."
+        chamber_right = f"Camera superiore destra: Vista cosmica dello spazio profondo che illustra {theory_right}, completa di strumenti ottici, modelli atomici e un pozzo/imbuto gravitazionale volumetrico."
+        return [chamber_left, chamber_right]
+
+    def construct_base(self):
+        quote = infer_signature_quote(self.thinker)
+        return f"Un plinto circolare a gradini in marmo con rivetti in ottone, un manoscritto aperto con testo scritto a mano e una targa curva in ottone incisa con: '{quote}'."
+
+render_sculptural_masterpiece(Mind_As_Shrine_Diorama())
 ```
 
 [↑ Torna alle categorie](#catalog)
