@@ -106,13 +106,13 @@ Traducción en curso
 
 <a name="prompt-2097524090735075539"></a>
 
-### Traducción en curso
+### Un prompt para retrato de moda cinematográfico de alta gama que representa a una mujer elegante entre amapolas de color rojo vivo de gran tamaño bajo una cálida luz de hora dorada.
 
 Autor：[@codewithhajra](https://x.com/codewithhajra) · [Publicación original](https://x.com/codewithhajra/status/2097524090735075539)
 
 Fotografía · Cine / Fotograma de película · Retrato / Selfie · Personaje · Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un prompt para retrato de moda cinematográfico de alta gama que representa a una mujer elegante entre amapolas de color rojo vivo de gran tamaño bajo una cálida luz de hora dorada.
 
 <img src="images/2097524090735075539-1.jpg" alt="Imagen 1" width="480" />
 
@@ -121,7 +121,13 @@ Fotografía · Cine / Fotograma de película · Retrato / Selfie · Personaje ·
 **Prompt**
 
 ```text
-Traducción en curso
+Un impresionante retrato cinematográfico de moda ultra-fotorrealista de una mujer elegante rodeada de enormes flores de amapola de color rojo vivo, capturado en un entorno de jardín editorial de ensueño. Tiene una piel clara y luminosa con una textura natural realista, mejillas suavemente sonrosadas, rasgos faciales simétricos y refinados, expresivos ojos de color azul grisáceo claro, cejas delicadas, pestañas definidas, una nariz recta y grácil, y labios nude rosados naturalmente carnosos y brillantes. Su expresión es tranquila, serena y sutilmente cautivadora, mirando directamente a la cámara.
+Su largo cabello rubio dorado está pulcramente dividido al medio y peinado suavemente hacia atrás, con finos mechones individuales capturando la luz del sol. Gigantescas amapolas de color rojo escarlata enmarcan el lado izquierdo de su rostro y se superponen parcialmente a su cabello, mientras que flores rojas de gran tamaño adicionales llenan el primer plano y el fondo, creando una composición floral dramática.
+Viste un exquisito vestido de alta costura en color rosa empolvado suave hecho de gasa/tul plisado y ligero. El vestido presenta un exagerado cuello alto con volantes de inspiración victoriana que rodea su cuello, intrincados plisados verticales, hombros esculturales voluminosos y capas fluidas de tela translúcida que caen en cascada bellamente a lo largo de la parte inferior del encuadre. La delicada tela atrapa la luz del sol y genera suaves reflejos, sombras, pliegues y una sutil transparencia.
+La cálida luz solar de la hora dorada ilumina su rostro desde un lado, produciendo una atmósfera brillante de tono melocotón rosado, reflejos luminosos en la piel, suaves sombras faciales y ricos reflejos rojos de las flores. Detrás de ella hay un cielo azul pastel despejado con un horizonte suavemente difuminado e interminables campos de flores rojas.
+Composición: retrato de moda de primer plano a plano medio, rostro centrado, encuadre vertical 4:5, flores enmarcando dramáticamente al sujeto, profundidad de campo reducida, pétalos en primer plano suavemente desenfocados para dar profundidad, separación cinematográfica entre el sujeto y el fondo.
+Estilo: editorial de moda de lujo de alta gama, fotografía de bellas artes romántica y de ensueño, fotorrealista, etalonaje de color sofisticado, textura de piel natural, física de tela realista, detalles florales intrincados, suave profundidad atmosférica, iluminación cinematográfica, grano de película sutil, HDR, detalle 8K, lente de retrato de 85 mm, f/1.8, fotografía profesional de calidad de estudio.
+Negative prompt: cartoon, anime, illustration, plastic skin, excessive makeup, distorted face, asymmetrical eyes, malformed hands, extra fingers, duplicate flowers, unnatural hair, oversaturated colors, blurry face, low resolution, harsh shadows, artificial skin, text, watermark, logo.
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -106,13 +106,13 @@ Tác giả：[@aniyaintel](https://x.com/aniyaintel) · [Bài gốc](https://x.c
 
 <a name="prompt-2097524090735075539"></a>
 
-### Đang dịch
+### Lời nhắc chân dung thời trang điện ảnh cao cấp mô tả một người phụ nữ thanh lịch giữa những bông hoa anh túc đỏ rực rỡ cỡ lớn trong ánh sáng giờ vàng ấm áp.
 
 Tác giả：[@codewithhajra](https://x.com/codewithhajra) · [Bài gốc](https://x.com/codewithhajra/status/2097524090735075539)
 
 Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc chân dung thời trang điện ảnh cao cấp mô tả một người phụ nữ thanh lịch giữa những bông hoa anh túc đỏ rực rỡ cỡ lớn trong ánh sáng giờ vàng ấm áp.
 
 <img src="images/2097524090735075539-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -121,7 +121,13 @@ Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh t�
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một bức chân dung thời trang điện ảnh siêu thực ngoạn mục của một người phụ nữ thanh lịch được bao quanh bởi những bông hoa anh túc đỏ rực khổng lồ, chụp trong khung cảnh khu vườn mơ màng của một bài biên tập thời trang. Cô có làn da trắng phát sáng với kết cấu tự nhiên chân thực, đôi má ửng hồng nhẹ nhàng, các đường nét khuôn mặt đối xứng tinh tế, đôi mắt màu xanh xám nhạt đầy biểu cảm, hàng mày thanh tú, lông mi rõ nét, sống mũi thẳng duyên dáng và đôi môi màu hồng nude căng bóng đầy đặn tự nhiên. Biểu cảm của cô điềm tĩnh, thanh thản và quyến rũ một cách tinh tế, nhìn thẳng vào ống kính.
+Mái tóc dài màu vàng kim của cô được rẽ ngôi giữa gọn gàng và vuốt mượt ra sau, với những sợi tóc mảnh mai bắt nắng. Những bông hoa anh túc màu đỏ tươi khổng lồ ôm lấy bên trái khuôn mặt và che một phần tóc của cô, trong khi những bông hoa đỏ cỡ lớn bổ sung lấp đầy tiền cảnh và hậu cảnh, tạo nên một bố cục hoa đầy kịch tính.
+Cô mặc một bộ váy couture màu hồng phấn tinh xảo làm từ vải chiffon/tulle xếp ly nhẹ nhàng. Chiếc váy có phần cổ xếp bèo cao lấy cảm hứng từ thời Victoria bao quanh cổ, các nếp gấp dọc phức tạp, phần vai phồng như điêu khắc và các lớp vải mờ ảo xếp tầng chảy tuyệt đẹp qua phần dưới của khung hình. Chất liệu vải tinh tế bắt ánh nắng mặt trời và tạo ra các điểm sáng, bóng đổ, nếp gấp mềm mại và độ trong suốt tinh tế.
+Ánh sáng vàng ấm áp lúc hoàng hôn chiếu rọi khuôn mặt cô từ một bên, tạo ra bầu không khí hồng đào rực rỡ, các điểm sáng làn da phát sáng, bóng nhẹ nhàng trên khuôn mặt và phản xạ màu đỏ phong phú từ những bông hoa. Phía sau cô là bầu trời xanh pastel trong trẻo với đường chân trời mờ ảo nhẹ nhàng và những cánh đồng hoa đỏ trải dài vô tận.
+Bố cục: chân dung thời trang từ cận cảnh đến trung cảnh, khuôn mặt ở trung tâm, khung hình dọc 4:5, hoa tạo khung ấn tượng xung quanh chủ thể, độ sâu trường ảnh nông, cánh hoa tiền cảnh mờ nhẹ tạo chiều sâu, sự tách biệt đậm chất điện ảnh giữa chủ thể và hậu cảnh.
+Phong cách: thời trang cao cấp sang trọng, nhiếp ảnh nghệ thuật lãng mạn mơ mộng, chân thực như ảnh chụp, chỉnh màu tinh tế, kết cấu da tự nhiên, hiệu ứng vật lý của vải chân thực, chi tiết hoa phức tạp, chiều sâu không gian mềm mại, ánh sáng điện ảnh, hạt phim tinh tế, HDR, chi tiết 8K, ống kính chân dung 85mm, f/1.8, nhiếp ảnh chất lượng studio chuyên nghiệp.
+Negative prompt: cartoon, anime, illustration, plastic skin, excessive makeup, distorted face, asymmetrical eyes, malformed hands, extra fingers, duplicate flowers, unnatural hair, oversaturated colors, blurry face, low resolution, harsh shadows, artificial skin, text, watermark, logo.
 ```
 
 [↑ Về danh mục](#catalog)
