@@ -133,13 +133,13 @@ Sinematik / Film Karesi · Portre / Selfie · Şehir Manzarası / Sokak · Yayı
 
 <a name="prompt-2097549831489405424"></a>
 
-### Çeviri sürüyor
+### Dağ gölü, iskeledeki gezgin ve dergi tipografisi içeren sinematik 9:16 dağ seyahati posteri istemi.
 
 Yazar：[@aniyaintel](https://x.com/aniyaintel) · [Orijinal gönderi](https://x.com/aniyaintel/status/2097549831489405424)
 
 Poster / El İlanı · Sinematik / Film Karesi · Manzara / Doğa · Metin / Tipografi · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Dağ gölü, iskeledeki gezgin ve dergi tipografisi içeren sinematik 9:16 dağ seyahati posteri istemi.
 
 <img src="images/2097549831489405424-1.jpg" alt="Görsel 1" width="480" />
 
@@ -152,7 +152,29 @@ Poster / El İlanı · Sinematik / Film Karesi · Manzara / Doğa · Metin / Tip
 **İstem**
 
 ```text
-Çeviri sürüyor
+9:16 dikey formatta birinci sınıf, hiper-gerçekçi, sinematik bir seyahat editoryal posteri oluşturun.
+
+Sahne: Kristal berraklığında turkuaz suya sahip, dramatik karla kaplı dağlar, yoğun yaprak dökmeyen çam ormanları ve dik kayalık uçurumlarla çevrili nefes kesici bir dağ gölü. Göl, dağları ve gökyüzünü kusursuz bir şekilde yansıtır. Sağ kıyıya yakın küçük, rustik ahşap bir kulübe yer alırken, ön planda ahşap bir iskelenin yanına bağlanmış geleneksel ahşap bir kayık bulunur.
+
+Ön planın merkezinde, sırtı kameraya dönük şekilde ahşap iskelede oturan ve huzur içinde dağlara bakan yalnız bir gezgin gösterin. Gezgin; kahverengi geniş kenarlı bir şapka, kiremit rengi outdoor ceket, bej/kahverengi yürüyüş sırt çantası ve nötr tonlarda outdoor kıyafetler giyer. Doğal, gerçekçi oranlar ve ince kıyafet dokusu.
+
+Kompozisyon: Sinematik geniş açılı fotoğrafçılık; gezgin alt merkeze yerleştirilmiş, kayık sağ altta, arka plana geniş göl ve dağlar hakim. Güçlü derinlik, doğal perspektif, katmanlı manzara, huzurlu ve maceracı atmosfer.
+
+Aydınlatma: Yumuşak altın sabah ışığı, dağınık kabarık bulutların olduğu parlak mavi gökyüzü, dağların etrafında hafif atmosferik pus, gerçekçi güneş ışığı ve doğal gölgeler. Zengin ancak otantik renkler, turkuaz su, toprak tonlarında kahverengi ön plan, yemyeşil orman, soğuk mavi dağlar.
+
+Tipografi: Resmin üst kısmına zarif bir seyahat posteri tipografisi ekleyin:
+
+Küçük büyük harfli metin: “COLLECT”
+Büyük şık el yazısı/script metin: “Moments”
+Altında orta boy büyük harfli metin: “NOT THINGS”
+Küçük bir kalp sembolü içeren minimal dekoratif yatay çizgiler
+Küçük büyük harfli slogan: “TRAVEL • EXPLORE • LIVE”
+
+Sofistike koyu deniz mavisi (dark teal) tipografi, temiz harf aralığı, birinci sınıf editoryal tasarım, dengeli hiyerarşi, son derece okunaklı metin ve zevkli minimal dekorasyon kullanın.
+
+Tarz: Lüks seyahat dergisi, sinematik fotoğrafçılık, ultra detaylı, fotogerçekçi, profesyonel DSLR fotoğrafçılığı, HDR, gerçekçi su yansımaları, doğal ten/kıyafet dokuları, hafif filmimsi renk derecelendirmesi, atmosferik derinlik, birinci sınıf Pinterest seyahat estetiği, ilham verici ve huzurlu bir hava.
+
+Kaçının: bozuk insan figürleri, fazladan uzuvlar, gerçekçi olmayan mimari, aşırı doygunluk, bulanık detaylar, çizgi film görünümü, sahte görünen su, karmaşık tipografi, logolar, filigranlar.
 ```
 
 [↑ Kategorilere dön](#catalog)

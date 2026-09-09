@@ -133,13 +133,13 @@ Tradução em curso
 
 <a name="prompt-2097549831489405424"></a>
 
-### Tradução em curso
+### Prompt de cartaz de viagens alpino cinematográfico 9:16 com lago de montanha, viajante no pontão e tipografia de revista.
 
 Autor：[@aniyaintel](https://x.com/aniyaintel) · [Publicação original](https://x.com/aniyaintel/status/2097549831489405424)
 
 Pôster / Folheto · Cena de Cinema / Fotograma · Paisagem / Natureza · Texto / Tipografia · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de cartaz de viagens alpino cinematográfico 9:16 com lago de montanha, viajante no pontão e tipografia de revista.
 
 <img src="images/2097549831489405424-1.jpg" alt="Imagem 1" width="480" />
 
@@ -152,7 +152,29 @@ Pôster / Folheto · Cena de Cinema / Fotograma · Paisagem / Natureza · Texto 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um cartaz editorial de viagens cinematográfico, hiper-realista e de alta qualidade no formato vertical 9:16.
+
+Cena: Um deslumbrante lago alpino de montanha com águas azul-turquesa cristalinas, rodeado por dramáticas montanhas cobertas de neve, densas florestas de pinheiros perenes e escarpas rochosas íngremes. O lago reflete perfeitamente as montanhas e o céu. Uma pequena cabana rústica de madeira situa-se perto da margem direita, enquanto um barco a remos tradicional de madeira está amarrado ao lado de um pontão de madeira em primeiro plano.
+
+No centro do primeiro plano, mostre um viajante solitário sentado no pontão de madeira de costas para a câmara, a contemplar pacificamente as montanhas. O viajante usa um chapéu de aba larga castanho, casaco de ar livre em laranja-queimado, mochila de caminhada bege/castanha e vestuário de ar livre neutro. Proporções naturais e realistas e textura subtil no vestuário.
+
+Composição: Fotografia cinematográfica de grande-angular, viajante posicionado no centro inferior, barco no canto inferior direito, lago amplo e montanhas a dominar o fundo. Forte profundidade, perspetiva natural, paisagem em camadas, atmosfera pacífica e aventureira.
+
+Iluminação: Luz suave da manhã dourada, céu azul brilhante com nuvens fofas dispersas, névoa atmosférica subtil em redor das montanhas, luz solar realista e sombras naturais. Cores ricas mas autênticas, água turquesa, primeiro plano em tons terrosos de castanho, floresta verde luxuriante, montanhas em azul fresco.
+
+Tipografia: Adicione tipografia elegante de cartaz de viagens sobre a parte superior da imagem:
+
+Texto pequeno em maiúsculas: “COLLECT”
+Texto manuscrito/cursivo grande e elegante: “Moments”
+Texto médio em maiúsculas abaixo: “NOT THINGS”
+Linhas horizontais decorativas mínimas com um pequeno símbolo de coração
+Slogan pequeno em maiúsculas: “TRAVEL • EXPLORE • LIVE”
+
+Use tipografia sofisticada em verde-azulado escuro, espaçamento limpo, design editorial premium, hierarquia equilibrada, texto altamente legível e decoração mínima de bom gosto.
+
+Estilo: Revista de viagens de luxo, fotografia cinematográfica, ultradetalhado, fotorrealista, fotografia profissional de DSLR, HDR, reflexos de água realistas, texturas naturais de pele/roupas, gradação de cor subtilmente fílmica, profundidade atmosférica, estética de viagens premium do Pinterest, ambiente inspirador e pacífico.
+
+Evite: pessoas distorcidas, membros adicionais, arquitetura irrealista, saturação excessiva, detalhes desfocados, aparência de desenho animado, água com aspeto falso, tipografia desordenada, logótipos, marcas de água.
 ```
 
 [↑ Voltar às categorias](#catalog)

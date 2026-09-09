@@ -133,13 +133,13 @@ Tradução em andamento
 
 <a name="prompt-2097549831489405424"></a>
 
-### Tradução em andamento
+### Prompt de pôster de viagem alpina cinematográfico 9:16 com lago de montanha, viajante no píer e tipografia de revista.
 
 Autor：[@aniyaintel](https://x.com/aniyaintel) · [Publicação original](https://x.com/aniyaintel/status/2097549831489405424)
 
 Pôster / Flyer · Cinematográfico / Imagem de Filme · Paisagem / Natureza · Texto / Tipografia · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de pôster de viagem alpina cinematográfico 9:16 com lago de montanha, viajante no píer e tipografia de revista.
 
 <img src="images/2097549831489405424-1.jpg" alt="Imagem 1" width="480" />
 
@@ -152,7 +152,29 @@ Pôster / Flyer · Cinematográfico / Imagem de Filme · Paisagem / Natureza · 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um pôster editorial de viagem cinematográfico, hiper-realista e de alta qualidade no formato vertical 9:16.
+
+Cena: Um lago alpino deslumbrante nas montanhas com águas azul-turquesa cristalinas, cercado por dramáticas montanhas cobertas de neve, densas florestas de pinheiros perenes e penhascos rochosos íngremes. O lago reflete perfeitamente as montanhas e o céu. Uma pequena cabana rústica de madeira fica perto da margem direita, enquanto um barco a remo tradicional de madeira está amarrado ao lado de um píer de madeira em primeiro plano.
+
+No centro do primeiro plano, mostre um viajante solitário sentado no píer de madeira de costas para a câmera, olhando pacificamente para as montanhas. O viajante usa um chapéu de aba larga marrom, jaqueta outdoor laranja-queimado, mochila de trilha bege/marrom e roupas outdoor neutras. Proporções naturais e realistas e textura de roupa sutil.
+
+Composição: Fotografia cinematográfica em grande-angular, viajante posicionado no centro inferior, barco no canto inferior direito, lago amplo e montanhas dominando o fundo. Forte profundidade, perspectiva natural, paisagem em camadas, atmosfera pacífica e aventureira.
+
+Iluminação: Luz suave da manhã dourada, céu azul brilhante com nuvens fofas dispersas, névoa atmosférica sutil ao redor das montanhas, luz solar realista e sombras naturais. Cores ricas mas autênticas, água turquesa, primeiro plano em tons terrosos de marrom, floresta verde exuberante, montanhas em azul frio.
+
+Tipografia: Adicione uma tipografia elegante de pôster de viagem sobre a parte superior da imagem:
+
+Texto pequeno em maiúsculas: “COLLECT”
+Texto manuscrito/cursivo grande e estiloso: “Moments”
+Texto médio em maiúsculas abaixo: “NOT THINGS”
+Linhas horizontais decorativas mínimas com um pequeno símbolo de coração
+Slogan pequeno em maiúsculas: “TRAVEL • EXPLORE • LIVE”
+
+Use tipografia sofisticada em verde-azulado escuro (dark teal), espaçamento limpo, design editorial premium, hierarquia equilibrada, texto altamente legível e decoração mínima de bom gosto.
+
+Estilo: Revista de viagens de luxo, fotografia cinematográfica, ultradetalhado, fotorrealista, fotografia profissional de DSLR, HDR, reflexos de água realistas, texturas naturais de pele/roupas, gradação de cores sutilmente fílmica, profundidade atmosférica, estética de viagens premium do Pinterest, clima inspirador e pacífico.
+
+Evite: pessoas distorcidas, membros extras, arquitetura irrealista, saturação excessiva, detalhes borrados, aparência de desenho animado, água com aspecto falso, tipografia desordenada, logotipos, marcas d'água.
 ```
 
 [↑ Voltar às categorias](#catalog)
