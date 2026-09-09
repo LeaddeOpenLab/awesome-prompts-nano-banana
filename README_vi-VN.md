@@ -14,13 +14,13 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**4** Prompt · Bổ sung mới nhất: **2026-09-09**
+**5** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Duyệt theo danh mục
 
-[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Khác](#category-other)
+[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Cyberpunk / Khoa học viễn tưởng](#category-cyberpunk-sci-fi) · [Khác](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -87,6 +87,34 @@ Truyện tranh / Bảng phân cảnh · Tiếp thị sản phẩm · Điện ả
 **Tóm tắt:** Đang dịch
 
 <img src="covers/2097237465887338994.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="category-cyberpunk-sci-fi"></a>
+
+## Cyberpunk / Khoa học viễn tưởng
+
+<a name="prompt-2097435473043931201"></a>
+
+### Đang dịch
+
+Tác giả：[@churvikv](https://x.com/churvikv) · [Bài gốc](https://x.com/churvikv/status/2097435473043931201)
+
+Cyberpunk / Khoa học viễn tưởng · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097435473043931201-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2097435473043931201-2.jpg" alt="Hình ảnh 2" width="480" />
 
 **Câu lệnh**
 

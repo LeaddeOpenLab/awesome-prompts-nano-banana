@@ -14,13 +14,13 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**4** 条内容 · 最新收录: **2026-09-09**
+**5** 条内容 · 最新收录: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 分类目录
 
-[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [其他](#category-other)
+[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [赛博朋克 / 科幻](#category-cyberpunk-sci-fi) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -87,6 +87,34 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 **概括:** 翻译中
 
 <img src="covers/2097237465887338994.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="category-cyberpunk-sci-fi"></a>
+
+## 赛博朋克 / 科幻
+
+<a name="prompt-2097435473043931201"></a>
+
+### 翻译中
+
+作者：[@churvikv](https://x.com/churvikv) · [查看 X 原帖](https://x.com/churvikv/status/2097435473043931201)
+
+赛博朋克 / 科幻 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2097435473043931201-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2097435473043931201-2.jpg" alt="图片 2" width="480" />
 
 **提示词**
 

@@ -14,13 +14,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**4** Prompt · Son eklenen: **2026-09-09**
+**5** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [Diğer](#category-other)
+[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [Siberpunk / Bilim Kurgu](#category-cyberpunk-sci-fi) · [Diğer](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -87,6 +87,34 @@ Yazar：[@Strength04\_X](https://x.com/Strength04_X) · [Orijinal gönderi](http
 **Özet:** Çeviri sürüyor
 
 <img src="covers/2097237465887338994.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="category-cyberpunk-sci-fi"></a>
+
+## Siberpunk / Bilim Kurgu
+
+<a name="prompt-2097435473043931201"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@churvikv](https://x.com/churvikv) · [Orijinal gönderi](https://x.com/churvikv/status/2097435473043931201)
+
+Siberpunk / Bilim Kurgu · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097435473043931201-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2097435473043931201-2.jpg" alt="Görsel 2" width="480" />
 
 **İstem**
 

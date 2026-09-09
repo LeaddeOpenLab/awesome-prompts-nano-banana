@@ -14,13 +14,13 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**4** Prompt · Ultima aggiunta: **2026-09-09**
+**5** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Sfoglia per categoria
 
-[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Altro](#category-other)
+[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Altro](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -87,6 +87,34 @@ Fumetto / Storyboard · Marketing di Prodotto · Fermo immagine cinematografico 
 **Riepilogo:** Traduzione in corso
 
 <img src="covers/2097237465887338994.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="category-cyberpunk-sci-fi"></a>
+
+## Cyberpunk / Sci-Fi
+
+<a name="prompt-2097435473043931201"></a>
+
+### Traduzione in corso
+
+Autore：[@churvikv](https://x.com/churvikv) · [Post originale](https://x.com/churvikv/status/2097435473043931201)
+
+Cyberpunk / Sci-Fi · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097435473043931201-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2097435473043931201-2.jpg" alt="Immagine 2" width="480" />
 
 **Prompt**
 

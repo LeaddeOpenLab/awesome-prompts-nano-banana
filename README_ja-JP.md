@@ -14,13 +14,13 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**4** 件 · 最新の追加: **2026-09-09**
+**5** 件 · 最新の追加: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## カテゴリから探す
 
-[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [その他](#category-other)
+[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [サイバーパンク / SF](#category-cyberpunk-sci-fi) · [その他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -87,6 +87,34 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 **概要:** 翻訳中
 
 <img src="covers/2097237465887338994.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="category-cyberpunk-sci-fi"></a>
+
+## サイバーパンク / SF
+
+<a name="prompt-2097435473043931201"></a>
+
+### 翻訳中
+
+作者：[@churvikv](https://x.com/churvikv) · [元の投稿](https://x.com/churvikv/status/2097435473043931201)
+
+サイバーパンク / SF · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2097435473043931201-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2097435473043931201-2.jpg" alt="画像 2" width="480" />
 
 **プロンプト**
 

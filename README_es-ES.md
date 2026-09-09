@@ -14,13 +14,13 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**4** Prompts · Última incorporación: **2026-09-09**
+**5** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoría
 
-[Fotografía](#category-photography) · [Cine / Fotograma de película](#category-cinematic-film-still) · [Otros](#category-other)
+[Fotografía](#category-photography) · [Cine / Fotograma de película](#category-cinematic-film-still) · [Ciberpunk / Ciencia ficción](#category-cyberpunk-sci-fi) · [Otros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -87,6 +87,34 @@ Cómic / Guion gráfico · Marketing de producto · Cine / Fotograma de películ
 **Resumen:** Traducción en curso
 
 <img src="covers/2097237465887338994.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="category-cyberpunk-sci-fi"></a>
+
+## Ciberpunk / Ciencia ficción
+
+<a name="prompt-2097435473043931201"></a>
+
+### Traducción en curso
+
+Autor：[@churvikv](https://x.com/churvikv) · [Publicación original](https://x.com/churvikv/status/2097435473043931201)
+
+Ciberpunk / Ciencia ficción · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097435473043931201-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2097435473043931201-2.jpg" alt="Imagen 2" width="480" />
 
 **Prompt**
 

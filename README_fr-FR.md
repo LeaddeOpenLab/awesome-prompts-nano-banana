@@ -14,13 +14,13 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**4** Prompts · Dernier ajout: **2026-09-09**
+**5** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Parcourir par catégorie
 
-[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Autres](#category-other)
+[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Cyberpunk / Science-fiction](#category-cyberpunk-sci-fi) · [Autres](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -87,6 +87,34 @@ Bande dessinée / Storyboard · Marketing produit · Image cinématographique / 
 **Résumé:** Traduction en cours
 
 <img src="covers/2097237465887338994.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="category-cyberpunk-sci-fi"></a>
+
+## Cyberpunk / Science-fiction
+
+<a name="prompt-2097435473043931201"></a>
+
+### Traduction en cours
+
+Auteur：[@churvikv](https://x.com/churvikv) · [Publication originale](https://x.com/churvikv/status/2097435473043931201)
+
+Cyberpunk / Science-fiction · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097435473043931201-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097435473043931201-2.jpg" alt="Image 2" width="480" />
 
 **Consigne**
 
