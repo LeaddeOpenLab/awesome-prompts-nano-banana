@@ -14,7 +14,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**7** Prompt · Bổ sung mới nhất: **2026-09-09**
+**8** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -75,6 +75,34 @@ Một chàng trai trẻ đẹp trai với làn da rám nắng rạng rỡ đứn
 <a name="category-cinematic-film-still"></a>
 
 ## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2097549831489405424"></a>
+
+### Đang dịch
+
+Tác giả：[@aniyaintel](https://x.com/aniyaintel) · [Bài gốc](https://x.com/aniyaintel/status/2097549831489405424)
+
+Áp phích / Tờ rơi · Điện ảnh / Ảnh tĩnh từ phim · Phong cảnh / Thiên nhiên · Văn bản / Kiểu chữ · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097549831489405424-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2097549831489405424-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2097549831489405424-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2097549831489405424-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097524090735075539"></a>
 

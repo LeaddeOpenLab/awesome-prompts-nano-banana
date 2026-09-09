@@ -14,7 +14,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**7** Prompts · Última incorporación: **2026-09-09**
+**8** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -75,6 +75,34 @@ Un apuesto joven de piel bronceada y brillante se encuentra de pie mirando direc
 <a name="category-cinematic-film-still"></a>
 
 ## Cine / Fotograma de película
+
+<a name="prompt-2097549831489405424"></a>
+
+### Traducción en curso
+
+Autor：[@aniyaintel](https://x.com/aniyaintel) · [Publicación original](https://x.com/aniyaintel/status/2097549831489405424)
+
+Póster / Folleto · Cine / Fotograma de película · Paisaje / Naturaleza · Texto / Tipografía · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097549831489405424-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2097549831489405424-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2097549831489405424-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2097549831489405424-4.jpg" alt="Imagen 4" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097524090735075539"></a>
 

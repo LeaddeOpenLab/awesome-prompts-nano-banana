@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**7** Prompts · Latest addition: **2026-09-09**
+**8** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -75,6 +75,56 @@ A handsome young male with glowing tanned skin stands facing the camera directly
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2097549831489405424"></a>
+
+### Cinematic 9:16 alpine travel poster prompt with mountain lake, dock traveler, and magazine typography.
+
+Author：[@aniyaintel](https://x.com/aniyaintel) · [Source](https://x.com/aniyaintel/status/2097549831489405424)
+
+Poster / Flyer · Cinematic / Film Still · Landscape / Nature · Text / Typography · Published
+
+**Summary:** Cinematic 9:16 alpine travel poster prompt with mountain lake, dock traveler, and magazine typography.
+
+<img src="images/2097549831489405424-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097549831489405424-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097549831489405424-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2097549831489405424-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Create a premium, hyper-realistic cinematic travel editorial poster in 9:16 vertical format.
+
+Scene: A breathtaking alpine mountain lake with crystal-clear turquoise water, surrounded by dramatic snow-capped mountains, dense evergreen pine forests, and steep rocky cliffs. The lake perfectly reflects the mountains and sky. A small rustic wooden cabin sits near the right shoreline, while a traditional wooden rowboat is tied beside a wooden dock in the foreground.
+
+In the center foreground, show a solo traveler sitting on the wooden dock with their back facing the camera, looking peacefully toward the mountains. The traveler wears a brown wide-brimmed hat, burnt-orange outdoor jacket, beige/brown hiking backpack, and neutral outdoor clothing. Natural, realistic proportions and subtle clothing texture.
+
+Composition: Cinematic wide-angle photography, traveler positioned in the lower center, boat on the lower right, expansive lake and mountains dominating the background. Strong depth, natural perspective, layered landscape, peaceful adventurous atmosphere.
+
+Lighting: Soft golden morning light, bright blue sky with scattered fluffy clouds, subtle atmospheric haze around the mountains, realistic sunlight and natural shadows. Rich but authentic colors, turquoise water, earthy brown foreground, lush green forest, cool blue mountains.
+
+Typography: Add elegant travel-poster typography over the upper portion of the image:
+
+Small uppercase text: “COLLECT”
+Large stylish handwritten/script text: “Moments”
+Medium uppercase text below: “NOT THINGS”
+Minimal decorative horizontal lines with a small heart symbol
+Small uppercase tagline: “TRAVEL • EXPLORE • LIVE”
+
+Use sophisticated dark teal typography, clean spacing, premium editorial design, balanced hierarchy, highly legible text, and tasteful minimal decoration.
+
+Style: Luxury travel magazine, cinematic photography, ultra-detailed, photorealistic, professional DSLR photography, HDR, realistic water reflections, natural skin/clothing textures, subtle filmic color grading, atmospheric depth, premium Pinterest travel aesthetic, inspirational and peaceful mood.
+
+Avoid: distorted people, extra limbs, unrealistic architecture, excessive saturation, blurry details, cartoon appearance, fake-looking water, cluttered typography, logos, watermarks.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097524090735075539"></a>
 

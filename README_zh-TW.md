@@ -14,7 +14,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**7** 筆內容 · 最新收錄: **2026-09-09**
+**8** 筆內容 · 最新收錄: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -75,6 +75,34 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 <a name="category-cinematic-film-still"></a>
 
 ## 電影感 / 電影劇照
+
+<a name="prompt-2097549831489405424"></a>
+
+### 翻譯中
+
+作者：[@aniyaintel](https://x.com/aniyaintel) · [查看 X 原帖](https://x.com/aniyaintel/status/2097549831489405424)
+
+海報／傳單 · 電影感 / 電影劇照 · 風景 / 大自然 · 文字 / 字體排版 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2097549831489405424-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2097549831489405424-2.jpg" alt="圖片 2" width="480" />
+
+<img src="images/2097549831489405424-3.jpg" alt="圖片 3" width="480" />
+
+<img src="images/2097549831489405424-4.jpg" alt="圖片 4" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2097524090735075539"></a>
 

@@ -14,7 +14,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**7** Prompt · Son eklenen: **2026-09-09**
+**8** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -75,6 +75,34 @@ Işıltılı bronz tene sahip yakışıklı genç bir erkek, göğsünü açığ
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2097549831489405424"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@aniyaintel](https://x.com/aniyaintel) · [Orijinal gönderi](https://x.com/aniyaintel/status/2097549831489405424)
+
+Poster / El İlanı · Sinematik / Film Karesi · Manzara / Doğa · Metin / Tipografi · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097549831489405424-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2097549831489405424-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2097549831489405424-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2097549831489405424-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097524090735075539"></a>
 
