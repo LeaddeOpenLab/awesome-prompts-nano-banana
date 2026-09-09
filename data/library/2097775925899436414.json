@@ -4,10 +4,26 @@
   "model": "nano-banana",
   "prompt": "#masterpiece #realistic photo #landscape #Long exposure #floating paper lanterns #dark current #warm reflections #midnight quiet",
   "promptTranslations": {
-    "en": "#masterpiece #realistic photo #landscape #Long exposure #floating paper lanterns #dark current #warm reflections #midnight quiet"
+    "en": "#masterpiece #realistic photo #landscape #Long exposure #floating paper lanterns #dark current #warm reflections #midnight quiet",
+    "zh": "#杰作 #写实照片 #风景 #长曝光 #漂浮的纸灯笼 #暗流 #温暖的水面倒影 #午夜寂静",
+    "zh-TW": "#傑作 #寫實照片 #風景 #長曝光 #漂浮的紙燈籠 #暗流 #溫暖的倒影 #午夜寂靜",
+    "ja-JP": "#傑作 #リアルな写真 #風景 #長時間露光 #水面に浮かぶ灯籠 #暗い水流 #温かみのある反射 #真夜中の静寂",
+    "ko-KR": "#걸작 #사실적인 사진 #풍경 #장노출 #물에 뜬 종이등 #어두운 물살 #따스한 반영 #자정의 고요함",
+    "th-TH": "#ผลงานชิ้นเอก #ภาพถ่ายสมจริง #ทิวทัศน์ #การเปิดรับแสงนาน #โคมกระดาษลอยน้ำ #กระแสน้ำมืดมิด #แสงสะท้อนอันอบอุ่น #ความเงียบสงบยามเที่ยงคืน",
+    "vi-VN": "#kiệt tác #ảnh thực tế #phong cảnh #phơi sáng lâu #đèn lồng giấy thả trôi #dòng nước tối #ánh phản chiếu ấm áp #đêm khuya tĩnh lặng",
+    "hi-IN": "#मास्टरपीस #यथार्थवादी तस्वीर #परिदृश्य #लंबा एक्सपोज़र #तैरती कागज़ की लालटेनें #अंधेरी धारा #गर्म प्रतिबिंब #आधी रात की शांति",
+    "es-ES": "#obra maestra #foto realista #paisaje #larga exposición #farolillos de papel flotantes #corriente oscura #reflejos cálidos #tranquilidad de medianoche"
   },
   "summaryTranslations": {
-    "en": "Long-exposure night landscape with floating paper lanterns on a dark river."
+    "en": "Long-exposure night landscape with floating paper lanterns on a dark river.",
+    "zh": "黑夜河流上漂浮着纸灯笼的长曝光夜景。",
+    "zh-TW": "暗夜河流上漂浮著紙燈籠的長曝光夜景。",
+    "ja-JP": "暗い川に浮かぶ紙灯籠をとらえた長時間露光の夜景。",
+    "ko-KR": "어두운 강 위에 떠 있는 종이등을 담은 장노출 밤 풍경.",
+    "th-TH": "ทิวทัศน์ยามค่ำคืนที่เปิดรับแสงนานพร้อมโคมกระดาษลอยอยู่บนแม่น้ำอันมืดมิด",
+    "vi-VN": "Phong cảnh ban đêm phơi sáng lâu với những chiếc đèn lồng giấy trôi trên dòng sông tối.",
+    "hi-IN": "एक अंधेरी नदी पर तैरती कागज़ की लालटेनों के साथ लंबे एक्सपोज़र वाला रात का परिदृश्य।",
+    "es-ES": "Paisaje nocturno de larga exposición con farolillos de papel flotando en un río oscuro."
   },
   "translationVersion": 2,
   "summary": "Long-exposure night landscape with floating paper lanterns on a dark river.",
