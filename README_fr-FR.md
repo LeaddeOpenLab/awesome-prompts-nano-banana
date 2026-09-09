@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**15** Prompts · Dernier ajout: **2026-09-09**
+**16** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -443,6 +443,28 @@ Une vue verticale à couper le souffle d'une métropole futuriste flottant graci
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2097775925899436414"></a>
+
+### Traduction en cours
+
+Auteur：[@dfl\_inc\_jp](https://x.com/dfl_inc_jp) · [Publication originale](https://x.com/dfl_inc_jp/status/2097775925899436414)
+
+Paysage / Nature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097775925899436414-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097709112188641299"></a>
 

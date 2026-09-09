@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**15** Prompt · Son eklenen: **2026-09-09**
+**16** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -473,6 +473,28 @@ Alacakaranlıkta, dalgalanan yoğun koyu gri bulutlardan oluşan sonsuz bir deni
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2097775925899436414"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@dfl\_inc\_jp](https://x.com/dfl_inc_jp) · [Orijinal gönderi](https://x.com/dfl_inc_jp/status/2097775925899436414)
+
+Manzara / Doğa · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097775925899436414-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097709112188641299"></a>
 

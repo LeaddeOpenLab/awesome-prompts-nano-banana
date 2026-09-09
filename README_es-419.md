@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**15** Prompts · Última incorporación: **2026-09-09**
+**16** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -443,6 +443,28 @@ Una impresionante vista vertical de una metrópolis futurista que flota grácilm
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2097775925899436414"></a>
+
+### Traducción en curso
+
+Autor：[@dfl\_inc\_jp](https://x.com/dfl_inc_jp) · [Publicación original](https://x.com/dfl_inc_jp/status/2097775925899436414)
+
+Paisaje / Naturaleza · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097775925899436414-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097709112188641299"></a>
 

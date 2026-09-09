@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**15** Prompts · Latest addition: **2026-09-09**
+**16** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -402,6 +402,28 @@ A breathtaking vertical view of a futuristic metropolis floating gracefully abov
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097775925899436414"></a>
+
+### Long-exposure night landscape with floating paper lanterns on a dark river.
+
+Author：[@dfl\_inc\_jp](https://x.com/dfl_inc_jp) · [Source](https://x.com/dfl_inc_jp/status/2097775925899436414)
+
+Landscape / Nature · Published
+
+**Summary:** Long-exposure night landscape with floating paper lanterns on a dark river.
+
+<img src="images/2097775925899436414-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+#masterpiece #realistic photo #landscape #Long exposure #floating paper lanterns #dark current #warm reflections #midnight quiet
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097709112188641299"></a>
 
