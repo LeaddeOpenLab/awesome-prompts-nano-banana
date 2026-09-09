@@ -276,13 +276,13 @@ Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2097482618992570627"></a>
 
-### Çeviri sürüyor
+### Kadim ve holografik kanatlarıyla modern bir neon kentin üzerinde süzülen kozmik bir ejderhanın şiirsel istemi.
 
 Yazar：[@ToshiArte](https://x.com/ToshiArte) · [Orijinal gönderi](https://x.com/ToshiArte/status/2097482618992570627)
 
 Hayvan / Yaratık · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kadim ve holografik kanatlarıyla modern bir neon kentin üzerinde süzülen kozmik bir ejderhanın şiirsel istemi.
 
 <img src="images/2097482618992570627-1.jpg" alt="Görsel 1" width="480" />
 
@@ -295,7 +295,56 @@ Hayvan / Yaratık · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kanadın Her İki Kıyıyı da Hatırladığı Yer
+
+Ejderha bir yüzyıl seçmez.
+Erteleme ve kor akkor parıltısından oluşan bir beden aracılığıyla
+kendi kendini seçen bizzat yüzyıldır.
+Bir kanat, kâğıt kendi adını öğrenmeden önce
+yıkılan bir kütüphanenin yanmamış son sayfasını sürükler peşinde.
+Diğeri holografik yağmuru tarar,
+ayakta mı kalacaklarına yoksa bir söylentiye mi dönüşeceklerine
+henüz karar vermemiş kulelerden.
+Aralarındaki hava iki takvim tutar
+ve hangisinin işlemekte olduğunu unutur.
+Pulları, pul sözcüğünden daha eskidir.
+Henüz yakılmamış demirci ocaklarının ısısını
+ve başka bir anlatıda
+çoktan sönmüş yıldızların
+soğuğunu hatırlarlar.
+Rünler, bir kentin henüz düşünme hakkını kazanmadığı
+düşünceler gibi yüzeye çıkar ve batar.
+Işığın her atımı hem bir yadigar hem de bir prototiptir.
+Aşağıda sokaklar, olup bitenlerle
+ve varışını henüz müzakere etmekte olanla ıslanmıştır.
+Neonlar, vaktiyle bir buzulun sabrı olan
+ve daha sonra yalnızca bir susuzluk fısıltısına dönüşecek suyun üzerine yazar.
+Temeller, hâlâ ayakta olduklarını düşleyen
+ormanların dinginliğine yaslanır.
+İlan panoları, henüz gelmemiş olan alacakaranlığı
+şimdiden özleyen yarınların reklamını yapar.
+Yaratığın gözleri tek dürüst havayı barındırır:
+biri bittiğini henüz bilmeyen
+bir anının yeşili,
+diğeri ise onu soracak ağzı
+henüz bulamamış bir sorunun mavisi.
+Bize, zamanın hiç kimse bakmıyorken
+kendisine baktığı gibi bakarlar
+acıma duymadan, hüküm vermeden,
+yalnızca dikkatin o uzun nezaketiyle.
+Onun geçişinin o kısa rüzgâr akımında yaşarız,
+geçmişin bizimle işinin henüz bitmediği
+ve geleceğin henüz kaybetmediğimiz şeyleri
+özlemeye çoktan başladığı
+o tuhaf, merhametli aralıkta.
+Dönüş haricinde hiçbir şey vaat edilmez:
+ayrılmaz bir şekilde aynı anda her saate ait olan
+ve hiçbirine tamamen ait olmayan
+bir kanadın o yavaş, ışıldayan menteşesi.
+Bıraktığı sis ne sondur ne de başlangıç.
+Bir sonraki belirsizlik
+o sessiz, kaçınılmaz elini açmadan önce
+birbirlerini kısacık tanıdıkları yerdir orası.
 ```
 
 [↑ Kategorilere dön](#catalog)

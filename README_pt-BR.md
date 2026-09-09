@@ -276,13 +276,13 @@ Tradução em andamento
 
 <a name="prompt-2097482618992570627"></a>
 
-### Tradução em andamento
+### Prompt poético de um dragão cósmico com asas antigas e holográficas pairando sobre uma cidade moderna de néon.
 
 Autor：[@ToshiArte](https://x.com/ToshiArte) · [Publicação original](https://x.com/ToshiArte/status/2097482618992570627)
 
 Animal / Criatura · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt poético de um dragão cósmico com asas antigas e holográficas pairando sobre uma cidade moderna de néon.
 
 <img src="images/2097482618992570627-1.jpg" alt="Imagem 1" width="480" />
 
@@ -295,7 +295,57 @@ Animal / Criatura · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Onde a Asa Lembra Ambas as Margens
+
+O dragão não escolhe um século.
+É o século escolhendo a si mesmo
+através de um corpo feito de adiamento e resplendor crepuscular.
+Uma asa rasteja a última página não queimada de uma biblioteca
+que caiu antes de o papel aprender seu próprio nome.
+A outra penteia a chuva holográfica
+de torres que ainda não decidiram
+se permanecerão de pé ou se tornarão um boato.
+Entre elas, o ar guarda dois calendários
+e esquece qual deles está correndo.
+Suas escamas são mais antigas do que a palavra para escama.
+Elas lembram o calor de forjas
+que ainda não foram acesas,
+e o frio de estrelas
+que já se apagaram
+em alguma outra narrativa.
+Runas emergem e afundam como pensamentos
+que uma cidade não conquistou o direito de pensar.
+Cada pulso de luz é tanto relíquia quanto protótipo.
+Abaixo, as ruas estão molhadas com o que aconteceu
+e com o que ainda está negociando sua chegada.
+O néon escreve sobre a água que já foi a paciência de uma geleira
+e será, mais tarde, apenas um rumor de sede.
+Fundações repousam sobre o silêncio de florestas
+que ainda sonham que estão de pé.
+Outdoors anunciam amanhãs
+já nostálgicos pelo crepúsculo que ainda não chegou.
+Os olhos da criatura guardam o único clima honesto:
+um o verde de uma memória
+que ainda não sabe que terminou,
+o outro o azul de uma pergunta
+que não encontrou a boca que irá fazê-la.
+Eles olham para nós do jeito que o tempo olha para si mesmo
+quando ninguém está vigiando
+sem piedade, sem veredito,
+apenas a longa cortesia da atenção.
+Vivemos na breve corrente descendente de sua passagem,
+aquele intervalo estranho e misericordioso
+onde o passado ainda não terminou conosco
+e o futuro já começou
+a sentir falta daquilo que ainda não perdemos.
+Nada é prometido exceto a virada:
+a dobradiça lenta e luminosa de uma asa
+que pertence a todas as horas de uma vez
+e a nenhuma delas por completo.
+A névoa que ele deixa não é fim nem começo.
+É o lugar onde eles brevemente se reconhecem
+antes que a próxima incerteza
+abra sua mão silenciosa e necessária.
 ```
 
 [↑ Voltar às categorias](#catalog)
