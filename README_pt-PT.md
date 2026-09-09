@@ -106,13 +106,13 @@ Tradução em curso
 
 <a name="prompt-2097524090735075539"></a>
 
-### Tradução em curso
+### Um prompt de retrato de moda cinematográfico de alto nível que retrata uma mulher elegante entre papoilas vermelhas vívidas e gigantescas sob a iluminação quente da hora dourada.
 
 Autor：[@codewithhajra](https://x.com/codewithhajra) · [Publicação original](https://x.com/codewithhajra/status/2097524090735075539)
 
 Fotografia · Cena de Cinema / Fotograma · Retrato / Selfie · Personagem · Item de Moda · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Um prompt de retrato de moda cinematográfico de alto nível que retrata uma mulher elegante entre papoilas vermelhas vívidas e gigantescas sob a iluminação quente da hora dourada.
 
 <img src="images/2097524090735075539-1.jpg" alt="Imagem 1" width="480" />
 
@@ -121,7 +121,13 @@ Fotografia · Cena de Cinema / Fotograma · Retrato / Selfie · Personagem · It
 **Prompt**
 
 ```text
-Tradução em curso
+Um deslumbrante retrato de moda cinematográfico ultrafotorrealista de uma mulher adulta elegante rodeada por enormes papoilas vermelhas vívidas, captado num cenário editorial de jardim onírico. Ela tem pele clara e luminosa com textura natural realista, maçãs do rosto suavemente rosadas, traços faciais simétricos e refinados, olhos expressivos azul-acinzentados claros, sobrancelhas delicadas, pestanas definidas, um nariz reto e gracioso e lábios carnudos naturais e brilhantes em tom nude-rosado. A sua expressão é calma, serena e subtilmente cativante, olhando diretamente para a câmara.
+O seu longo cabelo louro-dourado está cuidadosamente repartido ao meio e puxado para trás de forma suave, com fios individuais finos a captar a luz solar. Papoilas gigantescas em vermelho-escarlate emolduram o lado esquerdo do seu rosto e sobrepõem-se parcialmente ao seu cabelo, enquanto flores vermelhas gigantes adicionais preenchem o primeiro plano e o fundo, criando uma composição floral dramática.
+Ela veste um requintado vestido de alta-costura em tom rosa-pálido suave, confecionado em chiffon/tule plissado e leve. O vestido apresenta uma gola alta e folhada exagerada de inspiração vitoriana a rodear o pescoço, plissados verticais intrincados, ombros esculturais volumosos e camadas fluidas de tecido translúcido caindo em cascata de forma magnífica pela parte inferior da moldura. O tecido delicado capta a luz solar e cria reflexos suaves, sombras, dobras e uma transparência subtil.
+A luz dourada e quente do entardecer ilumina o seu rosto lateralmente, produzindo uma atmosfera brilhante em tom pêssego-rosado, realces luminosos na pele, sombras faciais suaves e reflexos vermelhos ricos provenientes das flores. Por trás dela, surge um céu azul-pastel límpido com um horizonte suavemente desfocado e campos infinitos de flores vermelhas.
+Composição: retrato de moda de grande plano a plano médio, rosto centrado, enquadramento vertical 4:5, flores a emoldurar dramaticamente o sujeito, profundidade de campo reduzida, pétalas em primeiro plano suavemente desfocadas para criar profundidade, separação cinematográfica entre o sujeito e o fundo.
+Estilo: editorial de moda de luxo de topo, fotografia artística romântica e onírica, fotorrealista, gradação de cores sofisticada, textura natural da pele, física de tecido realista, detalhes intrincados nas flores, profundidade atmosférica suave, iluminação cinematográfica, grão de filme subtil, HDR, detalhe a 8K, objetiva de retrato de 85mm, f/1.8, fotografia profissional com qualidade de estúdio.
+Prompt negativo: cartoon, anime, ilustração, pele plástica, maquilhagem excessiva, rosto distorcido, olhos assimétricos, mãos malformadas, dedos adicionais, flores duplicadas, cabelo não natural, cores sobressaturadas, rosto desfocado, baixa resolução, sombras duras, pele artificial, texto, marca de água, logótipo.
 ```
 
 [↑ Voltar às categorias](#catalog)

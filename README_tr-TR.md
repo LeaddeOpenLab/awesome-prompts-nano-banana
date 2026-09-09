@@ -106,13 +106,13 @@ Poster / El İlanı · Sinematik / Film Karesi · Manzara / Doğa · Metin / Tip
 
 <a name="prompt-2097524090735075539"></a>
 
-### Çeviri sürüyor
+### Sıcak gün batımı ışığında, devasa canlı kırmızı gelincikler arasında zarif bir kadını betimleyen üst düzey bir sinematik moda portresi promptu.
 
 Yazar：[@codewithhajra](https://x.com/codewithhajra) · [Orijinal gönderi](https://x.com/codewithhajra/status/2097524090735075539)
 
 Fotoğrafçılık · Sinematik / Film Karesi · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sıcak gün batımı ışığında, devasa canlı kırmızı gelincikler arasında zarif bir kadını betimleyen üst düzey bir sinematik moda portresi promptu.
 
 <img src="images/2097524090735075539-1.jpg" alt="Görsel 1" width="480" />
 
@@ -121,7 +121,13 @@ Fotoğrafçılık · Sinematik / Film Karesi · Portre / Selfie · Karakter · M
 **İstem**
 
 ```text
-Çeviri sürüyor
+Rüya gibi bir editoryal bahçe ortamında çekilmiş, devasa canlı kırmızı gelincik çiçekleriyle çevrili zarif bir yetişkin kadının nefes kesici, ultra fotogerçekçi sinematik moda portresi. Kadın, gerçekçi doğal dokuya sahip açık renkli parlak bir cilde, hafif pembeleşmiş yanaklara, ince simetrik yüz hatlarına, etkileyici açık mavi-gri gözlere, narin kaşlara, belirgin kirpiklere, zarif düz bir buruna ve doğal olarak dolgun, parlak nude-pembe dudaklara sahiptir. İfadesi sakin, dingin ve ustaca büyüleyici olup doğrudan kameraya bakmaktadır.
+Uzun altın sarısı saçları düzgün bir şekilde ortadan ayrılmış ve pürüzsüzce geriye doğru toplanmıştır; ince saç telleri güneş ışığını yakalamaktadır. Devasa al kırmızı gelincikler yüzünün sol tarafını çerçeveler ve kısmen saçının üzerine biner; ön planı ve arka planı dolduran diğer dev boyutlu kırmızı çiçekler ise dramatik bir floral kompozisyon oluşturur.
+Hafif pilili şifon/tülden yapılmış, zarif, yumuşak pudra pembesi bir özel dikim (couture) elbise giymektedir. Elbise, boynunu saran gösterişli yüksek fırfırlı Viktorya dönemi esintili bir yakaya, girift dikey pililere, heykelsi hacimli omuzlara ve karenin alt kısmı boyunca güzelce dökülen yarı saydam kumaş katmanlarına sahiptir. Narin kumaş güneş ışığını yakalayarak yumuşak parlamalar, gölgeler, kıvrımlar ve ince bir şeffaflık yaratır.
+Sıcak gün batımı (golden hour) ışığı yüzünü yandan aydınlatarak ışıltılı şeftali-pembe bir atmosfer, parlak cilt vurguları, yumuşak yüz gölgeleri ve çiçeklerden gelen zengin kırmızı yansımalar oluşturur. Arkasında, yumuşakça bulanıklaştırılmış bir ufka sahip berrak pastel mavi bir gökyüzü ve sonsuz kırmızı çiçek tarlaları yer alır.
+Kompozisyon: yakından orta plana moda portresi, ortalanmış yüz, dikey 4:5 kadraj, özneyi dramatik bir şekilde çerçeveleyen çiçekler, sığ alan derinliği, derinlik katmak için yumuşakça bulanıklaştırılmış ön plan taç yaprakları, özne ile arka plan arasında sinematik ayrım.
+Tarz: üst düzey lüks moda editoryali, rüya gibi romantik güzel sanatlar fotoğrafçılığı, fotogerçekçi, sofistike renk derecelendirmesi, doğal cilt dokusu, gerçekçi kumaş fiziği, girift çiçek detayları, yumuşak atmosferik derinlik, sinematik aydınlatma, hafif film greni, HDR, 8K detay, 85mm portre lensi, f/1.8, profesyonel stüdyo kalitesinde fotoğrafçılık.
+Negatif prompt: çizgi film, anime, illüstrasyon, plastik cilt, aşırı makyaj, bozuk yüz, asimetrik gözler, deforme eller, fazla parmaklar, mükerrer çiçekler, doğal olmayan saç, aşırı doygun renkler, bulanık yüz, düşük çözünürlük, sert gölgeler, yapay cilt, metin, filigran, logo.
 ```
 
 [↑ Kategorilere dön](#catalog)
