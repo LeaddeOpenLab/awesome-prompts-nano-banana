@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T12:31:31.274Z",
+  "model": "nano-banana",
+  "prompt": "【商品・キャンペーン情報】\n・アピールテキスト: {goldText}\n・ブランドコピー: {subtext}\n・対象製品: {products}\n\n【画質・演出・構図指定】\n・スタイル: 高級ハイブランドのカタログやラグジュアリーな雑誌見開きの静物画（スティルライフ）商品写真。\n・被写体: 深みのあるビンテージレザーや上質なダークトーンのテクスチャ上に配置された{products}。職人の手仕事を感じさせる細部（ステッチや金属のヘアライン加工など）が美しくディテール豊かに描かれている。\n・照明・色彩: 深みのあるダークブラウンや黒、真鍮のゴールドを基調としたカラーパレット。アンバー調の暖かいサイドライト、クラシックで重厚なシャドウ。\n・テキストの配置（GPT-image / Nano Banana Pro向け）: ゴールド色の細いフォントで、{goldText}や{subtext}というテキストが画面の落ち着いた位置にさりげなくタイポグラフィとして配置されている。\n\n【レイアウトおよび出力上の厳格な制約（必須）】\n・完成したデザインそのものを、画面全体いっぱいに出力してください。デザイン内部の背景やシーン描写（壁・空間・影など）は本文の指示に従って構いません。\n・禁止事項：完成ポスターを額縁に入れた写真、壁に貼った状態の写真、机や紙の上に置いたモックアップ写真、紙の縁の遠近の歪みやドロップシャドウ。\n・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.\n\n・アスペクト比: --ar 3:4",
+  "promptTranslations": {
+    "en": "[Product & Campaign Information]\n・Appeal Text: {goldText}\n・Brand Copy: {subtext}\n・Target Product: {products}\n\n[Image Quality, Direction & Composition Specifications]\n・Style: Still life product photography reminiscent of a high-end luxury brand catalog or a luxury magazine spread.\n・Subject: {products} placed on rich vintage leather or premium dark-toned textures. Details highlighting artisan craftsmanship (such as stitching and hairline brushed metal finishes) are depicted beautifully and with rich detail.\n・Lighting & Color: A color palette based on deep dark browns, black, and brass gold. Warm amber sidelight, classic and heavy shadows.\n・Text Placement (for GPT-image / Nano Banana Pro): Using a thin gold-colored font, the texts \"{goldText}\" and \"{subtext}\" are subtly placed as typography in a balanced, understated area of the frame.\n\n[Strict Layout and Output Constraints (Required)]\n・Output the finished design itself, filling the entire canvas. Background and scene depictions inside the design (walls, spaces, shadows, etc.) may follow the instructions in the text.\n・Prohibitions: Photos of the finished poster in a picture frame, photos of it hung on a wall, mockup photos placed on a desk or paper, perspective distortion of the paper's edges, or drop shadows.\n・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.\n\n・Aspect Ratio: --ar 3:4"
+  },
+  "summaryTranslations": {
+    "en": "Prompt template for luxury leather goods and watch campaign photography. Specifies a still life composition emphasizing moody lighting and artisan craftsmanship details."
+  },
+  "translationVersion": 2,
+  "summary": "高級レザー製品や腕時計のキャンペーン写真用プロンプトテンプレート。重厚なライティングと職人技のディテールを強調したスティルライフ構図を指定。",
+  "summaryEn": "Prompt template for luxury leather goods and watch campaign photos, specifying heavy lighting, artisan craftsmanship, and flat still-life composition.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097623415939076175",
+    "canonicalUrl": "https://x.com/AIGuideNote/status/2097623415939076175",
+    "author": {
+      "username": "AIGuideNote",
+      "displayName": "AI Guide-Note - 実務で使えるAI活用メディア",
+      "profileUrl": "https://x.com/AIGuideNote"
+    },
+    "publishedAt": "2026-09-09T09:49:28.000Z",
+    "collectedAt": "2026-09-09T12:15:35.618Z",
+    "language": "ja",
+    "originalText": "【コピペで使えるAIプロンプト】\nプレミアム商品キャンペーン\n\n💡 用途: 本革製品、高級腕時計、宝飾品などのキャンペーンに適した、伝統と職人技のこだわりが伝わる重厚でプレミアムな商品写真。テーブル等の余計な背景影のない平面構成。\n🎯 推奨AI: Nano Banana Pro / GPT-image\n📊 難易度: 上級\n\n▼ コピペ用指示プロンプト（全文）:\n```\n【商品・キャンペーン情報】\n・アピールテキスト: {goldText}\n・ブランドコピー: {subtext}\n・対象製品: {products}\n\n【画質・演出・構図指定】\n・スタイル: 高級ハイブランドのカタログやラグジュアリーな雑誌見開きの静物画（スティルライフ）商品写真。\n・被写体: 深みのあるビンテージレザーや上質なダークトーンのテクスチャ上に配置された{products}。職人の手仕事を感じさせる細部（ステッチや金属のヘアライン加工など）が美しくディテール豊かに描かれている。\n・照明・色彩: 深みのあるダークブラウンや黒、真鍮のゴールドを基調としたカラーパレット。アンバー調の暖かいサイドライト、クラシックで重厚なシャドウ。\n・テキストの配置（GPT-image / Nano Banana Pro向け）: ゴールド色の細いフォントで、{goldText}や{subtext}というテキストが画面の落ち着いた位置にさりげなくタイポグラフィとして配置されている。\n\n【レイアウトおよび出力上の厳格な制約（必須）】\n・完成したデザインそのものを、画面全体いっぱいに出力してください。デザイン内部の背景やシーン描写（壁・空間・影など）は本文の指示に従って構いません。\n・禁止事項：完成ポスターを額縁に入れた写真、壁に貼った状態の写真、机や紙の上に置いたモックアップ写真、紙の縁の遠近の歪みやドロップシャドウ。\n・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.\n\n・アスペクト比: --ar 3:4\n```\n\n▼ 入力パラメータ例:\n・{goldText}: アピールコピー (例: 極上・厳選)\n・{subtext}: ブランドコピー (例: 熟練の職人技が生み出す、一生モノの革製品)\n・{products}: 対象製品 (例: 本革財布と腕時計)",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRxBYM_XsAATlYx.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRxBYM_XsAATlYx.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 35
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AIGuideNote/status/2097623415939076175",
+  "coverUrl": "https://pbs.twimg.com/media/HRxBYM_XsAATlYx.jpg",
+  "coverPath": "images/2097623415939076175-1.jpg",
+  "imagePaths": [
+    "images/2097623415939076175-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRxBYM_XsAATlYx",
+    "x-post:2097623415939076175"
+  ],
+  "analysis": {
+    "summary": "高級レザー製品や腕時計のキャンペーン写真用プロンプトテンプレート。重厚なライティングと職人技のディテールを強調したスティルライフ構図を指定。",
+    "summaryEn": "Prompt template for luxury leather goods and watch campaign photos, specifying heavy lighting, artisan craftsmanship, and flat still-life composition.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成图像完美呈现了深色皮革质感表面的皮夹和腕表，采用温暖的琥珀色侧光和暗部调色，符合提示词描述。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "【商品・キャンペーン情報】\n・アピールテキスト: {goldText}\n・ブランドコピー: {subtext}\n・対象製品: {products}\n\n【画質・演出・構図指定】\n・スタイル: 高級ハイブランドのカタログやラグジュアリーな雑誌見開きの静物画（スティルライフ）商品写真。\n・被写体: 深みのあるビンテージレザーや上質なダークトーンのテクスチャ上に配置された{products}。職人の手仕事を感じさせる細部（ステッチや金属のヘアライン加工など）が美しくディテール豊かに描かれている。\n・照明・色彩: 深みのあるダークブラウンや黒、真鍮のゴールドを基調としたカラーパレット。アンバー調の暖かいサイドライト、クラシックで重厚なシャドウ。\n・テキストの配置（GPT-image / Nano Banana Pro向け）: ゴールド色の細いフォントで、{goldText}や{subtext}というテキストが画面の落ち着いた位置にさりげなくタイポグラフィとして配置されている。\n\n【レイアウトおよび出力上の厳格な制約（必須）】\n・完成したデザインそのものを、画面全体いっぱいに出力してください。デザイン内部の背景やシーン描写（壁・空間・影など）は本文の指示に従って構いません。\n・禁止事項：完成ポスターを額縁に入れた写真、壁に貼った状態の写真、机や紙の上に置いたモックアップ写真、紙の縁の遠近の歪みやドロップシャドウ。\n・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.\n\n・アスペクト比: --ar 3:4",
+    "sourceRange": {
+      "start": 186,
+      "end": 1138
+    },
+    "translations": {
+      "zh": "【商品/活动信息】\n・宣传文案: {goldText}\n・品牌标语: {subtext}\n・目标产品: {products}\n\n【画质/表现/构图要求】\n・风格: 高端奢侈品牌型录或奢华杂志跨页静物商品摄影。\n・主体: 放置在复古皮革或深色质感背景上的{products}。展现手工细节（缝线、金属拉丝等）。\n・光影色彩: 深棕、黑及黄铜金基调。暖琥珀色侧光与厚重视效阴影。\n・文字排版（适用 GPT-image / Nano Banana Pro）: 画面中以金色纤细字体融入{goldText}与{subtext}排版。\n\n【构图与输出限制】\n・全画幅平铺输出，禁止海报样机、画框、墙贴及边缘阴影效果。\n・宽高比: --ar 3:4",
+      "en": "[Product / Campaign Info]\n・Appeal Text: {goldText}\n・Brand Copy: {subtext}\n・Product: {products}\n\n[Quality, Direction, Composition]\n・Style: Luxury brand catalog / high-end magazine still life product photo.\n・Subject: {products} placed on deep vintage leather or textured dark surface, showcasing artisan craftsmanship details.\n・Lighting & Colors: Dark brown, black, and brass gold palette. Warm amber side lighting and classic heavy shadows.\n・Text Layout: Gold slender typography displaying {goldText} and {subtext}.\n\n[Layout Constraints]\n・Fill the entire canvas with flat 2D design. No mockup frames, no posters on walls/desks.\n・Aspect Ratio: --ar 3:4"
+    },
+    "targetModels": [
+      "nano-banana"
+    ],
+    "category": "text-to-image",
+    "useCase": "商品摄影及奢华宣传海报",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
