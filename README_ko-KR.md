@@ -2,11 +2,6 @@
 
 [![English](https://img.shields.io/badge/English-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-brightgreen)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-lightgrey)](README_tr-TR.md)
 
-**Best for:** Nano Banana prompts for reference-image editing, product consistency, character continuity, and rapid iteration.
-
-For PDF, PPT, SOP, training, and multilingual video workflows:
-[Awesome Document-to-Video](https://github.com/LeaddeOpenLab/awesome-document-to-video)
-
 > **매일 엄선하는 고품질 프롬프트**
 
 AI 이미지, 영상, 3D 제작을 위한 완전한 프롬프트를 찾아보세요. 스타일별 분류, 다국어 버전, 원작자와 출처를 제공합니다.
@@ -111,13 +106,13 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 <a name="prompt-2097524090735075539"></a>
 
-### 번역 중
+### 따스한 골든 아워의 조명 속에서 거대하고 선명한 붉은 양귀비꽃에 둘러싸인 우아한 여성을 묘사한 하이엔드 시네마틱 패션 포트레이트 프롬프트.
 
 작성자：[@codewithhajra](https://x.com/codewithhajra) · [원본 게시물](https://x.com/codewithhajra/status/2097524090735075539)
 
 사진술 · 시네마틱 / 영화 스틸컷 · 인물 사진 / 셀카 · 캐릭터 · 패션 아이템 · 배포 완료
 
-**요약:** 번역 중
+**요약:** 따스한 골든 아워의 조명 속에서 거대하고 선명한 붉은 양귀비꽃에 둘러싸인 우아한 여성을 묘사한 하이엔드 시네마틱 패션 포트레이트 프롬프트.
 
 <img src="images/2097524090735075539-1.jpg" alt="이미지 1" width="480" />
 
@@ -126,7 +121,13 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 **프롬프트**
 
 ```text
-번역 중
+몽환적인 에디토리얼 정원을 배경으로, 거대하고 선명한 붉은 양귀비꽃들에 둘러싸인 우아한 성인 여성을 담아낸 숨이 멎을 듯한 극사실주의 시네마틱 패션 포트레이트. 그녀는 현실적이고 자연스러운 결을 지닌 맑고 환한 피부, 은은하게 붉어진 뺨, 정교하고 대칭적인 이목구비, 표현력이 풍부한 밝은 블루그레이 눈동자, 섬세한 눈썹, 또렷한 속눈썹, 우아하고 곧은 코, 그리고 자연스럽게 도톰하고 윤기 있는 누드 핑크빛 입술을 지니고 있다. 그녀의 표정은 차분하고 평온하며 은은한 매혹을 풍기며 카메라를 똑바로 응시한다.
+길고 윤기 나는 골든 블론드 헤어는 단정하게 가르마를 타 매끄럽게 뒤로 넘겨져 있으며, 가느다란 머리카락 한 올 한 올이 햇빛을 받아 반짝인다. 거대한 진홍빛 양귀비꽃들이 그녀의 얼굴 왼쪽을 감싸며 머리 일부를 살짝 덮고 있으며, 전경과 배경을 채운 과장된 크기의 붉은 꽃들이 드라마틱한 플로럴 구도를 완성한다.
+그녀는 가벼운 플리츠 시폰/튤 소재로 제작된 정교하고 부드러운 블러시 핑크 오트쿠튀르 드레스를 입고 있다. 드레스는 목을 감싸는 빅토리아 양식에서 영감을 받은 과장된 하이 러플 칼라, 정교한 수직 주름, 볼륨감 있는 조각 같은 숄더, 그리고 프레임 하단으로 아름답게 흘러내리는 반투명한 패브릭 레이어가 특징이다. 섬세한 패브릭은 햇빛을 받아 부드러운 하이라이트, 그림자, 주름 및 은은한 시스루 투명감을 연출한다.
+따스한 골든 아워의 햇살이 그녀의 얼굴을 옆에서 비추며 화사한 피치 핑크빛 분위기, 피부의 빛나는 하이라이트, 부드러운 얼굴의 음영, 그리고 꽃에서 반사되는 풍부한 붉은빛을 자아낸다. 그녀의 뒤로는 부드럽게 흐려진 지평선과 끝없이 펼쳐진 붉은 꽃밭 위로 맑은 파스텔 블루빛 하늘이 펼쳐져 있다.
+구도: 클로즈업에서 미디엄 패션 포트레이트, 중앙에 위치한 얼굴, 수직 4:5 프레이밍, 피사체를 드라마틱하게 감싸는 꽃들, 얕은 심도, 공간감을 위해 부드럽게 아웃포커스된 전경의 꽃잎들, 피사체와 배경 사이의 시네마틱한 분리감.
+스타일: 하이엔드 럭셔리 패션 에디토리얼, 몽환적이고 로맨틱한 파인 아트 사진, 사실적인 묘사, 세련된 컬러 그레이딩, 자연스러운 피부 질감, 사실적인 패브릭 물리 표현, 정교한 꽃의 디테일, 부드러운 대기 원근감, 영화 같은 조명, 미세한 필름 그레인, HDR, 8K 디테일, 85mm 인물 렌즈, f/1.8, 전문 스튜디오 품질의 사진.
+네거티브 프롬프트: 카툰, 애니메이션, 일러스트레이션, 플라스틱 같은 피부, 과도한 메이크업, 왜곡된 얼굴, 비대칭 눈, 기형 손, 추가적인 손가락, 중복된 꽃, 부자연스러운 머리카락, 과포화된 색상, 흐릿한 얼굴, 저해상도, 거친 그림자, 인위적인 피부, 텍스트, 워터마크, 로고.
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

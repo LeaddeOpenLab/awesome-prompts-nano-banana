@@ -2,11 +2,6 @@
 
 [![English](https://img.shields.io/badge/English-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-brightgreen)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-lightgrey)](README_tr-TR.md)
 
-**Best for:** Nano Banana prompts for reference-image editing, product consistency, character continuity, and rapid iteration.
-
-For PDF, PPT, SOP, training, and multilingual video workflows:
-[Awesome Document-to-Video](https://github.com/LeaddeOpenLab/awesome-document-to-video)
-
 > **高品質なプロンプトを毎日厳選**
 
 AI画像・動画・3D制作の完全なプロンプトを紹介します。スタイル別に探し、多言語版と原作者の出典を確認できます。
@@ -111,13 +106,13 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 <a name="prompt-2097524090735075539"></a>
 
-### 翻訳中
+### 温かいゴールデンアワーの光の中、巨大で鮮やかな赤いヒナゲシの花に囲まれたエレガントな女性を描くハイエンドで映画的なファッションポートレートのプロンプト。
 
 作者：[@codewithhajra](https://x.com/codewithhajra) · [元の投稿](https://x.com/codewithhajra/status/2097524090735075539)
 
 写真撮影 · シネマティック / フィルムスチル · ポートレート / セルフィー · キャラクター · ファッションアイテム · 配信済み
 
-**概要:** 翻訳中
+**概要:** 温かいゴールデンアワーの光の中、巨大で鮮やかな赤いヒナゲシの花に囲まれたエレガントな女性を描くハイエンドで映画的なファッションポートレートのプロンプト。
 
 <img src="images/2097524090735075539-1.jpg" alt="画像 1" width="480" />
 
@@ -126,7 +121,13 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 **プロンプト**
 
 ```text
-翻訳中
+夢のようなエディトリアルガーデンを舞台に、巨大で鮮やかな赤いヒナゲシの花々に囲まれたエレガントな大人の女性を描いた、息をのむほどフォトリアリスティックで映画的なファッションポートレート。彼女はリアルで自然なキメを持つ明るく透明感のある肌、ほんのり色づいた頬、端正で対称的な顔立ち、表現力豊かなライトブルーグレーの瞳、繊細な眉、くっきりとしたまつげ、優美ですらりとした鼻、そして自然にふっくらとしたツヤのあるヌードピンクの唇を備えている。その表情は穏やかで落ち着き、控えめながらも人々を惹きつける魅力を漂わせ、カメラをまっすぐ見つめている。
+長く艶やかなゴールデンブロンドの髪はきれいにセンターパートで分けられ、なめらかに後ろへ束ねられており、繊細な一本一本の毛束が太陽の光を浴びている。巨大な緋色のポピーが彼女の顔の左側を縁取り、髪に一部重なり合い、さらに前影と背景を埋め尽くす巨大な赤い花々がドラマチックなフラワーコンポジションを創り出している。
+彼女は軽量のプリーツシフォン/チュールで作られた、洗練された淡いブラッシュピンクのオートクチュールドレスを身に纏っている。ドレスには首元を包み込むヴィクトリア調に着想を得た誇張されたハイラッフルカラー、繊細なバーティカルプリーツ、彫刻的でボリュームのあるショルダー、そしてフレームの下部へと美しく流れ落ちる半透明のドレープ生地のレイヤーが施されている。繊細な生地は太陽光を捉え、柔らかいハイライト、陰影、折り目、そしてかすかな透明感を生み出している。
+温かみのあるゴールデンアワーの日差しが彼女の顔を横から照らし、ピーチピンクに輝く空気感、透明感のある肌のハイライト、柔らかな顔の陰影、そして花々からの豊かな赤い反射光をもたらしている。彼女の背後には、柔らかくぼやけた地平線と果てしなく広がる赤い花のフィールドを伴う澄んだパステルブルーの空が広がっている。
+構図：クローズアップからミディアムのファッションポートレート、顔を中心にした配置、縦型4:5のフレーミング、被写体をドラマチックに縁取る花々、浅い被写界深度、奥行きを出すために柔らかくボケた前景の花びら、被写体と背景の映画的な分離感。
+スタイル：ハイエンドなラグジュアリーファッションエディトリアル、夢幻的でロマンチックなファインアート写真、フォトリアリスティック、洗練されたカラーグレーディング、自然な肌の質感、リアルな生地の物理挙動、精緻な花のディテール、柔らかな大気の奥行き、映画的なライティング、繊細なフィルムグレイン、HDR、8Kディテール、85mmポートレートレンズ、f/1.8、プロ仕様のスタジオ品質の写真。
+ネガティブプロンプト：漫画、アニメ、イラスト、プラスチックのような肌、厚化粧、歪んだ顔、非対称な目、変形した手、余分な指、重複した花、不自然な髪、過飽和な色、ぼやけた顔、低解像度、粗い影、人工的な肌、テキスト、ウォーターマーク、ロゴ。
 ```
 
 [↑ カテゴリに戻る](#catalog)

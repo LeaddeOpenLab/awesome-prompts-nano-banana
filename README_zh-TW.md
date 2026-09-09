@@ -2,11 +2,6 @@
 
 [![English](https://img.shields.io/badge/English-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-brightgreen)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-lightgrey)](README_tr-TR.md)
 
-**Best for:** Nano Banana prompts for reference-image editing, product consistency, character continuity, and rapid iteration.
-
-For PDF, PPT, SOP, training, and multilingual video workflows:
-[Awesome Document-to-Video](https://github.com/LeaddeOpenLab/awesome-document-to-video)
-
 > **每日更新，精選高品質提示詞**
 
 探索用於 AI 圖像、影片與 3D 創作的完整提示詞。依風格瀏覽、切換多語言版本，查看原作者與作品來源。
@@ -111,13 +106,13 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 <a name="prompt-2097524090735075539"></a>
 
-### 翻譯中
+### 高端電影感時尚肖像提示詞，描繪了一位優雅女性在溫暖的金色光線中置身於巨大的鮮豔紅色虞美人花叢中。
 
 作者：[@codewithhajra](https://x.com/codewithhajra) · [查看 X 原帖](https://x.com/codewithhajra/status/2097524090735075539)
 
 攝影 · 電影感 / 電影劇照 · 人像 / 自拍 · 角色 · 時尚單品 · 已推流
 
-**概括:** 翻譯中
+**概括:** 高端電影感時尚肖像提示詞，描繪了一位優雅女性在溫暖的金色光線中置身於巨大的鮮豔紅色虞美人花叢中。
 
 <img src="images/2097524090735075539-1.jpg" alt="圖片 1" width="480" />
 
@@ -126,7 +121,13 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 **提示詞**
 
 ```text
-翻譯中
+一張令人驚嘆的超逼真電影感時尚肖像，展現了一位優雅的成年女性被巨大的鮮豔紅色虞美人花所簇擁，定格於夢幻般的時尚編輯級花園環境中。她擁有白皙透亮的肌膚與真實自然的肌理，面頰泛著淡淡紅暈，面部輪廓精緻對稱，擁有一雙富有表現力的淺藍灰色眼睛、精細的雙眉、清晰分明的睫毛、優雅筆直的鼻樑以及自然飽滿富有光澤的裸粉色雙唇。她的神情平靜、安詳且極具內斂的魅力，直視鏡頭。
+她那頭金黃色的長髮整齊地中分並光滑地向後梳起，絲絲縷縷細膩的髮絲迎光生輝。巨大的緋紅色虞美人花映襯著她臉部的左側，並部分遮掩了她的秀髮，前景與背景中更多巨大的紅花共同構成了富有戲劇張力的花卉構圖。
+她身著一襲精緻的柔和淡粉色高級訂製禮服，由輕盈的百褶雪紡/薄紗製成。禮服配有環繞頸部、受維多利亞風格啟發的高立荷葉邊誇張立領，點綴著精緻的垂直褶皺、富有體積感的雕塑感肩部，以及流淌傾瀉在畫面下方的半透明飄逸面料層。輕柔的面料捕捉著陽光，營造出柔和的高光、陰影、褶皺和微妙的通透質感。
+溫暖的金色時刻夕陽從側面照亮她的面龐，營造出泛著蜜桃粉色微光的氛圍、透亮細膩的皮膚高光、柔和的面部陰影以及來自花朵的濃郁紅色反光。在她身後，是清澈的柔淡藍天，地平線隱約模糊，連綿延伸著無盡的紅花田野。
+構圖：特寫至中景時尚肖像，面部居中，4:5縱向取景構圖，花朵極具張力地環繞烘托主體，淺景深，前景花瓣柔和虛化以增加空間縱深感，主體與背景之間呈現電影級的空間分離感。
+風格：高端奢華時尚大片、夢幻浪漫的純藝術攝影、超逼真、考究的調色、真實的皮膚肌理、逼真的面料物理動態、精緻複雜的花卉細節、柔和的大氣景深、電影級光影、細膩的膠片顆粒、HDR、8K細節、85mm人像鏡頭、f/1.8、專業影棚級攝影質感。
+反向提示詞：卡通，動漫，插畫，塑料感皮膚，濃妝，扭曲的面容，不對稱的眼睛，畸變的手，多餘的手指，重複的花朵，不自然的頭髮，過度飽和的色彩，模糊的面部，低解析度，生硬的陰影，人造皮膚，文本，浮水印，標誌。
 ```
 
 [↑ 返回分類目錄](#catalog)
