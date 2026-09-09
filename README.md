@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**5** Prompts · Latest addition: **2026-09-09**
+**6** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -75,6 +75,36 @@ A handsome young male with glowing tanned skin stands facing the camera directly
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2097524090735075539"></a>
+
+### A high-end cinematic fashion portrait prompt depicting an elegant woman among oversized vivid red poppies in warm golden-hour lighting.
+
+Author：[@codewithhajra](https://x.com/codewithhajra) · [Source](https://x.com/codewithhajra/status/2097524090735075539)
+
+Photography · Cinematic / Film Still · Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** A high-end cinematic fashion portrait prompt depicting an elegant woman among oversized vivid red poppies in warm golden-hour lighting.
+
+<img src="images/2097524090735075539-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097524090735075539-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+A breathtaking ultra-photorealistic cinematic fashion portrait of an elegant adult woman surrounded by enormous vivid red poppy flowers, captured in a dreamy editorial garden setting. She has fair luminous skin with realistic natural texture, softly flushed cheeks, refined symmetrical facial features, expressive light blue-gray eyes, delicate brows, defined eyelashes, a graceful straight nose, and naturally full glossy nude-pink lips. Her expression is calm, serene, and subtly captivating, looking directly into the camera.
+Her long golden-blonde hair is neatly center-parted and smoothly pulled back, with fine individual strands catching the sunlight. Giant scarlet-red poppies frame the left side of her face and partially overlap her hair, while additional oversized red flowers fill the foreground and background, creating a dramatic floral composition.
+She wears an exquisite soft blush-pink couture dress made from lightweight pleated chiffon/tulle. The dress features an exaggerated high ruffled Victorian-inspired collar surrounding her neck, intricate vertical pleating, voluminous sculptural shoulders, and flowing layers of translucent fabric cascading beautifully across the lower frame. The delicate fabric catches the sunlight and creates soft highlights, shadows, folds, and subtle transparency.
+Warm golden-hour sunlight illuminates her face from the side, producing a glowing peach-pink atmosphere, luminous skin highlights, gentle facial shadows, and rich red reflections from the flowers. Behind her is a clear pastel blue sky with a softly blurred horizon and endless fields of red flowers.
+Composition: close-up to medium fashion portrait, centered face, vertical 4:5 framing, flowers dramatically framing the subject, shallow depth of field, foreground petals softly blurred for depth, cinematic separation between subject and background.
+Style: high-end luxury fashion editorial, dreamy romantic fine art photography, photorealistic, sophisticated color grading, natural skin texture, realistic fabric physics, intricate flower details, soft atmospheric depth, cinematic lighting, subtle film grain, HDR, 8K detail, 85mm portrait lens, f/1.8, professional studio-quality photography.
+Negative prompt: cartoon, anime, illustration, plastic skin, excessive makeup, distorted face, asymmetrical eyes, malformed hands, extra fingers, duplicate flowers, unnatural hair, oversaturated colors, blurry face, low resolution, harsh shadows, artificial skin, text, watermark, logo.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097237465887338994"></a>
 

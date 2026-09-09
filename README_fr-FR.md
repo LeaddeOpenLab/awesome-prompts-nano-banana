@@ -14,7 +14,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**5** Prompts · Dernier ajout: **2026-09-09**
+**6** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -75,6 +75,30 @@ Un beau jeune homme à la peau bronzée et éclatante se tient face à l'apparei
 <a name="category-cinematic-film-still"></a>
 
 ## Image cinématographique / Photogramme de film
+
+<a name="prompt-2097524090735075539"></a>
+
+### Traduction en cours
+
+Auteur：[@codewithhajra](https://x.com/codewithhajra) · [Publication originale](https://x.com/codewithhajra/status/2097524090735075539)
+
+Photographie · Image cinématographique / Photogramme de film · Portrait / Selfie · Personnage · Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097524090735075539-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097524090735075539-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097237465887338994"></a>
 

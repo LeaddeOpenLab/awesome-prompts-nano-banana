@@ -14,7 +14,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**5** Prompts · Adição mais recente: **2026-09-09**
+**6** Prompts · Adição mais recente: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -75,6 +75,30 @@ Um jovem atraente com pele bronzeada e brilhante está virado diretamente para a
 <a name="category-cinematic-film-still"></a>
 
 ## Cena de Cinema / Fotograma
+
+<a name="prompt-2097524090735075539"></a>
+
+### Tradução em curso
+
+Autor：[@codewithhajra](https://x.com/codewithhajra) · [Publicação original](https://x.com/codewithhajra/status/2097524090735075539)
+
+Fotografia · Cena de Cinema / Fotograma · Retrato / Selfie · Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2097524090735075539-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2097524090735075539-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097237465887338994"></a>
 

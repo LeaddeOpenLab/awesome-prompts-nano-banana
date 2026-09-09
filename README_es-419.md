@@ -14,7 +14,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**5** Prompts · Última incorporación: **2026-09-09**
+**6** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -75,6 +75,30 @@ Un apuesto joven de piel bronceada y radiante se encuentra de pie mirando direct
 <a name="category-cinematic-film-still"></a>
 
 ## Cine / Fotograma
+
+<a name="prompt-2097524090735075539"></a>
+
+### Traducción en curso
+
+Autor：[@codewithhajra](https://x.com/codewithhajra) · [Publicación original](https://x.com/codewithhajra/status/2097524090735075539)
+
+Fotografía · Cine / Fotograma · Retrato / Selfie · Personaje · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097524090735075539-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2097524090735075539-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097237465887338994"></a>
 

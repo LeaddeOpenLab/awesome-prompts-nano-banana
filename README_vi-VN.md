@@ -14,7 +14,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**5** Prompt · Bổ sung mới nhất: **2026-09-09**
+**6** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -75,6 +75,30 @@ Một chàng trai trẻ đẹp trai với làn da rám nắng rạng rỡ đứn
 <a name="category-cinematic-film-still"></a>
 
 ## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2097524090735075539"></a>
+
+### Đang dịch
+
+Tác giả：[@codewithhajra](https://x.com/codewithhajra) · [Bài gốc](https://x.com/codewithhajra/status/2097524090735075539)
+
+Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097524090735075539-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2097524090735075539-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097237465887338994"></a>
 

@@ -14,7 +14,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**5** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**6** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -75,6 +75,30 @@ Ein gutaussehender junger Mann mit strahlender, gebräunter Haut steht in selbst
 <a name="category-cinematic-film-still"></a>
 
 ## Kinematisch / Filmstill
+
+<a name="prompt-2097524090735075539"></a>
+
+### Übersetzung läuft
+
+Autor：[@codewithhajra](https://x.com/codewithhajra) · [Originalbeitrag](https://x.com/codewithhajra/status/2097524090735075539)
+
+Fotografie · Kinematisch / Filmstill · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097524090735075539-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2097524090735075539-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2097237465887338994"></a>
 
