@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T09:21:32.129Z",
+  "model": "nano-banana",
+  "prompt": "A confident, muscular young adult male stands centrally framed, looking directly at the viewer with a subtle closed smile and relaxed eyebrows, his textured wavy curtain hair catching bright specular highlights. He is dressed in a fitted black t-shirt and black pants, deliberately posing with his arms crossed over his chest to accentuate his musculature; his left hand rests naturally on his right bicep with fingers slightly curled, displaying a thick, fully visible silver chain bracelet. He leans facing the camera against the pristine, glossy black finish of an Audi sedan in the foreground, with an S-line badge visible on the front fender. To the right in the midground, worn gas station pumps with white and yellow casings and green and black nozzles stand on a solid dark grey concrete floor. Above him, a weathered industrial canopy roof features matte pale beige metal paneling with horizontal ribbing and bright square recessed light fixtures. Towering in the deep background, majestic steep, jagged rocky peaks with patches of white snow are silhouetted against spatial depth. The scene is enveloped in a high-contrast, moody atmosphere under a dark blue twilight sky, dominated by a cool split-complementary palette of deep blacks and twilight blues pierced by warm yellow-white accents. Highly directional, hard overhead practical lighting from the canopy mixes with ambient twilight, casting deep black, harsh, defined shadows under his chin, beneath his arms, and under the car, while reflecting specular highlights across his cheekbones, the bridge of his nose, and the car's hood. Captured as a realistic digital photograph with a 35mm lens at f/2.8, ISO 800, and 1/125s, this tack-sharp portrait blends cinematic automotive aesthetics with contemporary social media lifestyle influences, enhanced by cool shadows, slight dodging on the face, and lifted highlights on the car reflections, all beautifully framed in a 3:4 aspect ratio.",
+  "promptTranslations": {
+    "en": "A confident, muscular young adult male stands centrally framed, looking directly at the viewer with a subtle closed smile and relaxed eyebrows, his textured wavy curtain hair catching bright specular highlights. He is dressed in a fitted black t-shirt and black pants, deliberately posing with his arms crossed over his chest to accentuate his musculature; his left hand rests naturally on his right bicep with fingers slightly curled, displaying a thick, fully visible silver chain bracelet. He leans facing the camera against the pristine, glossy black finish of an Audi sedan in the foreground, with an S-line badge visible on the front fender. To the right in the midground, worn gas station pumps with white and yellow casings and green and black nozzles stand on a solid dark grey concrete floor. Above him, a weathered industrial canopy roof features matte pale beige metal paneling with horizontal ribbing and bright square recessed light fixtures. Towering in the deep background, majestic steep, jagged rocky peaks with patches of white snow are silhouetted against spatial depth. The scene is enveloped in a high-contrast, moody atmosphere under a dark blue twilight sky, dominated by a cool split-complementary palette of deep blacks and twilight blues pierced by warm yellow-white accents. Highly directional, hard overhead practical lighting from the canopy mixes with ambient twilight, casting deep black, harsh, defined shadows under his chin, beneath his arms, and under the car, while reflecting specular highlights across his cheekbones, the bridge of his nose, and the car's hood. Captured as a realistic digital photograph with a 35mm lens at f/2.8, ISO 800, and 1/125s, this tack-sharp portrait blends cinematic automotive aesthetics with contemporary social media lifestyle influences, enhanced by cool shadows, slight dodging on the face, and lifted highlights on the car reflections, all beautifully framed in a 3:4 aspect ratio."
+  },
+  "summaryTranslations": {
+    "en": "Portrait of a muscular man leaning against an Audi sedan by a twilight gas station, with snowy mountains in the background."
+  },
+  "translationVersion": 2,
+  "summary": "暮色加油站旁靠着奥迪轿车的健美男子肖像，背景为雪山。",
+  "summaryEn": "Portrait of a muscular young man leaning against a black Audi at a twilight gas station with mountains.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097600395073966528",
+    "canonicalUrl": "https://x.com/pictsbyai/status/2097600395073966528",
+    "author": {
+      "username": "pictsbyai",
+      "displayName": "Picts by AI",
+      "profileUrl": "https://x.com/pictsbyai"
+    },
+    "publishedAt": "2026-09-09T08:18:00.000Z",
+    "collectedAt": "2026-09-09T09:07:26.167Z",
+    "language": "en",
+    "originalText": "Created with Gemini Nano Banana 2 on @GeminiApp\n\nPrompt 👇\n\nA confident, muscular young adult male stands centrally framed, looking directly at the viewer with a subtle closed smile and relaxed eyebrows, his textured wavy curtain hair catching bright specular highlights. He is dressed in a fitted black t-shirt and black pants, deliberately posing with his arms crossed over his chest to accentuate his musculature; his left hand rests naturally on his right bicep with fingers slightly curled, displaying a thick, fully visible silver chain bracelet. He leans facing the camera against the pristine, glossy black finish of an Audi sedan in the foreground, with an S-line badge visible on the front fender. To the right in the midground, worn gas station pumps with white and yellow casings and green and black nozzles stand on a solid dark grey concrete floor. Above him, a weathered industrial canopy roof features matte pale beige metal paneling with horizontal ribbing and bright square recessed light fixtures. Towering in the deep background, majestic steep, jagged rocky peaks with patches of white snow are silhouetted against spatial depth. The scene is enveloped in a high-contrast, moody atmosphere under a dark blue twilight sky, dominated by a cool split-complementary palette of deep blacks and twilight blues pierced by warm yellow-white accents. Highly directional, hard overhead practical lighting from the canopy mixes with ambient twilight, casting deep black, harsh, defined shadows under his chin, beneath his arms, and under the car, while reflecting specular highlights across his cheekbones, the bridge of his nose, and the car's hood. Captured as a realistic digital photograph with a 35mm lens at f/2.8, ISO 800, and 1/125s, this tack-sharp portrait blends cinematic automotive aesthetics with contemporary social media lifestyle influences, enhanced by cool shadows, slight dodging on the face, and lifted highlights on the car reflections, all beautifully framed in a 3:4 aspect ratio.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRd9q-YbIAA5B-i.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRd9q-YbIAA5B-i.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 11,
+      "repostCount": 2,
+      "replyCount": 8,
+      "quoteCount": 0,
+      "viewCount": 326
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/pictsbyai/status/2097600395073966528",
+  "coverUrl": "https://pbs.twimg.com/media/HRd9q-YbIAA5B-i.jpg",
+  "coverPath": "images/2097600395073966528-1.jpg",
+  "imagePaths": [
+    "images/2097600395073966528-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRd9q-YbIAA5B-i",
+    "x-post:2097600395073966528"
+  ],
+  "analysis": {
+    "summary": "暮色加油站旁靠着奥迪轿车的健美男子肖像，背景为雪山。",
+    "summaryEn": "Portrait of a muscular young man leaning against a black Audi at a twilight gas station with mountains.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The image precisely matches the prompt: a muscular man in black clothes with arms crossed leaning on a black Audi at a gas station with mountains and twilight lighting."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A confident, muscular young adult male stands centrally framed, looking directly at the viewer with a subtle closed smile and relaxed eyebrows, his textured wavy curtain hair catching bright specular highlights. He is dressed in a fitted black t-shirt and black pants, deliberately posing with his arms crossed over his chest to accentuate his musculature; his left hand rests naturally on his right bicep with fingers slightly curled, displaying a thick, fully visible silver chain bracelet. He leans facing the camera against the pristine, glossy black finish of an Audi sedan in the foreground, with an S-line badge visible on the front fender. To the right in the midground, worn gas station pumps with white and yellow casings and green and black nozzles stand on a solid dark grey concrete floor. Above him, a weathered industrial canopy roof features matte pale beige metal paneling with horizontal ribbing and bright square recessed light fixtures. Towering in the deep background, majestic steep, jagged rocky peaks with patches of white snow are silhouetted against spatial depth. The scene is enveloped in a high-contrast, moody atmosphere under a dark blue twilight sky, dominated by a cool split-complementary palette of deep blacks and twilight blues pierced by warm yellow-white accents. Highly directional, hard overhead practical lighting from the canopy mixes with ambient twilight, casting deep black, harsh, defined shadows under his chin, beneath his arms, and under the car, while reflecting specular highlights across his cheekbones, the bridge of his nose, and the car's hood. Captured as a realistic digital photograph with a 35mm lens at f/2.8, ISO 800, and 1/125s, this tack-sharp portrait blends cinematic automotive aesthetics with contemporary social media lifestyle influences, enhanced by cool shadows, slight dodging on the face, and lifted highlights on the car reflections, all beautifully framed in a 3:4 aspect ratio.",
+    "sourceRange": {
+      "start": 59,
+      "end": 2013
+    },
+    "translations": {
+      "zh": "一位自信且肌肉发达的年轻男子居中构图，面带微笑直视镜头。他身穿黑色紧身T恤和长裤，双手抱胸靠在黑色奥迪轿车旁，手腕佩戴银色手链。背景为暮色下的加油站，远处是白雪皑皑的陡峭山峰，顶棚灯光营造出高对比度氛围。",
+      "en": "A confident, muscular young adult male stands centrally framed, posing with arms crossed leaning against a glossy black Audi sedan at a twilight gas station, with snowy mountain peaks in the background under directional overhead lighting."
+    },
+    "targetModels": [
+      "nano-banana"
+    ],
+    "category": "text-to-image",
+    "useCase": "Portrait photography / Automotive lifestyle",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Audi"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
