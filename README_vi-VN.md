@@ -30,20 +30,20 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2097478436105384108"></a>
 
-### Đang dịch
+### Lời nhắc ảnh tham chiếu stop-motion thể hiện một bông hoa cánh bướm màu hồng san hô bằng đất sét mờ thủ công trong đất màu nâu sẫm trên phông nền màu kem ấm áp, chỉ định tọa độ chính xác, góc máy ảnh và chi tiết kết cấu đất sét.
 
 Tác giả：[@higgsfield](https://x.com/higgsfield) · [Bài gốc](https://x.com/higgsfield/status/2097478436105384108)
 
 Nhiếp ảnh · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc ảnh tham chiếu stop-motion thể hiện một bông hoa cánh bướm màu hồng san hô bằng đất sét mờ thủ công trong đất màu nâu sẫm trên phông nền màu kem ấm áp, chỉ định tọa độ chính xác, góc máy ảnh và chi tiết kết cấu đất sét.
 
 <img src="covers/2097478436105384108.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một bức ảnh tham chiếu tĩnh vật stop-motion hình vuông, không phải bảng phân cảnh: một bông hoa cánh bướm màu hồng san hô bằng đất sét mờ thủ công trong đất màu nâu sẫm trên phông nền màu kem ấm áp. Khóa máy ảnh góc thấp nhìn thẳng, ống kính macro 70mm, cảm giác trực giao. Đất lấp đầy 22% phía dưới, đạt đỉnh tại (50%,79%); thân hoa ở trung tâm chạy từ (50%,80%) đến tâm hoa tại (50%,33%). Thêm chính xác hai chiếc lá xanh và một đầu hoa rộng 35% với đúng 10 cánh hoa màu san hô cùng phần nhụy vàng kim có vân nổi. Bao gồm các dấu vân tay tinh tế, vụn đất và vài viên sỏi nhỏ. Sử dụng ánh sáng mềm mại từ phía trên bên trái và bóng đổ cố định. Giữ toàn bộ bông hoa hiển thị đầy đủ, máy ảnh và đất đứng yên để tạo hoạt họa. Không có chậu, không có cây phụ, không có nhân vật, côn trùng, bàn tay, văn bản, hình mờ, viền hoặc lưới.
 ```
 
 [↑ Về danh mục](#catalog)
