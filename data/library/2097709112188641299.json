@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T16:35:42.211Z",
+  "model": "nano-banana",
+  "prompt": "Image is high resolution full-hight vertical fine art portrait, Sony A1 and 120mm lens, capturing a lithe supermodel in her early 20s, bathed in warm golden hour light, finding solace on a swing, soft hazy pastel colors, wearing a cobalt blue silk dress, dreamy atmosphere, with long, windswept jet black hair, large expressive dark brown eyes, parted red lips, conveying nostalgia and peace, thoughtful gaze, hint of nostalgia, pierces through the warm ambiance as the sun's final rays dance through her tousled hair, in a moment of quietude.",
+  "promptTranslations": {
+    "en": "Image is high resolution full-hight vertical fine art portrait, Sony A1 and 120mm lens, capturing a lithe supermodel in her early 20s, bathed in warm golden hour light, finding solace on a swing, soft hazy pastel colors, wearing a cobalt blue silk dress, dreamy atmosphere, with long, windswept jet black hair, large expressive dark brown eyes, parted red lips, conveying nostalgia and peace, thoughtful gaze, hint of nostalgia, pierces through the warm ambiance as the sun's final rays dance through her tousled hair, in a moment of quietude."
+  },
+  "summaryTranslations": {
+    "en": "Portrait of a young woman in a blue silk dress on a swing during golden hour."
+  },
+  "translationVersion": 2,
+  "summary": "Portrait of a young woman in a blue silk dress on a swing during golden hour.",
+  "summaryEn": "Portrait of a young woman in a blue silk dress on a swing during golden hour.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097709112188641299",
+    "canonicalUrl": "https://x.com/dreamydigiarts/status/2097709112188641299",
+    "author": {
+      "username": "dreamydigiarts",
+      "displayName": "dreamy digital arts",
+      "profileUrl": "https://x.com/dreamydigiarts"
+    },
+    "publishedAt": "2026-09-09T15:30:00.000Z",
+    "collectedAt": "2026-09-09T16:16:31.563Z",
+    "language": "en",
+    "originalText": "Made with Nano Banana 2 @weryai\n\nTry it : https://t.co/BuFfvx9NJG\n\nPrompt👇\n\n Image is high resolution full-hight vertical fine art portrait, Sony A1 and 120mm lens, capturing a lithe supermodel in her early 20s, bathed in warm golden hour light, finding solace on a swing, soft hazy pastel colors, wearing a cobalt blue silk dress, dreamy atmosphere, with long, windswept jet black hair, large expressive dark brown eyes, parted red lips, conveying nostalgia and peace, thoughtful gaze, hint of nostalgia, pierces through the warm ambiance as the sun's final rays dance through her tousled hair, in a moment of quietude.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRrCvBeagAAUtUk.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRrCvBeagAAUtUk.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 9,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 139
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/dreamydigiarts/status/2097709112188641299",
+  "coverUrl": "https://pbs.twimg.com/media/HRrCvBeagAAUtUk.jpg",
+  "coverPath": "images/2097709112188641299-1.jpg",
+  "imagePaths": [
+    "images/2097709112188641299-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRrCvBeagAAUtUk",
+    "x-post:2097709112188641299"
+  ],
+  "analysis": {
+    "summary": "Portrait of a young woman in a blue silk dress on a swing during golden hour.",
+    "summaryEn": "Portrait of a young woman in a blue silk dress on a swing during golden hour.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated image displays a woman in a cobalt blue dress seated on a wooden rope swing outdoors, bathed in warm golden hour sunlight with dark windswept hair, directly matching the prompt specifications."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Image is high resolution full-hight vertical fine art portrait, Sony A1 and 120mm lens, capturing a lithe supermodel in her early 20s, bathed in warm golden hour light, finding solace on a swing, soft hazy pastel colors, wearing a cobalt blue silk dress, dreamy atmosphere, with long, windswept jet black hair, large expressive dark brown eyes, parted red lips, conveying nostalgia and peace, thoughtful gaze, hint of nostalgia, pierces through the warm ambiance as the sun's final rays dance through her tousled hair, in a moment of quietude.",
+    "sourceRange": {
+      "start": 77,
+      "end": 620
+    },
+    "translations": {
+      "zh": "高分辨率全身垂直艺术肖像，索尼A1搭配120mm镜头，捕捉一位二十出头的纤细超模，沐浴在温暖的黄金时刻光线中，在秋千上寻求宁静，柔和朦胧的粉彩色调，身着钴蓝色丝绸连衣裙，梦幻氛围，长而迎风飘动的乌黑头发，大而传神的深棕色眼睛，微启的红唇，流露出怀念与平和，沉思的凝视，带着一丝怀旧，随着夕阳最后一缕余晖穿过她蓬乱的秀发，在宁静的片刻中穿透温暖的氛围。",
+      "en": "Image is high resolution full-hight vertical fine art portrait, Sony A1 and 120mm lens, capturing a lithe supermodel in her early 20s, bathed in warm golden hour light, finding solace on a swing, soft hazy pastel colors, wearing a cobalt blue silk dress, dreamy atmosphere, with long, windswept jet black hair, large expressive dark brown eyes, parted red lips, conveying nostalgia and peace, thoughtful gaze, hint of nostalgia, pierces through the warm ambiance as the sun's final rays dance through her tousled hair, in a moment of quietude."
+    },
+    "targetModels": [
+      "nano-banana"
+    ],
+    "category": "text-to-image",
+    "useCase": "aesthetic fine art portrait",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
