@@ -35,20 +35,20 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2097600395073966528"></a>
 
-### Traduction en cours
+### Portrait d'un homme musclé adossé à une berline Audi dans une station-service au crépuscule, avec des montagnes enneigées en arrière-plan.
 
 Auteur：[@pictsbyai](https://x.com/pictsbyai) · [Publication originale](https://x.com/pictsbyai/status/2097600395073966528)
 
 Photographie · Portrait / Selfie · Personnage · Paysage / Nature · Résumé / Contexte · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait d'un homme musclé adossé à une berline Audi dans une station-service au crépuscule, avec des montagnes enneigées en arrière-plan.
 
 <img src="images/2097600395073966528-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Un jeune homme adulte, musclé et confiant, se tient au centre du cadre, regardant directement le spectateur avec un subtil sourire fermé et des sourcils détendus, ses cheveux ondulés et texturés coiffés en rideau captant de vifs reflets spéculaires. Il est vêtu d'un t-shirt noir ajusté et d'un pantalon noir, posant délibérément les bras croisés sur la poitrine pour accentuer sa musculature ; sa main gauche repose naturellement sur son biceps droit, les doigts légèrement repliés, laissant apparaître un épais bracelet en chaîne d'argent entièrement visible. Il est appuyé face à la caméra contre la finition noire laquée et immaculée d'une berline Audi au premier plan, avec un badge S-line visible sur l'aile avant. À droite, au second plan, des pompes à essence usagées aux carénages blancs et jaunes et aux pistolets verts et noirs reposent sur un sol en béton gris foncé massif. Au-dessus de lui, le toit d'un auvent industriel patiné présente des panneaux métalliques beige pâle mat à nervures horizontales et des luminaires encastrés carrés et lumineux. Dominant à l'arrière-plan lointain, de majestueux sommets rocheux abrupts et escarpés, parsemés de taches de neige blanche, se détachent en silhouette dans la profondeur spatiale. La scène est enveloppée dans une atmosphère sombre et très contrastée sous un ciel crépusculaire bleu foncé, dominée par une palette froide de couleurs complémentaires adjacentes mêlant noirs profonds et bleus crépusculaires percés de touches blanc-jaune chaleureuses. Un éclairage pratique zénithal, dur et très directionnel provenant de l'auvent se mêle au crépuscule ambiant, projetant des ombres noires profondes, nettes et dures sous son menton, sous ses bras et sous la voiture, tout en faisant briller des reflets spéculaires sur ses pommettes, l'arête de son nez et le capot de la voiture. Capturé sous forme de photographie numérique réaliste avec un objectif 35 mm à f/2.8, 800 ISO et 1/125 s, ce portrait d'une netteté parfaite mêle l'esthétique automobile cinématographique aux influences contemporaines de style de vie des réseaux sociaux, sublimé par des ombres froides, un léger éclaircissement sur le visage et des hautes lumières rehaussées sur les reflets de la voiture, le tout magnifiquement cadré dans un format 3:4.
 ```
 
 [↑ Retour aux catégories](#catalog)

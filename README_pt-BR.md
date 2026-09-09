@@ -35,20 +35,20 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2097600395073966528"></a>
 
-### Tradução em andamento
+### Retrato de um homem musculoso encostado em um sedã Audi próximo a um posto de gasolina ao crepúsculo, com montanhas nevadas ao fundo.
 
 Autor：[@pictsbyai](https://x.com/pictsbyai) · [Publicação original](https://x.com/pictsbyai/status/2097600395073966528)
 
 Fotografia · Retrato / Selfie · Personagem · Paisagem / Natureza · Resumo / Contexto · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Retrato de um homem musculoso encostado em um sedã Audi próximo a um posto de gasolina ao crepúsculo, com montanhas nevadas ao fundo.
 
 <img src="images/2097600395073966528-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Um jovem adulto confiante e musculoso está enquadrado centralmente, olhando diretamente para o espectador com um sorriso sutil de lábios fechados e sobrancelhas relaxadas, com seu cabelo ondulado texturizado em estilo cortina capturando destaques especulares brilhantes. Ele está vestido com uma camiseta preta justa e calças pretas, posando deliberadamente de braços cruzados sobre o peito para acentuar sua musculatura; sua mão esquerda repousa naturalmente sobre o bíceps direito com os dedos levemente curvados, exibindo uma pulseira de corrente de prata grossa e totalmente visível. Ele se apoia de frente para a câmera contra o acabamento preto brilhante e impecável de um sedã Audi em primeiro plano, com o emblema S-line visível no para-lama dianteiro. À direita, no plano médio, bombas de gasolina desgastadas com carcaças brancas e amarelas e bicos verdes e pretos repousam sobre um piso de concreto cinza-escuro sólido. Acima dele, a cobertura industrial desgastada apresenta painéis metálicos bege-claro fosco com nervuras horizontais e luminárias quadradas embutidas brilhantes. Erguendo-se no fundo profundo, picos rochosos imponentes, íngremes e irregulares com manchas de neve branca desenham suas silhuetas em profundidade espacial. A cena é envolvida por uma atmosfera melancólica e de alto contraste sob um céu de crepúsculo azul-escuro, dominada por uma paleta complementar dividida e fria de pretos profundos e azuis crepusculares cortados por detalhes em branco-amarelado quente. A iluminação prática superior, dura e altamente direcional da cobertura mistura-se com o crepúsculo ambiente, projetando sombras pretas profundas, duras e definidas sob o queixo, sob os braços e sob o carro, enquanto reflete destaques especulares nas maçãs do rosto, na ponte do nariz e no capô do carro. Capturado como uma fotografia digital realista com uma lente de 35mm em f/2.8, ISO 800 e 1/125s, este retrato extremamente nítido combina a estética automotiva cinematográfica com influências contemporâneas de estilo de vida das redes sociais, aprimorado por sombras frias, leve clareamento suave (dodging) no rosto e realces elevados nos reflexos do carro, tudo lindamente enquadrado em uma proporção de 3:4.
 ```
 
 [↑ Voltar às categorias](#catalog)

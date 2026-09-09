@@ -35,20 +35,20 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2097600395073966528"></a>
 
-### Traduzione in corso
+### Ritratto di un uomo muscoloso appoggiato a una berlina Audi presso un distributore di benzina al crepuscolo, con montagne innevate sullo sfondo.
 
 Autore：[@pictsbyai](https://x.com/pictsbyai) · [Post originale](https://x.com/pictsbyai/status/2097600395073966528)
 
 Fotografia · Ritratto / Selfie · Personaggio · Paesaggio / Natura · Abstract / Contesto · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto di un uomo muscoloso appoggiato a una berlina Audi presso un distributore di benzina al crepuscolo, con montagne innevate sullo sfondo.
 
 <img src="images/2097600395073966528-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Un giovane uomo adulto muscoloso e sicuro di sé è posizionato al centro dell'inquadratura, mentre guarda direttamente verso lo spettatore con un sottile sorriso a labbra chiuse e sopracciglia rilassate, con i capelli a tendina ondulati e texturizzati che catturano vivaci riflessi speculari. Indossa una maglietta nera aderente e pantaloni neri, posando deliberatamente con le braccia conserte sul petto per accentuare la propria muscolatura; la mano sinistra poggia con naturalezza sul bicipite destro con le dita leggermente piegate, mostrando uno spesso bracciale a catena d'argento ben visibile. Si appoggia rivolto verso la fotocamera contro la finitura nera lucida e immacolata di una berlina Audi in primo piano, con un badge S-line visibile sul parafango anteriore. Sulla destra, in secondo piano, pompe di benzina usurate con carter bianchi e gialli ed erogatori verdi e neri poggiano su un solido pavimento in cemento grigio scuro. Sopra di lui, la tettoia industriale usurata dal tempo presenta pannelli metallici beige chiaro opaco con scanalature orizzontali e luminosi faretti quadrati a incasso. Svettanti sullo sfondo profondo, maestose cime rocciose ripide e frastagliate con chiazze di neve bianca si stagliano nella profondità spaziale. La scena è avvolta in un'atmosfera lunatica ad alto contrasto sotto un cielo crepuscolare blu scuro, dominata da una fredda tavolozza a contrasto con split-complementary di neri profondi e blu del crepuscolo squarciati da caldi accenti bianco-gialli. Un'illuminazione artificiale zenitale dura e altamente direzionale proveniente dalla tettoia si mescola al crepuscolo ambientale, proiettando ombre nere profonde, marcate e definite sotto il mento, sotto le braccia e sotto l'auto, riflettendo al contempo riflessi speculari sugli zigomi, sul ponte del naso e sul cofano dell'auto. Catturato come una fotografia digitale realistica con un obiettivo da 35 mm a f/2.8, ISO 800 e 1/125s, questo ritratto nitidissimo unisce l'estetica cinematografica automobilistica con le contemporanee influenze lifestyle dei social media, arricchito da ombre fredde, una leggera schiaritura sul viso e luci alte esaltate sui riflessi dell'auto, il tutto perfettamente incorniciato in un formato 3:4.
 ```
 
 [↑ Torna alle categorie](#catalog)

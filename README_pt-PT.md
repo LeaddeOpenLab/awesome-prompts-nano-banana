@@ -35,20 +35,20 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2097600395073966528"></a>
 
-### Tradução em curso
+### Retrato de homem musculado encostado a um sedan Audi junto a um posto de combustível ao crepúsculo, com montanhas cobertas de neve em segundo plano.
 
 Autor：[@pictsbyai](https://x.com/pictsbyai) · [Publicação original](https://x.com/pictsbyai/status/2097600395073966528)
 
 Fotografia · Retrato / Selfie · Personagem · Paisagem / Natureza · Resumo / Contexto · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Retrato de homem musculado encostado a um sedan Audi junto a um posto de combustível ao crepúsculo, com montanhas cobertas de neve em segundo plano.
 
 <img src="images/2097600395073966528-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Um jovem adulto confiante e musculoso surge enquadrado ao centro, a olhar diretamente para o observador com um sorriso subtil de lábios fechados e sobrancelhas descontraídas, com o seu cabelo ondulado texturado em estilo cortina a captar reflexos especulares brilhantes. Veste uma t-shirt preta justa e calças pretas, posando deliberadamente de braços cruzados sobre o peito para acentuar a sua musculatura; a mão esquerda repousa naturalmente sobre o bíceps direito com os dedos ligeiramente curvados, exibindo uma pulseira de corrente prateada grossa e totalmente visível. Apoia-se virado para a câmara contra o acabamento preto brilhante e impecável de um sedan Audi em primeiro plano, com o emblema S-line visível no guarda-lamas dianteiro. À direita, em plano médio, bombas de combustível desgastadas com caixas brancas e amarelas e pistolas verdes e pretas assentam sobre um piso de betão cinzento-escuro sólido. Acima dele, uma cobertura industrial desgastada apresenta painéis metálicos bege-claro mate com nervuras horizontais e armaduras de iluminação embutidas quadradas brilhantes. Ao fundo, erguem-se picos rochosos imponentes, íngremes e escarpados com manchas de neve branca que se recortam na profundidade espacial. A cena é envolvida por uma atmosfera melancólica e de alto contraste sob um céu crepuscular azul-escuro, dominada por uma paleta complementar dividida e fria de pretos profundos e azuis crepusculares cortados por apontamentos amarelo-esbranquiçados quentes. A iluminação de teto prática, dura e fortemente direcional da cobertura mistura-se com o crepúsculo ambiente, projetando sombras pretas profundas, duras e definidas sob o queixo, sob os braços e sob o automóvel, enquanto reflete destaques especulares nas maçãs do rosto, na cana do nariz e no capô do veículo. Captado como uma fotografia digital realista com uma objetiva de 35mm a f/2.8, ISO 800 e 1/125s, este retrato extremamente nítido combina a estética cinematográfica automóvel com influências contemporâneas de estilo de vida das redes sociais, enriquecido por sombras frias, um ligeiro clareamento (dodging) no rosto e realces elevados nos reflexos do carro, tudo perfeitamente enquadrado numa proporção de 3:4.
 ```
 
 [↑ Voltar às categorias](#catalog)

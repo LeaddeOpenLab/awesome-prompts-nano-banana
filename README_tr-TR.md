@@ -35,20 +35,20 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2097600395073966528"></a>
 
-### Çeviri sürüyor
+### Alacakaranlıkta benzin istasyonunun yanında Audi sedana yaslanan kaslı bir erkeğin portresi, arka planda karlı dağlar.
 
 Yazar：[@pictsbyai](https://x.com/pictsbyai) · [Orijinal gönderi](https://x.com/pictsbyai/status/2097600395073966528)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Manzara / Doğa · Özet / Arka Plan · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Alacakaranlıkta benzin istasyonunun yanında Audi sedana yaslanan kaslı bir erkeğin portresi, arka planda karlı dağlar.
 
 <img src="images/2097600395073966528-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kendinden emin, kaslı genç bir yetişkin erkek merkezi olarak kadrajlanmış, hafif kapalı bir gülümseme ve rahat kaşlarla doğrudan izleyiciye bakıyor; dokulu dalgalı perçemli saçları parlak yansımaları yakalıyor. Üzerine oturan siyah bir tişört ve siyah pantolon giymiş, kas yapısını vurgulamak için kasıtlı olarak kollarını göğsünde kavuşturmuş vaziyette poz veriyor; sol eli parmakları hafifçe kıvrılmış şekilde doğal olarak sağ pazısına yaslanıyor ve kalın, tamamen görünür gümüş bir zincir bileklik sergiliyor. Ön planda, ön çamurluğunda S-line amblemi görünen bir Audi sedanın kusursuz, parlak siyah kaportasına kameraya dönük şekilde yaslanıyor. Orta planda sağ tarafta, beyaz ve sarı gövdeli, yeşil ve siyah tabancalı yıpranmış benzin pompaları koyu gri sert beton zemin üzerinde duruyor. Başının üzerinde, yıpranmış endüstriyel sundurma çatısı yatay oluklu mat açık bej metal panellere ve parlak kare gömme aydınlatma armatürlerine sahip. Derin arka planda yükselen, beyaz kar lekelerine sahip görkemli, dik, pürüzlü kayalık zirveler mekânsal derinliğe karşı silüet oluşturuyor. Sahne, koyu mavi alacakaranlık gökyüzünün altında yüksek kontrastlı, dramatik bir atmosferle sarmalanmış; sıcak sarı-beyaz vurgularla delinen derin siyahlar ve alacakaranlık mavilerinden oluşan soğuk bir ayrık tamamlayıcı paletin hakimiyetinde. Sundurmadan gelen son derece yönlü, sert tepe aydınlatması ortamdaki alacakaranlıkla karışarak çenesinin altında, kollarının altında ve arabanın altında derin siyah, sert, belirgin gölgeler oluştururken, elmacık kemiklerinde, burun kemerinde ve arabanın kaputunda parlak yansımalar meydana getiriyor. 35mm lens, f/2.8, ISO 800 ve 1/125s değerlerinde gerçekçi bir dijital fotoğraf olarak çekilen bu jilet gibi keskin portre; sinematik otomotiv estetiğini çağdaş sosyal medya yaşam tarzı etkileriyle harmanlıyor; soğuk gölgeler, yüzde hafif aydınlatma (dodging) ve araba yansımalarındaki yükseltilmiş parlak noktalarla zenginleştirilerek 3:4 en-boy oranında güzel bir şekilde kadrajlanıyor.
 ```
 
 [↑ Kategorilere dön](#catalog)

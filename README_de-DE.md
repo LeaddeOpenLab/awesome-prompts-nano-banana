@@ -35,20 +35,20 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2097600395073966528"></a>
 
-### Übersetzung läuft
+### Porträt eines durchtrainierten Mannes, der in der Abenddämmerung an einer Tankstelle an einer Audi-Limousine lehnt, mit schneebedeckten Bergen im Hintergrund.
 
 Autor：[@pictsbyai](https://x.com/pictsbyai) · [Originalbeitrag](https://x.com/pictsbyai/status/2097600395073966528)
 
 Fotografie · Porträt / Selfie · Charakter · Landschaft / Natur · Zusammenfassung / Hintergrund · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Porträt eines durchtrainierten Mannes, der in der Abenddämmerung an einer Tankstelle an einer Audi-Limousine lehnt, mit schneebedeckten Bergen im Hintergrund.
 
 <img src="images/2097600395073966528-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein selbstbewusster, muskulöser junger erwachsener Mann steht zentral im Bildausschnitt und blickt den Betrachter mit einem subtilen geschlossenen Lächeln und entspannten Augenbrauen direkt an, während sein texturiertes, gewelltes Curtain-Haar helle Glanzlichter einfängt. Er trägt ein eng anliegendes schwarzes T-Shirt und eine schwarze Hose und posiert bewusst mit vor der Brust verschränkten Armen, um seine Muskulatur zu betonen; seine linke Hand ruht natürlich auf seinem rechten Bizeps mit leicht gekrümmten Fingern und zeigt ein dickes, vollständig sichtbares Silberkettenglied-Armband. Er lehnt sich mit dem Gesicht zur Kamera an das makellose, glänzend schwarze Finish einer Audi-Limousine im Vordergrund, wobei ein S-Line-Emblem auf dem vorderen Kotflügel sichtbar ist. Rechts im Mittelgrund stehen abgenutzte Zapfsäulen mit weiß-gelben Gehäusen sowie grünen und schwarzen Zapfpistolen auf einem massiven dunkelgrauen Betonboden. Über ihm weist ein verwittertes industrielles Vordach eine matte, blassbeige Metallverkleidung mit horizontaler Rippung und helle, quadratische Einbauleuchten auf. Im tiefen Hintergrund ragen majestätische, steile, zerklüftete Felsgipfel mit Flecken von weißem Schnee empor, die sich gegen die räumliche Tiefe abzeichnen. Die Szene ist in eine kontrastreiche, stimmungsvolle Atmosphäre unter einem dunkelblauen Dämmerungshimmel gehüllt, dominiert von einer kühlen, geteilt-komplementären Farbpalette aus tiefen Schwarztönen und Dämmerungsblautönen, durchbrochen von warmen gelb-weißen Akzenten. Hochgradig gerichtetes, hartes praktisches Deckenlicht vom Vordach mischt sich mit der umgebenden Dämmerung und wirft tiefe, harte, definierte Schatten unter sein Kinn, unter seine Arme und unter das Auto, während es spiegelnde Glanzlichter über seine Wangenknochen, seinen Nasenrücken und die Motorhaube des Autos reflektiert. Aufgenommen als realistisches digitales Foto mit einem 35-mm-Objektiv bei f/2.8, ISO 800 und 1/125 s, verbindet dieses gestochen scharfe Porträt filmische Automobilästhetik mit zeitgenössischen Social-Media-Lifestyle-Einflüssen, verfeinert durch kühle Schatten, leichtes Abwedeln im Gesicht und angehobene Lichter auf den Autoreflexionen, alles wunderschön eingerahmt im Seitenverhältnis 3:4.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
