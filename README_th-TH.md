@@ -19,13 +19,13 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 กดดาวให้คลังนี้เพื่อติดตามพรอมต์ที่คัดสรรทุกวันและค้นหาแนวคิดสร้างสรรค์ใหม่ ๆ
 
-**11** รายการ · เพิ่มล่าสุด: **2026-09-09**
+**12** รายการ · เพิ่มล่าสุด: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## เรียกดูตามหมวดหมู่
 
-[การถ่ายภาพ](#category-photography) · [ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still) · [ไซเบอร์พังก์ / ไซไฟ](#category-cyberpunk-sci-fi) · [อื่น ๆ](#category-other)
+[การถ่ายภาพ](#category-photography) · [ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still) · [ภาพเรนเดอร์ 3 มิติ](#category-3d-render) · [ไซเบอร์พังก์ / ไซไฟ](#category-cyberpunk-sci-fi) · [อื่น ๆ](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -271,6 +271,32 @@ Negative prompt: cartoon, anime, illustration, plastic skin, excessive makeup, d
 
 สไตล์:
 โฆษณาเครื่องดื่มระดับพรีเมียมที่สมจริงขั้นสุด, ของเหลวใสราวกระจกคริสตัล, ความซ่าที่ระเบิดออกอย่างทรงพลัง, หยดน้ำที่ถูกต้องตามหลักฟิสิกส์
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## ภาพเรนเดอร์ 3 มิติ
+
+<a name="prompt-2097629839209758892"></a>
+
+### กำลังแปล
+
+ผู้เขียน：[@Gdgtify](https://x.com/Gdgtify) · [โพสต์ต้นฉบับ](https://x.com/Gdgtify/status/2097629839209758892)
+
+ภาพเรนเดอร์ 3 มิติ · เผยแพร่แล้ว
+
+**สรุป:** กำลังแปล
+
+<img src="images/2097629839209758892-1.jpg" alt="รูปภาพ 1" width="480" />
+
+**พรอมต์**
+
+```text
+กำลังแปล
 ```
 
 [↑ กลับสู่หมวดหมู่](#catalog)

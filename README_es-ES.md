@@ -19,13 +19,13 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**11** Prompts · Última incorporación: **2026-09-09**
+**12** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoría
 
-[Fotografía](#category-photography) · [Cine / Fotograma de película](#category-cinematic-film-still) · [Ciberpunk / Ciencia ficción](#category-cyberpunk-sci-fi) · [Otros](#category-other)
+[Fotografía](#category-photography) · [Cine / Fotograma de película](#category-cinematic-film-still) · [Render 3D](#category-3d-render) · [Ciberpunk / Ciencia ficción](#category-cyberpunk-sci-fi) · [Otros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -271,6 +271,32 @@ Fotografía de líquidos a alta velocidad a 120 fps, macro extremo, salpicadura 
 
 ESTILO:
 Anuncio comercial de bebidas premium ultrarrealista, líquido cristalino, carbonatación explosiva, gotas de agua físicamente precisas
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## Render 3D
+
+<a name="prompt-2097629839209758892"></a>
+
+### Traducción en curso
+
+Autor：[@Gdgtify](https://x.com/Gdgtify) · [Publicación original](https://x.com/Gdgtify/status/2097629839209758892)
+
+Render 3D · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097629839209758892-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

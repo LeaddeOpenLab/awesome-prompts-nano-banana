@@ -19,13 +19,13 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**11** 개 · 최근 추가: **2026-09-09**
+**12** 개 · 최근 추가: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 카테고리 탐색
 
-[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [사이버펑크 / SF](#category-cyberpunk-sci-fi) · [기타](#category-other)
+[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [3D 렌더링](#category-3d-render) · [사이버펑크 / SF](#category-cyberpunk-sci-fi) · [기타](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -271,6 +271,32 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 스타일:
 초현실적 프리미엄 음료 광고, 크리스털처럼 투명한 액체, 폭발적인 탄산, 물리적으로 정확한 물방울
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## 3D 렌더링
+
+<a name="prompt-2097629839209758892"></a>
+
+### 번역 중
+
+작성자：[@Gdgtify](https://x.com/Gdgtify) · [원본 게시물](https://x.com/Gdgtify/status/2097629839209758892)
+
+3D 렌더링 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2097629839209758892-1.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

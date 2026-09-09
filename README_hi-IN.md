@@ -19,13 +19,13 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 दैनिक चुने हुए प्रॉम्प्ट और नई रचनात्मक प्रेरणा के लिए इस रिपॉज़िटरी को स्टार दें।
 
-**11** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-09**
+**12** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## श्रेणी के अनुसार देखें
 
-[फोटोग्राफी](#category-photography) · [सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still) · [साइबरपंक / साइंस-फाई](#category-cyberpunk-sci-fi) · [अन्य](#category-other)
+[फोटोग्राफी](#category-photography) · [सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still) · [3D रेंडर](#category-3d-render) · [साइबरपंक / साइंस-फाई](#category-cyberpunk-sci-fi) · [अन्य](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -271,6 +271,32 @@ Negative prompt: cartoon, anime, illustration, plastic skin, excessive makeup, d
 
 शैली:
 अल्ट्रा-यथार्थवादी प्रीमियम पेय विज्ञापन, क्रिस्टल जैसा स्पष्ट तरल, विस्फोटक कार्बोनेशन, भौतिक रूप से सटीक पानी की बूंदें
+```
+
+[↑ श्रेणियों पर लौटें](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## 3D रेंडर
+
+<a name="prompt-2097629839209758892"></a>
+
+### अनुवाद जारी है
+
+लेखक：[@Gdgtify](https://x.com/Gdgtify) · [मूल पोस्ट](https://x.com/Gdgtify/status/2097629839209758892)
+
+3D रेंडर · प्रकाशित
+
+**सारांश:** अनुवाद जारी है
+
+<img src="images/2097629839209758892-1.jpg" alt="चित्र 1" width="480" />
+
+**प्रॉम्प्ट**
+
+```text
+अनुवाद जारी है
 ```
 
 [↑ श्रेणियों पर लौटें](#catalog)

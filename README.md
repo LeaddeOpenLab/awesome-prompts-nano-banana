@@ -19,13 +19,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**11** Prompts · Latest addition: **2026-09-09**
+**12** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Other](#category-other)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [3D Render](#category-3d-render) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Other](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -271,6 +271,32 @@ CAMERA:
 
 STYLE:
 Ultra-realistic premium beverage commercial, crystal-clear liquid, explosive carbonation, physically accurate water droplets
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## 3D Render
+
+<a name="prompt-2097629839209758892"></a>
+
+### A pseudocode-styled prompt for a 2x2 grid of 3D marble shrine dioramas dedicated to famous thinkers.
+
+Author：[@Gdgtify](https://x.com/Gdgtify) · [Source](https://x.com/Gdgtify/status/2097629839209758892)
+
+3D Render · Published
+
+**Summary:** A pseudocode-styled prompt for a 2x2 grid of 3D marble shrine dioramas dedicated to famous thinkers.
+
+<img src="images/2097629839209758892-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+2x2 grid, 16:9, do this for 4 famous thinkers, authors, inventors,: class Mind_As_Shrine_Diorama:\n    def __init__(self, thinker="[THINKER_NAME]"):\n        self.canvas = "Single, self-contained 3D monumental sculptural vignette on a pure white studio background."\n        self.material_palette = "Polished white Carrara marble, brushed brass, glass lenses, and glowing cosmic vistas."\n\n    def construct_face_and_hair_arch(self):\n        # The core visual pun: hair becomes the building\n        hair_motif = infer_iconic_hair_or_silhouette(self.thinker)\n        name_arch = f"Massive 3D gilded marble letters spelling '{self.thinker.upper()}' integrated directly into an ornate, Baroque swirling cloud-archway that represents the exaggerated {hair_motif}."\n        face_core = f"Center: A realistic carved marble face of {self.thinker} emerging from the stone floor, wearing circular spectacles where the glass lenses display their primary formula/symbol."\n        return [name_arch, face_core]\n\n    def construct_internal_brain_chambers(self):\n        # AI AUTO-INFERENCE: Split their intellectual legacy into two distinct chambers\n        theory_left = infer_primary_breakthrough(self.thinker) # e.g., Special Relativity, logic gates, natural selection\n        theory_right = infer_secondary_breakthrough(self.thinker) # e.g., General Relativity, quantum state, optics\n        \n        chamber_left = f"Upper Left Chamber: Miniature chalkboards with authentic equations of {theory_left}, mechanical thought experiment models (e.g., trains, clocks, gears), and a library of tiny books."\n        chamber_right = f"Upper Right Chamber: Cosmic deep space vista showing {theory_right}, complete with optical instruments, atom models, and a volumetric gravitational well/funnel."\n        return [chamber_left, chamber_right]\n\n    def construct_base(self):\n        quote = infer_signature_quote(self.thinker)\n        return f"A stepped, circular marble plinth with brass rivets, an open manuscript with handwritten text, and a curved brass plaque engraved with: '{quote}'."\n\nrender_sculptural_masterpiece(Mind_As_Shrine_Diorama())
 ```
 
 [↑ Back to categories](#catalog)

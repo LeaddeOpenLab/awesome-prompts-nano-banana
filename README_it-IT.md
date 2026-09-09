@@ -19,13 +19,13 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**11** Prompt · Ultima aggiunta: **2026-09-09**
+**12** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Sfoglia per categoria
 
-[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Altro](#category-other)
+[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Rendering 3D](#category-3d-render) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Altro](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -271,6 +271,32 @@ Fotografia di liquidi ad alta velocità a 120 fps, macro estrema, schizzo congel
 
 STILE:
 Spot pubblicitario di bevande premium ultra-realistico, liquido cristallino, carbonatazione esplosiva, gocce d'acqua fisicamente accurate
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## Rendering 3D
+
+<a name="prompt-2097629839209758892"></a>
+
+### Traduzione in corso
+
+Autore：[@Gdgtify](https://x.com/Gdgtify) · [Post originale](https://x.com/Gdgtify/status/2097629839209758892)
+
+Rendering 3D · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097629839209758892-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)

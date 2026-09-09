@@ -19,13 +19,13 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**11** Prompts · Última adição: **2026-09-09**
+**12** Prompts · Última adição: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Fotografia](#category-photography) · [Cinematográfico / Imagem de Filme](#category-cinematic-film-still) · [Cyberpunk / Ficção Científica](#category-cyberpunk-sci-fi) · [Outros](#category-other)
+[Fotografia](#category-photography) · [Cinematográfico / Imagem de Filme](#category-cinematic-film-still) · [Renderização 3D](#category-3d-render) · [Cyberpunk / Ficção Científica](#category-cyberpunk-sci-fi) · [Outros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -271,6 +271,32 @@ Fotografia líquida de alta velocidade a 120 fps, macro extrema, respingo congel
 
 ESTILO:
 Comercial de bebida premium ultrarrealista, líquido cristalino, carbonatação explosiva, gotículas de água fisicamente precisas
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## Renderização 3D
+
+<a name="prompt-2097629839209758892"></a>
+
+### Tradução em andamento
+
+Autor：[@Gdgtify](https://x.com/Gdgtify) · [Publicação original](https://x.com/Gdgtify/status/2097629839209758892)
+
+Renderização 3D · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2097629839209758892-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)

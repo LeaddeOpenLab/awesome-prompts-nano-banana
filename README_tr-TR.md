@@ -19,13 +19,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**11** Prompt · Son eklenen: **2026-09-09**
+**12** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [Siberpunk / Bilim Kurgu](#category-cyberpunk-sci-fi) · [Diğer](#category-other)
+[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [3D Modelleme](#category-3d-render) · [Siberpunk / Bilim Kurgu](#category-cyberpunk-sci-fi) · [Diğer](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -271,6 +271,32 @@ KAMERA:
 
 TARZ:
 Ultra gerçekçi premium içecek reklamı, kristal berraklığında sıvı, patlayıcı gazlanma, fiziksel olarak kusursuz su damlacıkları
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## 3D Modelleme
+
+<a name="prompt-2097629839209758892"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Gdgtify](https://x.com/Gdgtify) · [Orijinal gönderi](https://x.com/Gdgtify/status/2097629839209758892)
+
+3D Modelleme · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097629839209758892-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

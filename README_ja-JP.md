@@ -19,13 +19,13 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**11** 件 · 最新の追加: **2026-09-09**
+**12** 件 · 最新の追加: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## カテゴリから探す
 
-[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [サイバーパンク / SF](#category-cyberpunk-sci-fi) · [その他](#category-other)
+[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [3D レンダリング](#category-3d-render) · [サイバーパンク / SF](#category-cyberpunk-sci-fi) · [その他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -271,6 +271,32 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 スタイル：
 超リアルなプレミアム飲料コマーシャル、クリスタルクリアな液体、爆発的な炭酸、物理的に正確な水滴
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## 3D レンダリング
+
+<a name="prompt-2097629839209758892"></a>
+
+### 翻訳中
+
+作者：[@Gdgtify](https://x.com/Gdgtify) · [元の投稿](https://x.com/Gdgtify/status/2097629839209758892)
+
+3D レンダリング · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2097629839209758892-1.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
 ```
 
 [↑ カテゴリに戻る](#catalog)

@@ -19,13 +19,13 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**11** Prompt · Bổ sung mới nhất: **2026-09-09**
+**12** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Duyệt theo danh mục
 
-[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Cyberpunk / Khoa học viễn tưởng](#category-cyberpunk-sci-fi) · [Khác](#category-other)
+[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Kết xuất 3D](#category-3d-render) · [Cyberpunk / Khoa học viễn tưởng](#category-cyberpunk-sci-fi) · [Khác](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -271,6 +271,32 @@ Nhiếp ảnh chất lỏng tốc độ cao 120fps, cận cảnh cực đại, n
 
 PHONG CÁCH:
 Quảng cáo đồ uống cao cấp siêu thực, chất lỏng trong suốt như pha lê, bọt khí bùng nổ, các giọt nước chính xác về mặt vật lý
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## Kết xuất 3D
+
+<a name="prompt-2097629839209758892"></a>
+
+### Đang dịch
+
+Tác giả：[@Gdgtify](https://x.com/Gdgtify) · [Bài gốc](https://x.com/Gdgtify/status/2097629839209758892)
+
+Kết xuất 3D · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097629839209758892-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

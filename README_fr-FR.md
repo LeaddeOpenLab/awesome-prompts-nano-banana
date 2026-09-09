@@ -19,13 +19,13 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**11** Prompts · Dernier ajout: **2026-09-09**
+**12** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Parcourir par catégorie
 
-[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Cyberpunk / Science-fiction](#category-cyberpunk-sci-fi) · [Autres](#category-other)
+[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Rendu 3D](#category-3d-render) · [Cyberpunk / Science-fiction](#category-cyberpunk-sci-fi) · [Autres](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -271,6 +271,32 @@ Photographie de liquide à haute vitesse à 120 ips, macro extrême, éclaboussu
 
 STYLE :
 Publicité pour boisson haut de gamme ultra-réaliste, liquide cristallin, carbonatation explosive, gouttelettes d'eau physiquement réalistes
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## Rendu 3D
+
+<a name="prompt-2097629839209758892"></a>
+
+### Traduction en cours
+
+Auteur：[@Gdgtify](https://x.com/Gdgtify) · [Publication originale](https://x.com/Gdgtify/status/2097629839209758892)
+
+Rendu 3D · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097629839209758892-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
