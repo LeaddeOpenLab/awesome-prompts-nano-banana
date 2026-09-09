@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T06:19:50.262Z",
+  "model": "nano-banana",
+  "prompt": "【ブランド・製品コピー】\n・メインコピー: {copy}\n・製品の特長やサブコピー: {subtext}\n・ブランドコレクション名: {brandName}\n\n【画質・演出・構図指定】\n・スタイル: ハイエンドなラグジュアリーコスメブランド（CHANELやDIOR、SHISEIDO等）のビューティー広告実写。\n・被写体: クローズアップされた女性モデルの濡れたような美しい唇や肌、あるいは高級感あふれるルージュ（口紅）や美容液ボトル。\n・背景: サテンの布地、反射のある黒い水面、または大理石など、上品で深みのあるテクスチャ。\n・色彩・照明: 深みのある赤（運命の赤）や漆黒、ゴールドなどのコントラストを強調したドラマチックで美しい色彩。スポットライトによるツヤ感と立体感の強調。\n・タイポグラフィ（GPT-image / Nano Banana Pro向け）: {copy}および{subtext}というメッセージ、{brandName}というブランド名が、非常にエレガントで細身のセリフフォントで上品にレイアウトされている。\n\n【レイアウトおよび出力上の厳格な制約（必須）】\n・完成したデザインそのものを、画面全体いっぱいに出力してください。デザイン内部の背景やシーン描写（壁・空間・影など）は本文の指示に従って構いません。\n・禁止事項：完成ポスターを額縁に入れた写真、壁に貼った状態の写真、机や紙の上に置いたモックアップ写真、紙の縁の遠近の歪みやドロップシャドウ。\n・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.\n\n・アスペクト比: --ar 3:4",
+  "promptTranslations": {
+    "en": "[Brand & Product Copy]\n- Main copy: {copy}\n- Product features & sub-copy: {subtext}\n- Brand collection name: {brandName}\n\n[Image Quality, Staging & Composition Specifications]\n- Style: Live-action beauty advertisement photo for high-end luxury cosmetic brands (such as CHANEL, DIOR, SHISEIDO, etc.).\n- Subject: Close-up of a female model's glossy, alluring lips or radiant skin, or a luxurious rouge (lipstick) or beauty serum bottle.\n- Background: Elegant, deep textures such as satin fabric, reflective black water surfaces, or marble.\n- Color & Lighting: Dramatic, gorgeous color palette emphasizing contrasts such as deep red (red of destiny), jet black, and gold. Highlighting glossiness and three-dimensionality with spotlights.\n- Typography (for GPT-image / Nano Banana Pro): The messages \"{copy}\" and \"{subtext}\", along with the brand name \"{brandName}\", are tastefully laid out in an extremely elegant, slender serif font.\n\n[Strict Layout and Output Constraints (Mandatory)]\n- Output the finished design itself, filling the entire canvas edge-to-edge. Interior backgrounds and scene depictions within the design (walls, spaces, shadows, etc.) may follow the instructions in the text.\n- Prohibited: Photos of the finished poster inside a picture frame, photos of it affixed to a wall, mockup photos placed on a desk or paper, perspective distortion of paper edges, or drop shadows.\n- Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.\n\n- Aspect Ratio: --ar 3:4"
+  },
+  "summaryTranslations": {
+    "en": "High-End Cosmetics & Fragrance Launch Advertising Poster Design Prompt Template"
+  },
+  "translationVersion": 2,
+  "summary": "高級コスメ・香水ローンチ広告用ポスターデザインプロンプトテンプレート。",
+  "summaryEn": "Prompt template for generating luxury cosmetics launch advertising posters.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097547198523388128",
+    "canonicalUrl": "https://x.com/AIGuideNote/status/2097547198523388128",
+    "author": {
+      "username": "AIGuideNote",
+      "displayName": "AI Guide-Note - 実務で使えるAI活用メディア",
+      "profileUrl": "https://x.com/AIGuideNote"
+    },
+    "publishedAt": "2026-09-09T04:46:37.000Z",
+    "collectedAt": "2026-09-09T05:40:40.438Z",
+    "language": "ja",
+    "originalText": "【コピペで使えるAIプロンプト】\nプレミアム美容ローンチ販促\n\n💡 用途: 高級コスメ、香水、美容液などの新発売（ローンチ）を飾る、洗練された大人の色気と高級感が漂うエディトリアル実写。モックアップや斜め配置を排した平面デザイン。\n🎯 推奨AI: Nano Banana Pro / GPT-image\n📊 難易度: 上級\n\n▼ コピペ用指示プロンプト（全文）:\n```\n【ブランド・製品コピー】\n・メインコピー: {copy}\n・製品の特長やサブコピー: {subtext}\n・ブランドコレクション名: {brandName}\n\n【画質・演出・構図指定】\n・スタイル: ハイエンドなラグジュアリーコスメブランド（CHANELやDIOR、SHISEIDO等）のビューティー広告実写。\n・被写体: クローズアップされた女性モデルの濡れたような美しい唇や肌、あるいは高級感あふれるルージュ（口紅）や美容液ボトル。\n・背景: サテンの布地、反射のある黒い水面、または大理石など、上品で深みのあるテクスチャ。\n・色彩・照明: 深みのある赤（運命の赤）や漆黒、ゴールドなどのコントラストを強調したドラマチックで美しい色彩。スポットライトによるツヤ感と立体感の強調。\n・タイポグラフィ（GPT-image / Nano Banana Pro向け）: {copy}および{subtext}というメッセージ、{brandName}というブランド名が、非常にエレガントで細身のセリフフォントで上品にレイアウトされている。\n\n【レイアウトおよび出力上の厳格な制約（必須）】\n・完成したデザインそのものを、画面全体いっぱいに出力してください。デザイン内部の背景やシーン描写（壁・空間・影など）は本文の指示に従って構いません。\n・禁止事項：完成ポスターを額縁に入れた写真、壁に貼った状態の写真、机や紙の上に置いたモックアップ写真、紙の縁の遠近の歪みやドロップシャドウ。\n・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.\n\n・アスペクト比: --ar 3:4\n```\n\n▼ 入力パラメータ例:\n・{copy}: メインコピー (例: 「運命の赤」)\n・{subtext}: サブコピー (例: 至高の輝きと、運命の唇)\n・{brandName}: ブランド名 (例: DESTINY RED COLLECTION)",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRv8D7WbUAAnM4e.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRv8D7WbUAAnM4e.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 129
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AIGuideNote/status/2097547198523388128",
+  "coverUrl": "https://pbs.twimg.com/media/HRv8D7WbUAAnM4e.jpg",
+  "coverPath": "images/2097547198523388128-1.jpg",
+  "imagePaths": [
+    "images/2097547198523388128-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRv8D7WbUAAnM4e",
+    "x-post:2097547198523388128"
+  ],
+  "analysis": {
+    "summary": "高級コスメ・香水ローンチ広告用ポスターデザインプロンプトテンプレート。",
+    "summaryEn": "Prompt template for generating luxury cosmetics launch advertising posters.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成画像にはプロンプトの指定どおり口紅、大理石の台座、黒と赤とゴールドの配色、および指定例通りのタイポグラフィが配置されています。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "【ブランド・製品コピー】\n・メインコピー: {copy}\n・製品の特長やサブコピー: {subtext}\n・ブランドコレクション名: {brandName}\n\n【画質・演出・構図指定】\n・スタイル: ハイエンドなラグジュアリーコスメブランド（CHANELやDIOR、SHISEIDO等）のビューティー広告実写。\n・被写体: クローズアップされた女性モデルの濡れたような美しい唇や肌、あるいは高級感あふれるルージュ（口紅）や美容液ボトル。\n・背景: サテンの布地、反射のある黒い水面、または大理石など、上品で深みのあるテクスチャ。\n・色彩・照明: 深みのある赤（運命の赤）や漆黒、ゴールドなどのコントラストを強調したドラマチックで美しい色彩。スポットライトによるツヤ感と立体感の強調。\n・タイポグラフィ（GPT-image / Nano Banana Pro向け）: {copy}および{subtext}というメッセージ、{brandName}というブランド名が、非常にエレガントで細身のセリフフォントで上品にレイアウトされている。\n\n【レイアウトおよび出力上の厳格な制約（必須）】\n・完成したデザインそのものを、画面全体いっぱいに出力してください。デザイン内部の背景やシーン描写（壁・空間・影など）は本文の指示に従って構いません。\n・禁止事項：完成ポスターを額縁に入れた写真、壁に貼った状態の写真、机や紙の上に置いたモックアップ写真、紙の縁の遠近の歪みやドロップシャドウ。\n・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.\n\n・アスペクト比: --ar 3:4",
+    "sourceRange": {
+      "start": 186,
+      "end": 1164
+    },
+    "translations": {
+      "zh": "【品牌与产品文案】\n· 主标: {copy}\n· 产品特性/副标: {subtext}\n· 品牌系列名: {brandName}\n\n【画质·表现·构图指定】\n· 风格: CHANEL、DIOR等高端美妆广告摄影。\n· 主体: 模特特写或高级口红/精华液。\n· 背景: 缎面、水面倒影或大理石质感。\n· 摄影/色彩: 深红、纯黑与金色对比，聚光灯强调光泽。\n· 排版: 纤细衬线字体优雅排布文字。\n\n【布局与输出限制】\n· 全画面平铺设计，严禁海报相框/墙面/桌面模型样机。\n· 比例: --ar 3:4",
+      "en": "[Brand & Copy]\n- Main copy: {copy}\n- Sub-copy: {subtext}\n- Collection: {brandName}\n\n[Visual & Composition]\n- Style: Luxury beauty ad photography (e.g., CHANEL, DIOR).\n- Subject: Model close-up or luxury lipstick/serum bottle.\n- Background: Satin, reflective dark water, or marble.\n- Colors/Lighting: Deep red, jet black, and gold; dramatic spotlighting.\n- Typography: Elegant slim serif font.\n\n[Layout Constraints]\n- Flat 2D layout filling the canvas; no mockup frames, desks, or shadows.\n- Aspect ratio: --ar 3:4"
+    },
+    "targetModels": [
+      "nano-banana"
+    ],
+    "category": "text-to-image",
+    "useCase": "advertising",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "CHANEL",
+        "DIOR",
+        "SHISEIDO"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
