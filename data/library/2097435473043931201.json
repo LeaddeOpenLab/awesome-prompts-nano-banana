@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T03:45:57.818Z",
+  "model": "nano-banana",
+  "prompt": "Prompt 1:\nAn enchanting digital illustration of a cityscape suspended above a sea of fluffy, nocturnal clouds under a magical sky. In the foreground, a dense cluster of towering skyscrapers, their windows illuminated by warm golden lights, create a glowing urban skyline. The city appears to rest on a thick, rolling blanket of dark blue and grey clouds that stretch out into the distance. Above the city, the night sky transforms into a celestial wonder: a massive, luminous ring of a colorful nebula encircles a dark, star-filled void. The nebula glows with vibrant hues of deep purple, electric blue, and fiery orange, studded with distant twinkling stars and constellations, creating a dreamy, otherworldly atmosphere.\n\nPrompt 2:\nA breathtaking vertical view of a futuristic metropolis floating gracefully above an endless sea of dense, rolling dark grey clouds at twilight. The sprawling city skyline features numerous towering skyscrapers with glowing windows that cast warm amber and orange lights onto the urban landscape below. Dominating the upper portion of the frame is a magnificent cosmic ring, a glowing circular nebula composed of vibrant purples, deep blues, and brilliant warm golden hues, sprinkled with countless twinkling stars and distant galaxies across the pitch-black night sky. The composition is balanced and majestic, with the dark cloud layer grounding the lower foreground, contrasting sharply with the radiant cosmic phenomenon above. The lighting is surreal and ethereal, blending the warm artificial glow of the city lights with the cosmic luminescence of the nebula. The atmosphere is quiet, awe-inspiring, and mystical, evoking a sense of interstellar wonder and urban isolation. The detailed textures of the soft, voluminous clouds, the sleek glass and steel architecture of the skyscrapers, and the starry cosmic dust create a high-contrast, visually striking scene.",
+  "promptTranslations": {
+    "en": "Prompt 1:\nAn enchanting digital illustration of a cityscape suspended above a sea of fluffy, nocturnal clouds under a magical sky. In the foreground, a dense cluster of towering skyscrapers, their windows illuminated by warm golden lights, create a glowing urban skyline. The city appears to rest on a thick, rolling blanket of dark blue and grey clouds that stretch out into the distance. Above the city, the night sky transforms into a celestial wonder: a massive, luminous ring of a colorful nebula encircles a dark, star-filled void. The nebula glows with vibrant hues of deep purple, electric blue, and fiery orange, studded with distant twinkling stars and constellations, creating a dreamy, otherworldly atmosphere.\n\nPrompt 2:\nA breathtaking vertical view of a futuristic metropolis floating gracefully above an endless sea of dense, rolling dark grey clouds at twilight. The sprawling city skyline features numerous towering skyscrapers with glowing windows that cast warm amber and orange lights onto the urban landscape below. Dominating the upper portion of the frame is a magnificent cosmic ring, a glowing circular nebula composed of vibrant purples, deep blues, and brilliant warm golden hues, sprinkled with countless twinkling stars and distant galaxies across the pitch-black night sky. The composition is balanced and majestic, with the dark cloud layer grounding the lower foreground, contrasting sharply with the radiant cosmic phenomenon above. The lighting is surreal and ethereal, blending the warm artificial glow of the city lights with the cosmic luminescence of the nebula. The atmosphere is quiet, awe-inspiring, and mystical, evoking a sense of interstellar wonder and urban isolation. The detailed textures of the soft, voluminous clouds, the sleek glass and steel architecture of the skyscrapers, and the starry cosmic dust create a high-contrast, visually striking scene."
+  },
+  "summaryTranslations": {
+    "en": "Prompts depicting floating illuminated cities suspended above cloud seas beneath giant glowing cosmic ring nebulae."
+  },
+  "translationVersion": 2,
+  "summary": "Prompts depicting floating illuminated cities suspended above cloud seas beneath giant glowing cosmic ring nebulae.",
+  "summaryEn": "Prompts depicting floating illuminated cities suspended above cloud seas beneath giant glowing cosmic ring nebulae.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097435473043931201",
+    "canonicalUrl": "https://x.com/churvikv/status/2097435473043931201",
+    "author": {
+      "username": "churvikv",
+      "displayName": "Viki",
+      "profileUrl": "https://x.com/churvikv"
+    },
+    "publishedAt": "2026-09-08T21:22:39.000Z",
+    "collectedAt": "2026-09-09T03:22:23.362Z",
+    "language": "en",
+    "originalText": "City.\nAbove the clouds, where silence turns into music\n\nmodel: Nano Banana 2 and  GPT Image 2\n\nPrompt 1:\nAn enchanting digital illustration of a cityscape suspended above a sea of fluffy, nocturnal clouds under a magical sky. In the foreground, a dense cluster of towering skyscrapers, their windows illuminated by warm golden lights, create a glowing urban skyline. The city appears to rest on a thick, rolling blanket of dark blue and grey clouds that stretch out into the distance. Above the city, the night sky transforms into a celestial wonder: a massive, luminous ring of a colorful nebula encircles a dark, star-filled void. The nebula glows with vibrant hues of deep purple, electric blue, and fiery orange, studded with distant twinkling stars and constellations, creating a dreamy, otherworldly atmosphere.\n\nPrompt 2:\nA breathtaking vertical view of a futuristic metropolis floating gracefully above an endless sea of dense, rolling dark grey clouds at twilight. The sprawling city skyline features numerous towering skyscrapers with glowing windows that cast warm amber and orange lights onto the urban landscape below. Dominating the upper portion of the frame is a magnificent cosmic ring, a glowing circular nebula composed of vibrant purples, deep blues, and brilliant warm golden hues, sprinkled with countless twinkling stars and distant galaxies across the pitch-black night sky. The composition is balanced and majestic, with the dark cloud layer grounding the lower foreground, contrasting sharply with the radiant cosmic phenomenon above. The lighting is surreal and ethereal, blending the warm artificial glow of the city lights with the cosmic luminescence of the nebula. The atmosphere is quiet, awe-inspiring, and mystical, evoking a sense of interstellar wonder and urban isolation. The detailed textures of the soft, voluminous clouds, the sleek glass and steel architecture of the skyscrapers, and the starry cosmic dust create a high-contrast, visually striking scene.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRuTgPPWIAAcjAy.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRuTgPPWIAAcjAy.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRuTWsta0AAU6QG.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRuTWsta0AAU6QG.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 36,
+      "repostCount": 4,
+      "replyCount": 18,
+      "quoteCount": 0,
+      "viewCount": 487
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/churvikv/status/2097435473043931201",
+  "coverUrl": "https://pbs.twimg.com/media/HRuTgPPWIAAcjAy.jpg",
+  "coverPath": "images/2097435473043931201-1.jpg",
+  "imagePaths": [
+    "images/2097435473043931201-1.jpg",
+    "images/2097435473043931201-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRuTgPPWIAAcjAy",
+    "x-image:/media/HRuTWsta0AAU6QG",
+    "x-post:2097435473043931201"
+  ],
+  "analysis": {
+    "summary": "Prompts depicting floating illuminated cities suspended above cloud seas beneath giant glowing cosmic ring nebulae.",
+    "summaryEn": "Prompts depicting floating illuminated cities suspended above cloud seas beneath giant glowing cosmic ring nebulae.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Both generated images faithfully depict glowing floating cities resting on cloud banks under large circular ring nebulae."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Prompt 1:\nAn enchanting digital illustration of a cityscape suspended above a sea of fluffy, nocturnal clouds under a magical sky. In the foreground, a dense cluster of towering skyscrapers, their windows illuminated by warm golden lights, create a glowing urban skyline. The city appears to rest on a thick, rolling blanket of dark blue and grey clouds that stretch out into the distance. Above the city, the night sky transforms into a celestial wonder: a massive, luminous ring of a colorful nebula encircles a dark, star-filled void. The nebula glows with vibrant hues of deep purple, electric blue, and fiery orange, studded with distant twinkling stars and constellations, creating a dreamy, otherworldly atmosphere.\n\nPrompt 2:\nA breathtaking vertical view of a futuristic metropolis floating gracefully above an endless sea of dense, rolling dark grey clouds at twilight. The sprawling city skyline features numerous towering skyscrapers with glowing windows that cast warm amber and orange lights onto the urban landscape below. Dominating the upper portion of the frame is a magnificent cosmic ring, a glowing circular nebula composed of vibrant purples, deep blues, and brilliant warm golden hues, sprinkled with countless twinkling stars and distant galaxies across the pitch-black night sky. The composition is balanced and majestic, with the dark cloud layer grounding the lower foreground, contrasting sharply with the radiant cosmic phenomenon above. The lighting is surreal and ethereal, blending the warm artificial glow of the city lights with the cosmic luminescence of the nebula. The atmosphere is quiet, awe-inspiring, and mystical, evoking a sense of interstellar wonder and urban isolation. The detailed textures of the soft, voluminous clouds, the sleek glass and steel architecture of the skyscrapers, and the starry cosmic dust create a high-contrast, visually striking scene.",
+    "sourceRange": {
+      "start": 95,
+      "end": 1998
+    },
+    "translations": {
+      "zh": "提示词 1：迷人的数字插画，悬浮在夜间云海之上的发光城市天际线，上方夜空环绕着由深紫、电蓝与火橙色组成的巨大发光星云环。提示词 2：暮色中悬浮在厚重暗灰云海之上的未来大都市垂直全景，天空中呈现壮丽的暖金色与蓝紫色环状星云。",
+      "en": "Prompt 1: Digital illustration of a luminous city suspended above nocturnal clouds beneath a glowing cosmic nebula ring. Prompt 2: Vertical view of a futuristic floating metropolis over dense twilight clouds under a vibrant circular nebula."
+    },
+    "targetModels": [
+      "nano-banana"
+    ],
+    "category": "text-to-image",
+    "useCase": "sci-fi concept art",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
