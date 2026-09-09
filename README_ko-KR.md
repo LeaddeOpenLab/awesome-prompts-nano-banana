@@ -372,20 +372,36 @@ render_sculptural_masterpiece(Mind_As_Shrine_Diorama())
 
 <a name="prompt-2097696144163778745"></a>
 
-### 번역 중
+### 쇼와 레트로 거리 풍경과 오래된 다방을 그린, 손그림 스타일의 따스한 로컬 정보지 표지 디자인 프롬프트.
 
 작성자：[@AIGuideNote](https://x.com/AIGuideNote) · [원본 게시물](https://x.com/AIGuideNote/status/2097696144163778745)
 
 레트로 / 빈티지 · 도시 풍경 / 거리 · 배포 완료
 
-**요약:** 번역 중
+**요약:** 쇼와 레트로 거리 풍경과 오래된 다방을 그린, 손그림 스타일의 따스한 로컬 정보지 표지 디자인 프롬프트.
 
 <img src="images/2097696144163778745-1.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-번역 중
+【매거진 정보】
+・잡지명: {magazineTitle}
+・이번 호 특집 테마: {featureTopic}
+・호수 표기: {issueName}
+
+【화질・연출・구도 지정】
+・스타일: 일본의 레트로한 거리 풍경과 라이프스타일을 담아낸 부드러운 터치의 일러스트(『OZ magazine』이나 지자체 홍보지 스타일).
+・피사체: 쇼와 레트로 감성이 남아있는 노스탤직한 상점가 골목 모퉁이, 오래된 킷사텐(다방), 골목길을 걷는 사람들, 혹은 고양이가 웅크리고 있는 풍경.
+・색채・톤: 따뜻한 파스텔 컬러와 살짝 바랜 잉크 느낌. 손그림 스타일의 부드러운 텍스처.
+・타이포그래피(GPT-image / Nano Banana Pro용): {magazineTitle} 잡지 로고가 상단에 크고 따뜻한 손글씨 느낌의 글자로 배치되고, 중앙이나 하단에 {featureTopic} 및 {issueName}이 깔끔하게 레이아웃되어 있음.
+
+【레이아웃 및 출력에 관한 엄격한 제약(필수)】
+・완성된 디자인 자체를 화면 전체에 꽉 차게 출력해 주세요. 디자인 내부의 배경이나 장면 묘사(벽, 공간, 그림자 등)는 본문의 지시를 따라도 무방합니다.
+・금지 사항: 완성된 포스터를 액자에 넣은 사진, 벽에 붙인 상태의 사진, 책상이나 종이 위에 올려둔 목업 사진, 종이 가장자리의 원근 왜곡이나 드롭 섀도우.
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・종횡비: --ar 3:4
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

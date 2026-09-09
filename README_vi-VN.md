@@ -372,20 +372,36 @@ render_sculptural_masterpiece(Mind_As_Shrine_Diorama())
 
 <a name="prompt-2097696144163778745"></a>
 
-### Đang dịch
+### Prompt thiết kế bìa tạp chí thông tin địa phương ấm áp phong cách vẽ tay, miêu tả phố xá thời Showa retro và quán cà phê cổ điển.
 
 Tác giả：[@AIGuideNote](https://x.com/AIGuideNote) · [Bài gốc](https://x.com/AIGuideNote/status/2097696144163778745)
 
 Cổ điển / Cổ điển · Quang cảnh thành phố / Đường phố · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt thiết kế bìa tạp chí thông tin địa phương ấm áp phong cách vẽ tay, miêu tả phố xá thời Showa retro và quán cà phê cổ điển.
 
 <img src="images/2097696144163778745-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+【Thông tin tạp chí】
+・Tên tạp chí: {magazineTitle}
+・Chủ đề chuyên đề số này: {featureTopic}
+・Ký hiệu số phát hành: {issueName}
+
+【Quy định về chất lượng hình ảnh・phong cách dàn dựng・bố cục】
+・Phong cách: Tranh minh họa nét vẽ dịu dàng miêu tả phố xá và phong cách sống hoài cổ của Nhật Bản (phong cách tạp chí 『OZ magazine』 hoặc ấn phẩm PR của chính quyền địa phương).
+・Chủ thể: Góc phố mua sắm hoài niệm mang dư vị thời kỳ Showa retro, quán cà phê cổ điển (kissaten), người đi bộ trong ngõ hẻm, hoặc khung cảnh một chú mèo đang thong thả ngồi nghỉ.
+・Màu sắc・Tông màu: Tông màu pastel ấm áp hoặc hiệu ứng mực in hơi phai màu. Kết cấu nét vẽ tay dịu dàng.
+・Nghệ thuật chữ (Dành cho GPT-image / Nano Banana Pro): Logo tạp chí {magazineTitle} được đặt ở phía trên bằng chữ viết tay ấm áp cỡ lớn, phần giữa hoặc phía dưới được bố trí gọn gàng {featureTopic} và {issueName}.
+
+【Ràng buộc nghiêm ngặt về bố cục và kết quả đầu ra (Bắt buộc)】
+・Vui lòng xuất chính bản thiết kế hoàn thiện phẳng tràn ngập toàn bộ khung hình. Các chi tiết bối cảnh và miêu tả cảnh quan bên trong thiết kế (tường, không gian, bóng đổ, v.v.) có thể tuân theo hướng dẫn trong văn bản.
+・Điều cấm: Ảnh chụp poster hoàn thiện được lồng trong khung tranh, ảnh dán trên tường, ảnh mockup đặt trên bàn hoặc trên mặt giấy, hiện tượng méo phối cảnh mép giấy hoặc bóng đổ viền ngoài.
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・Tỷ lệ khung hình: --ar 3:4
 ```
 
 [↑ Về danh mục](#catalog)

@@ -372,20 +372,36 @@ render_sculptural_masterpiece(Mind_As_Shrine_Diorama())
 
 <a name="prompt-2097696144163778745"></a>
 
-### 翻訳中
+### 昭和レトロな街並みや古い喫茶店を描いた、手書き風の温かみあるタウン情報誌の表紙デザインプロンプト。
 
 作者：[@AIGuideNote](https://x.com/AIGuideNote) · [元の投稿](https://x.com/AIGuideNote/status/2097696144163778745)
 
 レトロ / ヴィンテージ · 街並み / ストリート · 配信済み
 
-**概要:** 翻訳中
+**概要:** 昭和レトロな街並みや古い喫茶店を描いた、手書き風の温かみあるタウン情報誌の表紙デザインプロンプト。
 
 <img src="images/2097696144163778745-1.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-翻訳中
+【マガジン情報】
+・雑誌名: {magazineTitle}
+・今号の特集テーマ: {featureTopic}
+・号数表記: {issueName}
+
+【画質・演出・構図指定】
+・スタイル: 日本のレトロな街並みやライフスタイルを描いた、優しいタッチのイラスト（『OZ magazine』や地方自治体のPR誌風）。
+・被写体: 昭和レトロな面影のあるノスタルジックな商店街の角、古い喫茶店、路地裏を歩く人々、または猫がたたずむ情景。
+・色彩・トーン: 暖かみのあるパステルカラーや、少し褪せたインクの風合い。手書き風の優しいテクスチャ。
+・タイポグラフィ（GPT-image / Nano Banana Pro向け）: {magazineTitle}という雑誌ロゴが上部に大きく温かみのある手書き風の文字で配置され、中央や下部に{featureTopic}および{issueName}がすっきりとレイアウトされている。
+
+【レイアウトおよび出力上の厳格な制約（必須）】
+・完成したデザインそのものを、画面全体いっぱいに出力してください。デザイン内部の背景やシーン描写（壁・空間・影など）は本文の指示に従って構いません。
+・禁止事項：完成ポスターを額縁に入れた写真、壁に貼った状態の写真、机や紙の上に置いたモックアップ写真、紙の縁の遠近の歪みやドロップシャドウ。
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・アスペクト比: --ar 3:4
 ```
 
 [↑ カテゴリに戻る](#catalog)

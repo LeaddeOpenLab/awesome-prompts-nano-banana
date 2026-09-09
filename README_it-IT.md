@@ -372,20 +372,36 @@ render_sculptural_masterpiece(Mind_As_Shrine_Diorama())
 
 <a name="prompt-2097696144163778745"></a>
 
-### Traduzione in corso
+### Prompt per il design della copertina di una rivista di informazioni locali con calore fatto a mano, raffigurante scorci retrò dell'era Shōwa e vecchie caffetterie.
 
 Autore：[@AIGuideNote](https://x.com/AIGuideNote) · [Post originale](https://x.com/AIGuideNote/status/2097696144163778745)
 
 Retro / Vintage · Paesaggio urbano / Strada · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per il design della copertina di una rivista di informazioni locali con calore fatto a mano, raffigurante scorci retrò dell'era Shōwa e vecchie caffetterie.
 
 <img src="images/2097696144163778745-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+【Informazioni sulla rivista】
+・Nome della rivista: {magazineTitle}
+・Tema speciale di questo numero: {featureTopic}
+・Indicazione del numero: {issueName}
+
+【Specifiche su qualità visiva, resa e composizione】
+・Stile: Illustrazione dal tratto morbido che ritrae strade retrò e stili di vita giapponesi (nello stile di "OZ magazine" o delle pubblicazioni di PR municipali locali).
+・Soggetto: Una scena nostalgica con echi retrò dell'era Shōwa, come l'angolo di una via commerciale tradizionale, una vecchia caffetteria (kissaten), persone che camminano nei vicoli o un gatto che si riposa.
+・Colori e tonalità: Toni pastello caldi o consistenza di inchiostri leggermente sbiaditi. Texture delicata dall'aspetto disegnato a mano.
+・Tipografia (per GPT-image / Nano Banana Pro): Il logo della rivista {magazineTitle} posizionato in alto a grandi lettere calde disegnate a mano, con {featureTopic} e {issueName} disposti in modo pulito ed elegante al centro o in basso.
+
+【Rigidi vincoli di impaginazione e output (Obbligatorio)】
+・Mostrare il design finito vero e proprio a schermo intero occupando l'intera tela. Gli sfondi o gli elementi della scena all'interno del design (pareti, ambienti, ombre, ecc.) possono seguire le istruzioni del testo principale.
+・Divieti: Fotografie del poster finito incorniciato, foto attaccate al muro, foto di mockup posate su una scrivania o su carta, distorsioni prospettiche dei bordi della carta o ombre esterne.
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・Rapporto d'aspetto: --ar 3:4
 ```
 
 [↑ Torna alle categorie](#catalog)

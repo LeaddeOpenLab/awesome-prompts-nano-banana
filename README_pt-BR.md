@@ -372,20 +372,36 @@ render_sculptural_masterpiece(Mind_As_Shrine_Diorama())
 
 <a name="prompt-2097696144163778745"></a>
 
-### Tradução em andamento
+### Prompt de design de capa de revista informativa local em estilo feito à mão e acolhedor, retratando ruas retrô da era Showa e antigas cafeterias.
 
 Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Publicação original](https://x.com/AIGuideNote/status/2097696144163778745)
 
 Retrô / Vintage · Paisagem Urbana / Rua · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de design de capa de revista informativa local em estilo feito à mão e acolhedor, retratando ruas retrô da era Showa e antigas cafeterias.
 
 <img src="images/2097696144163778745-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+【Informações da revista】
+・Nome da revista: {magazineTitle}
+・Tema especial desta edição: {featureTopic}
+・Indicação da edição: {issueName}
+
+【Especificações de qualidade de imagem, direção e composição】
+・Estilo: Ilustração de traço suave retratando ruas e estilos de vida retrô japoneses (no estilo da "OZ magazine" ou de publicações de relações públicas municipais locais).
+・Tema/Objeto: Uma cena nostálgica com ares retrô da era Showa, como a esquina de uma rua comercial tradicional, uma cafeteria antiga (kissaten), pessoas caminhando por becos ou um gato relaxando.
+・Cores e tonalidades: Cores pastéis quentes ou aspecto de tinta levemente desbotada. Textura suave com aspecto feito à mão.
+・Tipografia (para GPT-image / Nano Banana Pro): O logotipo da revista com {magazineTitle} posicionado no topo, em tamanho grande e com letras quentes feitas à mão, com {featureTopic} e {issueName} dispostos de forma limpa e organizada no centro ou na parte inferior.
+
+【Restrições rigorosas de layout e saída (Obrigatório)】
+・Produza o próprio design finalizado ocupando a tela inteira. Planos de fundo ou elementos de cena dentro do design (paredes, espaços, sombras, etc.) podem seguir as instruções do texto principal.
+・Proibições: Fotos do pôster finalizado em uma moldura, fotos coladas na parede, fotos de mockups sobre uma mesa ou papel, distorções de perspectiva nas bordas do papel ou sombras projetadas.
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・Proporção de tela: --ar 3:4
 ```
 
 [↑ Voltar às categorias](#catalog)

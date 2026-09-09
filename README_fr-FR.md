@@ -372,20 +372,36 @@ render_sculptural_masterpiece(Mind_As_Shrine_Diorama())
 
 <a name="prompt-2097696144163778745"></a>
 
-### Traduction en cours
+### Prompt de design de couverture pour un magazine d'informations locales au style chaleureux dessiné à la main, illustrant des rues rétro de l'ère Shōwa et de vieux cafés.
 
 Auteur：[@AIGuideNote](https://x.com/AIGuideNote) · [Publication originale](https://x.com/AIGuideNote/status/2097696144163778745)
 
 Rétro / Vintage · Paysage urbain / Rue · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de design de couverture pour un magazine d'informations locales au style chaleureux dessiné à la main, illustrant des rues rétro de l'ère Shōwa et de vieux cafés.
 
 <img src="images/2097696144163778745-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+【Informations sur le magazine】
+・Titre du magazine : {magazineTitle}
+・Thème spécial de ce numéro : {featureTopic}
+・Numéro de parution : {issueName}
+
+【Spécifications de qualité d'image, mise en scène et composition】
+・Style : Illustration au trait doux dépeignant des rues rétro japonaises et le style de vie (dans le style de « OZ magazine » ou des brochures de relations publiques des municipalités locales).
+・Sujet : Une scène nostalgique aux réminiscences de l'ère Shōwa, comme le coin d'une rue commerçante traditionnelle, un vieux café (kissaten), des gens déambulant dans des ruelles ou un chat qui flâne.
+・Couleurs et tons : Tons pastel chauds ou texture d'encres légèrement délavées. Texture douce aux finitions faites à la main.
+・Typographie (pour GPT-image / Nano Banana Pro) : Le logo du magazine {magazineTitle} est positionné en haut en grand avec des lettres chaleureuses dessinées à la main, tandis que {featureTopic} et {issueName} sont agencés de façon nette au centre ou en bas.
+
+【Contraintes strictes de mise en page et de rendu (Obligatoire)】
+・Affichez le design fini lui-même en plein écran sur l'ensemble de la surface. Les arrière-plans ou éléments de scène à l'intérieur du design (murs, espaces, ombres, etc.) peuvent suivre les instructions du texte principal.
+・Interdictions : Photos de l'affiche finale dans un cadre, photos affichées sur un mur, photos de maquettes (mockups) posées sur un bureau ou sur du papier, distorsions de perspective des bords du papier ou ombres portées.
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・Format d'image : --ar 3:4
 ```
 
 [↑ Retour aux catégories](#catalog)

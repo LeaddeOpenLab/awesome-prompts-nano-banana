@@ -402,20 +402,36 @@ render_sculptural_masterpiece(Mind_As_Shrine_Diorama())",
 
 <a name="prompt-2097696144163778745"></a>
 
-### Çeviri sürüyor
+### Showa dönemi nostaljik sokaklarını ve eski kahvehanelerini tasvir eden, el çizimi sıcaklığında yerel şehir rehberi dergisi kapak tasarımı istemi.
 
 Yazar：[@AIGuideNote](https://x.com/AIGuideNote) · [Orijinal gönderi](https://x.com/AIGuideNote/status/2097696144163778745)
 
 Retro / Vintage · Şehir Manzarası / Sokak · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Showa dönemi nostaljik sokaklarını ve eski kahvehanelerini tasvir eden, el çizimi sıcaklığında yerel şehir rehberi dergisi kapak tasarımı istemi.
 
 <img src="images/2097696144163778745-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+【Dergi Bilgileri】
+・Dergi adı: {magazineTitle}
+・Bu sayının özel dosya konusu: {featureTopic}
+・Sayı bilgisi: {issueName}
+
+【Görüntü Kalitesi, Yönetim ve Kompozisyon Özellikleri】
+・Tarz: Japonya'nın nostaljik sokak manzaralarını ve yaşam tarzını betimleyen yumuşak çizgili illüstrasyon ("OZ magazine" veya yerel belediye tanıtım bültenleri tarzında).
+・Konu: Showa döneminin nostaljik izlerini taşıyan geleneksel bir çarşı sokağının köşesi, eski bir kahvehane (kissaten), ara sokaklarda yürüyen insanlar veya köşede duran bir kedi gibi sahneler.
+・Renkler ve Tonlar: Sıcak pastel tonlar veya hafifçe solmuş mürekkep dokusu. El çizimi hissi veren yumuşak doku.
+・Tipografi (GPT-image / Nano Banana Pro için): Üst kısımda büyük ve sıcak el yazısı tarzı harflerle yerleştirilmiş {magazineTitle} dergi logosu, orta veya alt kısımda ise net ve düzenli bir biçimde konumlandırılmış {featureTopic} ve {issueName}.
+
+【Katı Düzen ve Çıktı Kısıtlamaları (Zorunlu)】
+・Tamamlanan tasarımı doğrudan tüm ekranı kaplayacak şekilde sunun. Tasarımın içindeki arka plan veya sahne betimlemeleri (duvarlar, mekanlar, gölgeler vb.) ana metindeki talimatlara uygun olabilir.
+・Yasaklar: Çerçeve içine yerleştirilmiş bitmiş poster fotoğrafları, duvara asılmış durumdaki fotoğraflar, masa veya kağıt üzerine konmuş maket (mockup) fotoğrafları, kağıt kenarlarında perspektif bozulmaları veya alt gölgeler.
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・En-Boy Oranı: --ar 3:4
 ```
 
 [↑ Kategorilere dön](#catalog)

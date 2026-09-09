@@ -372,20 +372,36 @@ render_sculptural_masterpiece(Mind_As_Shrine_Diorama())
 
 <a name="prompt-2097696144163778745"></a>
 
-### 翻译中
+### 描绘昭和复古街景与老式咖啡馆的手绘风温馨城市生活杂志封面设计提示词。
 
 作者：[@AIGuideNote](https://x.com/AIGuideNote) · [查看 X 原帖](https://x.com/AIGuideNote/status/2097696144163778745)
 
 复古 / 怀旧 · 城市风光 / 街道 · 已推流
 
-**概括:** 翻译中
+**概括:** 描绘昭和复古街景与老式咖啡馆的手绘风温馨城市生活杂志封面设计提示词。
 
 <img src="images/2097696144163778745-1.jpg" alt="图片 1" width="480" />
 
 **提示词**
 
 ```text
-翻译中
+【杂志信息】
+・杂志名称: {magazineTitle}
+・本期特辑主题: {featureTopic}
+・期号标注: {issueName}
+
+【画质・表现・构图要求】
+・风格: 描绘日本复古街景与生活方式的温和笔触插画（类似《OZ magazine》或地方自治体的公关宣传杂志风格）。
+・主体: 带有着昭和复古风貌的怀旧商店街街角、老式咖啡馆、在小巷漫步的人们，或猫咪静坐伫立的景致。
+・色彩与色调: 温暖的粉彩柔和色调，略带褪色质感的油墨质感。手绘风的温和纹理。
+・排版设计（面向 GPT-image / Nano Banana Pro）: 杂志Logo“{magazineTitle}”以温暖的手绘风大字体排列在顶部，中央或下方利落排布着“{featureTopic}”与“{issueName}”。
+
+【排版及输出的严格限制（必须遵守）】
+・请将完成的设计本身填满整个画面输出。设计内部的背景与场景描绘（墙面、空间、阴影等）可遵循正文指示。
+・禁止事项：将完成的海报装入相框的照片、贴在墙上的照片、摆放在桌面或纸张上的样机模型（mockup）照片、纸张边缘的透视扭曲或投影阴影。
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・纵横比: --ar 3:4
 ```
 
 [↑ 返回分类目录](#catalog)

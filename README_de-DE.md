@@ -372,20 +372,36 @@ render_sculptural_masterpiece(Mind_As_Shrine_Diorama())
 
 <a name="prompt-2097696144163778745"></a>
 
-### Übersetzung läuft
+### Prompt für ein handgezeichnetes, warmes Cover-Design eines Stadtmagazins, das Retro-Straßenzüge der Shōwa-Zeit und alte Cafés darstellt.
 
 Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Originalbeitrag](https://x.com/AIGuideNote/status/2097696144163778745)
 
 Retro / Vintage · Stadtbild / Straße · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für ein handgezeichnetes, warmes Cover-Design eines Stadtmagazins, das Retro-Straßenzüge der Shōwa-Zeit und alte Cafés darstellt.
 
 <img src="images/2097696144163778745-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+【Magazin-Informationen】
+・Magazintitel: {magazineTitle}
+・Sonderthema dieser Ausgabe: {featureTopic}
+・Ausgabenbezeichnung: {issueName}
+
+【Bildqualität, Inszenierung und Kompositionsvorgaben】
+・Stil: Sanft gezeichnete Illustration, die japanische Retro-Stadtansichten und Lifestyle darstellt (im Stil von „OZ magazine“ oder PR-Broschüren lokaler Gemeinden).
+・Motiv: Eine nostalgische Szene mit Retro-Shōwa-Flair, wie die Ecke einer traditionellen Einkaufsstraße, ein altes Café (Kissaten), Menschen, die durch schmale Gassen schlendern, oder eine verweilende Katze.
+・Farben und Tonung: Warme Pastellfarben oder die Anmutung leicht verblasster Tinte. Sanfte, handgezeichnete Textur.
+・Typografie (für GPT-image / Nano Banana Pro): Das Magazin-Logo {magazineTitle} ist oben groß in warmen, handgezeichnet wirkenden Buchstaben platziert, während {featureTopic} und {issueName} übersichtlich in der Mitte oder im unteren Bereich angeordnet sind.
+
+【Strikte Layout- und Ausgabebeschränkungen (Erforderlich)】
+・Geben Sie das fertige Design selbst vollflächig über den gesamten Bildschirm aus. Hintergründe oder Szenenelemente innerhalb des Designs (Wände, Räume, Schatten usw.) dürfen den Anweisungen im Haupttext folgen.
+・Untersagt: Fotos des fertigen Posters in einem Bilderrahmen, Fotos des Posters an einer Wand, Mockup-Fotos auf einem Schreibtisch oder Papier, perspektivische Verzerrungen der Papierränder oder Schlagschatten.
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・Seitenverhältnis: --ar 3:4
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
