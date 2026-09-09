@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T12:29:10.534Z",
+  "model": "nano-banana",
+  "prompt": "2x2 grid, 16:9, do this for 4 famous thinkers, authors, inventors,: class Mind_As_Shrine_Diorama:\n    def __init__(self, thinker=\"[THINKER_NAME]\"):\n        self.canvas = \"Single, self-contained 3D monumental sculptural vignette on a pure white studio background.\"\n        self.material_palette = \"Polished white Carrara marble, brushed brass, glass lenses, and glowing cosmic vistas.\"\n\n    def construct_face_and_hair_arch(self):\n        # The core visual pun: hair becomes the building\n        hair_motif = infer_iconic_hair_or_silhouette(self.thinker)\n        name_arch = f\"Massive 3D gilded marble letters spelling '{self.thinker.upper()}' integrated directly into an ornate, Baroque swirling cloud-archway that represents the exaggerated {hair_motif}.\"\n        face_core = f\"Center: A realistic carved marble face of {self.thinker} emerging from the stone floor, wearing circular spectacles where the glass lenses display their primary formula/symbol.\"\n        return [name_arch, face_core]\n\n    def construct_internal_brain_chambers(self):\n        # AI AUTO-INFERENCE: Split their intellectual legacy into two distinct chambers\n        theory_left = infer_primary_breakthrough(self.thinker) # e.g., Special Relativity, logic gates, natural selection\n        theory_right = infer_secondary_breakthrough(self.thinker) # e.g., General Relativity, quantum state, optics\n        \n        chamber_left = f\"Upper Left Chamber: Miniature chalkboards with authentic equations of {theory_left}, mechanical thought experiment models (e.g., trains, clocks, gears), and a library of tiny books.\"\n        chamber_right = f\"Upper Right Chamber: Cosmic deep space vista showing {theory_right}, complete with optical instruments, atom models, and a volumetric gravitational well/funnel.\"\n        return [chamber_left, chamber_right]\n\n    def construct_base(self):\n        quote = infer_signature_quote(self.thinker)\n        return f\"A stepped, circular marble plinth with brass rivets, an open manuscript with handwritten text, and a curved brass plaque engraved with: '{quote}'.\"\n\nrender_sculptural_masterpiece(Mind_As_Shrine_Diorama())",
+  "promptTranslations": {
+    "en": "2x2 grid, 16:9, do this for 4 famous thinkers, authors, inventors,: class Mind_As_Shrine_Diorama:\\n    def __init__(self, thinker=\"[THINKER_NAME]\"):\\n        self.canvas = \"Single, self-contained 3D monumental sculptural vignette on a pure white studio background.\"\\n        self.material_palette = \"Polished white Carrara marble, brushed brass, glass lenses, and glowing cosmic vistas.\"\\n\\n    def construct_face_and_hair_arch(self):\\n        # The core visual pun: hair becomes the building\\n        hair_motif = infer_iconic_hair_or_silhouette(self.thinker)\\n        name_arch = f\"Massive 3D gilded marble letters spelling '{self.thinker.upper()}' integrated directly into an ornate, Baroque swirling cloud-archway that represents the exaggerated {hair_motif}.\"\\n        face_core = f\"Center: A realistic carved marble face of {self.thinker} emerging from the stone floor, wearing circular spectacles where the glass lenses display their primary formula/symbol.\"\\n        return [name_arch, face_core]\\n\\n    def construct_internal_brain_chambers(self):\\n        # AI AUTO-INFERENCE: Split their intellectual legacy into two distinct chambers\\n        theory_left = infer_primary_breakthrough(self.thinker) # e.g., Special Relativity, logic gates, natural selection\\n        theory_right = infer_secondary_breakthrough(self.thinker) # e.g., General Relativity, quantum state, optics\\n        \\n        chamber_left = f\"Upper Left Chamber: Miniature chalkboards with authentic equations of {theory_left}, mechanical thought experiment models (e.g., trains, clocks, gears), and a library of tiny books.\"\\n        chamber_right = f\"Upper Right Chamber: Cosmic deep space vista showing {theory_right}, complete with optical instruments, atom models, and a volumetric gravitational well/funnel.\"\\n        return [chamber_left, chamber_right]\\n\\n    def construct_base(self):\\n        quote = infer_signature_quote(self.thinker)\\n        return f\"A stepped, circular marble plinth with brass rivets, an open manuscript with handwritten text, and a curved brass plaque engraved with: '{quote}'.\"\\n\\nrender_sculptural_masterpiece(Mind_As_Shrine_Diorama())"
+  },
+  "summaryTranslations": {
+    "en": "A pseudocode-styled prompt for a 2x2 grid of 3D marble shrine dioramas dedicated to famous thinkers."
+  },
+  "translationVersion": 2,
+  "summary": "A pseudocode-styled prompt for a 2x2 grid of 3D marble shrine dioramas dedicated to famous thinkers.",
+  "summaryEn": "A pseudocode-styled prompt for a 2x2 grid of 3D marble shrine dioramas dedicated to famous thinkers.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097629839209758892",
+    "canonicalUrl": "https://x.com/Gdgtify/status/2097629839209758892",
+    "author": {
+      "username": "Gdgtify",
+      "displayName": "Gadgetify",
+      "profileUrl": "https://x.com/Gdgtify"
+    },
+    "publishedAt": "2026-09-09T10:15:00.000Z",
+    "collectedAt": "2026-09-09T12:15:35.618Z",
+    "language": "en",
+    "originalText": "Nano Banana Pro actually handles this prompt how I like it. Kind of struggled to do the same with GPT. \n\nPrompt: 2x2 grid, 16:9, do this for 4 famous thinkers, authors, inventors,: class Mind_As_Shrine_Diorama:\n    def __init__(self, thinker=\"[THINKER_NAME]\"):\n        self.canvas = \"Single, self-contained 3D monumental sculptural vignette on a pure white studio background.\"\n        self.material_palette = \"Polished white Carrara marble, brushed brass, glass lenses, and glowing cosmic vistas.\"\n\n    def construct_face_and_hair_arch(self):\n        # The core visual pun: hair becomes the building\n        hair_motif = infer_iconic_hair_or_silhouette(self.thinker)\n        name_arch = f\"Massive 3D gilded marble letters spelling '{self.thinker.upper()}' integrated directly into an ornate, Baroque swirling cloud-archway that represents the exaggerated {hair_motif}.\"\n        face_core = f\"Center: A realistic carved marble face of {self.thinker} emerging from the stone floor, wearing circular spectacles where the glass lenses display their primary formula/symbol.\"\n        return [name_arch, face_core]\n\n    def construct_internal_brain_chambers(self):\n        # AI AUTO-INFERENCE: Split their intellectual legacy into two distinct chambers\n        theory_left = infer_primary_breakthrough(self.thinker) # e.g., Special Relativity, logic gates, natural selection\n        theory_right = infer_secondary_breakthrough(self.thinker) # e.g., General Relativity, quantum state, optics\n        \n        chamber_left = f\"Upper Left Chamber: Miniature chalkboards with authentic equations of {theory_left}, mechanical thought experiment models (e.g., trains, clocks, gears), and a library of tiny books.\"\n        chamber_right = f\"Upper Right Chamber: Cosmic deep space vista showing {theory_right}, complete with optical instruments, atom models, and a volumetric gravitational well/funnel.\"\n        return [chamber_left, chamber_right]\n\n    def construct_base(self):\n        quote = infer_signature_quote(self.thinker)\n        return f\"A stepped, circular marble plinth with brass rivets, an open manuscript with handwritten text, and a curved brass plaque engraved with: '{quote}'.\"\n\nrender_sculptural_masterpiece(Mind_As_Shrine_Diorama())",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRqdnf8WoAAP7_9.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRqdnf8WoAAP7_9.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 104
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Gdgtify/status/2097629839209758892",
+  "coverUrl": "https://pbs.twimg.com/media/HRqdnf8WoAAP7_9.jpg",
+  "coverPath": "images/2097629839209758892-1.jpg",
+  "imagePaths": [
+    "images/2097629839209758892-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRqdnf8WoAAP7_9",
+    "x-post:2097629839209758892"
+  ],
+  "analysis": {
+    "summary": "A pseudocode-styled prompt for a 2x2 grid of 3D marble shrine dioramas dedicated to famous thinkers.",
+    "summaryEn": "A pseudocode-styled prompt for a 2x2 grid of 3D marble shrine dioramas dedicated to famous thinkers.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The image shows a 2x2 grid featuring Einstein, Curie, Darwin, and Tesla inside marble dioramas matching the chambers, arches, quotes, and glasses described."
+    },
+    "videoQuality": null,
+    "originalPrompt": "2x2 grid, 16:9, do this for 4 famous thinkers, authors, inventors,: class Mind_As_Shrine_Diorama:\n    def __init__(self, thinker=\"[THINKER_NAME]\"):\n        self.canvas = \"Single, self-contained 3D monumental sculptural vignette on a pure white studio background.\"\n        self.material_palette = \"Polished white Carrara marble, brushed brass, glass lenses, and glowing cosmic vistas.\"\n\n    def construct_face_and_hair_arch(self):\n        # The core visual pun: hair becomes the building\n        hair_motif = infer_iconic_hair_or_silhouette(self.thinker)\n        name_arch = f\"Massive 3D gilded marble letters spelling '{self.thinker.upper()}' integrated directly into an ornate, Baroque swirling cloud-archway that represents the exaggerated {hair_motif}.\"\n        face_core = f\"Center: A realistic carved marble face of {self.thinker} emerging from the stone floor, wearing circular spectacles where the glass lenses display their primary formula/symbol.\"\n        return [name_arch, face_core]\n\n    def construct_internal_brain_chambers(self):\n        # AI AUTO-INFERENCE: Split their intellectual legacy into two distinct chambers\n        theory_left = infer_primary_breakthrough(self.thinker) # e.g., Special Relativity, logic gates, natural selection\n        theory_right = infer_secondary_breakthrough(self.thinker) # e.g., General Relativity, quantum state, optics\n        \n        chamber_left = f\"Upper Left Chamber: Miniature chalkboards with authentic equations of {theory_left}, mechanical thought experiment models (e.g., trains, clocks, gears), and a library of tiny books.\"\n        chamber_right = f\"Upper Right Chamber: Cosmic deep space vista showing {theory_right}, complete with optical instruments, atom models, and a volumetric gravitational well/funnel.\"\n        return [chamber_left, chamber_right]\n\n    def construct_base(self):\n        quote = infer_signature_quote(self.thinker)\n        return f\"A stepped, circular marble plinth with brass rivets, an open manuscript with handwritten text, and a curved brass plaque engraved with: '{quote}'.\"\n\nrender_sculptural_masterpiece(Mind_As_Shrine_Diorama())",
+    "sourceRange": {
+      "start": 113,
+      "end": 2238
+    },
+    "translations": {
+      "zh": "2x2网格，16:9，针对4位著名思想家/作家/发明家生成大理石雕塑神龛微缩模型，包含名字拱门、面孔眼镜、象征理论的左右脑室和底座铭文。",
+      "en": "2x2 grid, 16:9, monumental sculptural diorama shrines for 4 thinkers, featuring marble busts, symbolic brain chambers, and engraved plinths."
+    },
+    "targetModels": [
+      "nano-banana"
+    ],
+    "category": "text-to-image",
+    "useCase": "Prompt template structured as pseudocode for generating intellectual shrine sculptures",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
