@@ -35,20 +35,36 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 <a name="prompt-2097623415939076175"></a>
 
-### 翻訳中
+### 高級レザー製品や腕時計のキャンペーン写真用プロンプトテンプレート。重厚なライティングと職人技のディテールを強調したスティルライフ構図を指定。
 
 作者：[@AIGuideNote](https://x.com/AIGuideNote) · [元の投稿](https://x.com/AIGuideNote/status/2097623415939076175)
 
 ポスター / チラシ · 写真撮影 · 製品 · 配信済み
 
-**概要:** 翻訳中
+**概要:** 高級レザー製品や腕時計のキャンペーン写真用プロンプトテンプレート。重厚なライティングと職人技のディテールを強調したスティルライフ構図を指定。
 
 <img src="images/2097623415939076175-1.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-翻訳中
+【商品・キャンペーン情報】
+・アピールテキスト: {goldText}
+・ブランドコピー: {subtext}
+・対象製品: {products}
+
+【画質・演出・構図指定】
+・スタイル: 高級ハイブランドのカタログやラグジュアリーな雑誌見開きの静物画（スティルライフ）商品写真。
+・被写体: 深みのあるビンテージレザーや上質なダークトーンのテクスチャ上に配置された{products}。職人の手仕事を感じさせる細部（ステッチや金属のヘアライン加工など）が美しくディテール豊かに描かれている。
+・照明・色彩: 深みのあるダークブラウンや黒、真鍮のゴールドを基調としたカラーパレット。アンバー調の暖かいサイドライト、クラシックで重厚なシャドウ。
+・テキストの配置（GPT-image / Nano Banana Pro向け）: ゴールド色の細いフォントで、{goldText}や{subtext}というテキストが画面の落ち着いた位置にさりげなくタイポグラフィとして配置されている。
+
+【レイアウトおよび出力上の厳格な制約（必須）】
+・完成したデザインそのものを、画面全体いっぱいに出力してください。デザイン内部の背景やシーン描写（壁・空間・影など）は本文の指示に従って構いません。
+・禁止事項：完成ポスターを額縁に入れた写真、壁に貼った状態の写真、机や紙の上に置いたモックアップ写真、紙の縁の遠近の歪みやドロップシャドウ。
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・アスペクト比: --ar 3:4
 ```
 
 [↑ カテゴリに戻る](#catalog)

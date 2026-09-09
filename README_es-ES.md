@@ -35,20 +35,36 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 <a name="prompt-2097623415939076175"></a>
 
-### Traducción en curso
+### Plantilla de prompt para fotografía de campaña de productos de cuero de lujo y relojes. Especifica una composición de bodegón que enfatiza la iluminación densa y los detalles artesanales.
 
 Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Publicación original](https://x.com/AIGuideNote/status/2097623415939076175)
 
 Póster / Folleto · Fotografía · Producto · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Plantilla de prompt para fotografía de campaña de productos de cuero de lujo y relojes. Especifica una composición de bodegón que enfatiza la iluminación densa y los detalles artesanales.
 
 <img src="images/2097623415939076175-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+【Información del producto y de la campaña】
+・Texto destacado: {goldText}
+・Copy de marca: {subtext}
+・Productos objetivo: {products}
+
+【Especificaciones de calidad de imagen, ambientación y composición】
+・Estilo: Fotografía de producto de naturaleza muerta (bodegón) propia de catálogos de alta gama o páginas dobles de revistas de lujo.
+・Sujeto: {products} dispuestos sobre cuero vintage profundo o texturas refinadas en tonos oscuros. Detalles que reflejan el trabajo artesanal (como costuras, acabados metálicos cepillados, etc.) representados de manera hermosa y con gran riqueza de detalles.
+・Iluminación y color: Paleta de colores basada en marrones oscuros profundos, negro y dorado cobrizo. Luz lateral cálida en tonos ámbar, sombras clásicas y densas.
+・Disposición del texto (para GPT-image / Nano Banana Pro): En una tipografía dorada y fina, los textos {goldText} y {subtext} se disponen sutilmente como elemento tipográfico en una zona sosegada y equilibrada de la imagen.
+
+【Restricciones estrictas de maquetación y salida (obligatorio)】
+・Genere el diseño plano 2D terminado ocupando todo el lienzo. Se permiten elementos de escena dentro del diseño (paredes, habitaciones, sombras) según las instrucciones del texto.
+・Prohibiciones: Fotos del póster enmarcado, fotos pegado en la pared, fotos de maquetas (mockups) sobre un escritorio o papel, distorsiones de perspectiva en los bordes del papel o sombras paralelas (drop shadow).
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・Relación de aspecto: --ar 3:4
 ```
 
 [↑ Volver a categorías](#catalog)

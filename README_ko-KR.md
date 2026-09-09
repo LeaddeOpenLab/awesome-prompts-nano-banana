@@ -35,20 +35,36 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 <a name="prompt-2097623415939076175"></a>
 
-### 번역 중
+### 고급 가죽 제품 및 손목시계 캠페인 사진을 위한 프롬프트 템플릿. 묵직한 조명과 장인정신 디테일을 강조한 정물 구도를 지정.
 
 작성자：[@AIGuideNote](https://x.com/AIGuideNote) · [원본 게시물](https://x.com/AIGuideNote/status/2097623415939076175)
 
 포스터 / 전단지 · 사진술 · 제품 · 배포 완료
 
-**요약:** 번역 중
+**요약:** 고급 가죽 제품 및 손목시계 캠페인 사진을 위한 프롬프트 템플릿. 묵직한 조명과 장인정신 디테일을 강조한 정물 구도를 지정.
 
 <img src="images/2097623415939076175-1.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-번역 중
+【상품 및 캠페인 정보】
+・어필 텍스트: {goldText}
+・브랜드 카피: {subtext}
+・대상 제품: {products}
+
+【화질·연출·구도 지정】
+・스타일: 최고급 하이엔드 브랜드 카탈로그 또는 럭셔리 매거진 펼침면 스타일의 정물(스틸라이프) 제품 사진.
+・피사체: 깊이감 있는 빈티지 가죽이나 고급스러운 다크 톤 텍스처 위에 배치된 {products}. 장인의 수작업이 느껴지는 디테일(스티치, 금속의 헤어라인 가공 등)이 아름답고 풍성하게 묘사됨.
+・조명 및 색채: 깊이 있는 다크 브라운, 블랙, 황동 골드를 기조로 한 컬러 팔레트. 앰버 톤의 따뜻한 사이드 라이트, 클래식하고 묵직한 섀도.
+・텍스트 배치 (GPT-image / Nano Banana Pro용): 골드 컬러의 얇은 폰트로, {goldText} 및 {subtext} 텍스트가 화면의 차분하고 정돈된 위치에 은은한 타이포그래피로 배치됨.
+
+【레이아웃 및 출력 관련 엄격한 제한 사항 (필수)】
+・완성된 디자인 자체를 화면 전체에 꽉 차게 출력해 주십시오. 디자인 내부의 배경이나 장면 묘사(벽, 공간, 그림자 등)는 본문의 지시를 따라도 무방합니다.
+・금지 사항: 완성된 포스터를 액자에 넣은 사진, 벽에 붙여놓은 상태의 사진, 책상이나 종이 위에 올려둔 목업 사진, 종이 가장자리의 원근 왜곡 및 드롭 섀도.
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・종횡비: --ar 3:4
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

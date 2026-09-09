@@ -35,20 +35,36 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 <a name="prompt-2097623415939076175"></a>
 
-### 翻譯中
+### 高級皮革製品與腕錶行銷活動攝影提示詞範本。指定強調厚重光影與職人手作細節的靜物構圖。
 
 作者：[@AIGuideNote](https://x.com/AIGuideNote) · [查看 X 原帖](https://x.com/AIGuideNote/status/2097623415939076175)
 
 海報／傳單 · 攝影 · 產品 · 已推流
 
-**概括:** 翻譯中
+**概括:** 高級皮革製品與腕錶行銷活動攝影提示詞範本。指定強調厚重光影與職人手作細節的靜物構圖。
 
 <img src="images/2097623415939076175-1.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
 ```text
-翻譯中
+【商品與行銷活動資訊】
+・宣傳文案: {goldText}
+・品牌標語: {subtext}
+・目標產品: {products}
+
+【畫質・視覺呈現・構圖規範】
+・風格: 高端頂級品牌型錄或奢華雜誌跨頁的靜物（Still Life）商業產品攝影。
+・主體: 置於深沉質感的復古皮革或優質深色調紋理之上的{products}。細膩豐富地呈現出彰顯工匠手藝的細節（例如縫線、金屬髮絲紋等）。
+・光影與色彩: 以深邃的深棕色、黑色與黃銅金為主色調的調色盤。琥珀色調的溫暖側光，經典而厚重的陰影。
+・文字排版（適用於 GPT-image / Nano Banana Pro）: 採用金色纖細字體，將文字 {goldText} 與 {subtext} 作為排版元素低調點綴於畫面沉穩雅致的位置。
+
+【排版及輸出嚴格限制（必須遵守）】
+・請將完成的設計本身完整填滿整個畫布輸出。設計內部的背景與場景描繪（牆壁、空間、陰影等）可遵循正文指示。
+・禁止事項：將完成海報裝入相框的照片、貼在牆上的照片、放在桌面或紙張上的樣機（mockup）照片、紙張邊緣的透視扭曲或落影。
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・長寬比: --ar 3:4
 ```
 
 [↑ 返回分類目錄](#catalog)

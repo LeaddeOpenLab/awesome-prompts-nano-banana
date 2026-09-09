@@ -35,20 +35,36 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2097623415939076175"></a>
 
-### Đang dịch
+### Mẫu prompt chụp ảnh chiến dịch cho sản phẩm da cao cấp và đồng hồ đeo tay. Chỉ định bố cục tĩnh vật làm nổi bật ánh sáng trầm ấm và chi tiết thủ công tinh xảo.
 
 Tác giả：[@AIGuideNote](https://x.com/AIGuideNote) · [Bài gốc](https://x.com/AIGuideNote/status/2097623415939076175)
 
 Áp phích / Tờ rơi · Nhiếp ảnh · Sản phẩm · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Mẫu prompt chụp ảnh chiến dịch cho sản phẩm da cao cấp và đồng hồ đeo tay. Chỉ định bố cục tĩnh vật làm nổi bật ánh sáng trầm ấm và chi tiết thủ công tinh xảo.
 
 <img src="images/2097623415939076175-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+【Thông tin sản phẩm & chiến dịch】
+・Văn bản quảng bá: {goldText}
+・Khẩu hiệu thương hiệu: {subtext}
+・Sản phẩm mục tiêu: {products}
+
+【Quy định chất lượng hình ảnh, dàn dựng và bố cục】
+・Phong cách: Nhiếp ảnh sản phẩm tĩnh vật (still life) theo phong cách catalogue thương hiệu cao cấp xa xỉ hoặc trang đôi tạp chí thượng lưu.
+・Chủ thể: {products} được đặt trên nền da cổ điển có chiều sâu hoặc bề mặt vân tông màu tối cao cấp. Các chi tiết thể hiện tay nghề thủ công tinh xảo (như đường chỉ may, vân xước kim loại, v.v.) được khắc họa tuyệt đẹp và giàu chi tiết.
+・Ánh sáng & Màu sắc: Bảng màu chủ đạo gồm nâu sẫm trầm ấm, đen và vàng đồng thau. Ánh sáng xiên ấm áp tông hổ phách, bóng đổ cổ điển và dày dặn.
+・Bố trí văn bản (dành cho GPT-image / Nano Banana Pro): Sử dụng phông chữ mảnh màu vàng kim, các đoạn văn bản {goldText} và {subtext} được đặt kín đáo như nghệ thuật sắp đặt chữ (typography) tại các vị trí trang nhã, tĩnh lặng trên khung hình.
+
+【Ràng buộc nghiêm ngặt về bố cục và kết quả xuất ra (bắt buộc)】
+・Vui lòng xuất chính thiết kế 2D phẳng hoàn thiện lấp đầy toàn bộ khung hình. Các yếu tố bối cảnh bên trong thiết kế (tường, không gian, bóng đổ, v.v.) được mô tả ở trên đều được phép.
+・Điều cấm kỵ: Ảnh chụp poster hoàn thiện đặt trong khung tranh, ảnh poster dán trên tường hoặc đặt trên bàn dạng mockup, biến dạng phối cảnh hoặc bóng đổ viền xung quanh mép tác phẩm.
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・Tỷ lệ khung hình: --ar 3:4
 ```
 
 [↑ Về danh mục](#catalog)
