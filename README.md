@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**12** Prompts · Latest addition: **2026-09-09**
+**13** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,44 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2097623415939076175"></a>
+
+### Prompt template for luxury leather goods and watch campaign photography. Specifies a still life composition emphasizing moody lighting and artisan craftsmanship details.
+
+Author：[@AIGuideNote](https://x.com/AIGuideNote) · [Source](https://x.com/AIGuideNote/status/2097623415939076175)
+
+Poster / Flyer · Photography · Product · Published
+
+**Summary:** Prompt template for luxury leather goods and watch campaign photography. Specifies a still life composition emphasizing moody lighting and artisan craftsmanship details.
+
+<img src="images/2097623415939076175-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+[Product & Campaign Information]
+・Appeal Text: {goldText}
+・Brand Copy: {subtext}
+・Target Product: {products}
+
+[Image Quality, Direction & Composition Specifications]
+・Style: Still life product photography reminiscent of a high-end luxury brand catalog or a luxury magazine spread.
+・Subject: {products} placed on rich vintage leather or premium dark-toned textures. Details highlighting artisan craftsmanship (such as stitching and hairline brushed metal finishes) are depicted beautifully and with rich detail.
+・Lighting & Color: A color palette based on deep dark browns, black, and brass gold. Warm amber sidelight, classic and heavy shadows.
+・Text Placement (for GPT-image / Nano Banana Pro): Using a thin gold-colored font, the texts "{goldText}" and "{subtext}" are subtly placed as typography in a balanced, understated area of the frame.
+
+[Strict Layout and Output Constraints (Required)]
+・Output the finished design itself, filling the entire canvas. Background and scene depictions inside the design (walls, spaces, shadows, etc.) may follow the instructions in the text.
+・Prohibitions: Photos of the finished poster in a picture frame, photos of it hung on a wall, mockup photos placed on a desk or paper, perspective distortion of the paper's edges, or drop shadows.
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・Aspect Ratio: --ar 3:4
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097600395073966528"></a>
 
