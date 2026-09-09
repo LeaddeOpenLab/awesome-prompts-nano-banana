@@ -52,20 +52,20 @@ Traduzione in corso
 
 <a name="prompt-2097238007426490758"></a>
 
-### Traduzione in corso
+### Una fotografia lifestyle di alto livello scattata con flash di un uomo elegante e abbronzato con camicia nera sbottonata e occhiali da sole, in piedi accanto a una piscina a sfioro durante il crepuscolo costiero.
 
 Autore：[@pictsbyai](https://x.com/pictsbyai) · [Post originale](https://x.com/pictsbyai/status/2097238007426490758)
 
 Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Una fotografia lifestyle di alto livello scattata con flash di un uomo elegante e abbronzato con camicia nera sbottonata e occhiali da sole, in piedi accanto a una piscina a sfioro durante il crepuscolo costiero.
 
 <img src="images/2097238007426490758-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Un bell'uomo giovane dalla pelle abbronzata e luminosa è in piedi rivolto direttamente verso la fotocamera con una posa sicura e formale, con le spalle rilassate all'indietro per aprire il petto. Indossa una camicia nera a maniche lunghe sbottonata, una collana a catena d'argento e occhiali da sole neri stile wayfarer che celano completamente i suoi occhi, intonandosi alla perfezione con la sua espressione seria e neutra. I suoi capelli castani di media lunghezza sono pettinati all'indietro con effetto fluido fino alla nuca e infilati con cura dietro le orecchie, con un volume moderato sul ciuffo frontale e piatti sui lati. La capigliatura mostra radici biondo scuro e castane che sfumano verso punte bionde più chiare, tenute saldamente da una pomata densa a effetto bagnato che crea un aspetto lucido e strutturato con una leggera separazione delle ciocche, naturale irregolarità all'attaccatura dei capelli e piccoli ciuffi ribelli visibili sul lato destro del capo. Sulla parte inferiore del busto, le sue mani sono delicatamente unite in modo rilassato; la mano sinistra riposa sotto con le dita naturalmente piegate verso l'interno, mentre la mano destra stringe con leggerezza le nocche sinistre, mettendo in mostra anelli d'argento e un bracciale a catena d'argento. Si trova su un decking fatto di assi di legno sbiadite color grigio caldo e marrone disposte in diagonale, con alle spalle in piano medio una piscina a sfioro dall'acqua scura e incontaminata che riflette il vibrante cielo crepuscolare e i suoi abiti scuri. Sulla destra in secondo piano, una classica balaustra in pietra con colonnine architettoniche si staglia in silhouette contro l'acqua, mentre dall'alto in primo piano un ramo di pino scende leggermente nell'inquadratura, con i suoi aghi scuri che catturano i fievoli bagliori del flash. Lo sfondo profondo si estende in un ampio paesaggio costiero con colline scure sagomate che si elevano contro un atmosferico cielo crepuscolare, dove luci sparse di edifici costieri brillano dolcemente sul litorale all'estrema sinistra. La scena è illuminata da una luce mista, definita da un flash on-camera duro e diretto che proietta una luce dorata e calda altamente direzionale sul soggetto, creando luminosi riflessi speculari sulla fronte, sul ponte nasale, sugli zigomi, sul petto, sulle mani e sui gioielli metallici. Questo flash marcato produce ombre nere profonde, corte e nette sotto il mento, all'interno delle pieghe della camicia e sotto le mani giunte, contrastando drasticamente con la suggestiva luce ambientale soffusa del crepuscolo sullo sfondo, che sfuma dolcemente dal calore magenta-violaceo del tramonto verso un cielo notturno blu notte intenso. La tavolozza di colori complementari divisi, fatta di calde tonalità di flash contrapposte a freddi e desaturati blu e viola atmosferici, evoca l'atmosfera misteriosa di un esclusivo resort di lusso. Realizzato con lo stile fotografico digitale realistico delle immagini lifestyle dei paparazzi di alto livello, lo scatto è frontale all'altezza degli occhi con un obiettivo equivalente a 35mm-50mm, impiegando un tempo di posa lento intorno a 1/60s per bilanciare il soggetto nitidissimo con lo sfondo in penombra leggermente più morbido e con rumore digitale. La post-produzione enfatizza neri leggermente chiusi per un contrasto elevato ed esalta nitidezza e chiarezza sul viso e sui gioielli del soggetto, con l'intera straordinaria composizione inquadrata in un formato ritratto verticale 3:4.
 ```
 
 [↑ Torna alle categorie](#catalog)

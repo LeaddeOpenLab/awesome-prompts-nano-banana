@@ -52,20 +52,20 @@ Tradução em curso
 
 <a name="prompt-2097238007426490758"></a>
 
-### Tradução em curso
+### Uma fotografia com flash de estilo de vida requintado de um homem elegante e bronzeado com uma camisa preta desabotoada e óculos de sol junto a uma piscina de horizonte infinito durante o crepúsculo costeiro.
 
 Autor：[@pictsbyai](https://x.com/pictsbyai) · [Publicação original](https://x.com/pictsbyai/status/2097238007426490758)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Uma fotografia com flash de estilo de vida requintado de um homem elegante e bronzeado com uma camisa preta desabotoada e óculos de sol junto a uma piscina de horizonte infinito durante o crepúsculo costeiro.
 
 <img src="images/2097238007426490758-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Um jovem atraente com pele bronzeada e brilhante está virado diretamente para a câmara numa postura confiante e formal, com os ombros relaxados para trás abrindo o peito. Encontra-se a usar uma camisa preta de manga comprida desabotoada, um colar de corrente prateada e óculos de sol pretos de estilo wayfarer que ocultam completamente os seus olhos, combinando na perfeição com a sua expressão séria e neutra. O seu cabelo castanho de comprimento médio está penteado para trás em direção à nuca e recolhido impecavelmente atrás das orelhas, com volume moderado no topete frontal e liso nas partes laterais. O cabelo apresenta raízes louro-escuras e castanhas em transição para pontas louras mais claras, firmemente fixado por uma pomada densa de efeito molhado que cria uma aparência reluzente e estruturada com uma ligeira separação de mechas, irregularidade natural na linha do cabelo e pequenos fios soltos visíveis no lado direito da cabeça. Na parte inferior do tronco, as suas mãos encontram-se suavemente entrelaçadas de forma descontraída; a mão esquerda repousa por baixo com os dedos naturalmente curvados para dentro, enquanto a mão direita segura levemente os nós dos dedos da esquerda, exibindo anéis de prata e uma pulseira de corrente prateada. Ele está sobre um deque feito de tábuas de madeira gastas em tons quentes de cinzento e castanho orientadas na diagonal, tendo em plano médio uma piscina de horizonte infinito com águas escuras e límpidas que refletem o vibrante céu crepuscular e as suas roupas escuras. À direita do plano médio, uma balaustrada clássica de pedra com balaústres arquitetónicos destaca-se em silhueta contra a água, enquanto no primeiro plano superior o ramo de um pinheiro surge suavemente no enquadramento, com as suas agulhas escuras a captar contornos subtis do flash. O fundo distante estende-se numa ampla paisagem costeira com colinas escuras recortadas contra um céu crepuscular atmosférico, onde luzes dispersas de edifícios costeiros brilham suavemente na margem distante à esquerda. A cena é iluminada por uma iluminação mista, definida por um flash direto montado na câmara que projeta uma luz dourada e quente altamente direcional sobre o sujeito, criando reflexos especulares luminosos na testa, no dorso do nariz, nas maçãs do rosto, no peito, nas mãos e nas joias metálicas. Este flash forte gera sombras pretas profundas, curtas e cerradas sob o queixo, nas dobras da camisa e debaixo das mãos entrelaçadas, em contraste dramático com a luz ambiente crepuscular sombria e em low-key do fundo, que transita suavemente do calor do pôr do sol magenta-púrpura para um céu noturno azul-marinho profundo. A paleta de cores complementar dividida de tons quentes do flash face aos azuis e roxos atmosféricos frios e dessaturados evoca uma atmosfera misteriosa e exclusiva de estância turística de luxo. Captada com o estilo realista de fotografia digital de imagens de lifestyle de paparazzi de topo, a fotografia é tirada de frente ao nível dos olhos utilizando uma objetiva equivalente a 35mm a 50mm, recorrendo a uma velocidade de obturação lenta de cerca de 1/60s para equilibrar o sujeito perfeitamente nítido com o fundo de pouca luz ligeiramente mais suave e com grão digital. A pós-produção realça os pretos ligeiramente esmagados para um contraste acentuado e aumenta a nitidez e a claridade no rosto e nas joias do sujeito, com toda a impressionante composição enquadrada num formato de retrato vertical 3:4.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -52,20 +52,20 @@ Fotoğrafçılık · Yayımlandı
 
 <a name="prompt-2097238007426490758"></a>
 
-### Çeviri sürüyor
+### Kıyı alacakaranlığında bir sonsuzluk havuzunun yanında duran, düğmeleri iliklenmemiş siyah gömlekli ve güneş gözlüklü şık bronz bir adamın üst düzey yaşam tarzı flaşlı fotoğrafı.
 
 Yazar：[@pictsbyai](https://x.com/pictsbyai) · [Orijinal gönderi](https://x.com/pictsbyai/status/2097238007426490758)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kıyı alacakaranlığında bir sonsuzluk havuzunun yanında duran, düğmeleri iliklenmemiş siyah gömlekli ve güneş gözlüklü şık bronz bir adamın üst düzey yaşam tarzı flaşlı fotoğrafı.
 
 <img src="images/2097238007426490758-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Işıltılı bronz tene sahip yakışıklı genç bir erkek, göğsünü açığa çıkaracak şekilde omuzları geride ve rahat, kendinden emin, resmi bir duruşla doğrudan kameraya bakmaktadır. Düğmeleri iliklenmemiş siyah uzun kollu bir gömlek, gümüş zincir kolye ve gözlerini tamamen kapatan siyah wayfarer tarzı güneş gözlüğü takmakta olup, bu detaylar onun ciddi ve nötr ifadesiyle mükemmel bir uyum sergiler. Kahverengi, orta uzunluktaki saçları geriye doğru taranmış, enseye kadar uzanıp kulaklarının arkasına düzgünce sıkıştırılmış, ön perçemde orta düzeyde hacim bulunurken yanlarda düz durmaktadır. Saçlar, koyu sarı ve kahverengi diplerden daha açık sarı uçlara doğru bir geçiş göstermekte ve ıslak görünümlü yoğun bir pomatla sıkıca tutturularak saç tutamlarının hafifçe ayrıldığı, saç çizgisinde doğal bir düzensizlik ve başının sağ tarafında beliren ufak firari tellerin bulunduğu parlak ve yapılandırılmış bir görünüm yaratmaktadır. Gövdesinin alt kısmında, elleri rahat bir şekilde nazikçe kenetlenmiştir; sol eli parmakları doğal olarak içe doğru kıvrılmış halde altta dururken, sağ eli sol parmak eklemlerini hafifçe kavrar ve gümüş yüzükler ile gümüş zincir bilekliği sergiler. Çapraz uzanan, soluk sıcak gri ve kahverengi ahşap tahtalardan yapılmış bir terasta durmaktadır; orta planda canlı alacakaranlık gökyüzünü ve onun koyu kıyafetlerini yansıtan berrak koyu suya sahip bir sonsuzluk havuzu yer alır. Orta planın sağında, mimari sütunlara sahip klasik taştan bir korkuluk suyun önünde silüet oluştururken, üst ön planda bir çam ağacı dalı kadraja hafifçe sarkar ve koyu iğneleri flaşın soluk kenar ışığını yakalar. Derin arka plan, atmosferik bir alacakaranlık gökyüzüne karşı yükselen koyu silüetli tepelerle geniş bir kıyı manzarasına uzanır; en soldaki kıyı şeridinde dağınık kıyı binalarının ışıkları usulca parıldar. Sahne, öznenin üzerine son derece yönlü, sıcak altın sarısı bir ışık yayan, alnında, burun kemiğinde, elmacık kemiklerinde, göğsünde, ellerinde ve metalik takılarında parlak yansımalar oluşturan sert ve doğrudan kamera üstü bir flaşla tanımlanan karma bir aydınlatmayla aydınlatılmıştır. Bu sert flaş çenesinin altında, gömlek kıvrımlarının içinde ve kenetlenmiş ellerinin altında derin siyah, kısa ve keskin gölgeler üreterek, macenta-mor gün batımı sıcaklığından derin koyu lacivert bir gece gökyüzüne pürüzsüzce geçen arka planın kasvetli, loş alacakaranlık ortamıyla dramatik bir tezat oluşturur. Sıcak flaş tonlarının soğuk, doygunluğu azaltılmış atmosferik maviler ve morlarla bölünmüş tamamlayıcı renk paleti, gizemli ve seçkin bir lüks tatil köyü atmosferi uyandırır. Üst düzey paparazi yaşam tarzı görüntülerinin gerçekçi dijital fotoğrafçılık tarzıyla çekilen bu kare, 35mm ila 50mm eşdeğeri bir lens kullanılarak göz hizasında tam karşıdan yakalanmış, jilet gibi keskin özneyi biraz daha yumuşak ve dijital grenli düşük ışıklı arka planla dengelemek için 1/60s civarında sürüklenen bir enstantane hızı kullanılmıştır. Post-prodüksiyon, yüksek kontrast için hafifçe bastırılmış siyahları vurgular, öznenin yüzündeki ve takılarındaki keskinliği ve netliği öne çıkarır ve tüm bu çarpıcı kompozisyon 3:4 dikey portre formatında çerçevelenmiştir.
 ```
 
 [↑ Kategorilere dön](#catalog)

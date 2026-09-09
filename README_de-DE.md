@@ -52,20 +52,20 @@ Fotografie · Veröffentlicht
 
 <a name="prompt-2097238007426490758"></a>
 
-### Übersetzung läuft
+### Ein hochkarätiges Lifestyle-Blitzlichtfoto eines stilvollen, gebräunten Mannes im offenen schwarzen Hemd und mit Sonnenbrille, der während der Küstendämmerung neben einem Infinity-Pool steht.
 
 Autor：[@pictsbyai](https://x.com/pictsbyai) · [Originalbeitrag](https://x.com/pictsbyai/status/2097238007426490758)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein hochkarätiges Lifestyle-Blitzlichtfoto eines stilvollen, gebräunten Mannes im offenen schwarzen Hemd und mit Sonnenbrille, der während der Küstendämmerung neben einem Infinity-Pool steht.
 
 <img src="images/2097238007426490758-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein gutaussehender junger Mann mit strahlender, gebräunter Haut steht in selbstbewusster, formeller Haltung direkt zur Kamera gewandt, die Schultern entspannt nach hinten gezogen, um die Brust zu öffnen. Er trägt ein schwarzes, ungeknöpftes Langarmhemd, eine silberne Gliederkette und eine schwarze Sonnenbrille im Wayfarer-Stil, die seine Augen vollständig verdeckt und perfekt zu seinem ernsten, neutralen Gesichtsausdruck passt. Sein braunes, mittellanges Haar ist im Slicked-Back-Flow gestylt, reicht bis in den Nacken, ist sauber hinter die Ohren gesteckt, weist am vorderen Ansatz moderates Volumen auf und liegt an den Seiten flach an. Das Haar zeigt dunkelblonde und braune Ansätze, die zu helleren blonden Spitzen übergehen, fest fixiert durch eine schwere Pomade im Wet-Look, die ein glänzendes, strukturiertes Erscheinungsbild mit leichter Trennung einzelner Haarsträhnen, natürlicher Unregelmäßigkeit am Haaransatz und dezenten abstehenden Härchen auf der rechten Kopfseite erzeugt. Am unteren Rumpf sind seine Hände sanft und entspannt ineinandergelegt; seine linke Hand ruht darunter mit natürlich nach innen gekrümmten Fingern, während seine rechte Hand leicht die linken Knöchel umgreift und dabei Silberringe sowie ein silbernes Kettenarmband zur Schau stellt. Er steht auf einer Terrasse aus verblassten, warmgrauen und braunen Holzbohlen, die diagonal verlaufen, hinter ihm befindet sich im Mittelgrund ein Infinity-Pool mit makellos dunklem Wasser, das den lebendigen Dämmerungshimmel und seine dunkle Kleidung widerspiegelt. Rechts im Mittelgrund hebt sich eine klassische Steinbalustrade mit architektonischen Spindeln als Silhouette gegen das Wasser ab, während im Vordergrund von oben ein Kiefernzweig sanft ins Bild ragt, dessen dunkle Nadeln schwache Ränder des Blitzlichts einfangen. Der tiefe Hintergrund öffnet sich zu einer weiten Küstenlandschaft mit dunklen Hügelsilhouetten, die sich vor einem stimmungsvollen Dämmerungshimmel erheben, an dessen Küstenlinie ganz links verstreute Lichter von Küstengebäuden sanft leuchten. Die Szene wird von Mischlicht beleuchtet, geprägt von einem harten, direkten On-Camera-Blitz, der stark gerichtetes, warmes goldenes Licht auf das Motiv wirft und helle Glanzlichter auf Stirn, Nasenrücken, Wangenknochen, Brust, Händen und dem metallischen Schmuck erzeugt. Dieser harte Blitz erzeugt tiefe, kurze, harte schwarze Schatten unter dem Kinn, in den Falten des Hemdes und unter den verschränkten Händen, was dramatisch mit der stimmungsvollen Low-Key-Dämmerung des Hintergrunds kontrastiert, die sanft von der magentavioletten Wärme des Sonnenuntergangs in einen tiefdunklen, marineblauen Nachthimmel übergeht. Die geteilt-komplementäre Farbpalette aus warmen Blitztönen gegenüber kühlen, entsättigten atmosphärischen Blau- und Violetttönen beschwört die geheimnisvolle Atmosphäre eines exklusiven Luxusresorts herauf. Aufgenommen im realistischen digitalen Fotostil hochkarätiger Paparazzi-Lifestyle-Bilder, entstand die Aufnahme frontal auf Augenhöhe mit einem 35-mm- bis 50-mm-Äquivalentobjektiv unter Verwendung einer langen Verschlusszeit von etwa 1/60 s, um das gestochen scharfe Motiv mit dem etwas weicheren, digital verrauschten Schwachlicht-Hintergrund auszubalancieren. Die Nachbearbeitung betont leicht beschnittene Schwarztöne für hohen Kontrast und verstärkt Schärfe sowie Klarheit auf Gesicht und Schmuck des Motivs, wobei die gesamte markante Komposition in einem vertikalen 3:4-Porträtformat gerahmt ist.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

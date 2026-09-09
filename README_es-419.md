@@ -52,20 +52,20 @@ Traducción en curso
 
 <a name="prompt-2097238007426490758"></a>
 
-### Traducción en curso
+### Una fotografía con flash de estilo de vida de alta gama de un hombre elegante y bronceado con camisa negra desabotonada y gafas de sol, de pie junto a una piscina infinita durante el crepúsculo costero.
 
 Autor：[@pictsbyai](https://x.com/pictsbyai) · [Publicación original](https://x.com/pictsbyai/status/2097238007426490758)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Una fotografía con flash de estilo de vida de alta gama de un hombre elegante y bronceado con camisa negra desabotonada y gafas de sol, de pie junto a una piscina infinita durante el crepúsculo costero.
 
 <img src="images/2097238007426490758-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Un apuesto joven de piel bronceada y radiante se encuentra de pie mirando directamente a la cámara con una postura segura y formal, con los hombros relajados hacia atrás para abrir el pecho. Viste una camisa negra desabotonada de manga larga, un collar de cadena de plata y gafas de sol negras estilo wayfarer que ocultan completamente sus ojos, complementando a la perfección su expresión seria y neutral. Su cabello castaño de longitud media está peinado hacia atrás con caída natural hasta la nuca y recogido cuidadosamente detrás de las orejas, con un volumen moderado en el copete frontal y aplastado en los laterales. El cabello muestra raíces rubias oscuras y castañas que se degradan hacia puntas rubias más claras, firmemente sujeto con una pomada densa de efecto húmedo que crea una apariencia brillante y estructurada con ligera separación de mechones, irregularidad natural en la línea del cabello y pequeños cabellos sueltos visibles en el lado derecho de su cabeza. En la parte inferior del torso, sus manos están suavemente entrelazadas de manera relajada; su mano izquierda descansa debajo con los dedos curvados naturalmente hacia adentro, mientras que su mano derecha sujeta ligeramente los nudillos izquierdos, luciendo anillos de plata y una pulsera de cadena de plata. Está de pie sobre una terraza de tablas de madera descoloridas en tonos grises y marrones cálidos dispuestas en diagonal, respaldado por una piscina infinita en plano medio con agua oscura e impecable que refleja el vibrante cielo crepuscular y su ropa oscura. En el plano medio a la derecha, una clásica balaustrada de piedra con balaustres arquitectónicos se dibuja en silueta contra el agua, mientras que en primer plano una rama superior de pino entra sutilmente en el encuadre, con sus oscuras acículas atrapando los bordes tenues del flash. El fondo profundo se extiende hacia un amplio paisaje costero con colinas oscuras en silueta que se elevan contra un atmosférico cielo crepuscular, donde tenues luces dispersas de edificios costeros brillan suavemente en la orilla del extremo izquierdo. La escena está iluminada con una mezcla de luces, definida por un flash directo y duro montado en la cámara que proyecta una luz dorada y cálida sumamente direccional sobre el sujeto, generando reflejos especulares brillantes en su frente, el puente de la nariz, los pómulos, el pecho, las manos y las joyas metálicas. Este flash intenso produce sombras negras profundas, cortas y definidas debajo de su barbilla, dentro de los pliegues de su camisa y debajo de sus manos entrelazadas, contrastando dramáticamente con la penumbra ambiental y tenue del crepúsculo de fondo, que se funde suavemente desde la calidez magenta-púrpura del atardecer hacia un cielo nocturno azul marino profundo y oscuro. La paleta de colores complementarios divididos, con tonos cálidos de flash frente a fríos y desaturados azules y morados atmosféricos, evoca una atmósfera misteriosa de resort de lujo exclusivo. Capturada con el estilo de fotografía digital realista de imágenes de estilo de vida tipo paparazzi de alta gama, la toma está realizada de frente a la altura de los ojos utilizando un lente equivalente de 35 mm a 50 mm, empleando una velocidad de obturación lenta de alrededor de 1/60 s para equilibrar al sujeto perfectamente nítido con el fondo ligeramente más suave y con ruido digital de poca luz. El posprocesamiento enfatiza negros ligeramente empastados para un alto contraste y resalta la nitidez y claridad en el rostro y las joyas del sujeto, con toda la impactante composición encuadrada en un formato de retrato vertical 3:4.
 ```
 
 [↑ Volver a categorías](#catalog)

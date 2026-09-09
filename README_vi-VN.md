@@ -52,20 +52,20 @@ Nhiếp ảnh · Đã xuất bản
 
 <a name="prompt-2097238007426490758"></a>
 
-### Đang dịch
+### Bức ảnh phong cách sống cao cấp chụp bằng đèn flash về một người đàn ông da rám nắng thời thượng mặc áo sơ mi đen phanh cúc và đeo kính râm đứng cạnh hồ bơi vô cực lúc chạng vạng ven biển.
 
 Tác giả：[@pictsbyai](https://x.com/pictsbyai) · [Bài gốc](https://x.com/pictsbyai/status/2097238007426490758)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Bức ảnh phong cách sống cao cấp chụp bằng đèn flash về một người đàn ông da rám nắng thời thượng mặc áo sơ mi đen phanh cúc và đeo kính râm đứng cạnh hồ bơi vô cực lúc chạng vạng ven biển.
 
 <img src="images/2097238007426490758-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một chàng trai trẻ đẹp trai với làn da rám nắng rạng rỡ đứng đối diện trực tiếp với máy ảnh trong tư thế tự tin, trang trọng với bờ vai thả lỏng về phía sau để mở rộng ngực. Anh ấy mặc một chiếc áo sơ mi dài tay màu đen phanh cúc, một sợi dây chuyền bạc và đeo kính râm kiểu wayfarer màu đen che khuất hoàn toàn đôi mắt, kết hợp hoàn hảo với biểu cảm nghiêm nghị, trung tính. Mái tóc nâu có độ dài trung bình của anh được vuốt ngược ra sau chạm đến gáy và vén gọn gàng sau tai, có độ phồng vừa phải ở phần mái trước và nằm phẳng ở hai bên. Mái tóc cho thấy phần chân tóc màu vàng đậm và nâu chuyển dần sang màu vàng sáng hơn ở đuôi tóc, được giữ nếp chắc chắn bằng loại sáp pomade tạo hiệu ứng bóng ướt đậm, tạo nên vẻ ngoài bóng bẩy, có cấu trúc với các lọn tóc tách nhẹ, đường chân tóc không đều tự nhiên và một vài sợi tóc con bay nhẹ có thể nhìn thấy ở bên phải đầu. Ở phần thân dưới, hai bàn tay anh đan nhẹ vào nhau một cách thư thái; tay trái đặt bên dưới với các ngón tay co lại tự nhiên vào trong, trong khi tay phải nắm nhẹ lấy các đốt ngón tay trái, để lộ những chiếc nhẫn bạc và một chiếc vòng tay dây xích bạc. Anh đứng trên một sàn gỗ làm từ những tấm ván màu xám ấm và nâu đã phai màu chạy theo đường chéo, phía sau là một hồ bơi vô cực ở trung cảnh với làn nước tối màu nguyên sơ phản chiếu bầu trời chạng vạng rực rỡ và trang phục tối màu của anh. Ở bên phải trung cảnh, lan can đá cổ điển với các con tiện kiến trúc đổ bóng ngược sáng trên mặt nước, trong khi một cành thông tiền cảnh phía trên rủ nhẹ vào khung hình, những chiếc lá kim sẫm màu bắt lấy những vệt sáng mờ của đèn flash. Hậu cảnh sâu trải dài ra một khung cảnh ven biển rộng lớn với những ngọn đồi đổ bóng sẫm màu nhô lên trên nền trời chạng vạng đầy khí quyển, nơi ánh đèn rải rác từ các tòa nhà ven biển tỏa sáng dịu nhẹ ở bờ biển xa phía bên trái. Khung cảnh được chiếu sáng bằng ánh sáng hỗn hợp, nổi bật bởi đèn flash trực tiếp gắn trên máy ảnh chiếu ánh sáng vàng ấm có tính định hướng cao lên chủ thể, tạo ra các điểm sáng phản chiếu rực rỡ trên trán, sống mũi, gò má, ngực, bàn tay và trang sức kim loại. Ánh đèn flash gắt này tạo ra những bóng đen sâu, ngắn, sắc nét dưới cằm, bên trong các nếp gấp áo sơ mi và bên dưới đôi bàn tay đan vào nhau, tương phản ấn tượng với ánh sáng môi trường chạng vạng mờ ảo, tông thấp của hậu cảnh, vốn chuyển đổi mượt mà từ hơi ấm hoàng hôn tím hồng sang bầu trời đêm xanh thẫm màu hải quân. Bảng màu bổ sung phân tách (split-complementary) của các tông màu ấm từ đèn flash tương phản với các tông màu xanh lam và tím lạnh, giảm độ bão hòa của bầu khí quyển gợi lên cảm giác về một khu nghỉ dưỡng sang trọng, độc quyền và đầy bí ẩn. Được ghi lại theo phong cách nhiếp ảnh kỹ thuật số chân thực của hình ảnh phong cách sống paparazzi cao cấp, bức ảnh được chụp thẳng ngang tầm mắt bằng ống kính tương đương 35mm đến 50mm, sử dụng kỹ thuật kéo màn trập (dragged shutter) khoảng 1/60 giây để cân bằng giữa chủ thể sắc nét tuyệt đối với hậu cảnh ánh sáng yếu hơi mềm hơn và có nhiễu hạt kỹ thuật số. Quá trình hậu kỳ nhấn mạnh vào các vùng màu đen hơi bị nghiền nhẹ để đạt độ tương phản cao, đồng thời đẩy độ sắc nét và độ rõ ràng trên khuôn mặt và trang sức của chủ thể, với toàn bộ bố cục ấn tượng được đóng khung trong định dạng chân dung dọc 3:4.
 ```
 
 [↑ Về danh mục](#catalog)
