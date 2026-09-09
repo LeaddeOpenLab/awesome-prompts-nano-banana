@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**6** Prompts · Latest addition: **2026-09-09**
+**7** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -207,6 +207,32 @@ A breathtaking vertical view of a futuristic metropolis floating gracefully abov
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097548956251168916"></a>
+
+### High-fashion studio portrait of an elegant woman in a black gown on a black sculptural chair.
+
+Author：[@Elvorya](https://x.com/Elvorya) · [Source](https://x.com/Elvorya/status/2097548956251168916)
+
+Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** High-fashion studio portrait of an elegant woman in a black gown on a black sculptural chair.
+
+<img src="images/2097548956251168916-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Ultra-realistic high-fashion studio portrait of an elegant woman seated gracefully against a dark charcoal-gray background. She wears a sophisticated black one-shoulder satin gown with subtle sparkling embellishments. Sleek, straight dark-brown hair brushed back neatly behind the shoulders. Refined glamorous makeup, softly defined brows, smoky brown eyeshadow, sharp eyeliner, long lashes, warm blush, glowing natural skin, and glossy nude rose lips. She wears elegant geometric silver drop earrings, multiple delicate silver rings, a slim bracelet, and a small ear cuff.
+
+Pose: seated on a glossy black sculptural chair, one arm resting naturally across the chair and the other hand raised delicately beneath her chin, fingers relaxed and elegant. Long manicured nails with glossy black polish. Calm, confident direct gaze into the camera, sophisticated expression.
+
+Professional luxury beauty photography, soft diffused key lighting, subtle rim light, deep shadows, high contrast, realistic skin texture, detailed facial features, polished editorial finish, cinematic atmosphere, sharp focus, 85mm portrait lens, shallow depth of field, premium fashion magazine aesthetic, photorealistic, 4K, vertical composition.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097482618992570627"></a>
 
