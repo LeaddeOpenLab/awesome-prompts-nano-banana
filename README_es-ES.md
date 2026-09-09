@@ -35,20 +35,20 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 <a name="prompt-2097600395073966528"></a>
 
-### Traducción en curso
+### Retrato de un hombre musculoso apoyado en un sedán Audi junto a una gasolinera al atardecer, con montañas nevadas de fondo.
 
 Autor：[@pictsbyai](https://x.com/pictsbyai) · [Publicación original](https://x.com/pictsbyai/status/2097600395073966528)
 
 Fotografía · Retrato / Selfie · Personaje · Paisaje / Naturaleza · Resumen / Antecedentes · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato de un hombre musculoso apoyado en un sedán Audi junto a una gasolinera al atardecer, con montañas nevadas de fondo.
 
 <img src="images/2097600395073966528-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Un hombre adulto joven, seguro y musculoso, se encuentra encuadrado en el centro, mirando directamente al espectador con una sutil sonrisa cerrada y cejas relajadas, con su cabello ondulado a capas con textura capturando brillantes reflejos especulares. Viste una camiseta negra ajustada y pantalones negros, posando deliberadamente con los brazos cruzados sobre el pecho para acentuar su musculatura; su mano izquierda descansa de forma natural sobre su bíceps derecho con los dedos ligeramente curvados, luciendo una gruesa pulsera de cadena de plata completamente visible. Se apoya de cara a la cámara contra el impecable y brillante acabado negro de un sedán Audi en primer plano, con la insignia S-line visible en la aleta delantera. A la derecha, en el plano medio, unos surtidores de gasolina desgastados con carcasas blancas y amarillas y mangueras verdes y negras se alzan sobre un suelo de hormigón gris oscuro macizo. Sobre él, una marquesina industrial desgastada cuenta con paneles metálicos de color beige claro mate con nervaduras horizontales y brillantes luminarias empotradas cuadradas. Elevándose en el fondo profundo, majestuosos picos rocosos empinados y escarpados con manchas de nieve blanca se recortan contra la profundidad espacial. La escena está envuelta en una atmósfera sombría y de alto contraste bajo un cielo crepuscular azul oscuro, dominada por una paleta complementaria dividida y fría de negros profundos y azules crepusculares atravesados por cálidos toques blanco-amarillentos. Una iluminación práctica cenital, dura y altamente direccional proveniente de la marquesina se mezcla con el crepúsculo ambiental, proyectando sombras negras profundas, duras y definidas bajo la barbilla, debajo de los brazos y bajo el automóvil, mientras refleja destellos especulares a través de los pómulos, el puente de la nariz y el capó del coche. Capturada como una fotografía digital realista con una lente de 35 mm a f/2.8, ISO 800 y 1/125 s, este retrato de nitidez impecable combina la estética automotriz cinematográfica con las influencias contemporáneas del estilo de vida de las redes sociales, realzado por sombras frías, un ligero aclarado selectivo en el rostro y reflejos elevados en el coche, todo bellamente encuadrado en una relación de aspecto de 3:4.
 ```
 
 [↑ Volver a categorías](#catalog)

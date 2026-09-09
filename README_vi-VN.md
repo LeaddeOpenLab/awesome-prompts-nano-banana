@@ -35,20 +35,20 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2097600395073966528"></a>
 
-### Đang dịch
+### Chân dung người đàn ông cơ bắp dựa vào chiếc sedan Audi bên cây xăng lúc hoàng hôn, hậu cảnh là núi tuyết.
 
 Tác giả：[@pictsbyai](https://x.com/pictsbyai) · [Bài gốc](https://x.com/pictsbyai/status/2097600395073966528)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Phong cảnh / Thiên nhiên · Tóm tắt / Bối cảnh · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung người đàn ông cơ bắp dựa vào chiếc sedan Audi bên cây xăng lúc hoàng hôn, hậu cảnh là núi tuyết.
 
 <img src="images/2097600395073966528-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một chàng trai trẻ cơ bắp, tự tin đứng ở vị trí trung tâm khung hình, nhìn thẳng vào người xem với nụ cười mỉm nhẹ nhàng và đôi lông mày thư giãn, mái tóc rẽ ngôi gợn sóng có kết cấu của anh bắt sáng tạo nên những vệt sáng lấp lánh rực rỡ. Anh mặc một chiếc áo phông đen ôm sát và quần đen, cố tình tạo dáng khoanh tay trước ngực để tôn lên vẻ đẹp cơ bắp; bàn tay trái của anh đặt tự nhiên trên bắp tay phải với các ngón tay hơi co lại, để lộ rõ chiếc vòng tay dạng xích bạc bản to. Anh dựa người hướng về phía máy ảnh vào lớp sơn đen bóng loáng, nguyên sơ của một chiếc sedan Audi ở tiền cảnh, với huy hiệu S-line có thể nhìn thấy trên chắn bùn trước. Về phía bên phải ở trung cảnh, các cột bơm xăng cũ kỹ với vỏ màu trắng và vàng cùng vòi bơm màu xanh lá và đen đứng trên sàn bê tông màu xám đậm chắc chắn. Phía trên anh, mái che công nghiệp nhuốm màu thời gian có các tấm kim loại màu be nhạt mờ với các đường gân ngang và các cụm đèn âm trần hình vuông sáng rực. Sừng sững ở hậu cảnh sâu thẳm, những đỉnh núi đá dốc đứng, lởm chởm hùng vĩ với những mảng tuyết trắng hiện rõ hình bóng nổi bật trên chiều sâu không gian. Cảnh vật bao trùm trong bầu không khí tương phản cao, đầy tâm trạng dưới bầu trời hoàng hôn màu xanh thẫm, chi phối bởi bảng màu bổ sung bán phần tông lạnh gồm sắc đen sâu thẳm và xanh lam chạng vạng được điểm xuyết bởi các điểm nhấn trắng vàng ấm áp. Ánh sáng thực tế trên cao có hướng chiếu mạnh mẽ từ mái che hòa cùng ánh sáng hoàng hôn xung quanh, tạo nên những bóng đen sâu, gắt, rõ nét dưới cằm, dưới cánh tay và dưới gầm xe, đồng thời phản chiếu những điểm sáng lấp lánh trên gò má, sống mũi và nắp ca-pô xe. Được ghi lại như một bức ảnh kỹ thuật số chân thực bằng ống kính 35mm ở f/2.8, ISO 800 và 1/125 giây, bức chân dung sắc nét đến từng chi tiết này hòa quyện thẩm mỹ ô tô điện ảnh với phong cách sống mạng xã hội đương đại, được nâng tầm bởi những vùng bóng đổ tông lạnh, kỹ thuật làm sáng nhẹ trên khuôn mặt và nâng các điểm sáng trên các hình ảnh phản chiếu của xe hơi, tất cả được đóng khung tuyệt đẹp theo tỷ lệ khung hình 3:4.
 ```
 
 [↑ Về danh mục](#catalog)
