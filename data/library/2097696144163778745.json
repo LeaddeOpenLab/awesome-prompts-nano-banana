@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T16:28:20.273Z",
+  "model": "nano-banana",
+  "prompt": "【マガジン情報】\n・雑誌名: {magazineTitle}\n・今号の特集テーマ: {featureTopic}\n・号数表記: {issueName}\n\n【画質・演出・構図指定】\n・スタイル: 日本のレトロな街並みやライフスタイルを描いた、優しいタッチのイラスト（『OZ magazine』や地方自治体のPR誌風）。\n・被写体: 昭和レトロな面影のあるノスタルジックな商店街の角、古い喫茶店、路地裏を歩く人々、または猫がたたずむ情景。\n・色彩・トーン: 暖かみのあるパステルカラーや、少し褪せたインクの風合い。手書き風の優しいテクスチャ。\n・タイポグラフィ（GPT-image / Nano Banana Pro向け）: {magazineTitle}という雑誌ロゴが上部に大きく温かみのある手書き風の文字で配置され、中央や下部に{featureTopic}および{issueName}がすっきりとレイアウトされている。\n\n【レイアウトおよび出力上の厳格な制約（必須）】\n・完成したデザインそのものを、画面全体いっぱいに出力してください。デザイン内部の背景やシーン描写（壁・空間・影など）は本文の指示に従って構いません。\n・禁止事項：完成ポスターを額縁に入れた写真、壁に貼った状態の写真、机や紙の上に置いたモックアップ写真、紙の縁の遠近の歪みやドロップシャドウ。\n・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.\n\n・アスペクト比: --ar 3:4",
+  "promptTranslations": {
+    "en": "[Magazine Information]\\n- Magazine Name: {magazineTitle}\\n- Special Feature Topic for This Issue: {featureTopic}\\n- Issue Notation: {issueName}\\n\\n[Image Quality, Direction, and Composition Specifications]\\n- Style: Gentle-touch illustration depicting Japanese retro townscapes and lifestyles (in the style of \"OZ magazine\" or local government PR publications).\\n- Subject: A nostalgic shopping street corner reminiscent of the Showa retro era, an old kissaten (traditional coffee shop), people strolling through back alleys, or a scene featuring a lingering cat.\\n- Color & Tone: Warm pastel colors, a slightly faded ink texture. Gentle, hand-drawn texture.\\n- Typography (for GPT-image / Nano Banana Pro): The magazine logo \"{magazineTitle}\" is prominently positioned at the top in warm, hand-drawn lettering, with {featureTopic} and {issueName} neatly laid out in the center or at the bottom.\\n\\n[Strict Layout and Output Constraints (Mandatory)]\\n- Output the finished design itself, filling the entire canvas. Background and scene depictions inside the design (walls, spaces, shadows, etc.) may follow the main instructions.\\n- Prohibited items: Photos of the finished poster in a picture frame, photos of it posted on a wall, mockup photos placed on a desk or paper, perspective distortion at paper edges, or drop shadows.\\n- Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.\\n\\n- Aspect Ratio: --ar 3:4"
+  },
+  "summaryTranslations": {
+    "en": "Cover design prompt for a warm, hand-drawn style town information magazine depicting Showa-era retro townscapes and old kissaten cafes."
+  },
+  "translationVersion": 2,
+  "summary": "昭和レトロな街並みや古い喫茶店を描いた、手書き風の温かみあるタウン情報誌の表紙デザインプロンプト。",
+  "summaryEn": "Prompt for generating a retro Japanese town magazine cover featuring nostalgic streets and old cafes.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097696144163778745",
+    "canonicalUrl": "https://x.com/AIGuideNote/status/2097696144163778745",
+    "author": {
+      "username": "AIGuideNote",
+      "displayName": "AI Guide-Note - 実務で使えるAI活用メディア",
+      "profileUrl": "https://x.com/AIGuideNote"
+    },
+    "publishedAt": "2026-09-09T14:38:28.000Z",
+    "collectedAt": "2026-09-09T16:16:31.563Z",
+    "language": "ja",
+    "originalText": "【コピペで使えるAIプロンプト】\nローカル誌・タウンマガジン表紙\n\n💡 用途: 地方都市やレトロな街並みの魅力を切り取った、どこか懐かしく温かみのあるタウン情報誌・ローカルマガジンの表紙イラスト。額縁や斜め傾きのない平面デザイン。\n🎯 推奨AI: Nano Banana Pro / GPT-image\n📊 難易度: 初級（かんたん）\n\n▼ コピペ用指示プロンプト（全文）:\n```\n【マガジン情報】\n・雑誌名: {magazineTitle}\n・今号の特集テーマ: {featureTopic}\n・号数表記: {issueName}\n\n【画質・演出・構図指定】\n・スタイル: 日本のレトロな街並みやライフスタイルを描いた、優しいタッチのイラスト（『OZ magazine』や地方自治体のPR誌風）。\n・被写体: 昭和レトロな面影のあるノスタルジックな商店街の角、古い喫茶店、路地裏を歩く人々、または猫がたたずむ情景。\n・色彩・トーン: 暖かみのあるパステルカラーや、少し褪せたインクの風合い。手書き風の優しいテクスチャ。\n・タイポグラフィ（GPT-image / Nano Banana Pro向け）: {magazineTitle}という雑誌ロゴが上部に大きく温かみのある手書き風の文字で配置され、中央や下部に{featureTopic}および{issueName}がすっきりとレイアウトされている。\n\n【レイアウトおよび出力上の厳格な制約（必須）】\n・完成したデザインそのものを、画面全体いっぱいに出力してください。デザイン内部の背景やシーン描写（壁・空間・影など）は本文の指示に従って構いません。\n・禁止事項：完成ポスターを額縁に入れた写真、壁に貼った状態の写真、机や紙の上に置いたモックアップ写真、紙の縁の遠近の歪みやドロップシャドウ。\n・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.\n\n・アスペクト比: --ar 3:4\n```\n\n▼ 入力パラメータ例:\n・{magazineTitle}: 雑誌名 (例: まちの余白)\n・{featureTopic}: 特集テーマ (例: 特集：昭和の面影、変わりゆく街角を歩く)\n・{issueName}: 号数 (例: 創刊号)",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRyDhlEbAAAJvNh.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRyDhlEbAAAJvNh.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 50
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AIGuideNote/status/2097696144163778745",
+  "coverUrl": "https://pbs.twimg.com/media/HRyDhlEbAAAJvNh.jpg",
+  "coverPath": "images/2097696144163778745-1.jpg",
+  "imagePaths": [
+    "images/2097696144163778745-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRyDhlEbAAAJvNh",
+    "x-post:2097696144163778745"
+  ],
+  "analysis": {
+    "summary": "昭和レトロな街並みや古い喫茶店を描いた、手書き風の温かみあるタウン情報誌の表紙デザインプロンプト。",
+    "summaryEn": "Prompt for generating a retro Japanese town magazine cover featuring nostalgic streets and old cafes.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成图像完整还原了日系复古小巷、老式咖啡店（喫茶あかつき）、猫咪以及标题“まちの余白”与特辑文字排版。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "【マガジン情報】\n・雑誌名: {magazineTitle}\n・今号の特集テーマ: {featureTopic}\n・号数表記: {issueName}\n\n【画質・演出・構図指定】\n・スタイル: 日本のレトロな街並みやライフスタイルを描いた、優しいタッチのイラスト（『OZ magazine』や地方自治体のPR誌風）。\n・被写体: 昭和レトロな面影のあるノスタルジックな商店街の角、古い喫茶店、路地裏を歩く人々、または猫がたたずむ情景。\n・色彩・トーン: 暖かみのあるパステルカラーや、少し褪せたインクの風合い。手書き風の優しいテクスチャ。\n・タイポグラフィ（GPT-image / Nano Banana Pro向け）: {magazineTitle}という雑誌ロゴが上部に大きく温かみのある手書き風の文字で配置され、中央や下部に{featureTopic}および{issueName}がすっきりとレイアウトされている。\n\n【レイアウトおよび出力上の厳格な制約（必須）】\n・完成したデザインそのものを、画面全体いっぱいに出力してください。デザイン内部の背景やシーン描写（壁・空間・影など）は本文の指示に従って構いません。\n・禁止事項：完成ポスターを額縁に入れた写真、壁に貼った状態の写真、机や紙の上に置いたモックアップ写真、紙の縁の遠近の歪みやドロップシャドウ。\n・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.\n\n・アスペクト比: --ar 3:4",
+    "sourceRange": {
+      "start": 192,
+      "end": 1115
+    },
+    "translations": {
+      "zh": "【杂志信息】\n・杂志名: {magazineTitle}\n・本期特辑主题: {featureTopic}\n・刊号标注: {issueName}\n\n【画质・表现・构图设定】\n・风格: 描绘日本复古街景与生活方式的柔和手绘插画风格（类似《OZ magazine》或地方政府宣传册）。\n・主体: 具有昭和怀旧风情的商店街街角、老旧咖啡馆、小巷漫步的路人或静坐的猫咪。\n・色彩与色调: 温暖的马卡龙色系，略带褪色油墨质感，手绘风格的柔和纹理。\n・排版: 顶部醒目排列手绘风格的{magazineTitle}杂志Logo，中下部工整布局{featureTopic}与{issueName}。\n\n【排版及输出严格限制（必须）】\n・请将完整设计铺满整个画面输出。禁止相框照片、贴墙或桌面样机展示，禁止边缘透视畸变与投影。\n・比例: --ar 3:4",
+      "en": "[Magazine Info]\n- Title: {magazineTitle}\n- Feature: {featureTopic}\n- Issue: {issueName}\n\n[Style & Composition]\n- Style: Gentle illustration of retro Japanese streets/lifestyle.\n- Subject: Nostalgic Showa-era shopping street corner, old café, people walking or a cat sitting.\n- Color: Warm pastels, faded ink look, hand-drawn texture.\n- Typography: Large handwritten {magazineTitle} logo at the top; clean layout for {featureTopic} and {issueName}.\n\n[Layout Constraints]\n- Flat 2D design filling canvas. Strictly NO mockups, frames, perspective warps, or drop shadows.\n- Aspect ratio: --ar 3:4"
+    },
+    "targetModels": [
+      "nano-banana"
+    ],
+    "category": "text-to-image",
+    "useCase": "杂志封面设计",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "OZ magazine"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
