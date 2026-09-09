@@ -30,20 +30,20 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2097478436105384108"></a>
 
-### Tradução em andamento
+### Um prompt de foto de referência para stop-motion apresentando uma flor de cosmos rosa-coral feita à mão em argila fosca em solo marrom-escuro contra um fundo creme quente, especificando coordenadas precisas, ângulo de câmera e detalhes de textura da argila.
 
 Autor：[@higgsfield](https://x.com/higgsfield) · [Publicação original](https://x.com/higgsfield/status/2097478436105384108)
 
 Fotografia · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Um prompt de foto de referência para stop-motion apresentando uma flor de cosmos rosa-coral feita à mão em argila fosca em solo marrom-escuro contra um fundo creme quente, especificando coordenadas precisas, ângulo de câmera e detalhes de textura da argila.
 
 <img src="covers/2097478436105384108.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie uma única foto de referência quadrada de stop-motion, não um storyboard: uma flor de cosmos rosa-coral feita à mão em argila fosca em solo marrom-escuro contra um fundo creme quente. Câmera baixa frontal travada, macro de 70 mm, sensação ortográfica. O solo preenche os 22% inferiores, atingindo o pico em (50%,79%); o caule centralizado vai de (50%,80%) até o centro da flor em (50%,33%). Adicione exatamente duas folhas verdes e uma cabeça de flor com 35% de largura, exatamente 10 pétalas de cor coral e um centro dourado texturizado. Inclua impressões digitais sutis, pedaços de terra e algumas pedrinhas. Use iluminação suave do canto superior esquerdo e sombras fixas. Mantenha a flor completa visível, com a câmera e o solo estacionários para animação. Sem vaso, plantas extras, personagens, insetos, mãos, texto, marca d'água, borda ou grade.
 ```
 
 [↑ Voltar às categorias](#catalog)

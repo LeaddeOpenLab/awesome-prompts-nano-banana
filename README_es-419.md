@@ -30,20 +30,20 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 <a name="prompt-2097478436105384108"></a>
 
-### Traducción en curso
+### Un prompt de foto de referencia para stop-motion que presenta una flor cosmos de arcilla mate en tono rosa coral hecha a mano en tierra marrón oscura sobre un fondo crema cálido, especificando coordenadas precisas, ángulo de cámara y detalles de textura de arcilla.
 
 Autor：[@higgsfield](https://x.com/higgsfield) · [Publicación original](https://x.com/higgsfield/status/2097478436105384108)
 
 Fotografía · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un prompt de foto de referencia para stop-motion que presenta una flor cosmos de arcilla mate en tono rosa coral hecha a mano en tierra marrón oscura sobre un fondo crema cálido, especificando coordenadas precisas, ángulo de cámara y detalles de textura de arcilla.
 
 <img src="covers/2097478436105384108.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una sola foto de referencia cuadrada de stop-motion, no un guion gráfico: una flor cosmos rosa coral hecha a mano con arcilla mate en tierra marrón oscura contra un fondo crema cálido. Cámara baja frontal fija, macro de 70 mm, sensación ortográfica. La tierra ocupa el 22% inferior, con su punto más alto en (50%,79%); el tallo centrado va desde (50%,80%) hasta el centro de la flor en (50%,33%). Agrega exactamente dos hojas verdes y una cabeza floral de un ancho del 35% con exactamente 10 pétalos de color coral y un centro dorado texturizado. Incluye huellas dactilares sutiles, migajas de tierra y unos pocos guijarros. Usa iluminación suave desde la parte superior izquierda y sombras fijas. Mantén la flor completa visible, con la cámara y la tierra inmóviles para animación. Sin maceta, plantas adicionales, personajes, insectos, manos, texto, marca de agua, borde ni cuadrícula.
 ```
 
 [↑ Volver a categorías](#catalog)

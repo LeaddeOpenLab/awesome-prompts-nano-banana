@@ -30,20 +30,20 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2097478436105384108"></a>
 
-### Übersetzung läuft
+### Ein Stop-Motion-Referenzfoto-Prompt mit einer handgefertigten Kosmeenblüte aus matter Knetmasse in Korallenrosa in dunkelbrauner Erde vor einem warmen cremefarbenen Hintergrund, mit präzisen Koordinaten, Kamerawinkel und Details zur Tontextur.
 
 Autor：[@higgsfield](https://x.com/higgsfield) · [Originalbeitrag](https://x.com/higgsfield/status/2097478436105384108)
 
 Fotografie · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein Stop-Motion-Referenzfoto-Prompt mit einer handgefertigten Kosmeenblüte aus matter Knetmasse in Korallenrosa in dunkelbrauner Erde vor einem warmen cremefarbenen Hintergrund, mit präzisen Koordinaten, Kamerawinkel und Details zur Tontextur.
 
 <img src="covers/2097478436105384108.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein einzelnes quadratisches Stop-Motion-Referenzfoto, kein Storyboard: eine handgefertigte Kosmeenblüte aus matter Knetmasse in Korallenrosa in dunkelbrauner Erde vor einem warmen cremefarbenen Hintergrund. Fixierte, frontale niedrige Kamera, 70mm-Makro, orthografische Anmutung. Erde füllt die unteren 22%, mit dem höchsten Punkt bei (50%,79%); der zentrierte Stiel verläuft von (50%,80%) bis zur Blütenmitte bei (50%,33%). Füge genau zwei grüne Blätter und einen 35% breiten Blütenkopf mit genau 10 korallenfarbenen Blütenblättern und einer texturierten goldenen Mitte hinzu. Binde subtile Fingerabdrücke, Erdkrümel und ein paar Kieselsteine ein. Verwende weiches Licht von oben links und feste Schatten. Halte die gesamte Blüte sichtbar, wobei Kamera und Erde für die Animation unbeweglich bleiben. Kein Topf, keine zusätzlichen Pflanzen, Figuren, Insekten, Hände, Text, Wasserzeichen, Rahmen oder Gitter.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

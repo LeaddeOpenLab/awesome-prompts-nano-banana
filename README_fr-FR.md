@@ -30,20 +30,20 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2097478436105384108"></a>
 
-### Traduction en cours
+### Un prompt de photo de référence en stop-motion mettant en vedette une fleur de cosmos rose corail en pâte à modeler mate faite à la main dans de la terre brun foncé sur un fond crème chaud, spécifiant des coordonnées précises, l'angle de la caméra et les détails de texture de la pâte.
 
 Auteur：[@higgsfield](https://x.com/higgsfield) · [Publication originale](https://x.com/higgsfield/status/2097478436105384108)
 
 Photographie · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un prompt de photo de référence en stop-motion mettant en vedette une fleur de cosmos rose corail en pâte à modeler mate faite à la main dans de la terre brun foncé sur un fond crème chaud, spécifiant des coordonnées précises, l'angle de la caméra et les détails de texture de la pâte.
 
 <img src="covers/2097478436105384108.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une seule photo de référence carrée en stop-motion, pas un storyboard : une fleur de cosmos rose corail faite à la main en pâte à modeler mate dans une terre brun foncé sur un fond crème chaud. Caméra basse verrouillée de face, macro 70 mm, rendu orthographique. La terre remplit les 22 % inférieurs, culminant à (50%,79%) ; la tige centrée va de (50%,80%) jusqu'au centre de la fleur à (50%,33%). Ajoutez exactement deux feuilles vertes et une tête florale d'une largeur de 35 % avec exactement 10 pétales corail et un cœur doré texturé. Incluez de subtiles empreintes digitales, des miettes de terre et quelques cailloux. Utilisez un éclairage doux venant du coin supérieur gauche et des ombres fixes. Gardez la fleur entière visible, avec la caméra et la terre stationnaires pour l'animation. Pas de pot, de plantes supplémentaires, de personnages, d'insectes, de mains, de texte, de filigrane, de bordure ou de grille.
 ```
 
 [↑ Retour aux catégories](#catalog)

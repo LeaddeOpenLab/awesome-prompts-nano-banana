@@ -30,20 +30,20 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2097478436105384108"></a>
 
-### Tradução em curso
+### Um prompt de fotografia de referência para stop-motion apresentando uma flor cosmos rosa-coral feita à mão em plasticina mate em solo castanho-escuro contra um fundo creme quente, especificando coordenadas precisas, ângulo de câmara e detalhes de textura de plasticina.
 
 Autor：[@higgsfield](https://x.com/higgsfield) · [Publicação original](https://x.com/higgsfield/status/2097478436105384108)
 
 Fotografia · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Um prompt de fotografia de referência para stop-motion apresentando uma flor cosmos rosa-coral feita à mão em plasticina mate em solo castanho-escuro contra um fundo creme quente, especificando coordenadas precisas, ângulo de câmara e detalhes de textura de plasticina.
 
 <img src="covers/2097478436105384108.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie uma única foto de referência quadrada de stop-motion, não um storyboard: uma flor cosmos rosa-coral feita à mão em plasticina mate em solo castanho-escuro contra um fundo creme quente. Câmara baixa frontal fixa, macro de 70 mm, sensação ortográfica. O solo preenche os 22% inferiores, atingindo o pico em (50%,79%); o caule centrado vai de (50%,80%) até ao centro da flor em (50%,33%). Adicione exatamente duas folhas verdes e uma cabeça de flor com 35% de largura com exatamente 10 pétalas de cor coral e um centro dourado texturado. Inclua impressões digitais subtis, migalhas de terra e algumas pedrinhas. Use iluminação suave superior esquerda e sombras fixas. Mantenha a flor completa visível, com a câmara e o solo estacionários para animação. Sem vaso, plantas adicionais, personagens, insetos, mãos, texto, marca de água, moldura ou grelha.
 ```
 
 [↑ Voltar às categorias](#catalog)

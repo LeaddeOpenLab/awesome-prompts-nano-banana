@@ -30,20 +30,20 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2097478436105384108"></a>
 
-### Çeviri sürüyor
+### Sıcak krem rengi bir arka plan önünde koyu kahverengi toprak içinde el yapımı mat kilden mercan pembesi bir kozmos çiçeğini içeren, kesin koordinatları, kamera açısını ve kil dokusu ayrıntılarını belirten bir stop-motion referans fotoğrafı istemi.
 
 Yazar：[@higgsfield](https://x.com/higgsfield) · [Orijinal gönderi](https://x.com/higgsfield/status/2097478436105384108)
 
 Fotoğrafçılık · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sıcak krem rengi bir arka plan önünde koyu kahverengi toprak içinde el yapımı mat kilden mercan pembesi bir kozmos çiçeğini içeren, kesin koordinatları, kamera açısını ve kil dokusu ayrıntılarını belirten bir stop-motion referans fotoğrafı istemi.
 
 <img src="covers/2097478436105384108.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Bir adet kare stop-motion referans fotoğrafı oluşturun, storyboard değil: sıcak krem rengi bir fon önünde, koyu kahverengi toprak içinde el yapımı mat kilden mercan pembesi bir kozmos çiçeği. Sabitlenmiş tam karşıdan alçak kamera, 70mm makro, ortografik his. Toprak alt kısımdaki %22'lik alanı doldurur, en tepe noktası (50%,79%); ortalanmış gövde (50%,80%) noktasından (50%,33%) noktasındaki çiçek merkezine kadar uzanır. Tam olarak iki yeşil yaprak ve tam 10 mercan rengi taçyaprağa ve dokulu altın sarısı bir merkeze sahip %35 genişliğinde bir çiçek başı ekleyin. İnce parmak izleri, toprak kırıntıları ve birkaç küçük çakıl taşı ekleyin. Sol üstten gelen yumuşak ışık ve sabit gölgeler kullanın. Animasyon için kamera ve toprak hareketsiz kalarak çiçeğin tamamını görünür tutun. Saksı, fazladan bitki, karakter, böcek, el, metin, filigran, kenarlık veya ızgara olmasın.
 ```
 
 [↑ Kategorilere dön](#catalog)

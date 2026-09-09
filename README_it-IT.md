@@ -30,20 +30,20 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2097478436105384108"></a>
 
-### Traduzione in corso
+### Un prompt per foto di riferimento in stop-motion raffigurante un fiore di cosmea rosa corallo fatto a mano in argilla opaca su terriccio marrone scuro contro uno sfondo crema caldo, con indicazione di coordinate precise, angolazione della telecamera e dettagli sulla texture dell'argilla.
 
 Autore：[@higgsfield](https://x.com/higgsfield) · [Post originale](https://x.com/higgsfield/status/2097478436105384108)
 
 Fotografia · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un prompt per foto di riferimento in stop-motion raffigurante un fiore di cosmea rosa corallo fatto a mano in argilla opaca su terriccio marrone scuro contro uno sfondo crema caldo, con indicazione di coordinate precise, angolazione della telecamera e dettagli sulla texture dell'argilla.
 
 <img src="covers/2097478436105384108.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea una singola foto di riferimento quadrata in stop-motion, non uno storyboard: un fiore di cosmea rosa corallo fatto a mano in argilla opaca su terriccio marrone scuro contro uno sfondo crema caldo. Telecamera bassa bloccata frontalmente, macro da 70 mm, resa ortografica. Il terriccio riempie il 22% inferiore, con il punto più alto a (50%,79%); lo stelo centrato va da (50%,80%) al centro del fiore a (50%,33%). Aggiungi esattamente due foglie verdi e una corolla larga il 35% con esattamente 10 petali corallo e un centro dorato texturizzato. Includi sottili impronte digitali, briciole di terriccio e qualche sassolino. Usa un'illuminazione morbida dall'alto a sinistra e ombre fisse. Mantieni l'intero fiore visibile, con fotocamera e terriccio stazionari per l'animazione. Nessun vaso, piante extra, personaggi, insetti, mani, testo, filigrana, bordo o griglia.
 ```
 
 [↑ Torna alle categorie](#catalog)
