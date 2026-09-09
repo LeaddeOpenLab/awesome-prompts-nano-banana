@@ -29,5 +29,3 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 ---
 
 [探索 Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)
-
-目錄參考: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

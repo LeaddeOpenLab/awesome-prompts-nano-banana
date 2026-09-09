@@ -29,5 +29,3 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 ---
 
 [Leadde.ai देखें →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)
-
-नेविगेशन संदर्भ: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

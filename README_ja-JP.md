@@ -29,5 +29,3 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 ---
 
 [Leadde.ai を見る →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)
-
-ナビゲーション参考: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

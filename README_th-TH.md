@@ -29,5 +29,3 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 ---
 
 [สำรวจ Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)
-
-แหล่งอ้างอิงการนำทาง: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
