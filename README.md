@@ -14,18 +14,42 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**0** Prompts
+**1** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-
+[Photography](#category-photography)
 
 <a name="all-prompts"></a>
 
-No confirmed prompts yet.
+<a name="category-photography"></a>
+
+## Photography
+
+<a name="prompt-2097238007426490758"></a>
+
+### A high-end lifestyle flash photograph of a stylish tanned man in an unbuttoned black shirt and sunglasses standing beside an infinity pool during coastal twilight.
+
+Author：[@pictsbyai](https://x.com/pictsbyai) · [Source](https://x.com/pictsbyai/status/2097238007426490758)
+
+Photography · Portrait / Selfie · Character · Pending distribution
+
+**Summary:** A high-end lifestyle flash photograph of a stylish tanned man in an unbuttoned black shirt and sunglasses standing beside an infinity pool during coastal twilight.
+
+<img src="images/2097238007426490758-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A handsome young male with glowing tanned skin stands facing the camera directly in a confident, formal stance with shoulders relaxed back to open his chest. He wears a black unbuttoned long-sleeve shirt, a silver chain necklace, and black wayfarer-style sunglasses that completely obscure his eyes, pairing perfectly with his serious, neutral expression. His brown, medium-length hair is styled in a slicked-back flow reaching the nape of his neck and tucked neatly behind his ears, with moderate volume at the front quiff and lying flat on the sides. The hair shows dark blonde and brown roots transitioning to lighter blonde ends, held tightly by a heavy, wet-look pomade that creates a glossy, structured appearance with slight separation of hair clumps, natural unevenness at the hairline, and minor flyaways visible on the right side of his head. At his lower torso, his hands are gently clasped together in a relaxed manner; his left hand rests underneath with fingers naturally curled inward, while his right hand lightly grasps the left knuckles, showcasing silver rings and a silver chain bracelet. He stands on a deck made of faded warm grey and brown wooden boards running diagonally, backed by a midground infinity pool featuring pristine dark water that reflects the vibrant twilight sky and his dark clothing. To the midground right, a classic stone balustrade with architectural spindles is silhouetted against the water, while an overhead foreground pine tree branch drapes lightly into the frame, its dark needles catching faint edges of the flash. The deep background spans into an expansive coastal landscape with dark silhouetted hills rising against an atmospheric twilight sky, where scattered coastal building lights softly glow on the far left shoreline. The scene is illuminated by mixed lighting, defined by a hard, direct on-camera flash that casts highly directional, warm golden light onto the subject, creating bright specular highlights on his forehead, nose bridge, cheekbones, chest, hands, and metallic jewelry. This harsh flash produces deep black, short, tight shadows under his chin, inside his shirt folds, and beneath his clasped hands, contrasting dramatically against the moody, low-key ambient twilight of the background, which transitions smoothly from a magenta-purple sunset warmth into a deep dark navy blue night sky. The split-complementary color palette of warm flash tones against cool, desaturated atmospheric blues and purples evokes a mysterious, exclusive luxury resort atmosphere. Captured with the realistic digital photography style of high-end paparazzi lifestyle imagery, the shot is taken straight on at eye level using a 35mm to 50mm equivalent lens, employing a dragged shutter around 1/60s to balance the tack-sharp subject against the slightly softer, digitally noisy low-light background. Post-processing emphasizes slightly crushed blacks for high contrast and pushes sharpness and clarity on the subject's face and jewelry, with the entire striking composition framed in a 3:4 vertical portrait format.
+```
+
+[↑ Back to categories](#catalog)
 
 ---
 
 [Explore Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)
+
+Navigation reference: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

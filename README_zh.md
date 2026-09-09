@@ -14,18 +14,42 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**0** 条内容
+**1** 条内容 · 最新收录: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 分类目录
 
-
+[摄影](#category-photography)
 
 <a name="all-prompts"></a>
 
-暂无已确认入库内容。
+<a name="category-photography"></a>
+
+## 摄影
+
+<a name="prompt-2097238007426490758"></a>
+
+### 翻译中
+
+作者：[@pictsbyai](https://x.com/pictsbyai) · [查看 X 原帖](https://x.com/pictsbyai/status/2097238007426490758)
+
+摄影 · 人像 / 自拍 · 角色 · 待推流
+
+**概括:** 翻译中
+
+<img src="images/2097238007426490758-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
 
 ---
 
 [探索 Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)
+
+目录参考: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

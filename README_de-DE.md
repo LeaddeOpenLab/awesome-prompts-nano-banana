@@ -14,18 +14,42 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**0** Prompts
+**1** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Nach Kategorie durchsuchen
 
-
+[Fotografie](#category-photography)
 
 <a name="all-prompts"></a>
 
-Noch keine bestätigten Prompts.
+<a name="category-photography"></a>
+
+## Fotografie
+
+<a name="prompt-2097238007426490758"></a>
+
+### Übersetzung läuft
+
+Autor：[@pictsbyai](https://x.com/pictsbyai) · [Originalbeitrag](https://x.com/pictsbyai/status/2097238007426490758)
+
+Fotografie · Porträt / Selfie · Charakter · Verteilung ausstehend
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097238007426490758-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
 
 ---
 
 [Leadde.ai entdecken →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)
+
+Navigationsvorlage: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

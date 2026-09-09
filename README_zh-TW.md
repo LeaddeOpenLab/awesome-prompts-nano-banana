@@ -14,18 +14,42 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**0** 筆內容
+**1** 筆內容 · 最新收錄: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 分類目錄
 
-
+[攝影](#category-photography)
 
 <a name="all-prompts"></a>
 
-暫無已確認入庫內容。
+<a name="category-photography"></a>
+
+## 攝影
+
+<a name="prompt-2097238007426490758"></a>
+
+### 翻譯中
+
+作者：[@pictsbyai](https://x.com/pictsbyai) · [查看 X 原帖](https://x.com/pictsbyai/status/2097238007426490758)
+
+攝影 · 人像 / 自拍 · 角色 · 待推送
+
+**概括:** 翻譯中
+
+<img src="images/2097238007426490758-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
 
 ---
 
 [探索 Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)
+
+目錄參考: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

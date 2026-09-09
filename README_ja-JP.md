@@ -14,18 +14,42 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**0** 件
+**1** 件 · 最新の追加: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## カテゴリから探す
 
-
+[写真撮影](#category-photography)
 
 <a name="all-prompts"></a>
 
-登録済みのプロンプトはまだありません。
+<a name="category-photography"></a>
+
+## 写真撮影
+
+<a name="prompt-2097238007426490758"></a>
+
+### 翻訳中
+
+作者：[@pictsbyai](https://x.com/pictsbyai) · [元の投稿](https://x.com/pictsbyai/status/2097238007426490758)
+
+写真撮影 · ポートレート / セルフィー · キャラクター · 配信待ち
+
+**概要:** 翻訳中
+
+<img src="images/2097238007426490758-1.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
 
 ---
 
 [Leadde.ai を見る →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)
+
+ナビゲーション参考: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

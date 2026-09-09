@@ -14,18 +14,42 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 กดดาวให้คลังนี้เพื่อติดตามพรอมต์ที่คัดสรรทุกวันและค้นหาแนวคิดสร้างสรรค์ใหม่ ๆ
 
-**0** รายการ
+**1** รายการ · เพิ่มล่าสุด: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## เรียกดูตามหมวดหมู่
 
-
+[การถ่ายภาพ](#category-photography)
 
 <a name="all-prompts"></a>
 
-ยังไม่มีพรอมต์ที่ยืนยันแล้ว
+<a name="category-photography"></a>
+
+## การถ่ายภาพ
+
+<a name="prompt-2097238007426490758"></a>
+
+### กำลังแปล
+
+ผู้เขียน：[@pictsbyai](https://x.com/pictsbyai) · [โพสต์ต้นฉบับ](https://x.com/pictsbyai/status/2097238007426490758)
+
+การถ่ายภาพ · ภาพบุคคล / เซลฟี่ · ตัวละคร · รอเผยแพร่
+
+**สรุป:** กำลังแปล
+
+<img src="images/2097238007426490758-1.jpg" alt="รูปภาพ 1" width="480" />
+
+**พรอมต์**
+
+```text
+กำลังแปล
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
 
 ---
 
 [สำรวจ Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)
+
+แหล่งอ้างอิงการนำทาง: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

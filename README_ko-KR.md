@@ -14,18 +14,42 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**0** 개
+**1** 개 · 최근 추가: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 카테고리 탐색
 
-
+[사진술](#category-photography)
 
 <a name="all-prompts"></a>
 
-등록된 프롬프트가 없습니다.
+<a name="category-photography"></a>
+
+## 사진술
+
+<a name="prompt-2097238007426490758"></a>
+
+### 번역 중
+
+작성자：[@pictsbyai](https://x.com/pictsbyai) · [원본 게시물](https://x.com/pictsbyai/status/2097238007426490758)
+
+사진술 · 인물 사진 / 셀카 · 캐릭터 · 배포 대기
+
+**요약:** 번역 중
+
+<img src="images/2097238007426490758-1.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
 
 ---
 
 [Leadde.ai 살펴보기 →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)
+
+탐색 참고: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

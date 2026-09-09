@@ -14,18 +14,42 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 दैनिक चुने हुए प्रॉम्प्ट और नई रचनात्मक प्रेरणा के लिए इस रिपॉज़िटरी को स्टार दें।
 
-**0** प्रॉम्प्ट
+**1** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## श्रेणी के अनुसार देखें
 
-
+[फोटोग्राफी](#category-photography)
 
 <a name="all-prompts"></a>
 
-अभी कोई स्वीकृत प्रॉम्प्ट नहीं है।
+<a name="category-photography"></a>
+
+## फोटोग्राफी
+
+<a name="prompt-2097238007426490758"></a>
+
+### अनुवाद जारी है
+
+लेखक：[@pictsbyai](https://x.com/pictsbyai) · [मूल पोस्ट](https://x.com/pictsbyai/status/2097238007426490758)
+
+फोटोग्राफी · पोर्ट्रेट / सेल्फ़ी · कैरेक्टर · प्रकाशन लंबित
+
+**सारांश:** अनुवाद जारी है
+
+<img src="images/2097238007426490758-1.jpg" alt="चित्र 1" width="480" />
+
+**प्रॉम्प्ट**
+
+```text
+अनुवाद जारी है
+```
+
+[↑ श्रेणियों पर लौटें](#catalog)
 
 ---
 
 [Leadde.ai देखें →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)
+
+नेविगेशन संदर्भ: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

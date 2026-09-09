@@ -14,18 +14,42 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**0** Prompts
+**1** Prompts · Última adição: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-
+[Fotografia](#category-photography)
 
 <a name="all-prompts"></a>
 
-Ainda não há prompts confirmados.
+<a name="category-photography"></a>
+
+## Fotografia
+
+<a name="prompt-2097238007426490758"></a>
+
+### Tradução em andamento
+
+Autor：[@pictsbyai](https://x.com/pictsbyai) · [Publicação original](https://x.com/pictsbyai/status/2097238007426490758)
+
+Fotografia · Retrato / Selfie · Personagem · Distribuição pendente
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2097238007426490758-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
 
 ---
 
 [Explore a Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)
+
+Referência de navegação: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

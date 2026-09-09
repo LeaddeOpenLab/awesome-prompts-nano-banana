@@ -14,18 +14,42 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**0** Prompt
+**1** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-
+[Fotoğrafçılık](#category-photography)
 
 <a name="all-prompts"></a>
 
-Henüz onaylanmış prompt yok.
+<a name="category-photography"></a>
+
+## Fotoğrafçılık
+
+<a name="prompt-2097238007426490758"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@pictsbyai](https://x.com/pictsbyai) · [Orijinal gönderi](https://x.com/pictsbyai/status/2097238007426490758)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Dağıtım bekliyor
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097238007426490758-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
 
 ---
 
 [Leadde.ai’yi keşfedin →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=nano-banana)
+
+Gezinme kaynağı: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
