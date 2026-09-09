@@ -105,13 +105,13 @@ Một chàng trai trẻ đẹp trai với làn da rám nắng rạng rỡ đứn
 
 <a name="prompt-2097564694974541836"></a>
 
-### Đang dịch
+### Tạo một bức chân dung biên tập thời trang đường phố phong cách điện ảnh, siêu thực trong khung cảnh đô thị.
 
 Tác giả：[@shushant\_l](https://x.com/shushant_l) · [Bài gốc](https://x.com/shushant_l/status/2097564694974541836)
 
 Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Quang cảnh thành phố / Đường phố · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo một bức chân dung biên tập thời trang đường phố phong cách điện ảnh, siêu thực trong khung cảnh đô thị.
 
 <img src="images/2097564694974541836-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -124,7 +124,7 @@ Tác giả：[@shushant\_l](https://x.com/shushant_l) · [Bài gốc](https://x.
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một bức chân dung biên tập thời trang đường phố phong cách điện ảnh, siêu thực của tôi, giữ nguyên chính xác danh tính khuôn mặt, các đường nét, tông da, kiểu tóc và tỷ lệ tự nhiên. Định hình phong cách cho tôi trong bộ trang phục streetwear hiện đại cao cấp với các lớp áo phom rộng (oversized), phụ kiện tinh tế, cùng tư thế tự tin, thoải mái trong khung cảnh đô thị với kiến trúc bê tông, những bức tường có kết cấu thô và các chi tiết thành phố tối giản. Sử dụng ánh sáng tự nhiên đầy kịch tính, bóng mờ mềm mại, độ sâu trường ảnh nông, kết cấu da chân thực, tông màu trung tính tinh tế, hạt phim nhẹ, bố cục tạp chí thời trang cao cấp, nhiếp ảnh chuyên nghiệp và chỉnh màu điện ảnh. Làm cho bức ảnh có cảm giác chân thật, ngầu một cách tự nhiên, tối giản, giàu tính thẩm mỹ và đậm chất tạp chí, tựa như một chiến dịch streetwear xa xỉ được chụp bằng máy ảnh full-frame với ống kính 85mm.
 ```
 
 [↑ Về danh mục](#catalog)
