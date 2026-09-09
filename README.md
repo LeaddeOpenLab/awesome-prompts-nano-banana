@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**14** Prompts · Latest addition: **2026-09-09**
+**15** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -402,6 +402,28 @@ A breathtaking vertical view of a futuristic metropolis floating gracefully abov
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097709112188641299"></a>
+
+### Portrait of a young woman in a blue silk dress on a swing during golden hour.
+
+Author：[@dreamydigiarts](https://x.com/dreamydigiarts) · [Source](https://x.com/dreamydigiarts/status/2097709112188641299)
+
+Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** Portrait of a young woman in a blue silk dress on a swing during golden hour.
+
+<img src="images/2097709112188641299-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Image is high resolution full-hight vertical fine art portrait, Sony A1 and 120mm lens, capturing a lithe supermodel in her early 20s, bathed in warm golden hour light, finding solace on a swing, soft hazy pastel colors, wearing a cobalt blue silk dress, dreamy atmosphere, with long, windswept jet black hair, large expressive dark brown eyes, parted red lips, conveying nostalgia and peace, thoughtful gaze, hint of nostalgia, pierces through the warm ambiance as the sun's final rays dance through her tousled hair, in a moment of quietude.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097547198523388128"></a>
 

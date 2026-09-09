@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**14** Prompts · Última adição: **2026-09-09**
+**15** Prompts · Última adição: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -443,6 +443,28 @@ Uma vista vertical deslumbrante de uma metrópole futurista flutuando graciosame
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2097709112188641299"></a>
+
+### Tradução em andamento
+
+Autor：[@dreamydigiarts](https://x.com/dreamydigiarts) · [Publicação original](https://x.com/dreamydigiarts/status/2097709112188641299)
+
+Retrato / Selfie · Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2097709112188641299-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097547198523388128"></a>
 
