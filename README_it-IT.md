@@ -130,20 +130,64 @@ Traduzione in corso
 
 <a name="prompt-2097237465887338994"></a>
 
-### Traduzione in corso
+### TITOLO: Storyboard per spot pubblicitario di una bevanda frizzante al limone premium FORMATO: • Storyboard premium a pagina singola • Rapporto verticale 3:4 • Campagna per bevanda di lusso • 8 scene cinematografiche focalizzate sul prodotto • Il prodotto rimane l'eroe visivo • Presentazione commerciale di alto livello
 
 Autore：[@Strength04\_X](https://x.com/Strength04_X) · [Post originale](https://x.com/Strength04_X/status/2097237465887338994)
 
 Fumetto / Storyboard · Marketing di Prodotto · Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Prodotto · Cibo / Bevande · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** TITOLO: Storyboard per spot pubblicitario di una bevanda frizzante al limone premium FORMATO: • Storyboard premium a pagina singola • Rapporto verticale 3:4 • Campagna per bevanda di lusso • 8 scene cinematografiche focalizzate sul prodotto • Il prodotto rimane l'eroe visivo • Presentazione commerciale di alto livello
 
 <img src="covers/2097237465887338994.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+TITOLO:
+Storyboard per spot pubblicitario di una bevanda frizzante al limone premium
+
+FORMATO:
+• Storyboard premium a pagina singola
+• Rapporto verticale 3:4
+• Campagna per bevanda di lusso
+• 8 scene cinematografiche focalizzate sul prodotto
+• Il prodotto rimane l'eroe visivo
+• Presentazione commerciale di alto livello
+
+INTESTAZIONE:
+• Tipografia contemporanea decisa
+• Schede informative:
+  - Durata: 20 secondi
+  - Stile: Spot cinematografico per bevande ad alta velocità
+  - Prodotto: Bevanda frizzante al limone
+  - Audio: Frizzio + Scricchiolio del ghiaccio + ASMR liquido
+• Sezione «Perché questo stile funziona»
+• Estetica bianco cristallo, giallo limone e argento
+• Accenti grafici minimali ispirati agli agrumi
+
+STORYBOARD:
+1. Bottiglia ghiacciata da sola con intensa condensa
+2. Macro estrema di gocce d'acqua che scivolano lungo la bottiglia
+3. Apertura del tappo della bottiglia con una drammatica esplosione di anidride carbonica
+4. Bevanda frizzante che esplode verso l'alto in uno schizzo liquido controllato
+5. Fette di limone che ruotano attraverso il liquido frizzante
+6. Cubetti di ghiaccio che cadono in un bicchiere di cristallo in ultra slow motion
+7. Macro estrema che mostra migliaia di bollicine di carbonatazione che salgono attraverso la bevanda
+8. Packshot finale da protagonista con bottiglia, bicchiere, fette di limone e schizzo congelato che circondano il prodotto
+
+OGNI PANNELLO:
+• Numero della scena
+• Badge di durata
+• Direzione della telecamera
+• Visual
+• Azione
+• Dettaglio del prodotto
+
+TELECAMERA:
+Fotografia di liquidi ad alta velocità a 120 fps, macro estrema, schizzo congelato, fette di limone rotanti, drammatica retroilluminazione, primo piano della condensa, movimento fluido del prodotto a 360°.
+
+STILE:
+Spot pubblicitario di bevande premium ultra-realistico, liquido cristallino, carbonatazione esplosiva, gocce d'acqua fisicamente accurate
 ```
 
 [↑ Torna alle categorie](#catalog)

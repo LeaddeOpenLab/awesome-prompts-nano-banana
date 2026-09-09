@@ -130,20 +130,64 @@ Tradução em curso
 
 <a name="prompt-2097237465887338994"></a>
 
-### Tradução em curso
+### TÍTULO: Storyboard de Anúncio de Produto de Bebida de Limão Gaseificada Premium FORMATO: • Storyboard premium de página única • Formato vertical 3:4 • Campanha de bebida de luxo • 8 cenas cinematográficas focadas no produto • O produto mantém-se como o protagonista visual • Apresentação comercial topo de gama
 
 Autor：[@Strength04\_X](https://x.com/Strength04_X) · [Publicação original](https://x.com/Strength04_X/status/2097237465887338994)
 
 Banda desenhada / Storyboard · Marketing de Produto · Cena de Cinema / Fotograma · Retrato / Selfie · Produto · Comida / Bebida · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** TÍTULO: Storyboard de Anúncio de Produto de Bebida de Limão Gaseificada Premium FORMATO: • Storyboard premium de página única • Formato vertical 3:4 • Campanha de bebida de luxo • 8 cenas cinematográficas focadas no produto • O produto mantém-se como o protagonista visual • Apresentação comercial topo de gama
 
 <img src="covers/2097237465887338994.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+TÍTULO:
+Storyboard de Anúncio de Produto de Bebida de Limão Gaseificada Premium
+
+FORMATO:
+• Storyboard premium de página única
+• Formato vertical 3:4
+• Campanha de bebida de luxo
+• 8 cenas cinematográficas focadas no produto
+• O produto mantém-se como o protagonista visual
+• Apresentação comercial topo de gama
+
+CABEÇALHO:
+• Tipografia contemporânea arrojada
+• Cartões informativos:
+  - Duração: 20 Segundos
+  - Estilo: Anúncio Cinematográfico de Bebidas em Alta Velocidade
+  - Produto: Bebida de Limão Gaseificada
+  - Áudio: Efervescência + Estalido de Gelo + ASMR Líquido
+• Secção "Por que este estilo funciona"
+• Estética em branco cristalino, amarelo-limão e prateado
+• Pormenores gráficos minimalistas inspirados em citrinos
+
+STORYBOARD:
+1. Garrafa gelada isolada com forte condensação
+2. Macro extrema de gotas de água a deslizar pela garrafa
+3. Abertura da carica com uma dramática explosão de gás
+4. Bebida com gás a explodir para cima num salpico líquido controlado
+5. Fatias de limão a girar através do líquido com gás
+6. Cubos de gelo a cair num copo de cristal em câmara ultralenta
+7. Macro extrema a mostrar milhares de bolhas de gás a subir pela bebida
+8. Packshot hero final com garrafa, copo, fatias de limão e salpico congelado a rodear o produto
+
+CADA PAINEL:
+• Número da cena
+• Crachá de duração
+• Direção de câmara
+• Visual
+• Ação
+• Detalhe do produto
+
+CÂMARA:
+Fotografia de líquidos a alta velocidade a 120 fps, macro extrema, salpico congelado, fatias de limão em rotação, retroiluminação dramática, grande plano da condensação, movimento suave de 360° do produto.
+
+ESTILO:
+Anúncio de bebida premium ultrarrealista, líquido cristalino, carbonatação explosiva, gotas de água fisicamente precisas
 ```
 
 [↑ Voltar às categorias](#catalog)

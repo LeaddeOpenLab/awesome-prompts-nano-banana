@@ -130,20 +130,64 @@ Tradução em andamento
 
 <a name="prompt-2097237465887338994"></a>
 
-### Tradução em andamento
+### TÍTULO: Storyboard para Comercial de Bebida de Limão Gaseificada Premium FORMATO: • Storyboard premium em página única • Proporção retrato 3:4 • Campanha de bebida de luxo • 8 cenas cinematográficas focadas no produto • O produto permanece como o protagonista visual • Apresentação comercial de alto padrão
 
 Autor：[@Strength04\_X](https://x.com/Strength04_X) · [Publicação original](https://x.com/Strength04_X/status/2097237465887338994)
 
 Quadrinhos / Storyboard · Marketing de Produto · Cinematográfico / Imagem de Filme · Retrato / Selfie · Produto · Alimentos / Bebidas · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** TÍTULO: Storyboard para Comercial de Bebida de Limão Gaseificada Premium FORMATO: • Storyboard premium em página única • Proporção retrato 3:4 • Campanha de bebida de luxo • 8 cenas cinematográficas focadas no produto • O produto permanece como o protagonista visual • Apresentação comercial de alto padrão
 
 <img src="covers/2097237465887338994.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+TÍTULO:
+Storyboard para Comercial de Bebida de Limão Gaseificada Premium
+
+FORMATO:
+• Storyboard premium em página única
+• Proporção retrato 3:4
+• Campanha de bebida de luxo
+• 8 cenas cinematográficas focadas no produto
+• O produto permanece como o protagonista visual
+• Apresentação comercial de alto padrão
+
+CABEÇALHO:
+• Tipografia contemporânea em negrito
+• Cartões informativos:
+  - Duração: 20 Segundos
+  - Estilo: Comercial Cinematográfico de Bebidas em Alta Velocidade
+  - Produto: Bebida de Limão Gaseificada
+  - Áudio: Efervescência + Estalo de Gelo + ASMR Líquido
+• Seção "Por que este estilo funciona"
+• Estética em branco cristal, amarelo-limão e prata
+• Acentos gráficos minimalistas inspirados em frutas cítricas
+
+STORYBOARD:
+1. Garrafa gelada isolada com forte condensação
+2. Macro extrema de gotículas de água deslizando pela garrafa
+3. Tampa da garrafa abrindo com uma dramática explosão de carbonatação
+4. Bebida com gás explodindo para cima em um respingo líquido controlado
+5. Fatias de limão girando através do líquido espumante
+6. Cubos de gelo caindo em um copo de cristal em câmera ultralenta
+7. Macro extrema mostrando milhares de bolhas de carbonatação subindo pela bebida
+8. Packshot hero final com garrafa, copo, fatias de limão e respingo congelado ao redor do produto
+
+CADA PAINEL:
+• Número da cena
+• Selo de duração
+• Direção de câmera
+• Visual
+• Ação
+• Detalhe do produto
+
+CÂMERA:
+Fotografia líquida de alta velocidade a 120 fps, macro extrema, respingo congelado, fatias de limão giratórias, contraluz dramática, close-up da condensação, movimento suave de 360° do produto.
+
+ESTILO:
+Comercial de bebida premium ultrarrealista, líquido cristalino, carbonatação explosiva, gotículas de água fisicamente precisas
 ```
 
 [↑ Voltar às categorias](#catalog)

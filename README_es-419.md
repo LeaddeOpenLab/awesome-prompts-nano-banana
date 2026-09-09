@@ -130,20 +130,64 @@ Traducción en curso
 
 <a name="prompt-2097237465887338994"></a>
 
-### Traducción en curso
+### TÍTULO: Storyboard para Comercial de Producto de Bebida Espumosa de Limón Premium FORMATO: • Storyboard premium de una sola página • Proporción vertical 3:4 • Campaña de bebida de lujo • 8 escenas cinematográficas centradas en el producto • El producto se mantiene como el protagonista visual • Presentación comercial de alta gama
 
 Autor：[@Strength04\_X](https://x.com/Strength04_X) · [Publicación original](https://x.com/Strength04_X/status/2097237465887338994)
 
 Cómic / Guion gráfico · Marketing de producto · Cine / Fotograma · Retrato / Selfie · Producto · Comida y bebida · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** TÍTULO: Storyboard para Comercial de Producto de Bebida Espumosa de Limón Premium FORMATO: • Storyboard premium de una sola página • Proporción vertical 3:4 • Campaña de bebida de lujo • 8 escenas cinematográficas centradas en el producto • El producto se mantiene como el protagonista visual • Presentación comercial de alta gama
 
 <img src="covers/2097237465887338994.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+TÍTULO:
+Storyboard para Comercial de Producto de Bebida Espumosa de Limón Premium
+
+FORMATO:
+• Storyboard premium de una sola página
+• Proporción vertical 3:4
+• Campaña de bebida de lujo
+• 8 escenas cinematográficas centradas en el producto
+• El producto se mantiene como el protagonista visual
+• Presentación comercial de alta gama
+
+ENCABEZADO:
+• Tipografía contemporánea en negrita
+• Tarjetas de información:
+  - Duración: 20 Segundos
+  - Estilo: Comercial de Bebida Cinematográfico de Alta Velocidad
+  - Producto: Bebida Espumosa de Limón
+  - Audio: Efervescencia + Crujido de Hielo + ASMR Líquido
+• Sección «Por qué funciona este estilo»
+• Estética en blanco cristalino, amarillo limón y plateado
+• Acentos gráficos minimalistas inspirados en cítricos
+
+STORYBOARD:
+1. Botella helada de pie sola con intensa condensación
+2. Macro extremo de gotas de agua deslizándose por la botella
+3. Apertura de la tapa de la botella con una dramática ráfaga de carbonatación
+4. Bebida con gas explotando hacia arriba en una salpicadura líquida controlada
+5. Rodajas de limón girando a través del líquido espumoso
+6. Cubos de hielo cayendo en un vaso de cristal en cámara ultra lenta
+7. Macro extremo que muestra miles de burbujas de carbonatación ascendiendo por la bebida
+8. Packshot final protagonista con la botella, el vaso, las rodajas de limón y la salpicadura congelada rodeando el producto
+
+CADA PANEL:
+• Número de escena
+• Distintivo de duración
+• Dirección de cámara
+• Visual
+• Acción
+• Detalle del producto
+
+CÁMARA:
+Fotografía de líquidos de alta velocidad a 120 fps, macro extremo, salpicadura congelada, rodajas de limón girando, dramática luz de fondo, primer plano de condensación, movimiento suave de 360° del producto.
+
+ESTILO:
+Comercial de bebida premium ultrarrealista, líquido cristalino, carbonatación explosiva, gotas de agua físicamente precisas
 ```
 
 [↑ Volver a categorías](#catalog)

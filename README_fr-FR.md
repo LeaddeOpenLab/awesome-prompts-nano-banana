@@ -130,20 +130,64 @@ Traduction en cours
 
 <a name="prompt-2097237465887338994"></a>
 
-### Traduction en cours
+### TITRE : Storyboard de spot publicitaire pour une boisson pétillante au citron haut de gamme FORMAT : • Storyboard premium sur une seule page • Format portrait 3:4 • Campagne pour boisson de luxe • 8 scènes cinématographiques centrées sur le produit • Le produit demeure le héros visuel • Présentation commerciale haut de gamme
 
 Auteur：[@Strength04\_X](https://x.com/Strength04_X) · [Publication originale](https://x.com/Strength04_X/status/2097237465887338994)
 
 Bande dessinée / Storyboard · Marketing produit · Image cinématographique / Photogramme de film · Portrait / Selfie · Produit · Alimentation / Boissons · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** TITRE : Storyboard de spot publicitaire pour une boisson pétillante au citron haut de gamme FORMAT : • Storyboard premium sur une seule page • Format portrait 3:4 • Campagne pour boisson de luxe • 8 scènes cinématographiques centrées sur le produit • Le produit demeure le héros visuel • Présentation commerciale haut de gamme
 
 <img src="covers/2097237465887338994.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+TITRE :
+Storyboard de spot publicitaire pour une boisson pétillante au citron haut de gamme
+
+FORMAT :
+• Storyboard premium sur une seule page
+• Format portrait 3:4
+• Campagne pour boisson de luxe
+• 8 scènes cinématographiques centrées sur le produit
+• Le produit demeure le héros visuel
+• Présentation commerciale haut de gamme
+
+EN-TÊTE :
+• Typographie contemporaine audacieuse
+• Cartes d'information :
+  - Durée : 20 secondes
+  - Style : Publicité cinématographique à haute vitesse pour boisson
+  - Produit : Boisson pétillante au citron
+  - Audio : Pétillement + craquement de glace + ASMR liquide
+• Section « Pourquoi ce style fonctionne »
+• Esthétique blanc cristal, jaune citron et argent
+• Accents graphiques minimaux inspirés des agrumes
+
+STORYBOARD :
+1. Bouteille glacée posée seule avec une forte condensation
+2. Macro extrême de gouttelettes d'eau glissant le long de la bouteille
+3. Ouverture du bouchon de la bouteille avec une explosion spectaculaire de carbonatation
+4. Boisson pétillante explosant vers le haut dans une éclaboussure liquide contrôlée
+5. Tranches de citron tournoyant à travers le liquide pétillant
+6. Glaçons tombant dans un verre en cristal au ralenti extrême
+7. Macro extrême montrant des milliers de bulles de gaz s'élevant à travers la boisson
+8. Plan héroïque final (packshot) avec la bouteille, le verre, les tranches de citron et l'éclaboussure figée entourant le produit
+
+CHAQUE PANNEAU :
+• Numéro de scène
+• Badge de durée
+• Direction de la caméra
+• Visuel
+• Action
+• Détail du produit
+
+CAMÉRA :
+Photographie de liquide à haute vitesse à 120 ips, macro extrême, éclaboussure figée, tranches de citron en rotation, rétroéclairage spectaculaire, gros plan sur la condensation, mouvement fluide du produit à 360°.
+
+STYLE :
+Publicité pour boisson haut de gamme ultra-réaliste, liquide cristallin, carbonatation explosive, gouttelettes d'eau physiquement réalistes
 ```
 
 [↑ Retour aux catégories](#catalog)

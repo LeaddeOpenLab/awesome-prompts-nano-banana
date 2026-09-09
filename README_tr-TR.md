@@ -130,20 +130,64 @@ Fotoğrafçılık · Sinematik / Film Karesi · Portre / Selfie · Karakter · M
 
 <a name="prompt-2097237465887338994"></a>
 
-### Çeviri sürüyor
+### BAŞLIK: Premium Gazlı Limon İçeceği Ürün Reklamı Storyboard'u BİÇİM: • Tek sayfalık premium storyboard • 3:4 Dikey en-boy oranı • Lüks içecek kampanyası • Ürün odaklı 8 sinematik sahne • Ürün görsel odak noktası olmayı sürdürür • Üst düzey ticari sunum
 
 Yazar：[@Strength04\_X](https://x.com/Strength04_X) · [Orijinal gönderi](https://x.com/Strength04_X/status/2097237465887338994)
 
 Çizgi Roman / Hikaye Taslağı · Ürün Pazarlaması · Sinematik / Film Karesi · Portre / Selfie · Ürün · Yiyecek / İçecek · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** BAŞLIK: Premium Gazlı Limon İçeceği Ürün Reklamı Storyboard'u BİÇİM: • Tek sayfalık premium storyboard • 3:4 Dikey en-boy oranı • Lüks içecek kampanyası • Ürün odaklı 8 sinematik sahne • Ürün görsel odak noktası olmayı sürdürür • Üst düzey ticari sunum
 
 <img src="covers/2097237465887338994.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+BAŞLIK:
+Premium Gazlı Limon İçeceği Ürün Reklamı Storyboard'u
+
+BİÇİM:
+• Tek sayfalık premium storyboard
+• 3:4 Dikey en-boy oranı
+• Lüks içecek kampanyası
+• Ürün odaklı 8 sinematik sahne
+• Ürün görsel odak noktası olmayı sürdürür
+• Üst düzey ticari sunum
+
+ÜST BİLGİ:
+• Çarpıcı çağdaş tipografi
+• Bilgi kartları:
+  - Süre: 20 Saniye
+  - Tarz: Yüksek Hızlı Sinematik İçecek Reklamı
+  - Ürün: Gazlı Limon İçeceği
+  - Ses: Köpürme + Buz Çatlaması + Sıvı ASMR
+• "Bu Tarz Neden İşe Yarıyor" bölümü
+• Kristal beyazı, limon sarısı ve gümüş estetiği
+• Minimal narenciye esintili grafik detaylar
+
+STORYBOARD:
+1. Yoğun buğulanmış, tek başına duran buz gibi şişe
+2. Şişeden aşağı süzülen su damlacıklarının aşırı makro çekimi
+3. Şişe kapağının dramatik bir gaz patlamasıyla açılışı
+4. Gazlı içeceğin kontrollü bir sıvı sıçramasıyla yukarı doğru patlaması
+5. Gazlı sıvının içinde dönen limon dilimleri
+6. Kristal bardağa ultra ağır çekimde düşen buz küpleri
+7. İçeceğin içinden yükselen binlerce gaz kabarcığını gösteren aşırı makro çekim
+8. Ürünü çevreleyen şişe, bardak, limon dilimleri ve donmuş sıçrama ile nihai hero packshot
+
+HER PANELDE:
+• Sahne numarası
+• Süre rozeti
+• Kamera yönü
+• Görsel
+• Eylem
+• Ürün detayı
+
+KAMERA:
+120 fps yüksek hızlı sıvı fotoğrafçılığı, aşırı makro, donmuş sıçrama, dönen limon dilimleri, dramatik arka ışık, buğulanma yakın çekimi, akıcı 360° ürün hareketi.
+
+TARZ:
+Ultra gerçekçi premium içecek reklamı, kristal berraklığında sıvı, patlayıcı gazlanma, fiziksel olarak kusursuz su damlacıkları
 ```
 
 [↑ Kategorilere dön](#catalog)

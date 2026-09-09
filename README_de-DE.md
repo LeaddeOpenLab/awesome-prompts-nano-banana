@@ -130,20 +130,64 @@ Fotografie · Kinematisch / Filmstill · Porträt / Selfie · Charakter · Modea
 
 <a name="prompt-2097237465887338994"></a>
 
-### Übersetzung läuft
+### TITEL: Storyboard für Werbespot eines Premium-Zitronen-Erfrischungsgetränks FORMAT: • Einseitiges Premium-Storyboard • 3:4 Hochformat • Luxus-Getränkekampagne • 8 filmische, produktfokussierte Szenen • Das Produkt bleibt der visuelle Held • Hochwertige Werbepräsentation
 
 Autor：[@Strength04\_X](https://x.com/Strength04_X) · [Originalbeitrag](https://x.com/Strength04_X/status/2097237465887338994)
 
 Comic / Storyboard · Produktmarketing · Kinematisch / Filmstill · Porträt / Selfie · Produkt · Essen / Trinken · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** TITEL: Storyboard für Werbespot eines Premium-Zitronen-Erfrischungsgetränks FORMAT: • Einseitiges Premium-Storyboard • 3:4 Hochformat • Luxus-Getränkekampagne • 8 filmische, produktfokussierte Szenen • Das Produkt bleibt der visuelle Held • Hochwertige Werbepräsentation
 
 <img src="covers/2097237465887338994.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+TITEL:
+Storyboard für Werbespot eines Premium-Zitronen-Erfrischungsgetränks
+
+FORMAT:
+• Einseitiges Premium-Storyboard
+• 3:4 Hochformat
+• Luxus-Getränkekampagne
+• 8 filmische, produktfokussierte Szenen
+• Das Produkt bleibt der visuelle Held
+• Hochwertige Werbepräsentation
+
+KOPFZEILE:
+• Markante zeitgenössische Typografie
+• Informationskarten:
+  - Dauer: 20 Sekunden
+  - Stil: High-Speed cineastischer Getränkewerbespot
+  - Produkt: Zitronen-Erfrischungsgetränk mit Kohlensäure
+  - Audio: Zischen + Eisknacken + Flüssigkeits-ASMR
+• Abschnitt „Warum dieser Stil funktioniert“
+• Ästhetik in Kristallweiß, Zitronengelb und Silber
+• Minimale, von Zitrusfrüchten inspirierte grafische Akzente
+
+STORYBOARD:
+1. Eiskalte Flasche alleinstehend mit starker Kondensation
+2. Extremes Makro von Wassertropfen, die an der Flasche heruntergleiten
+3. Öffnen des Flaschendeckels mit einem dramatischen Ausbruch von Kohlensäure
+4. Sprudelndes Getränk explodiert in einem kontrollierten Flüssigkeitsspritzer nach oben
+5. Zitronenscheiben drehen sich durch die kohlensäurehaltige Flüssigkeit
+6. Eiswürfel fallen in Ultra-Slow-Motion in ein Kristallglas
+7. Extremes Makro zeigt Tausende von Kohlensäurebläschen, die durch das Getränk aufsteigen
+8. Finaler Hero-Packshot mit Flasche, Glas, Zitronenscheiben und eingefrorenem Spritzer, der das Produkt umgibt
+
+JEDES PANEL:
+• Szenennummer
+• Dauer-Badge
+• Kamerarichtung
+• Visuelles
+• Handlung
+• Produktdetail
+
+KAMERA:
+120fps High-Speed-Flüssigkeitsfotografie, extremes Makro, eingefrorener Spritzer, rotierende Zitronenscheiben, dramatisches Gegenlicht, Kondensations-Nahaufnahme, sanfte 360°-Produktbewegung.
+
+STIL:
+Ultrarealistischer Premium-Getränkewerbespot, kristallklare Flüssigkeit, explosive Kohlensäure, physikalisch akkurate Wassertropfen
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
