@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T09:15:06.219Z",
+  "model": "nano-banana",
+  "prompt": "Create a cinematic, ultra-realistic streetwear editorial portrait of me, preserving my exact facial identity, features, skin tone, hairstyle, and natural proportions. Style me in premium modern streetwear with an oversized layered outfit, subtle accessories, and a confident relaxed pose in an urban setting with concrete architecture, textured walls, and understated city details. Use dramatic natural lighting, soft shadows, shallow depth of field, realistic skin texture, sophisticated neutral tones, subtle film grain, high-fashion magazine composition, professional photography, and cinematic color grading. Make the image feel authentic, effortlessly cool, minimal, aesthetic, and editorial, like a luxury streetwear campaign photographed on a full-frame camera with an 85mm lens.",
+  "promptTranslations": {
+    "en": "Create a cinematic, ultra-realistic streetwear editorial portrait of me, preserving my exact facial identity, features, skin tone, hairstyle, and natural proportions. Style me in premium modern streetwear with an oversized layered outfit, subtle accessories, and a confident relaxed pose in an urban setting with concrete architecture, textured walls, and understated city details. Use dramatic natural lighting, soft shadows, shallow depth of field, realistic skin texture, sophisticated neutral tones, subtle film grain, high-fashion magazine composition, professional photography, and cinematic color grading. Make the image feel authentic, effortlessly cool, minimal, aesthetic, and editorial, like a luxury streetwear campaign photographed on a full-frame camera with an 85mm lens."
+  },
+  "summaryTranslations": {
+    "en": "Create a cinematic, ultra-realistic streetwear editorial portrait in an urban setting."
+  },
+  "translationVersion": 2,
+  "summary": "Create a cinematic, ultra-realistic streetwear editorial portrait in an urban setting.",
+  "summaryEn": "Create a cinematic, ultra-realistic streetwear editorial portrait in an urban setting.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097564694974541836",
+    "canonicalUrl": "https://x.com/shushant_l/status/2097564694974541836",
+    "author": {
+      "username": "shushant_l",
+      "displayName": "Shushant Lakhyani",
+      "profileUrl": "https://x.com/shushant_l"
+    },
+    "publishedAt": "2026-09-09T05:56:08.000Z",
+    "collectedAt": "2026-09-09T09:07:26.167Z",
+    "language": "en",
+    "originalText": "here's how to create your streetwear editorial portrait\n\nuse google nano banana pro or any other AI image generation model\n\nuse this prompt: Create a cinematic, ultra-realistic streetwear editorial portrait of me, preserving my exact facial identity, features, skin tone, hairstyle, and natural proportions. Style me in premium modern streetwear with an oversized layered outfit, subtle accessories, and a confident relaxed pose in an urban setting with concrete architecture, textured walls, and understated city details. Use dramatic natural lighting, soft shadows, shallow depth of field, realistic skin texture, sophisticated neutral tones, subtle film grain, high-fashion magazine composition, professional photography, and cinematic color grading. Make the image feel authentic, effortlessly cool, minimal, aesthetic, and editorial, like a luxury streetwear campaign photographed on a full-frame camera with an 85mm lens. I've attached my image here.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRwL81haoAAdUWM.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRwL81haoAAdUWM.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRwL9VRa8AAFdZ1.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRwL9VRa8AAFdZ1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRwL90LbIAEs-6k.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRwL90LbIAEs-6k.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRwL-Tna4AEThPF.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRwL-Tna4AEThPF.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 5,
+      "repostCount": 2,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 501
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/shushant_l/status/2097564694974541836",
+  "coverUrl": "https://pbs.twimg.com/media/HRwL81haoAAdUWM.jpg",
+  "coverPath": "images/2097564694974541836-1.jpg",
+  "imagePaths": [
+    "images/2097564694974541836-1.jpg",
+    "images/2097564694974541836-2.jpg",
+    "images/2097564694974541836-3.jpg",
+    "images/2097564694974541836-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRwL81haoAAdUWM",
+    "x-image:/media/HRwL9VRa8AAFdZ1",
+    "x-image:/media/HRwL90LbIAEs-6k",
+    "x-image:/media/HRwL-Tna4AEThPF",
+    "x-post:2097564694974541836"
+  ],
+  "analysis": {
+    "summary": "Create a cinematic, ultra-realistic streetwear editorial portrait in an urban setting.",
+    "summaryEn": "Create a cinematic, ultra-realistic streetwear editorial portrait in an urban setting.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Images demonstrate an oversized layered streetwear look, concrete urban backdrop, and editorial 85mm portrait styling matching the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a cinematic, ultra-realistic streetwear editorial portrait of me, preserving my exact facial identity, features, skin tone, hairstyle, and natural proportions. Style me in premium modern streetwear with an oversized layered outfit, subtle accessories, and a confident relaxed pose in an urban setting with concrete architecture, textured walls, and understated city details. Use dramatic natural lighting, soft shadows, shallow depth of field, realistic skin texture, sophisticated neutral tones, subtle film grain, high-fashion magazine composition, professional photography, and cinematic color grading. Make the image feel authentic, effortlessly cool, minimal, aesthetic, and editorial, like a luxury streetwear campaign photographed on a full-frame camera with an 85mm lens.",
+    "sourceRange": {
+      "start": 141,
+      "end": 927
+    },
+    "translations": {
+      "zh": "为我创作一张电影质感、超逼真的街头时尚编辑风肖像，保留我准确的面部特征、肤色、发型和自然比例。让我身穿高级现代街头服饰，搭配宽大叠穿造型、低调饰品，在充满混凝土建筑、质感墙面和低调城市细节的街景中展现自信随性的姿势。采用戏剧性的自然光、柔和阴影、浅景深、逼真皮肤质感、高级中性色调、微弱胶片颗粒、高级时装杂志构图、专业摄影和电影调色。整体效果真实、随性酷炫、极简、富有美感且具杂志质感，犹如使用全画幅相机与85mm镜头拍摄的奢华街头服饰广告大片。",
+      "en": "Create a cinematic, ultra-realistic streetwear editorial portrait of me, preserving my exact facial identity, features, skin tone, hairstyle, and natural proportions. Style me in premium modern streetwear with an oversized layered outfit, subtle accessories, and a confident relaxed pose in an urban setting with concrete architecture, textured walls, and understated city details. Use dramatic natural lighting, soft shadows, shallow depth of field, realistic skin texture, sophisticated neutral tones, subtle film grain, high-fashion magazine composition, professional photography, and cinematic color grading. Make the image feel authentic, effortlessly cool, minimal, aesthetic, and editorial, like a luxury streetwear campaign photographed on a full-frame camera with an 85mm lens."
+    },
+    "targetModels": [
+      "nano-banana"
+    ],
+    "category": "image-to-video",
+    "useCase": "streetwear editorial portrait generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
