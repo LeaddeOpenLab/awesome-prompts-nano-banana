@@ -446,20 +446,20 @@ Una impresionante vista vertical de una metrópolis futurista que flota grácilm
 
 <a name="prompt-2097709112188641299"></a>
 
-### Traducción en curso
+### Retrato de una joven con un vestido de seda azul en un columpio durante la hora dorada.
 
 Autor：[@dreamydigiarts](https://x.com/dreamydigiarts) · [Publicación original](https://x.com/dreamydigiarts/status/2097709112188641299)
 
 Retrato / Selfie · Personaje · Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato de una joven con un vestido de seda azul en un columpio durante la hora dorada.
 
 <img src="images/2097709112188641299-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+La imagen es un retrato vertical de bellas artes de cuerpo entero y alta resolución, tomado con Sony A1 y lente de 120 mm, que captura a una esbelta supermodelo de unos 20 años, bañada por la cálida luz de la hora dorada, encontrando consuelo en un columpio, suaves y brumosos colores pastel, vestida con un vestido de seda azul cobalto, atmósfera de ensueño, con cabello largo negro azabache al viento, grandes y expresivos ojos café oscuro, labios rojos entreabiertos, transmitiendo nostalgia y paz, mirada pensativa, una pizca de nostalgia, atraviesa el ambiente cálido mientras los últimos rayos del sol bailan a través de su cabello despeinado, en un momento de quietud.
 ```
 
 [↑ Volver a categorías](#catalog)

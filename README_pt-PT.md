@@ -446,20 +446,20 @@ Uma vista vertical deslumbrante de uma metrópole futurista a flutuar graciosame
 
 <a name="prompt-2097709112188641299"></a>
 
-### Tradução em curso
+### Retrato de uma jovem mulher com um vestido de seda azul num baloiço durante a hora dourada.
 
 Autor：[@dreamydigiarts](https://x.com/dreamydigiarts) · [Publicação original](https://x.com/dreamydigiarts/status/2097709112188641299)
 
 Retrato / Selfie · Personagem · Item de Moda · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Retrato de uma jovem mulher com um vestido de seda azul num baloiço durante a hora dourada.
 
 <img src="images/2097709112188641299-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+A imagem é um retrato artístico vertical de corpo inteiro em alta resolução, Sony A1 e lente de 120 mm, captando uma esbelta supermodelo no início dos seus 20 anos, banhada pela luz quente da hora dourada, encontrando consolo num baloiço, cores pastel suaves e nebulosas, vestindo um vestido de seda azul-cobalto, atmosfera de sonho, com longos cabelos pretos como azeviche esvoaçantes, grandes e expressivos olhos castanho-escuros, lábios vermelhos entreabertos, transmitindo nostalgia e paz, olhar pensativo, uma pitada de nostalgia, atravessa o ambiente acolhedor enquanto os últimos raios de sol dançam pelos seus cabelos desalinhados, num momento de quietude.
 ```
 
 [↑ Voltar às categorias](#catalog)

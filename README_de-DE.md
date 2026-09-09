@@ -446,20 +446,20 @@ Eine atemberaubende vertikale Ansicht einer futuristischen Metropole, die in der
 
 <a name="prompt-2097709112188641299"></a>
 
-### Übersetzung läuft
+### Porträt einer jungen Frau in einem blauen Seidenkleid auf einer Schaukel während der goldenen Stunde.
 
 Autor：[@dreamydigiarts](https://x.com/dreamydigiarts) · [Originalbeitrag](https://x.com/dreamydigiarts/status/2097709112188641299)
 
 Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Porträt einer jungen Frau in einem blauen Seidenkleid auf einer Schaukel während der goldenen Stunde.
 
 <img src="images/2097709112188641299-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Das Bild ist ein hochauflösendes vertikales Kunstporträt in voller Höhe, aufgenommen mit einer Sony A1 und einem 120-mm-Objektiv, das ein schlankes Supermodel Anfang 20 einfängt, gebadet in warmes Licht der goldenen Stunde, Trost suchend auf einer Schaukel, weiche dunstige Pastellfarben, bekleidet mit einem kobaltblauen Seidenkleid, traumhafte Atmosphäre, mit langem, windverwehtem pechschwarzem Haar, großen ausdrucksstarken dunkelbraunen Augen, leicht geöffneten roten Lippen, die Nostalgie und Frieden vermitteln, nachdenklicher Blick, ein Hauch von Nostalgie, durchdringt das warme Ambiente, während die letzten Sonnenstrahlen durch ihr zerzaustes Haar tanzen, in einem Moment der Stille.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -446,20 +446,20 @@ Góc nhìn thẳng đứng ngoạn mục của một đô thị tương lai lơ 
 
 <a name="prompt-2097709112188641299"></a>
 
-### Đang dịch
+### Chân dung một phụ nữ trẻ mặc váy lụa xanh trên xích đu trong giờ vàng.
 
 Tác giả：[@dreamydigiarts](https://x.com/dreamydigiarts) · [Bài gốc](https://x.com/dreamydigiarts/status/2097709112188641299)
 
 Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung một phụ nữ trẻ mặc váy lụa xanh trên xích đu trong giờ vàng.
 
 <img src="images/2097709112188641299-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Hình ảnh là chân dung mỹ thuật dạng đứng toàn thân độ phân giải cao, chụp bằng máy ảnh Sony A1 và ống kính 120mm, ghi lại hình ảnh một siêu mẫu thon thả ở độ tuổi đầu 20, đắm mình trong ánh sáng hoàng hôn ấm áp, tìm kiếm sự bình yên trên chiếc xích đu, tông màu pastel mờ ảo mềm mại, mặc chiếc váy lụa màu xanh cô-ban, bầu không khí mơ màng, với mái tóc đen nhánh dài tung bay trong gió, đôi mắt nâu sẫm to tròn đầy biểu cảm, đôi môi đỏ khẽ hé mở, gợi lên nỗi nhớ nhung và sự bình yên, ánh nhìn đăm chiêu, một thoáng hoài niệm, xuyên qua bầu không khí ấm áp khi những tia nắng cuối cùng nhảy múa qua mái tóc rối bời của cô, trong khoảnh khắc tĩnh lặng.
 ```
 
 [↑ Về danh mục](#catalog)

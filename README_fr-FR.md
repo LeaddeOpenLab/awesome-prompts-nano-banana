@@ -446,20 +446,20 @@ Une vue verticale à couper le souffle d'une métropole futuriste flottant graci
 
 <a name="prompt-2097709112188641299"></a>
 
-### Traduction en cours
+### Portrait d'une jeune femme en robe de soie bleue sur une balançoire pendant l'heure dorée.
 
 Auteur：[@dreamydigiarts](https://x.com/dreamydigiarts) · [Publication originale](https://x.com/dreamydigiarts/status/2097709112188641299)
 
 Portrait / Selfie · Personnage · Article de mode · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait d'une jeune femme en robe de soie bleue sur une balançoire pendant l'heure dorée.
 
 <img src="images/2097709112188641299-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+L'image est un portrait d'art vertical en pied haute résolution, Sony A1 et objectif 120 mm, capturant une svelte top-modèle au début de la vingtaine, baignée dans la chaude lumière de l'heure dorée, trouvant du réconfort sur une balançoire, couleurs pastel douces et vaporeuses, vêtue d'une robe en soie bleu cobalt, atmosphère de rêve, avec de longs cheveux noir de jais balayés par le vent, de grands yeux marron foncé expressifs, des lèvres rouges entrouvertes, véhiculant nostalgie et paix, regard pensif, un soupçon de nostalgie, perçant l'ambiance chaleureuse alors que les derniers rayons du soleil dansent à travers ses cheveux ébouriffés, dans un moment de quiétude.
 ```
 
 [↑ Retour aux catégories](#catalog)

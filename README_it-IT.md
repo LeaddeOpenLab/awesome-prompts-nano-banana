@@ -446,20 +446,20 @@ Un'incredibile vista verticale di una metropoli futuristica che fluttua con graz
 
 <a name="prompt-2097709112188641299"></a>
 
-### Traduzione in corso
+### Ritratto di una giovane donna con un abito di seta blu su un'altalena durante l'ora d'oro.
 
 Autore：[@dreamydigiarts](https://x.com/dreamydigiarts) · [Post originale](https://x.com/dreamydigiarts/status/2097709112188641299)
 
 Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto di una giovane donna con un abito di seta blu su un'altalena durante l'ora d'oro.
 
 <img src="images/2097709112188641299-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+L'immagine è un ritratto artistico verticale a figura intera ad alta risoluzione, Sony A1 e obiettivo da 120 mm, che cattura una snella top model poco più che ventenne, immersa nella calda luce dell'ora d'oro, che trova conforto su un'altalena, morbidi e velati colori pastello, che indossa un abito di seta blu cobalto, atmosfera sognante, con lunghi capelli corvini scompigliati dal vento, grandi ed espressivi occhi castano scuro, labbra rosse dischiuse, che trasmettono nostalgia e pace, sguardo pensieroso, una punta di nostalgia, trafigge la calda atmosfera mentre gli ultimi raggi del sole danzano tra i suoi capelli spettinati, in un momento di quiete.
 ```
 
 [↑ Torna alle categorie](#catalog)

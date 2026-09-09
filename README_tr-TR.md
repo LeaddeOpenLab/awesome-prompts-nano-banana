@@ -476,20 +476,20 @@ Alacakaranlıkta, dalgalanan yoğun koyu gri bulutlardan oluşan sonsuz bir deni
 
 <a name="prompt-2097709112188641299"></a>
 
-### Çeviri sürüyor
+### Altın saatte salıncakta mavi ipek elbiseli genç bir kadının portresi.
 
 Yazar：[@dreamydigiarts](https://x.com/dreamydigiarts) · [Orijinal gönderi](https://x.com/dreamydigiarts/status/2097709112188641299)
 
 Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Altın saatte salıncakta mavi ipek elbiseli genç bir kadının portresi.
 
 <img src="images/2097709112188641299-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Görüntü, Sony A1 ve 120 mm lens ile çekilmiş, 20'li yaşlarının başında narin bir süper modeli yakalayan, altın saatin sıcak ışığıyla yıkanmış, bir salıncakta teselli bulan, yumuşak puslu pastel renkler, kobalt mavisi ipek bir elbise giymiş, rüya gibi bir atmosfer, rüzgarda savrulan uzun simsiyah saçlar, iri etkileyici koyu kahverengi gözler, aralık kırmızı dudaklar, nostalji ve huzur ileten, düşünceli bakış, bir nostalji kırıntısı, güneşin son ışınları darmadağınık saçlarının arasından dans ederken sıcak ambiyansı delen, sessiz bir anın içinde yüksek çözünürlüklü tam boy dikey güzel sanatlar portresidir.
 ```
 
 [↑ Kategorilere dön](#catalog)
