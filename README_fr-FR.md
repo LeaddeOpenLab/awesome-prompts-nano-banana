@@ -315,20 +315,24 @@ Traduction en cours
 
 <a name="prompt-2097548956251168916"></a>
 
-### Traduction en cours
+### Portrait de studio haute couture d'une femme élégante vêtue d'une robe noire sur une chaise sculpturale noire.
 
 Auteur：[@Elvorya](https://x.com/Elvorya) · [Publication originale](https://x.com/Elvorya/status/2097548956251168916)
 
 Portrait / Selfie · Personnage · Article de mode · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait de studio haute couture d'une femme élégante vêtue d'une robe noire sur une chaise sculpturale noire.
 
 <img src="images/2097548956251168916-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Portrait de studio haute couture ultra-réaliste d'une femme élégante assise gracieusement sur un fond gris anthracite foncé. Elle porte une robe asymétrique sophistiquée en satin noir ornée de subtils ornements scintillants. Cheveux bruns foncés, lisses et soignés, brossés vers l'arrière derrière les épaules. Maquillage glamour raffiné, sourcils doucement définis, fard à paupières marron fumé, eye-liner net, longs cils, fard à joues chaud, peau naturelle éclatante et lèvres rose nude brillantes. Elle porte d'élégantes boucles d'oreilles pendantes géométriques en argent, plusieurs bagues fines en argent, un bracelet délicat et une petite bague d'oreille (ear cuff).
+
+Pose : assise sur une chaise sculpturale noire brillante, un bras reposant naturellement sur la chaise et l'autre main délicatement levée sous son menton, les doigts détendus et élégants. Ongles longs et soignés avec un vernis noir brillant. Regard direct calme et confiant vers l'appareil photo, expression sophistiquée.
+
+Photographie de beauté luxueuse professionnelle, lumière principale douce et diffuse, subtile lumière d'accentuation en bordure, ombres profondes, contraste élevé, texture de peau réaliste, traits du visage détaillés, finition éditoriale impeccable, atmosphère cinématographique, mise au point nette, objectif portrait 85 mm, faible profondeur de champ, esthétique de magazine de mode haut de gamme, photoréaliste, 4K, composition verticale.
 ```
 
 [↑ Retour aux catégories](#catalog)

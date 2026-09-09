@@ -315,20 +315,24 @@ Produktmarketing · Plakat / Flyer · Veröffentlicht
 
 <a name="prompt-2097548956251168916"></a>
 
-### Übersetzung läuft
+### High-Fashion-Studioporträt einer eleganten Frau in einem schwarzen Kleid auf einem schwarzen skulpturalen Stuhl.
 
 Autor：[@Elvorya](https://x.com/Elvorya) · [Originalbeitrag](https://x.com/Elvorya/status/2097548956251168916)
 
 Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** High-Fashion-Studioporträt einer eleganten Frau in einem schwarzen Kleid auf einem schwarzen skulpturalen Stuhl.
 
 <img src="images/2097548956251168916-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ultrarealistisches High-Fashion-Studioporträt einer eleganten Frau, die anmutig vor einem dunklen, anthrazitgrauen Hintergrund sitzt. Sie trägt eine raffinierte schwarze One-Shoulder-Satinstirnrobe mit dezenten, glitzernden Verzierungen. Glattes, dunkles, braunes Haar, das ordentlich nach hinten hinter die Schultern gebürstet ist. Raffiniertes, glamouröses Make-up, sanft definierte Brauen, rauchig-brauner Lidschatten, scharfer Eyeliner, lange Wimpern, warmes Rouge, strahlende, natürliche Haut und glänzende nudefarbene Lippen. Sie trägt elegante geometrische silberne Tropfenohrringe, mehrere zarte Silberringe, ein schmales Armband und eine kleine Ohrklemme.
+
+Pose: Sitzend auf einem glänzend schwarzen skulpturalen Stuhl, ein Arm ruht natürlich auf dem Stuhl und die andere Hand ist zart unter ihr Kinn gehoben, die Finger entspannt und elegant. Lange, manikürte Nägel mit glänzendem schwarzem Lack. Ruhiger, selbstbewusster direkter Blick in die Kamera, anspruchsvoller Ausdruck.
+
+Professionelle Luxus-Beauty-Fotografie, weiches, diffuses Führungslicht, dezentes Kantenlicht, tiefe Schatten, hoher Kontrast, realistische Hauttextur, detaillierte Gesichtszüge, makelloses redaktionelles Finish, filmische Atmosphäre, scharfer Fokus, 85-mm-Porträtobjektiv, geringe Schärfentiefe, Ästhetik eines erstklassigen Modemagazins, fotorealistisch, 4K, vertikale Komposition.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

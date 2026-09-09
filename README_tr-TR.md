@@ -315,20 +315,24 @@ Yazar：[@AIGuideNote](https://x.com/AIGuideNote) · [Orijinal gönderi](https:/
 
 <a name="prompt-2097548956251168916"></a>
 
-### Çeviri sürüyor
+### Siyah heykelsi bir sandalyede siyah elbiseli zarif bir kadının yüksek moda stüdyo portresi.
 
 Yazar：[@Elvorya](https://x.com/Elvorya) · [Orijinal gönderi](https://x.com/Elvorya/status/2097548956251168916)
 
 Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Siyah heykelsi bir sandalyede siyah elbiseli zarif bir kadının yüksek moda stüdyo portresi.
 
 <img src="images/2097548956251168916-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Koyu antrasit grisi bir arka plan önünde zarif bir şekilde oturan şık bir kadının ultra gerçekçi yüksek moda stüdyo portresi. İnce ışıltılı süslemelere sahip, sofistike, tek omuzlu siyah saten bir elbise giyiyor. Omuzların arkasına doğru düzgünce taranmış, pürüzsüz, düz koyu kahverengi saçlar. Rafine ve göz alıcı makyaj, yumuşakça belirginleştirilmiş kaşlar, dumanlı kahverengi göz farı, keskin eyeliner, uzun kirpikler, sıcak tonlu allık, ışıltılı doğal bir cilt ve parlak nude pembe dudaklar. Zarif geometrik gümüş sallantılı küpeler, çok sayıda narin gümüş yüzük, ince bir bilezik ve küçük bir kıkırdak küpesi (ear cuff) takıyor.
+
+Poz: Parlak siyah heykelsi bir sandalyede oturuyor; bir kolu sandalyeye doğal bir şekilde dayanmış, diğer eli ise çenesinin altına zarifçe kaldırılmış, parmakları rahat ve asil. Parlak siyah ojeli, uzun ve bakımlı tırnaklar. Kameraya doğrudan, sakin ve kendinden emin bir bakış, sofistike bir yüz ifadesi.
+
+Profesyonel lüks güzellik fotoğrafçılığı, yumuşak yayılmış ana ışık, ince kenar (rim) ışığı, derin gölgeler, yüksek kontrast, gerçekçi cilt dokusu, ayrıntılı yüz hatları, kusursuz editoryal rötuş, sinematik atmosfer, keskin odak, 85mm portre lensi, sığ alan derinliği, birinci sınıf moda dergisi estetiği, fotogerçekçi, 4K, dikey kompozisyon.
 ```
 
 [↑ Kategorilere dön](#catalog)

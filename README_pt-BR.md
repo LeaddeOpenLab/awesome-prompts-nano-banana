@@ -315,20 +315,24 @@ Tradução em andamento
 
 <a name="prompt-2097548956251168916"></a>
 
-### Tradução em andamento
+### Retrato de estúdio de alta-costura de uma mulher elegante em um vestido preto sobre uma cadeira escultural preta.
 
 Autor：[@Elvorya](https://x.com/Elvorya) · [Publicação original](https://x.com/Elvorya/status/2097548956251168916)
 
 Retrato / Selfie · Personagem · Item de Moda · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Retrato de estúdio de alta-costura de uma mulher elegante em um vestido preto sobre uma cadeira escultural preta.
 
 <img src="images/2097548956251168916-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Retrato de estúdio de alta-costura ultrarrealista de uma mulher elegante sentada graciosamente contra um fundo cinza-carvão escuro. Ela usa um sofisticado vestido de cetim preto de um ombro só, com sutis enfeites brilhantes. Cabelo castanho-escuro liso e polido, escovado cuidadosamente para trás dos ombros. Maquiagem glamorosa e refinada, sobrancelhas suavemente definidas, sombra marrom esfumada, delineador marcado, cílios longos, blush quente, pele natural radiante e lábios nude rosados com acabamento brilhante. Ela usa elegantes brincos pendentes geométricos de prata, vários anéis de prata delicados, uma pulseira fina e um pequeno ear cuff.
+
+Pose: sentada em uma cadeira escultural preta brilhante, com um braço descansando naturalmente sobre a cadeira e a outra mão delicadamente levantada sob o queixo, dedos relaxados e elegantes. Unhas compridas e bem cuidadas com esmalte preto brilhante. Olhar direto, calmo e confiante para a câmera, expressão sofisticada.
+
+Fotografia profissional de beleza de luxo, iluminação principal suave e difusa, luz de recorte sutil, sombras profundas, alto contraste, textura de pele realista, traços faciais detalhados, acabamento editorial impecável, atmosfera cinematográfica, foco nítido, lente de retrato de 85 mm, profundidade de campo rasa, estética de revista de moda de alto padrão, fotorrealista, 4K, composição vertical.
 ```
 
 [↑ Voltar às categorias](#catalog)
