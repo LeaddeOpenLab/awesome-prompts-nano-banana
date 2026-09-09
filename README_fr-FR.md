@@ -200,13 +200,13 @@ Publicité pour boisson haut de gamme ultra-réaliste, liquide cristallin, carbo
 
 <a name="prompt-2097435473043931201"></a>
 
-### Traduction en cours
+### Prompts représentant des villes flottantes illuminées suspendues au-dessus de mers de nuages sous de gigantesques nébuleuses en anneau cosmique lumineuses.
 
 Auteur：[@churvikv](https://x.com/churvikv) · [Publication originale](https://x.com/churvikv/status/2097435473043931201)
 
 Cyberpunk / Science-fiction · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompts représentant des villes flottantes illuminées suspendues au-dessus de mers de nuages sous de gigantesques nébuleuses en anneau cosmique lumineuses.
 
 <img src="images/2097435473043931201-1.jpg" alt="Image 1" width="480" />
 
@@ -215,7 +215,11 @@ Cyberpunk / Science-fiction · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Prompt 1:
+Une illustration numérique enchanteresse d'un paysage urbain suspendu au-dessus d'une mer de nuages nocturnes duveteux sous un ciel magique. Au premier plan, un groupe dense de gratte-ciel imposants, dont les fenêtres sont illuminées par de chaudes lumières dorées, crée une ligne d'horizon urbaine étincelante. La ville semble reposer sur une épaisse couverture ondulante de nuages bleu sombre et gris qui s'étire au loin. Au-dessus de la ville, le ciel nocturne se transforme en une merveille céleste : un anneau massif et lumineux d'une nébuleuse colorée encercle un vide sombre et étoilé. La nébuleuse brille de teintes vibrantes de pourpre profond, de bleu électrique et d'orange flamboyant, parsemée d'étoiles scintillantes et de constellations lointaines, créant une atmosphère onirique et surnaturelle.
+
+Prompt 2:
+Une vue verticale à couper le souffle d'une métropole futuriste flottant gracieusement au-dessus d'une mer infinie de nuages gris foncé denses et ondulants au crépuscule. La vaste ligne d'horizon de la ville présente de nombreux gratte-ciel imposants aux fenêtres rougeoyantes qui projettent de chaudes lumières d'ambre et d'orange sur le paysage urbain en contrebas. Dominant la partie supérieure du cadre, un magnifique anneau cosmique, une nébuleuse circulaire lumineuse composée de violets vibrants, de bleus profonds et de brillantes teintes dorées chaleureuses, saupoudrée d'innombrables étoiles scintillantes et de galaxies lointaines à travers le ciel nocturne noir d'encre. La composition est équilibrée et majestueuse, la couche de nuages sombres ancrant le premier plan inférieur, contrastant fortement avec le phénomène cosmique rayonnant au-dessus. L'éclairage est surréaliste et éthéré, mêlant la lueur artificielle chaleureuse des lumières de la ville à la luminescence cosmique de la nébuleuse. L'atmosphère est calme, impressionnante et mystique, évoquant un sentiment d'émerveillement interstellaire et d'isolement urbain. Les textures détaillées des nuages doux et volumineux, l'architecture élégante de verre et d'acier des gratte-ciel et la poussière cosmique étoilée créent une scène saisissante et à fort contraste.
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -200,13 +200,13 @@ Ultrarealistischer Premium-Getränkewerbespot, kristallklare Flüssigkeit, explo
 
 <a name="prompt-2097435473043931201"></a>
 
-### Übersetzung läuft
+### Prompts, die schwebende, beleuchtete Städte darstellen, die über Wolkenmeeren unter riesigen, leuchtenden kosmischen Ringnebeln schweben.
 
 Autor：[@churvikv](https://x.com/churvikv) · [Originalbeitrag](https://x.com/churvikv/status/2097435473043931201)
 
 Cyberpunk / Sci-Fi · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompts, die schwebende, beleuchtete Städte darstellen, die über Wolkenmeeren unter riesigen, leuchtenden kosmischen Ringnebeln schweben.
 
 <img src="images/2097435473043931201-1.jpg" alt="Bild 1" width="480" />
 
@@ -215,7 +215,11 @@ Cyberpunk / Sci-Fi · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Prompt 1:
+Eine bezaubernde digitale Illustration einer Stadtlandschaft, die über einem Meer aus flauschigen, nächtlichen Wolken unter einem magischen Himmel schwebt. Im Vordergrund erzeugt eine dichte Ansammlung aufragender Wolkenkratzer, deren Fenster von warmen goldenen Lichtern erhellt werden, eine leuchtende urbane Skyline. Die Stadt scheint auf einer dicken, wogenden Decke aus dunkelblauen und grauen Wolken zu ruhen, die sich in die Ferne erstreckt. Über der Stadt verwandelt sich der Nachthimmel in ein himmlisches Wunder: Ein riesiger, leuchtender Ring eines farbenfrohen Nebels umgibt eine dunkle, sternenerfüllte Leere. Der Nebel leuchtet in lebendigen Farbtönen von tiefem Lila, elektrischem Blau und feurigem Orange, übersät mit fernen funkelnden Sternen und Sternbildern, was eine verträumte, jenseitige Atmosphäre schafft.
+
+Prompt 2:
+Eine atemberaubende vertikale Ansicht einer futuristischen Metropole, die in der Dämmerung anmutig über einem endlosen Meer dichter, wogender dunkelgrauer Wolken schwebt. Die weitläufige Skyline der Stadt zeigt zahlreiche hoch aufragende Wolkenkratzer mit leuchtenden Fenstern, die warme bernsteinfarbene und orangefarbene Lichter auf die urbane Landschaft darunter werfen. Den oberen Teil des Bildes dominiert ein prächtiger kosmischer Ring, ein leuchtender kreisförmiger Nebel aus lebendigen Violetttönen, tiefen Blautönen und brillanten, warmen Goldtönen, übersät mit unzähligen funkelnden Sternen und fernen Galaxien am pechschwarzen Nachthimmel. Die Komposition ist ausgewogen und majestätisch, wobei die dunkle Wolkenschicht den unteren Vordergrund erdet und scharf mit dem strahlenden kosmischen Phänomen darüber kontrastiert. Die Beleuchtung ist surreal und ätherisch und verschmilzt das warme künstliche Leuchten der Stadtlichter mit der kosmischen Lumineszenz des Nebels. Die Atmosphäre ist still, ehrfurchtgebietend und mystisch und ruft ein Gefühl interstellarer Verwunderung und urbaner Isolation hervor. Die detaillierten Texturen der weichen, voluminösen Wolken, die elegante Architektur der Wolkenkratzer aus Glas und Stahl und der sternenklare kosmische Staub erzeugen eine kontrastreiche, visuell beeindruckende Szene.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

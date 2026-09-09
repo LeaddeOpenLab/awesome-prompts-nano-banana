@@ -200,13 +200,13 @@ Spot pubblicitario di bevande premium ultra-realistico, liquido cristallino, car
 
 <a name="prompt-2097435473043931201"></a>
 
-### Traduzione in corso
+### Prompt che ritraggono città galleggianti illuminate sospese sopra mari di nuvole sotto gigantesche nebulose ad anello cosmico scintillanti.
 
 Autore：[@churvikv](https://x.com/churvikv) · [Post originale](https://x.com/churvikv/status/2097435473043931201)
 
 Cyberpunk / Sci-Fi · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt che ritraggono città galleggianti illuminate sospese sopra mari di nuvole sotto gigantesche nebulose ad anello cosmico scintillanti.
 
 <img src="images/2097435473043931201-1.jpg" alt="Immagine 1" width="480" />
 
@@ -215,7 +215,11 @@ Cyberpunk / Sci-Fi · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Prompt 1:
+Un'incantevole illustrazione digitale di un paesaggio urbano sospeso sopra un mare di soffici nuvole notturne sotto un cielo magico. In primo piano, un fitto gruppo di imponenti grattacieli, con le finestre illuminate da calde luci dorate, crea uno skyline urbano splendente. La città sembra poggiare su una spessa coltre ondulata di nuvole blu scuro e grigie che si estendono in lontananza. Sopra la città, il cielo notturno si trasforma in una meraviglia celeste: un enorme anello luminoso formato da una nebulosa colorata circonda un vuoto scuro e pieno di stelle. La nebulosa brilla di tonalità vibranti di viola intenso, blu elettrico e arancione ardente, tempestata di stelle scintillanti e costellazioni lontane, creando un'atmosfera sognante e ultraterrena.
+
+Prompt 2:
+Un'incredibile vista verticale di una metropoli futuristica che fluttua con grazia sopra un mare infinito di dense nuvole grigio scuro ondulate al crepuscolo. L'ampio skyline cittadino presenta numerosi grattacieli imponenti con finestre luminose che proiettano calde luci ambrate e arancioni sul paesaggio urbano sottostante. A dominare la parte superiore dell'inquadratura è un magnifico anello cosmico, una nebulosa circolare brillante composta da vivaci tonalità violacee, blu profondi e splendide e calde sfumature dorate, cosparsa di innumerevoli stelle scintillanti e galassie lontane nel cielo notturno nero come la pece. La composizione è equilibrata e maestosa, con lo strato di nuvole scure che ancora il primo piano inferiore, contrastando nettamente con il radioso fenomeno cosmico sovrastante. L'illuminazione è surreale ed eterea, fondendo il caldo bagliore artificiale delle luci della città con la luminescenza cosmica della nebulosa. L'atmosfera è silenziosa, solenne e mistica, evocando un senso di meraviglia interstellare e isolamento urbano. Le trame dettagliate delle nuvole morbide e voluminose, l'elegante architettura in vetro e acciaio dei grattacieli e la polvere cosmica stellata creano una scena visivamente sbalorditiva e ad alto contrasto.
 ```
 
 [↑ Torna alle categorie](#catalog)

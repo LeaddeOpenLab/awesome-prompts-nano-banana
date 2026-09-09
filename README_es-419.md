@@ -200,13 +200,13 @@ Comercial de bebida premium ultrarrealista, líquido cristalino, carbonatación 
 
 <a name="prompt-2097435473043931201"></a>
 
-### Traducción en curso
+### Prompts que representan ciudades flotantes iluminadas suspendidas sobre mares de nubes bajo gigantescas nebulosas de anillos cósmicos brillantes.
 
 Autor：[@churvikv](https://x.com/churvikv) · [Publicación original](https://x.com/churvikv/status/2097435473043931201)
 
 Cyberpunk / Ciencia ficción · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompts que representan ciudades flotantes iluminadas suspendidas sobre mares de nubes bajo gigantescas nebulosas de anillos cósmicos brillantes.
 
 <img src="images/2097435473043931201-1.jpg" alt="Imagen 1" width="480" />
 
@@ -215,7 +215,11 @@ Cyberpunk / Ciencia ficción · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Prompt 1:
+Una encantadora ilustración digital de un paisaje urbano suspendido sobre un mar de nubes nocturnas y esponjosas bajo un cielo mágico. En el primer plano, un denso grupo de rascacielos imponentes, con sus ventanas iluminadas por cálidas luces doradas, crea un horizonte urbano resplandeciente. La ciudad parece descansar sobre un manto grueso y ondulante de nubes azul oscuro y gris que se extienden en la distancia. Por encima de la ciudad, el cielo nocturno se transforma en una maravilla celestial: un anillo masivo y luminoso de una nebulosa colorida rodea un vacío oscuro lleno de estrellas. La nebulosa brilla con tonos vibrantes de púrpura intenso, azul eléctrico y naranja ardiente, salpicada de estrellas titilantes y constelaciones lejanas, creando una atmósfera de ensueño y de otro mundo.
+
+Prompt 2:
+Una impresionante vista vertical de una metrópolis futurista que flota grácilmente sobre un mar interminable de nubes densas y ondulantes de color gris oscuro durante el crepúsculo. El extenso horizonte urbano presenta numerosos rascacielos imponentes con ventanas brillantes que proyectan cálidas luces ámbar y naranja sobre el paisaje urbano inferior. Dominando la parte superior del encuadre hay un magnífico anillo cósmico, una nebulosa circular brillante compuesta de púrpuras vibrantes, azules profundos y brillantes tonos dorados cálidos, salpicada de innumerables estrellas titilantes y galaxias distantes a través del cielo nocturno negro como la pez. La composición es equilibrada y majestuosa, con la capa oscura de nubes que asienta el primer plano inferior, contrastando fuertemente con el radiante fenómeno cósmico superior. La iluminación es surrealista y etérea, mezclando el cálido resplandor artificial de las luces de la ciudad con la luminiscencia cósmica de la nebulosa. La atmósfera es silenciosa, sobrecogedora y mística, evocando una sensación de asombro interestelar y aislamiento urbano. Las texturas detalladas de las nubes suaves y voluminosas, la elegante arquitectura de vidrio y acero de los rascacielos y el polvo cósmico estrellado crean una escena de alto contraste y visualmente impactante.
 ```
 
 [↑ Volver a categorías](#catalog)
