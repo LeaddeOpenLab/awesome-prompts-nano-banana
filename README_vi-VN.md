@@ -200,13 +200,13 @@ Quảng cáo đồ uống cao cấp siêu thực, chất lỏng trong suốt nh�
 
 <a name="prompt-2097435473043931201"></a>
 
-### Đang dịch
+### Các prompt mô tả những thành phố rực sáng lơ lửng trên biển mây dưới các tinh vân vành đai vũ trụ khổng lồ phát sáng.
 
 Tác giả：[@churvikv](https://x.com/churvikv) · [Bài gốc](https://x.com/churvikv/status/2097435473043931201)
 
 Cyberpunk / Khoa học viễn tưởng · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Các prompt mô tả những thành phố rực sáng lơ lửng trên biển mây dưới các tinh vân vành đai vũ trụ khổng lồ phát sáng.
 
 <img src="images/2097435473043931201-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -215,7 +215,11 @@ Cyberpunk / Khoa học viễn tưởng · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Prompt 1:
+Một bức tranh minh họa kỹ thuật số đầy mê hoặc về cảnh quan thành phố lơ lửng trên biển mây đêm bồng bềnh dưới bầu trời huyền diệu. Ở tiền cảnh, một cụm dày đặc các tòa nhà chọc trời cao chót vót, với các cửa sổ được chiếu sáng bởi ánh vàng ấm áp, tạo nên một đường chân trời đô thị rực rỡ. Thành phố dường như nằm trên một lớp mây dày cuộn sóng màu xanh thẫm và xám trải dài về phía chân trời. Phía trên thành phố, bầu trời đêm biến thành một kỳ quan vũ trụ: một vành đai tinh vân khổng lồ, rực rỡ sắc màu bao quanh một khoảng không tối tăm đầy sao. Tinh vân tỏa sáng rực rỡ với các sắc thái tím đậm, xanh lam ánh điện và cam rực lửa, điểm xuyết những ngôi sao lấp lánh ở xa xôi và các chòm sao, tạo nên một bầu không khí mơ màng, kỳ ảo như ở thế giới khác.
+
+Prompt 2:
+Góc nhìn thẳng đứng ngoạn mục của một đô thị tương lai lơ lửng đầy duyên dáng phía trên biển mây xám đen dày đặc, cuồn cuộn vô tận vào lúc hoàng hôn. Đường chân trời đô thị trải dài nổi bật với vô số tòa nhà chọc trời cao vút có cửa sổ phát sáng tỏa ánh hổ phách và cam ấm áp xuống cảnh quan thành phố bên dưới. Thống trị phần trên của khung hình là một vành đai vũ trụ tráng lệ, một tinh vân tròn phát sáng được cấu thành từ sắc tím sống động, xanh lam sâu thẳm và tông vàng ấm rực rỡ, rải rác vô số ngôi sao lấp lánh và các thiên hà xa xôi trên nền trời đêm đen kịt. Bố cục cân đối và hùng vĩ, với lớp mây đen làm nền ở tiền cảnh bên dưới, tương phản rõ nét với hiện tượng vũ trụ rực rỡ phía trên. Ánh sáng mang tính siêu thực và thanh tao, hòa quyện ánh sáng nhân tạo ấm áp của đèn thành phố với sự phát quang vũ trụ của tinh vân. Bầu không khí tĩnh lặng, đầy kinh ngạc và huyền bí, gợi lên cảm giác kỳ diệu giữa các vì sao và sự cô lập của đô thị. Kết cấu chi tiết của những đám mây bồng bềnh mềm mại, kiến trúc kính và thép bóng bẩy của các tòa nhà chọc trời, cùng bụi vũ trụ đầy sao tạo nên một khung cảnh có độ tương phản cao, nổi bật về mặt thị giác.
 ```
 
 [↑ Về danh mục](#catalog)
