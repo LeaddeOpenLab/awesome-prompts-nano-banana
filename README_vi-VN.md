@@ -446,20 +446,20 @@ Góc nhìn thẳng đứng ngoạn mục của một đô thị tương lai lơ 
 
 <a name="prompt-2097775925899436414"></a>
 
-### Đang dịch
+### Phong cảnh ban đêm phơi sáng lâu với những chiếc đèn lồng giấy trôi trên dòng sông tối.
 
 Tác giả：[@dfl\_inc\_jp](https://x.com/dfl_inc_jp) · [Bài gốc](https://x.com/dfl_inc_jp/status/2097775925899436414)
 
 Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Phong cảnh ban đêm phơi sáng lâu với những chiếc đèn lồng giấy trôi trên dòng sông tối.
 
 <img src="images/2097775925899436414-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+#kiệt tác #ảnh thực tế #phong cảnh #phơi sáng lâu #đèn lồng giấy thả trôi #dòng nước tối #ánh phản chiếu ấm áp #đêm khuya tĩnh lặng
 ```
 
 [↑ Về danh mục](#catalog)

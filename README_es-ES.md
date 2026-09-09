@@ -446,20 +446,20 @@ Una impresionante vista vertical de una metrópolis futurista que flota grácilm
 
 <a name="prompt-2097775925899436414"></a>
 
-### Traducción en curso
+### Paisaje nocturno de larga exposición con farolillos de papel flotando en un río oscuro.
 
 Autor：[@dfl\_inc\_jp](https://x.com/dfl_inc_jp) · [Publicación original](https://x.com/dfl_inc_jp/status/2097775925899436414)
 
 Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Paisaje nocturno de larga exposición con farolillos de papel flotando en un río oscuro.
 
 <img src="images/2097775925899436414-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+#obra maestra #foto realista #paisaje #larga exposición #farolillos de papel flotantes #corriente oscura #reflejos cálidos #tranquilidad de medianoche
 ```
 
 [↑ Volver a categorías](#catalog)
