@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T03:16:43.978Z",
+  "model": "nano-banana",
+  "prompt": "Create one square stop-motion reference photo, not a storyboard: a handmade matte-clay coral-pink cosmos flower in dark brown soil against a warm cream backdrop. Locked straight-on low camera, 70mm macro, orthographic feel. Soil fills the bottom 22%, peaking at (50%,79%); the centered stem runs from (50%,80%) to the flower center at (50%,33%). Add exactly two green leaves and a 35%-wide flower head with exactly 10 coral petals and a textured golden center. Include subtle fingerprints, soil crumbs, and a few pebbles. Use soft upper-left lighting and fixed shadows. Keep the full flower visible, with the camera and soil stationary for animation. No pot, extra plants, characters, insects, hands, text, watermark, border, or grid.",
+  "promptTranslations": {
+    "en": "Create one square stop-motion reference photo, not a storyboard: a handmade matte-clay coral-pink cosmos flower in dark brown soil against a warm cream backdrop. Locked straight-on low camera, 70mm macro, orthographic feel. Soil fills the bottom 22%, peaking at (50%,79%); the centered stem runs from (50%,80%) to the flower center at (50%,33%). Add exactly two green leaves and a 35%-wide flower head with exactly 10 coral petals and a textured golden center. Include subtle fingerprints, soil crumbs, and a few pebbles. Use soft upper-left lighting and fixed shadows. Keep the full flower visible, with the camera and soil stationary for animation. No pot, extra plants, characters, insects, hands, text, watermark, border, or grid."
+  },
+  "summaryTranslations": {
+    "en": "A stop-motion reference photo prompt featuring a handmade matte-clay coral-pink cosmos flower in dark brown soil against a warm cream backdrop, specifying precise coordinates, camera angle, and clay texture details."
+  },
+  "translationVersion": 2,
+  "summary": "A stop-motion reference photo prompt featuring a handmade matte-clay coral-pink cosmos flower in dark brown soil against a warm cream backdrop, specifying precise coordinates, camera angle, and clay texture details.",
+  "summaryEn": "A stop-motion reference photo prompt featuring a handmade matte-clay coral-pink cosmos flower in dark brown soil against a warm cream backdrop, specifying precise coordinates, camera angle, and clay texture details.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097478436105384108",
+    "canonicalUrl": "https://x.com/higgsfield/status/2097478436105384108",
+    "author": {
+      "username": "higgsfield",
+      "displayName": "Higgsfield AI 🧩",
+      "profileUrl": "https://x.com/higgsfield"
+    },
+    "publishedAt": "2026-09-09T00:13:23.000Z",
+    "collectedAt": "2026-09-09T02:40:21.975Z",
+    "language": "en",
+    "originalText": "Testing GPT-Images 2.5 vs Nano Banana Pro for stop motion. \n\nHere's the prompt: \n\n\"Create one square stop-motion reference photo, not a storyboard: a handmade matte-clay coral-pink cosmos flower in dark brown soil against a warm cream backdrop. Locked straight-on low camera, 70mm macro, orthographic feel. Soil fills the bottom 22%, peaking at (50%,79%); the centered stem runs from (50%,80%) to the flower center at (50%,33%). Add exactly two green leaves and a 35%-wide flower head with exactly 10 coral petals and a textured golden center. Include subtle fingerprints, soil crumbs, and a few pebbles. Use soft upper-left lighting and fixed shadows. Keep the full flower visible, with the camera and soil stationary for animation. No pot, extra plants, characters, insects, hands, text, watermark, border, or grid.\"",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/higgsfield/status/2097478436105384108",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097478270854033408/img/ifOxD7Y6Baypa01Q.jpg",
+        "analysisUrl": "https://x.com/higgsfield/status/2097478436105384108"
+      }
+    ],
+    "metrics": {
+      "likeCount": 77,
+      "repostCount": 6,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 6172
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solidworks\",\"cad\",\"image\"]"
+    ]
+  },
+  "xUrl": "https://x.com/higgsfield/status/2097478436105384108",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2097478270854033408/img/ifOxD7Y6Baypa01Q.jpg",
+  "coverPath": "covers/2097478436105384108.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2097478270854033408",
+    "x-post:2097478436105384108"
+  ],
+  "analysis": {
+    "summary": "A stop-motion reference photo prompt featuring a handmade matte-clay coral-pink cosmos flower in dark brown soil against a warm cream backdrop, specifying precise coordinates, camera angle, and clay texture details.",
+    "summaryEn": "A stop-motion reference photo prompt featuring a handmade matte-clay coral-pink cosmos flower in dark brown soil against a warm cream backdrop, specifying precise coordinates, camera angle, and clay texture details.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "仅审核正文 Prompt；媒体效果与一致性待人工核对。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create one square stop-motion reference photo, not a storyboard: a handmade matte-clay coral-pink cosmos flower in dark brown soil against a warm cream backdrop. Locked straight-on low camera, 70mm macro, orthographic feel. Soil fills the bottom 22%, peaking at (50%,79%); the centered stem runs from (50%,80%) to the flower center at (50%,33%). Add exactly two green leaves and a 35%-wide flower head with exactly 10 coral petals and a textured golden center. Include subtle fingerprints, soil crumbs, and a few pebbles. Use soft upper-left lighting and fixed shadows. Keep the full flower visible, with the camera and soil stationary for animation. No pot, extra plants, characters, insects, hands, text, watermark, border, or grid.",
+    "sourceRange": {
+      "start": 83,
+      "end": 817
+    },
+    "translations": {
+      "zh": "制作一张正方形定格动画参考照片，而非分镜脚本：手工制作的哑光粘土珊瑚粉色大波斯菊，生长在深棕色土壤中，背景为温暖的奶油色。锁定平视低机位，70mm微距，正交感。土壤占底部22%，在(50%,79%)处达到最高；居中的花茎从(50%,80%)延伸至(50%,33%)的花心处。正好添加两片绿叶和一个宽度占35%的花头，具有正好10片珊瑚色花瓣和有质感的金色花心。包含微妙的指纹、泥土碎屑和几颗小石子。使用左上方柔光和固定阴影。保持整朵花可见，相机和土壤保持静止以便进行动画制作。无花盆、多余植物、角色、昆虫、手、文字、水印、边框或网格。",
+      "en": "Create one square stop-motion reference photo, not a storyboard: a handmade matte-clay coral-pink cosmos flower in dark brown soil against a warm cream backdrop. Locked straight-on low camera, 70mm macro, orthographic feel. Soil fills the bottom 22%, peaking at (50%,79%); the centered stem runs from (50%,80%) to the flower center at (50%,33%). Add exactly two green leaves and a 35%-wide flower head with exactly 10 coral petals and a textured golden center. Include subtle fingerprints, soil crumbs, and a few pebbles. Use soft upper-left lighting and fixed shadows. Keep the full flower visible, with the camera and soil stationary for animation. No pot, extra plants, characters, insects, hands, text, watermark, border, or grid."
+    },
+    "targetModels": [
+      "nano-banana"
+    ],
+    "category": "text-to-image",
+    "useCase": "stop_motion_reference",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "manual",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
