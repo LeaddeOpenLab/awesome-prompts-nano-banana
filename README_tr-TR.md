@@ -19,13 +19,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**13** Prompt · Son eklenen: **2026-09-09**
+**14** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [3D Modelleme](#category-3d-render) · [Siberpunk / Bilim Kurgu](#category-cyberpunk-sci-fi) · [Diğer](#category-other)
+[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [3D Modelleme](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Siberpunk / Bilim Kurgu](#category-cyberpunk-sci-fi) · [Diğer](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -390,6 +390,32 @@ render_sculptural_masterpiece(Mind_As_Shrine_Diorama())",
     "summary": "Ünlü düşünürlere adanmış 3D mermer tapınak dioramalarından oluşan 2x2 ızgara için sözde kod tarzında bir istem."
   }
 }
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="category-retro-vintage"></a>
+
+## Retro / Vintage
+
+<a name="prompt-2097696144163778745"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AIGuideNote](https://x.com/AIGuideNote) · [Orijinal gönderi](https://x.com/AIGuideNote/status/2097696144163778745)
+
+Retro / Vintage · Şehir Manzarası / Sokak · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097696144163778745-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

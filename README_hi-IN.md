@@ -19,13 +19,13 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 दैनिक चुने हुए प्रॉम्प्ट और नई रचनात्मक प्रेरणा के लिए इस रिपॉज़िटरी को स्टार दें।
 
-**13** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-09**
+**14** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## श्रेणी के अनुसार देखें
 
-[फोटोग्राफी](#category-photography) · [सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still) · [3D रेंडर](#category-3d-render) · [साइबरपंक / साइंस-फाई](#category-cyberpunk-sci-fi) · [अन्य](#category-other)
+[फोटोग्राफी](#category-photography) · [सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still) · [3D रेंडर](#category-3d-render) · [रेट्रो / विंटेज](#category-retro-vintage) · [साइबरपंक / साइंस-फाई](#category-cyberpunk-sci-fi) · [अन्य](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -360,6 +360,32 @@ Negative prompt: cartoon, anime, illustration, plastic skin, excessive makeup, d
         return f"पीतल के रिवेट्स के साथ एक सीढ़ीदार, गोलाकार संगमरमर का चबूतरा, हस्तलिखित पाठ के साथ एक खुली पांडुलिपि, और एक घुमावदार पीतल की पट्टिका जिस पर उत्कीर्ण है: '{quote}'।"
 
 render_sculptural_masterpiece(Mind_As_Shrine_Diorama())
+```
+
+[↑ श्रेणियों पर लौटें](#catalog)
+
+---
+
+<a name="category-retro-vintage"></a>
+
+## रेट्रो / विंटेज
+
+<a name="prompt-2097696144163778745"></a>
+
+### अनुवाद जारी है
+
+लेखक：[@AIGuideNote](https://x.com/AIGuideNote) · [मूल पोस्ट](https://x.com/AIGuideNote/status/2097696144163778745)
+
+रेट्रो / विंटेज · शहर का नज़ारा / सड़क · प्रकाशित
+
+**सारांश:** अनुवाद जारी है
+
+<img src="images/2097696144163778745-1.jpg" alt="चित्र 1" width="480" />
+
+**प्रॉम्प्ट**
+
+```text
+अनुवाद जारी है
 ```
 
 [↑ श्रेणियों पर लौटें](#catalog)

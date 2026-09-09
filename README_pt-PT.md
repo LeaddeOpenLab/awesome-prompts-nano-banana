@@ -19,13 +19,13 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**13** Prompts · Adição mais recente: **2026-09-09**
+**14** Prompts · Adição mais recente: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Fotografia](#category-photography) · [Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Renderização 3D](#category-3d-render) · [Cyberpunk / Ficção Científica](#category-cyberpunk-sci-fi) · [Outros](#category-other)
+[Fotografia](#category-photography) · [Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Renderização 3D](#category-3d-render) · [Retrô / Vintage](#category-retro-vintage) · [Cyberpunk / Ficção Científica](#category-cyberpunk-sci-fi) · [Outros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -360,6 +360,32 @@ grelha 2x2, 16:9, faz isto para 4 pensadores, autores, inventores famosos,: clas
         return f"Um plinto de mármore circular em degraus com rebites de latão, um manuscrito aberto com texto manuscrito e uma placa curva de latão gravada com: '{quote}'."
 
 render_sculptural_masterpiece(Mind_As_Shrine_Diorama())
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="category-retro-vintage"></a>
+
+## Retrô / Vintage
+
+<a name="prompt-2097696144163778745"></a>
+
+### Tradução em curso
+
+Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Publicação original](https://x.com/AIGuideNote/status/2097696144163778745)
+
+Retrô / Vintage · Paisagem urbana / Rua · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2097696144163778745-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)

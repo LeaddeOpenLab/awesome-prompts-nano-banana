@@ -19,13 +19,13 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**13** 개 · 최근 추가: **2026-09-09**
+**14** 개 · 최근 추가: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 카테고리 탐색
 
-[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [3D 렌더링](#category-3d-render) · [사이버펑크 / SF](#category-cyberpunk-sci-fi) · [기타](#category-other)
+[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [3D 렌더링](#category-3d-render) · [레트로 / 빈티지](#category-retro-vintage) · [사이버펑크 / SF](#category-cyberpunk-sci-fi) · [기타](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -360,6 +360,32 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
         return f"황동 리벳이 박힌 계단식 원형 대리석 기단, 손글씨 텍스트가 적힌 펼쳐진 필사본, 그리고 다음이 새겨진 곡선형 황동 명판: '{quote}'."
 
 render_sculptural_masterpiece(Mind_As_Shrine_Diorama())
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="category-retro-vintage"></a>
+
+## 레트로 / 빈티지
+
+<a name="prompt-2097696144163778745"></a>
+
+### 번역 중
+
+작성자：[@AIGuideNote](https://x.com/AIGuideNote) · [원본 게시물](https://x.com/AIGuideNote/status/2097696144163778745)
+
+레트로 / 빈티지 · 도시 풍경 / 거리 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2097696144163778745-1.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

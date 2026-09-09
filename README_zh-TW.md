@@ -19,13 +19,13 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**13** 筆內容 · 最新收錄: **2026-09-09**
+**14** 筆內容 · 最新收錄: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 分類目錄
 
-[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [3D 渲染](#category-3d-render) · [賽博龐克 / 科幻](#category-cyberpunk-sci-fi) · [其他](#category-other)
+[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [3D 渲染](#category-3d-render) · [復古 / 懷舊](#category-retro-vintage) · [賽博龐克 / 科幻](#category-cyberpunk-sci-fi) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -360,6 +360,32 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
         return f"帶黃銅鉚釘的階梯狀圓形大理石基座、一本寫有手寫文本的打開手稿，以及刻有以下內容的弧形黃銅銘牌：'{quote}'。"
 
 render_sculptural_masterpiece(Mind_As_Shrine_Diorama())
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="category-retro-vintage"></a>
+
+## 復古 / 懷舊
+
+<a name="prompt-2097696144163778745"></a>
+
+### 翻譯中
+
+作者：[@AIGuideNote](https://x.com/AIGuideNote) · [查看 X 原帖](https://x.com/AIGuideNote/status/2097696144163778745)
+
+復古 / 懷舊 · 城市景觀 / 街道 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2097696144163778745-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
 ```
 
 [↑ 返回分類目錄](#catalog)

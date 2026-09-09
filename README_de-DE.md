@@ -19,13 +19,13 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**13** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**14** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Nach Kategorie durchsuchen
 
-[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [3D-Rendering](#category-3d-render) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Sonstige](#category-other)
+[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [3D-Rendering](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Sonstige](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -360,6 +360,32 @@ Autor：[@Gdgtify](https://x.com/Gdgtify) · [Originalbeitrag](https://x.com/Gdg
         return f"Ein gestufter, kreisförmiger Marmorsockel mit Messingnieten, ein aufgeschlagenes Manuskript mit handschriftlichem Text und eine geschwungene Messingplakette mit der Gravur: '{quote}'."
 
 render_sculptural_masterpiece(Mind_As_Shrine_Diorama())
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="category-retro-vintage"></a>
+
+## Retro / Vintage
+
+<a name="prompt-2097696144163778745"></a>
+
+### Übersetzung läuft
+
+Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Originalbeitrag](https://x.com/AIGuideNote/status/2097696144163778745)
+
+Retro / Vintage · Stadtbild / Straße · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097696144163778745-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

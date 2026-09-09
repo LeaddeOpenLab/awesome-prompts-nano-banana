@@ -19,13 +19,13 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**13** Prompt · Ultima aggiunta: **2026-09-09**
+**14** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Sfoglia per categoria
 
-[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Rendering 3D](#category-3d-render) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Altro](#category-other)
+[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Rendering 3D](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Altro](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -360,6 +360,32 @@ griglia 2x2, 16:9, applica questo a 4 celebri pensatori, autori o inventori: cla
         return f"Un plinto circolare a gradini in marmo con rivetti in ottone, un manoscritto aperto con testo scritto a mano e una targa curva in ottone incisa con: '{quote}'."
 
 render_sculptural_masterpiece(Mind_As_Shrine_Diorama())
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="category-retro-vintage"></a>
+
+## Retro / Vintage
+
+<a name="prompt-2097696144163778745"></a>
+
+### Traduzione in corso
+
+Autore：[@AIGuideNote](https://x.com/AIGuideNote) · [Post originale](https://x.com/AIGuideNote/status/2097696144163778745)
+
+Retro / Vintage · Paesaggio urbano / Strada · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097696144163778745-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)

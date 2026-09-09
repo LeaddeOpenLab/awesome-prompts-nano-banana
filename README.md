@@ -19,13 +19,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**13** Prompts · Latest addition: **2026-09-09**
+**14** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [3D Render](#category-3d-render) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Other](#category-other)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [3D Render](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Other](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -335,6 +335,32 @@ Author：[@Gdgtify](https://x.com/Gdgtify) · [Source](https://x.com/Gdgtify/sta
 
 ```text
 2x2 grid, 16:9, do this for 4 famous thinkers, authors, inventors,: class Mind_As_Shrine_Diorama:\n    def __init__(self, thinker="[THINKER_NAME]"):\n        self.canvas = "Single, self-contained 3D monumental sculptural vignette on a pure white studio background."\n        self.material_palette = "Polished white Carrara marble, brushed brass, glass lenses, and glowing cosmic vistas."\n\n    def construct_face_and_hair_arch(self):\n        # The core visual pun: hair becomes the building\n        hair_motif = infer_iconic_hair_or_silhouette(self.thinker)\n        name_arch = f"Massive 3D gilded marble letters spelling '{self.thinker.upper()}' integrated directly into an ornate, Baroque swirling cloud-archway that represents the exaggerated {hair_motif}."\n        face_core = f"Center: A realistic carved marble face of {self.thinker} emerging from the stone floor, wearing circular spectacles where the glass lenses display their primary formula/symbol."\n        return [name_arch, face_core]\n\n    def construct_internal_brain_chambers(self):\n        # AI AUTO-INFERENCE: Split their intellectual legacy into two distinct chambers\n        theory_left = infer_primary_breakthrough(self.thinker) # e.g., Special Relativity, logic gates, natural selection\n        theory_right = infer_secondary_breakthrough(self.thinker) # e.g., General Relativity, quantum state, optics\n        \n        chamber_left = f"Upper Left Chamber: Miniature chalkboards with authentic equations of {theory_left}, mechanical thought experiment models (e.g., trains, clocks, gears), and a library of tiny books."\n        chamber_right = f"Upper Right Chamber: Cosmic deep space vista showing {theory_right}, complete with optical instruments, atom models, and a volumetric gravitational well/funnel."\n        return [chamber_left, chamber_right]\n\n    def construct_base(self):\n        quote = infer_signature_quote(self.thinker)\n        return f"A stepped, circular marble plinth with brass rivets, an open manuscript with handwritten text, and a curved brass plaque engraved with: '{quote}'."\n\nrender_sculptural_masterpiece(Mind_As_Shrine_Diorama())
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-retro-vintage"></a>
+
+## Retro / Vintage
+
+<a name="prompt-2097696144163778745"></a>
+
+### Cover design prompt for a warm, hand-drawn style town information magazine depicting Showa-era retro townscapes and old kissaten cafes.
+
+Author：[@AIGuideNote](https://x.com/AIGuideNote) · [Source](https://x.com/AIGuideNote/status/2097696144163778745)
+
+Retro / Vintage · Cityscape / Street · Published
+
+**Summary:** Cover design prompt for a warm, hand-drawn style town information magazine depicting Showa-era retro townscapes and old kissaten cafes.
+
+<img src="images/2097696144163778745-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+[Magazine Information]\n- Magazine Name: {magazineTitle}\n- Special Feature Topic for This Issue: {featureTopic}\n- Issue Notation: {issueName}\n\n[Image Quality, Direction, and Composition Specifications]\n- Style: Gentle-touch illustration depicting Japanese retro townscapes and lifestyles (in the style of "OZ magazine" or local government PR publications).\n- Subject: A nostalgic shopping street corner reminiscent of the Showa retro era, an old kissaten (traditional coffee shop), people strolling through back alleys, or a scene featuring a lingering cat.\n- Color & Tone: Warm pastel colors, a slightly faded ink texture. Gentle, hand-drawn texture.\n- Typography (for GPT-image / Nano Banana Pro): The magazine logo "{magazineTitle}" is prominently positioned at the top in warm, hand-drawn lettering, with {featureTopic} and {issueName} neatly laid out in the center or at the bottom.\n\n[Strict Layout and Output Constraints (Mandatory)]\n- Output the finished design itself, filling the entire canvas. Background and scene depictions inside the design (walls, spaces, shadows, etc.) may follow the main instructions.\n- Prohibited items: Photos of the finished poster in a picture frame, photos of it posted on a wall, mockup photos placed on a desk or paper, perspective distortion at paper edges, or drop shadows.\n- Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.\n\n- Aspect Ratio: --ar 3:4
 ```
 
 [↑ Back to categories](#catalog)

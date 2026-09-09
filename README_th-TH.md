@@ -19,13 +19,13 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 กดดาวให้คลังนี้เพื่อติดตามพรอมต์ที่คัดสรรทุกวันและค้นหาแนวคิดสร้างสรรค์ใหม่ ๆ
 
-**13** รายการ · เพิ่มล่าสุด: **2026-09-09**
+**14** รายการ · เพิ่มล่าสุด: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## เรียกดูตามหมวดหมู่
 
-[การถ่ายภาพ](#category-photography) · [ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still) · [ภาพเรนเดอร์ 3 มิติ](#category-3d-render) · [ไซเบอร์พังก์ / ไซไฟ](#category-cyberpunk-sci-fi) · [อื่น ๆ](#category-other)
+[การถ่ายภาพ](#category-photography) · [ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still) · [ภาพเรนเดอร์ 3 มิติ](#category-3d-render) · [ย้อนยุค / วินเทจ](#category-retro-vintage) · [ไซเบอร์พังก์ / ไซไฟ](#category-cyberpunk-sci-fi) · [อื่น ๆ](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -360,6 +360,32 @@ Negative prompt: cartoon, anime, illustration, plastic skin, excessive makeup, d
         return f"ฐานหินอ่อนทรงกลมแบบขั้นบันไดพร้อมหมุดทองเหลือง, ต้นฉบับที่เปิดอยู่พร้อมข้อความที่เขียนด้วยลายมือ และแผ่นป้ายทองเหลืองทรงโค้งสลักข้อความ: '{quote}'."
 
 render_sculptural_masterpiece(Mind_As_Shrine_Diorama())
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
+
+---
+
+<a name="category-retro-vintage"></a>
+
+## ย้อนยุค / วินเทจ
+
+<a name="prompt-2097696144163778745"></a>
+
+### กำลังแปล
+
+ผู้เขียน：[@AIGuideNote](https://x.com/AIGuideNote) · [โพสต์ต้นฉบับ](https://x.com/AIGuideNote/status/2097696144163778745)
+
+ย้อนยุค / วินเทจ · ทิวทัศน์เมือง / ถนน · เผยแพร่แล้ว
+
+**สรุป:** กำลังแปล
+
+<img src="images/2097696144163778745-1.jpg" alt="รูปภาพ 1" width="480" />
+
+**พรอมต์**
+
+```text
+กำลังแปล
 ```
 
 [↑ กลับสู่หมวดหมู่](#catalog)

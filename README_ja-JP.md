@@ -19,13 +19,13 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**13** 件 · 最新の追加: **2026-09-09**
+**14** 件 · 最新の追加: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## カテゴリから探す
 
-[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [3D レンダリング](#category-3d-render) · [サイバーパンク / SF](#category-cyberpunk-sci-fi) · [その他](#category-other)
+[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [3D レンダリング](#category-3d-render) · [レトロ / ヴィンテージ](#category-retro-vintage) · [サイバーパンク / SF](#category-cyberpunk-sci-fi) · [その他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -360,6 +360,32 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
         return f"真鍮のリベットが付いた段状の円形大理石台座、手書きのテキストが書かれた開いた原稿、そして次のように刻まれた湾曲した真鍮の銘板：'{quote}'。"
 
 render_sculptural_masterpiece(Mind_As_Shrine_Diorama())
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="category-retro-vintage"></a>
+
+## レトロ / ヴィンテージ
+
+<a name="prompt-2097696144163778745"></a>
+
+### 翻訳中
+
+作者：[@AIGuideNote](https://x.com/AIGuideNote) · [元の投稿](https://x.com/AIGuideNote/status/2097696144163778745)
+
+レトロ / ヴィンテージ · 街並み / ストリート · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2097696144163778745-1.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
 ```
 
 [↑ カテゴリに戻る](#catalog)

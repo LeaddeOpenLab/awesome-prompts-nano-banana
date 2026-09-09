@@ -19,13 +19,13 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**13** 条内容 · 最新收录: **2026-09-09**
+**14** 条内容 · 最新收录: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 分类目录
 
-[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [3D 渲染](#category-3d-render) · [赛博朋克 / 科幻](#category-cyberpunk-sci-fi) · [其他](#category-other)
+[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [3D 渲染](#category-3d-render) · [复古 / 怀旧](#category-retro-vintage) · [赛博朋克 / 科幻](#category-cyberpunk-sci-fi) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -360,6 +360,32 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
         return f"带黄铜铆钉的阶梯状圆形大理石基座、一本写有手写文本的打开手稿，以及刻有以下内容的弧形黄铜铭牌：'{quote}'。"
 
 render_sculptural_masterpiece(Mind_As_Shrine_Diorama())
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="category-retro-vintage"></a>
+
+## 复古 / 怀旧
+
+<a name="prompt-2097696144163778745"></a>
+
+### 翻译中
+
+作者：[@AIGuideNote](https://x.com/AIGuideNote) · [查看 X 原帖](https://x.com/AIGuideNote/status/2097696144163778745)
+
+复古 / 怀旧 · 城市风光 / 街道 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2097696144163778745-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
 ```
 
 [↑ 返回分类目录](#catalog)

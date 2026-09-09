@@ -19,13 +19,13 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**13** Prompts · Dernier ajout: **2026-09-09**
+**14** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Parcourir par catégorie
 
-[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Rendu 3D](#category-3d-render) · [Cyberpunk / Science-fiction](#category-cyberpunk-sci-fi) · [Autres](#category-other)
+[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Rendu 3D](#category-3d-render) · [Rétro / Vintage](#category-retro-vintage) · [Cyberpunk / Science-fiction](#category-cyberpunk-sci-fi) · [Autres](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -360,6 +360,32 @@ grille 2x2, 16:9, appliquez ceci à 4 penseurs, auteurs ou inventeurs célèbres
         return f"Un socle circulaire en marbre à gradins avec des rivets en laiton, un manuscrit ouvert avec du texte manuscrit et une plaque incurvée en laiton gravée : '{quote}'."
 
 render_sculptural_masterpiece(Mind_As_Shrine_Diorama())
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="category-retro-vintage"></a>
+
+## Rétro / Vintage
+
+<a name="prompt-2097696144163778745"></a>
+
+### Traduction en cours
+
+Auteur：[@AIGuideNote](https://x.com/AIGuideNote) · [Publication originale](https://x.com/AIGuideNote/status/2097696144163778745)
+
+Rétro / Vintage · Paysage urbain / Rue · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097696144163778745-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)

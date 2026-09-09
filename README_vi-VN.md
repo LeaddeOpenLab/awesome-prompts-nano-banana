@@ -19,13 +19,13 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**13** Prompt · Bổ sung mới nhất: **2026-09-09**
+**14** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Duyệt theo danh mục
 
-[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Kết xuất 3D](#category-3d-render) · [Cyberpunk / Khoa học viễn tưởng](#category-cyberpunk-sci-fi) · [Khác](#category-other)
+[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Kết xuất 3D](#category-3d-render) · [Cổ điển / Cổ điển](#category-retro-vintage) · [Cyberpunk / Khoa học viễn tưởng](#category-cyberpunk-sci-fi) · [Khác](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -360,6 +360,32 @@ Lưới 2x2, 16:9, thực hiện điều này cho 4 nhà tư tưởng, tác gi�
         return f"Một bệ đá cẩm thạch hình tròn dạng bậc thang có đinh tán bằng đồng thau, một bản thảo mở có văn bản viết tay, và một tấm bảng đồng uốn cong được khắc chữ: '{quote}'."
 
 render_sculptural_masterpiece(Mind_As_Shrine_Diorama())
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="category-retro-vintage"></a>
+
+## Cổ điển / Cổ điển
+
+<a name="prompt-2097696144163778745"></a>
+
+### Đang dịch
+
+Tác giả：[@AIGuideNote](https://x.com/AIGuideNote) · [Bài gốc](https://x.com/AIGuideNote/status/2097696144163778745)
+
+Cổ điển / Cổ điển · Quang cảnh thành phố / Đường phố · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097696144163778745-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
