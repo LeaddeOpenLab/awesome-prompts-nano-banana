@@ -14,13 +14,13 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**3** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**4** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Nach Kategorie durchsuchen
 
-[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still)
+[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [Sonstige](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -87,6 +87,38 @@ Comic / Storyboard · Produktmarketing · Kinematisch / Filmstill · Porträt / 
 **Zusammenfassung:** Übersetzung läuft
 
 <img src="covers/2097237465887338994.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## Sonstige
+
+<a name="prompt-2097482618992570627"></a>
+
+### Übersetzung läuft
+
+Autor：[@ToshiArte](https://x.com/ToshiArte) · [Originalbeitrag](https://x.com/ToshiArte/status/2097482618992570627)
+
+Tier / Kreatur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097482618992570627-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2097482618992570627-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2097482618992570627-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2097482618992570627-4.jpg" alt="Bild 4" width="480" />
 
 **Prompt**
 

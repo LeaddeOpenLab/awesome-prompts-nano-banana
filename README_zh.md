@@ -14,13 +14,13 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**3** 条内容 · 最新收录: **2026-09-09**
+**4** 条内容 · 最新收录: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 分类目录
 
-[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still)
+[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -87,6 +87,38 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 **概括:** 翻译中
 
 <img src="covers/2097237465887338994.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## 其他
+
+<a name="prompt-2097482618992570627"></a>
+
+### 翻译中
+
+作者：[@ToshiArte](https://x.com/ToshiArte) · [查看 X 原帖](https://x.com/ToshiArte/status/2097482618992570627)
+
+动物 / 生物 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2097482618992570627-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2097482618992570627-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2097482618992570627-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2097482618992570627-4.jpg" alt="图片 4" width="480" />
 
 **提示词**
 

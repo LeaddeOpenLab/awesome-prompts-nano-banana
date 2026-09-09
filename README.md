@@ -14,13 +14,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**3** Prompts · Latest addition: **2026-09-09**
+**4** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Other](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -136,6 +136,88 @@ CAMERA:
 
 STYLE:
 Ultra-realistic premium beverage commercial, crystal-clear liquid, explosive carbonation, physically accurate water droplets
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## Other
+
+<a name="prompt-2097482618992570627"></a>
+
+### Poetic prompt of a cosmic dragon with ancient and holographic wings hovering over a modern neon city.
+
+Author：[@ToshiArte](https://x.com/ToshiArte) · [Source](https://x.com/ToshiArte/status/2097482618992570627)
+
+Animal / Creature · Published
+
+**Summary:** Poetic prompt of a cosmic dragon with ancient and holographic wings hovering over a modern neon city.
+
+<img src="images/2097482618992570627-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097482618992570627-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097482618992570627-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2097482618992570627-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Where the Wing Remembers Both Shores
+
+The dragon does not choose a century.
+It is the century choosing itself
+through a body made of postponement and afterglow.
+One wing trails the last unburned page of a library
+that fell before paper learned its own name.
+The other combs holographic rain
+from towers that have not yet decided
+whether they will stand or become rumor.
+Between them the air keeps two calendars
+and forgets which one is running.
+Its scales are older than the word for scale.
+They remember the heat of forges
+that have not been lit,
+and the cold of stars
+that have already gone out
+in some other telling.
+Runes surface and sink like thoughts
+a city has not earned the right to think.
+Each pulse of light is both relic and prototype.
+Below, the streets are wet with what has happened
+and what is still negotiating its arrival.
+Neon writes on water that was once a glacier’s patience
+and will be, later, only a rumor of thirst.
+Foundations rest on the quiet of forests
+that still dream they are standing.
+Billboards advertise tomorrows
+already homesick for the dusk that has not come.
+The creature’s eyes hold the only honest weather:
+one the green of a memory
+that does not yet know it is finished,
+the other the blue of a question
+that has not found the mouth that will ask it.
+They look at us the way time looks at itself
+when no one is watching
+without pity, without verdict,
+only the long courtesy of attention.
+We live in the brief downdraft of its passing,
+that strange, merciful interval
+where the past is still unfinished with us
+and the future has already begun
+to miss what we have not yet lost.
+Nothing is promised except the turning:
+the slow, luminous hinge of a wing
+that belongs to every hour at once
+and to none of them completely.
+The mist it leaves is neither ending nor beginning.
+It is the place they briefly recognize each other
+before the next uncertainty
+opens its quiet, necessary hand.
 ```
 
 [↑ Back to categories](#catalog)

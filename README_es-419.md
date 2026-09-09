@@ -14,13 +14,13 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**3** Prompts · Última incorporación: **2026-09-09**
+**4** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoría
 
-[Fotografía](#category-photography) · [Cine / Fotograma](#category-cinematic-film-still)
+[Fotografía](#category-photography) · [Cine / Fotograma](#category-cinematic-film-still) · [Otros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -87,6 +87,38 @@ Cómic / Guion gráfico · Marketing de producto · Cine / Fotograma · Retrato 
 **Resumen:** Traducción en curso
 
 <img src="covers/2097237465887338994.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## Otros
+
+<a name="prompt-2097482618992570627"></a>
+
+### Traducción en curso
+
+Autor：[@ToshiArte](https://x.com/ToshiArte) · [Publicación original](https://x.com/ToshiArte/status/2097482618992570627)
+
+Animal / Criatura · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097482618992570627-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2097482618992570627-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2097482618992570627-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2097482618992570627-4.jpg" alt="Imagen 4" width="480" />
 
 **Prompt**
 

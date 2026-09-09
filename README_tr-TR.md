@@ -14,13 +14,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**3** Prompt · Son eklenen: **2026-09-09**
+**4** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still)
+[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [Diğer](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -87,6 +87,38 @@ Yazar：[@Strength04\_X](https://x.com/Strength04_X) · [Orijinal gönderi](http
 **Özet:** Çeviri sürüyor
 
 <img src="covers/2097237465887338994.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## Diğer
+
+<a name="prompt-2097482618992570627"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@ToshiArte](https://x.com/ToshiArte) · [Orijinal gönderi](https://x.com/ToshiArte/status/2097482618992570627)
+
+Hayvan / Yaratık · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097482618992570627-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2097482618992570627-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2097482618992570627-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2097482618992570627-4.jpg" alt="Görsel 4" width="480" />
 
 **İstem**
 

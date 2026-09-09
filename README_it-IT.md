@@ -14,13 +14,13 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**3** Prompt · Ultima aggiunta: **2026-09-09**
+**4** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Sfoglia per categoria
 
-[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still)
+[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Altro](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -87,6 +87,38 @@ Fumetto / Storyboard · Marketing di Prodotto · Fermo immagine cinematografico 
 **Riepilogo:** Traduzione in corso
 
 <img src="covers/2097237465887338994.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## Altro
+
+<a name="prompt-2097482618992570627"></a>
+
+### Traduzione in corso
+
+Autore：[@ToshiArte](https://x.com/ToshiArte) · [Post originale](https://x.com/ToshiArte/status/2097482618992570627)
+
+Animale / Creatura · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097482618992570627-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2097482618992570627-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2097482618992570627-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2097482618992570627-4.jpg" alt="Immagine 4" width="480" />
 
 **Prompt**
 

@@ -14,13 +14,13 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**3** Prompts · Dernier ajout: **2026-09-09**
+**4** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Parcourir par catégorie
 
-[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still)
+[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Autres](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -87,6 +87,38 @@ Bande dessinée / Storyboard · Marketing produit · Image cinématographique / 
 **Résumé:** Traduction en cours
 
 <img src="covers/2097237465887338994.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## Autres
+
+<a name="prompt-2097482618992570627"></a>
+
+### Traduction en cours
+
+Auteur：[@ToshiArte](https://x.com/ToshiArte) · [Publication originale](https://x.com/ToshiArte/status/2097482618992570627)
+
+Animal / Créature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097482618992570627-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097482618992570627-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097482618992570627-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2097482618992570627-4.jpg" alt="Image 4" width="480" />
 
 **Consigne**
 

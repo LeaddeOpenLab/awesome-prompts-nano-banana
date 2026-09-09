@@ -14,13 +14,13 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**3** 개 · 최근 추가: **2026-09-09**
+**4** 개 · 최근 추가: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 카테고리 탐색
 
-[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still)
+[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [기타](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -87,6 +87,38 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 **요약:** 번역 중
 
 <img src="covers/2097237465887338994.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## 기타
+
+<a name="prompt-2097482618992570627"></a>
+
+### 번역 중
+
+작성자：[@ToshiArte](https://x.com/ToshiArte) · [원본 게시물](https://x.com/ToshiArte/status/2097482618992570627)
+
+동물 / 생명체 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2097482618992570627-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2097482618992570627-2.jpg" alt="이미지 2" width="480" />
+
+<img src="images/2097482618992570627-3.jpg" alt="이미지 3" width="480" />
+
+<img src="images/2097482618992570627-4.jpg" alt="이미지 4" width="480" />
 
 **프롬프트**
 
