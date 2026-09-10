@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-10T00:28:30.090Z",
+  "model": "nano-banana",
+  "prompt": "【ブランドコンセプト】\n・イメージコンセプト: {concept}\n・撮影ロケーション: {location}\n\n【スタイリング】\n・コーディネート・衣装: {outfitStyle}\n\n【画質・演出・構図指定】\n・スタイル: ミニマルで上質な日本のファッション・ライフスタイルブランドのルックブック用ヒーローイメージ。\n・被写体: 自然光の中で静かに佇む、{outfitStyle}を着用したモデル。風にそよぐ髪や衣服のシワ、静かで自然な表情。\n・背景: 木漏れ日が揺れる古い日本家屋の廊下、またはコンクリートと緑が美しく融合した{location}のスポット。\n・照明・色彩: 朝または夕方の柔らかく透明感のある木漏れ日、コントラストを抑えた淡く美しいアーストーン（ニュアンスグレー、オリーブ、ナチュラルベージュ）。\n・タイポグラフィ（GPT-image / Nano Banana Pro向け）: {concept}および{location}の文字が、画面の余白部分に極細でモダンなサンセリフフォントで静かに並んでいる。\n\n【レイアウトおよび出力上の厳格な制約（必須）】\n・完成したデザインそのものを、画面全体いっぱいに出力してください。デザイン内部の背景やシーン描写（壁・空間・影など）は本文の指示に従って構いません。\n・禁止事項：完成ポスターを額縁に入れた写真、壁に貼った状態の写真、机や紙の上に置いたモックアップ写真、紙の縁の遠近の歪みやドロップシャドウ。\n・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.\n\n・アスペクト比: --ar 16:9",
+  "promptTranslations": {
+    "en": "[Brand Concept]\n・Image Concept: {concept}\n・Shooting Location: {location}\n\n[Styling]\n・Coordination / Outfit: {outfitStyle}\n\n[Image Quality, Direction, and Composition Specifications]\n・Style: Hero image for a lookbook of a minimal, high-quality Japanese fashion and lifestyle brand.\n・Subject: A model wearing {outfitStyle}, standing quietly in natural light. Hair swaying in the breeze, wrinkles in the clothes, with a quiet, natural expression.\n・Background: A hallway of an old Japanese house with dappled sunlight swaying, or a spot in {location} where concrete and greenery blend beautifully.\n・Lighting & Colors: Soft, translucent dappled morning or evening sunlight, subtle and beautiful low-contrast earth tones (nuanced gray, olive, natural beige).\n・Typography (for GPT-image / Nano Banana Pro): The words \"{concept}\" and \"{location}\" quietly aligned in the negative space of the screen in an ultra-thin, modern sans-serif font.\n\n[Strict Layout and Output Constraints (Mandatory)]\n・Output the finished design itself, completely filling the screen. Background and scene depictions inside the design (walls, space, shadows, etc.) may follow the instructions in the main text.\n・Prohibited: Photos of the finished poster in a picture frame, photos of it pasted on a wall, mockup photos placed on a desk or paper, perspective distortion on the edges of the paper, or drop shadows.\n・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.\n\n・Aspect Ratio: --ar 16:9"
+  },
+  "summaryTranslations": {
+    "en": "Prompt template for an editorial portrait for Japanese fashion brands, utilizing natural light, concrete, and greenery."
+  },
+  "translationVersion": 2,
+  "summary": "日本のファッションブランド向け、自然光とコンクリート・緑を活かしたエディトリアルポートレートのプロンプトテンプレート。",
+  "summaryEn": "Prompt template for a Japanese lifestyle fashion brand editorial portrait featuring natural light, concrete, and greenery.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097803184903274848",
+    "canonicalUrl": "https://x.com/AIGuideNote/status/2097803184903274848",
+    "author": {
+      "username": "AIGuideNote",
+      "displayName": "AI Guide-Note - 実務で使えるAI活用メディア",
+      "profileUrl": "https://x.com/AIGuideNote"
+    },
+    "publishedAt": "2026-09-09T21:43:49.000Z",
+    "collectedAt": "2026-09-10T00:16:35.115Z",
+    "language": "ja",
+    "originalText": "【コピペで使えるAIプロンプト】\nファッション・ライフスタイルヒーローKV\n\n💡 用途: ファッションブランドのWEBサイトのメインビジュアル（ヒーローイメージ）に適した、静寂とエモーショナルな空気を纏うエディトリアルポートレート。平面2Dグラフィック。\n🎯 推奨AI: Nano Banana Pro / GPT-image\n📊 難易度: 中級\n\n▼ コピペ用指示プロンプト（全文）:\n```\n【ブランドコンセプト】\n・イメージコンセプト: {concept}\n・撮影ロケーション: {location}\n\n【スタイリング】\n・コーディネート・衣装: {outfitStyle}\n\n【画質・演出・構図指定】\n・スタイル: ミニマルで上質な日本のファッション・ライフスタイルブランドのルックブック用ヒーローイメージ。\n・被写体: 自然光の中で静かに佇む、{outfitStyle}を着用したモデル。風にそよぐ髪や衣服のシワ、静かで自然な表情。\n・背景: 木漏れ日が揺れる古い日本家屋の廊下、またはコンクリートと緑が美しく融合した{location}のスポット。\n・照明・色彩: 朝または夕方の柔らかく透明感のある木漏れ日、コントラストを抑えた淡く美しいアーストーン（ニュアンスグレー、オリーブ、ナチュラルベージュ）。\n・タイポグラフィ（GPT-image / Nano Banana Pro向け）: {concept}および{location}の文字が、画面の余白部分に極細でモダンなサンセリフフォントで静かに並んでいる。\n\n【レイアウトおよび出力上の厳格な制約（必須）】\n・完成したデザインそのものを、画面全体いっぱいに出力してください。デザイン内部の背景やシーン描写（壁・空間・影など）は本文の指示に従って構いません。\n・禁止事項：完成ポスターを額縁に入れた写真、壁に貼った状態の写真、机や紙の上に置いたモックアップ写真、紙の縁の遠近の歪みやドロップシャドウ。\n・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.\n\n・アスペクト比: --ar 16:9\n```\n\n▼ 入力パラメータ例:\n・{concept}: コンセプト (例: 静かな日々)\n・{location}: 撮影場所 (例: KOMOREBI | TOKYO)\n・{outfitStyle}: 衣装コーディネート (例: リネンシャツとデニム)",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRzk39caoAEXPlw.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRzk39caoAEXPlw.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 53
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AIGuideNote/status/2097803184903274848",
+  "coverUrl": "https://pbs.twimg.com/media/HRzk39caoAEXPlw.jpg",
+  "coverPath": "images/2097803184903274848-1.jpg",
+  "imagePaths": [
+    "images/2097803184903274848-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRzk39caoAEXPlw",
+    "x-post:2097803184903274848"
+  ],
+  "analysis": {
+    "summary": "日本のファッションブランド向け、自然光とコンクリート・緑を活かしたエディトリアルポートレートのプロンプトテンプレート。",
+    "summaryEn": "Prompt template for a Japanese lifestyle fashion brand editorial portrait featuring natural light, concrete, and greenery.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "添付画像はコンクリートと緑が背景の自然光ポートレートであり、アースカラーのセットアップを着たモデルがプロンプトの指定と合致します。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "【ブランドコンセプト】\n・イメージコンセプト: {concept}\n・撮影ロケーション: {location}\n\n【スタイリング】\n・コーディネート・衣装: {outfitStyle}\n\n【画質・演出・構図指定】\n・スタイル: ミニマルで上質な日本のファッション・ライフスタイルブランドのルックブック用ヒーローイメージ。\n・被写体: 自然光の中で静かに佇む、{outfitStyle}を着用したモデル。風にそよぐ髪や衣服のシワ、静かで自然な表情。\n・背景: 木漏れ日が揺れる古い日本家屋の廊下、またはコンクリートと緑が美しく融合した{location}のスポット。\n・照明・色彩: 朝または夕方の柔らかく透明感のある木漏れ日、コントラストを抑えた淡く美しいアーストーン（ニュアンスグレー、オリーブ、ナチュラルベージュ）。\n・タイポグラフィ（GPT-image / Nano Banana Pro向け）: {concept}および{location}の文字が、画面の余白部分に極細でモダンなサンセリフフォントで静かに並んでいる。\n\n【レイアウトおよび出力上の厳格な制約（必須）】\n・完成したデザインそのものを、画面全体いっぱいに出力してください。デザイン内部の背景やシーン描写（壁・空間・影など）は本文の指示に従って構いません。\n・禁止事項：完成ポスターを額縁に入れた写真、壁に貼った状態の写真、机や紙の上に置いたモックアップ写真、紙の縁の遠近の歪みやドロップシャドウ。\n・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.\n\n・アスペクト比: --ar 16:9",
+    "sourceRange": {
+      "start": 198,
+      "end": 1175
+    },
+    "translations": {
+      "zh": "【品牌概念】\n· 图像概念: {concept}\n· 拍摄地点: {location}\n\n【造型】\n· 穿搭服装: {outfitStyle}\n\n【画质·表现·构图指定】\n· 风格: 极简且高质感的日本时尚生活品牌Lookbook主视觉。\n· 主体: 在自然光下静静伫立、身着{outfitStyle}的模特。微风拂动的发丝与衣物褶皱，平静自然的表情。\n· 背景: 斑驳光影摇曳的旧日式住宅走廊，或混凝土与绿植融合的{location}场景。\n· 光影色彩: 早晚柔和通透的树影光斑，低对比度的淡雅大地色系（灰、橄榄色、米色）。\n· 排版: {concept}与{location}文字以极细现代无衬线字体静置于留白处。\n\n【排版及输出严格限制】\n· 请铺满全画幅输出平整2D设计本身，严禁任何海报样机、画框或阴影失真。\n· 宽高比: --ar 16:9",
+      "en": "[Brand Concept]\n- Image concept: {concept}\n- Shooting location: {location}\n\n[Styling]\n- Outfit: {outfitStyle}\n\n[Visual Quality, Direction & Composition]\n- Style: Minimalist, premium Japanese fashion/lifestyle brand hero visual for a lookbook.\n- Subject: Model quietly standing in natural light wearing {outfitStyle}, hair blowing in wind, subtle clothing creases, natural expression.\n- Background: Corridor of an old Japanese house with dappled light, or a spot merging concrete and greenery at {location}.\n- Lighting/Color: Soft dappled sunlight, low-contrast muted earth tones (nuanced gray, olive, natural beige).\n- Typography: Text for {concept} and {location} set quietly in negative space in an ultra-thin modern sans-serif font.\n\n[Strict Layout/Output Constraints]\n- Output finished flat 2D design filling the entire canvas. Absolutely NO photo-of-a-poster mockups or frames.\n- Aspect ratio: --ar 16:9"
+    },
+    "targetModels": [
+      "nano-banana"
+    ],
+    "category": "text-to-image",
+    "useCase": "ファッションブランドのWEBサイトのメインビジュアル",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
