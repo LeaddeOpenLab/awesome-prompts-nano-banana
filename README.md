@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**16** Prompts · Latest addition: **2026-09-09**
+**17** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -402,6 +402,47 @@ A breathtaking vertical view of a futuristic metropolis floating gracefully abov
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097803184903274848"></a>
+
+### Prompt template for an editorial portrait for Japanese fashion brands, utilizing natural light, concrete, and greenery.
+
+Author：[@AIGuideNote](https://x.com/AIGuideNote) · [Source](https://x.com/AIGuideNote/status/2097803184903274848)
+
+Portrait / Selfie · Fashion Item · Published
+
+**Summary:** Prompt template for an editorial portrait for Japanese fashion brands, utilizing natural light, concrete, and greenery.
+
+<img src="images/2097803184903274848-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+[Brand Concept]
+・Image Concept: {concept}
+・Shooting Location: {location}
+
+[Styling]
+・Coordination / Outfit: {outfitStyle}
+
+[Image Quality, Direction, and Composition Specifications]
+・Style: Hero image for a lookbook of a minimal, high-quality Japanese fashion and lifestyle brand.
+・Subject: A model wearing {outfitStyle}, standing quietly in natural light. Hair swaying in the breeze, wrinkles in the clothes, with a quiet, natural expression.
+・Background: A hallway of an old Japanese house with dappled sunlight swaying, or a spot in {location} where concrete and greenery blend beautifully.
+・Lighting & Colors: Soft, translucent dappled morning or evening sunlight, subtle and beautiful low-contrast earth tones (nuanced gray, olive, natural beige).
+・Typography (for GPT-image / Nano Banana Pro): The words "{concept}" and "{location}" quietly aligned in the negative space of the screen in an ultra-thin, modern sans-serif font.
+
+[Strict Layout and Output Constraints (Mandatory)]
+・Output the finished design itself, completely filling the screen. Background and scene depictions inside the design (walls, space, shadows, etc.) may follow the instructions in the main text.
+・Prohibited: Photos of the finished poster in a picture frame, photos of it pasted on a wall, mockup photos placed on a desk or paper, perspective distortion on the edges of the paper, or drop shadows.
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・Aspect Ratio: --ar 16:9
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097775925899436414"></a>
 

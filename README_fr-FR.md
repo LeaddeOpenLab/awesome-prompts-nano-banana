@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**16** Prompts · Dernier ajout: **2026-09-09**
+**17** Prompts · Dernier ajout: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -443,6 +443,28 @@ Une vue verticale à couper le souffle d'une métropole futuriste flottant graci
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2097803184903274848"></a>
+
+### Traduction en cours
+
+Auteur：[@AIGuideNote](https://x.com/AIGuideNote) · [Publication originale](https://x.com/AIGuideNote/status/2097803184903274848)
+
+Portrait / Selfie · Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097803184903274848-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097775925899436414"></a>
 
