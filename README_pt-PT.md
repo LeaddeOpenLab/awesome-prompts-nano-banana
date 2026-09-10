@@ -446,20 +446,39 @@ Uma vista vertical deslumbrante de uma metrópole futurista a flutuar graciosame
 
 <a name="prompt-2097803184903274848"></a>
 
-### Tradução em curso
+### Modelo de prompt de retrato editorial para marcas de moda japonesas, tirando partido da luz natural, do betão e da vegetação.
 
 Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Publicação original](https://x.com/AIGuideNote/status/2097803184903274848)
 
 Retrato / Selfie · Item de Moda · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Modelo de prompt de retrato editorial para marcas de moda japonesas, tirando partido da luz natural, do betão e da vegetação.
 
 <img src="images/2097803184903274848-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+【Conceito da marca】
+・Conceito de imagem: {concept}
+・Local de rodagem: {location}
+
+【Styling】
+・Coordenação e indumentária: {outfitStyle}
+
+【Especificações de qualidade de imagem, encenação e composição】
+・Estilo: Imagem principal (hero image) para o lookbook de uma marca japonesa de moda e estilo de vida, minimalista e de alta qualidade.
+・Sujeito: Modelo a vestir {outfitStyle}, em pose tranquila sob a luz natural. Cabelos a esvoaçar suavemente ao vento, vincos nas roupas, expressão serena e natural.
+・Fundo: O corredor de uma antiga casa tradicional japonesa onde a luz do sol cintila por entre as árvores, ou um local em {location} onde o betão e a vegetação se fundem harmoniosamente.
+・Iluminação e cores: Luz suave e translúcida a filtrar-se por entre a folhagem de manhã ou ao fim da tarde, tons de terra suaves e sublimes com contraste atenuado (cinzento subtil, azeitona, bege natural).
+・Tipografia (para GPT-image / Nano Banana Pro): Os textos {concept} e {location} dispostos discretamente nos espaços vazios da composição, com uma fonte sem serifa ultrafina e moderna.
+
+【Restrições rigorosas de paginação e de formato de saída (Obrigatório)】
+・Gere o próprio design finalizado, preenchendo a totalidade da tela. O fundo e os elementos cénicos no interior do design (paredes, espaços, sombras, etc.) podem seguir as instruções do texto principal.
+・Proibições: Fotografias do cartaz final emoldurado, fotografias coladas numa parede, fotografias em mockup sobre uma secretária ou papel, distorções de perspetiva nas margens do papel ou sombras projetadas.
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・Proporção de aspeto: --ar 16:9
 ```
 
 [↑ Voltar às categorias](#catalog)

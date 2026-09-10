@@ -446,20 +446,39 @@ Prompt 2:
 
 <a name="prompt-2097803184903274848"></a>
 
-### 翻訳中
+### 日本のファッションブランド向け、自然光とコンクリート・緑を活かしたエディトリアルポートレートのプロンプトテンプレート。
 
 作者：[@AIGuideNote](https://x.com/AIGuideNote) · [元の投稿](https://x.com/AIGuideNote/status/2097803184903274848)
 
 ポートレート / セルフィー · ファッションアイテム · 配信済み
 
-**概要:** 翻訳中
+**概要:** 日本のファッションブランド向け、自然光とコンクリート・緑を活かしたエディトリアルポートレートのプロンプトテンプレート。
 
 <img src="images/2097803184903274848-1.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-翻訳中
+【ブランドコンセプト】
+・イメージコンセプト: {concept}
+・撮影ロケーション: {location}
+
+【スタイリング】
+・コーディネート・衣装: {outfitStyle}
+
+【画質・演出・構図指定】
+・スタイル: ミニマルで上質な日本のファッション・ライフスタイルブランドのルックブック用ヒーローイメージ。
+・被写体: 自然光の中で静かに佇む、{outfitStyle}を着用したモデル。風にそよぐ髪や衣服のシワ、静かで自然な表情。
+・背景: 木漏れ日が揺れる古い日本家屋の廊下、またはコンクリートと緑が美しく融合した{location}のスポット。
+・照明・色彩: 朝または夕方の柔らかく透明感のある木漏れ日、コントラストを抑えた淡く美しいアーストーン（ニュアンスグレー、オリーブ、ナチュラルベージュ）。
+・タイポグラフィ（GPT-image / Nano Banana Pro向け）: {concept}および{location}の文字が、画面の余白部分に極細でモダンなサンセリフフォントで静かに並んでいる。
+
+【レイアウトおよび出力上の厳格な制約（必須）】
+・完成したデザインそのものを、画面全体いっぱいに出力してください。デザイン内部の背景やシーン描写（壁・空間・影など）は本文の指示に従って構いません。
+・禁止事項：完成ポスターを額縁に入れた写真、壁に貼った状態の写真、机や紙の上に置いたモックアップ写真、紙の縁の遠近の歪みやドロップシャドウ。
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・アスペクト比: --ar 16:9
 ```
 
 [↑ カテゴリに戻る](#catalog)

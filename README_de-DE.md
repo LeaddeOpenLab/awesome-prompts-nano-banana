@@ -446,20 +446,39 @@ Eine atemberaubende vertikale Ansicht einer futuristischen Metropole, die in der
 
 <a name="prompt-2097803184903274848"></a>
 
-### Übersetzung läuft
+### Prompt-Vorlage für redaktionelle Porträts für japanische Modemarken unter Nutzung von natürlichem Licht, Beton und Grünflächen.
 
 Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Originalbeitrag](https://x.com/AIGuideNote/status/2097803184903274848)
 
 Porträt / Selfie · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt-Vorlage für redaktionelle Porträts für japanische Modemarken unter Nutzung von natürlichem Licht, Beton und Grünflächen.
 
 <img src="images/2097803184903274848-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+【Markenkonzept】
+・Bildkonzept: {concept}
+・Shooting-Location: {location}
+
+【Styling】
+・Koordination und Outfit: {outfitStyle}
+
+【Bildqualität, Inszenierung und Kompositionsvorgaben】
+・Stil: Hero-Image für das Lookbook einer minimalistischen, hochwertigen japanischen Mode- und Lifestyle-Marke.
+・Motiv: Ein Model in {outfitStyle}, das ruhig im natürlichen Licht verweilt. Vom Wind sanft verwehtes Haar, Falten in der Kleidung und ein stiller, natürlicher Gesichtsausdruck.
+・Hintergrund: Der Korridor eines alten traditionellen japanischen Hauses mit tanzendem Sonnenlicht durch das Blätterdach, oder ein Ort in {location}, an dem Beton und Grünpflanzen harmonisch verschmelzen.
+・Beleuchtung und Farbgebung: Sanftes, transparentes Sonnenlicht am Morgen oder Abend, kontrastarme, subtile und wunderschöne Erdtöne (Nuancen von Grau, Oliv, Naturbeige).
+・Typografie (für GPT-image / Nano Banana Pro): Die Schriftzüge {concept} und {location} dezent in den Freiräumen des Bildes platziert, gesetzt in einer extrem feinen, modernen Sans-Serif-Schriftart.
+
+【Strenge Layout- und Ausgabebeschränkungen (Erforderlich)】
+・Geben Sie das fertige Design selbst vollflächig über die gesamte Bildfläche aus. Hintergründe und Szenendarstellungen innerhalb des Designs (Wände, Räume, Schatten usw.) dürfen den Anweisungen im Haupttext folgen.
+・Untersagt: Fotos des fertigen Posters in einem Bilderrahmen, Fotos des Posters an einer Wand befestigt, Mockup-Fotos auf einem Schreibtisch oder Papier, perspektivische Verzerrungen der Papierkanten oder Schlagschatten.
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・Seitenverhältnis: --ar 16:9
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

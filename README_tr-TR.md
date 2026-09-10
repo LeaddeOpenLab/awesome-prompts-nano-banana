@@ -476,20 +476,39 @@ Alacakaranlıkta, dalgalanan yoğun koyu gri bulutlardan oluşan sonsuz bir deni
 
 <a name="prompt-2097803184903274848"></a>
 
-### Çeviri sürüyor
+### Japon moda markalarına yönelik, doğal ışık ile beton ve yeşilliği bir araya getiren editoryal portre istemi şablonu.
 
 Yazar：[@AIGuideNote](https://x.com/AIGuideNote) · [Orijinal gönderi](https://x.com/AIGuideNote/status/2097803184903274848)
 
 Portre / Selfie · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Japon moda markalarına yönelik, doğal ışık ile beton ve yeşilliği bir araya getiren editoryal portre istemi şablonu.
 
 <img src="images/2097803184903274848-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+【Marka Konsepti】
+・Görsel Konsepti: {concept}
+・Çekim Lokasyonu: {location}
+
+【Stil】
+・Kombin ve Kıyafet: {outfitStyle}
+
+【Görüntü Kalitesi, Sahneleme ve Kompozisyon Talimatları】
+・Stil: Minimalist ve yüksek kaliteli bir Japon moda ve yaşam tarzı markasının lookbook'u için ana görsel (hero image).
+・Özne: Doğal ışığın altında sessizce ve dingin duran, {outfitStyle} giymiş bir model. Rüzgarda hafifçe dalgalanan saçlar, giysilerdeki kırışıklıklar, sakin ve doğal bir yüz ifadesi.
+・Arka Plan: Ağaçların arasından süzülen güneş ışığının titreştiği eski bir geleneksel Japon evinin koridoru ya da beton ile yeşilliğin kusursuzca harmanlandığı bir {location} noktası.
+・Aydınlatma ve Renk: Sabah veya akşam saatlerinin yumuşak ve şeffaf yaprak arası süzülen güneş ışığı; kontrastı düşük, soluk ve zarif toprak tonları (nüanslı gri, zeytin yeşili, doğal bej).
+・Tipografi (GPT-image / Nano Banana Pro için): Ekranın boşluk alanlarına sakin bir şekilde yerleştirilmiş, ultra ince ve modern bir sans-serif yazı tipinde {concept} ve {location} yazıları.
+
+【Düzen ve Çıktı Üzerindeki Katı Kısıtlamalar (Zorunlu)】
+・Tasarımın kendisini tüm tuvali kaplayacak şekilde doğrudan çıktı olarak verin. Tasarımın içindeki arka plan ve sahne tasvirleri (duvarlar, mekan, gölgeler vb.) ana metindeki talimatlara uygun olabilir.
+・Yasaklar: Çerçeveye konmuş bitmiş poster fotoğrafları, duvara asılmış durumdaki fotoğraflar, masa veya kağıt üzerine konmuş maket (mockup) fotoğrafları, kağıt kenarlarında perspektif bozulması veya alt gölge (drop shadow).
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・En-Boy Oranı: --ar 16:9
 ```
 
 [↑ Kategorilere dön](#catalog)

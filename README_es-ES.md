@@ -446,20 +446,39 @@ Una impresionante vista vertical de una metrópolis futurista que flota grácilm
 
 <a name="prompt-2097803184903274848"></a>
 
-### Traducción en curso
+### Plantilla de prompt para retrato editorial destinada a marcas de moda japonesas, aprovechando la luz natural, el hormigón y la vegetación.
 
 Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Publicación original](https://x.com/AIGuideNote/status/2097803184903274848)
 
 Retrato / Selfie · Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Plantilla de prompt para retrato editorial destinada a marcas de moda japonesas, aprovechando la luz natural, el hormigón y la vegetación.
 
 <img src="images/2097803184903274848-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+【Concepto de marca】
+・Concepto de imagen: {concept}
+・Ubicación del rodaje: {location}
+
+【Estilismo】
+・Coordinación y vestuario: {outfitStyle}
+
+【Calidad de imagen, puesta en escena y composición】
+・Estilo: Imagen principal (hero image) para el lookbook de una marca japonesa de moda y estilo de vida, minimalista y de alta gama.
+・Sujeto: Modelo que lleva {outfitStyle}, de pie tranquilamente bajo la luz natural. Cabello ondeando suavemente al viento, arrugas naturales en la ropa y una expresión serena y natural.
+・Fondo: El pasillo de una antigua casa tradicional japonesa donde la luz del sol se filtra entre las hojas agitadas, o un rincón de {location} donde el hormigón y la vegetación se fusionan armoniosamente.
+・Iluminación y color: Luz solar suave y transparente filtrada a través de las hojas por la mañana o al atardecer, tonos tierra suaves y bellos con bajo contraste (gris con matices, oliva, beige natural).
+・Tipografía (para GPT-image / Nano Banana Pro): El texto {concept} y {location} colocado de manera sutil en el espacio negativo de la imagen con una fuente sans-serif ultra fina y moderna.
+
+【Restricciones estrictas de maquetación y salida (Obligatorio)】
+・Genere el diseño plano 2D final ocupando todo el lienzo. Los elementos de escena dentro del diseño (paredes, habitaciones, sombras, etc.) descritos anteriormente están permitidos.
+・Prohibiciones: Fotos del póster enmarcado, fotos del póster pegado en una pared, maquetas (mockups) sobre una mesa o papel, distorsiones de perspectiva o sombras paralelas (drop shadow) en los bordes del papel.
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・Relación de aspecto: --ar 16:9
 ```
 
 [↑ Volver a categorías](#catalog)

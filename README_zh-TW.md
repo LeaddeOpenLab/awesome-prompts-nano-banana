@@ -446,20 +446,39 @@ Prompt 2:
 
 <a name="prompt-2097803184903274848"></a>
 
-### 翻譯中
+### 專為日本時尚品牌設計，善用自然光、清水模與綠意植栽的時尚編輯風格肖像提示詞模板。
 
 作者：[@AIGuideNote](https://x.com/AIGuideNote) · [查看 X 原帖](https://x.com/AIGuideNote/status/2097803184903274848)
 
 人像 / 自拍 · 時尚單品 · 已推流
 
-**概括:** 翻譯中
+**概括:** 專為日本時尚品牌設計，善用自然光、清水模與綠意植栽的時尚編輯風格肖像提示詞模板。
 
 <img src="images/2097803184903274848-1.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
 ```text
-翻譯中
+【品牌概念】
+・視覺概念: {concept}
+・拍攝地點: {location}
+
+【造型設計】
+・穿搭・服飾: {outfitStyle}
+
+【畫質・視覺呈現・構圖規範】
+・風格: 極簡而高品質的日本時尚・生活風格品牌Lookbook主視覺形象。
+・主體: 靜靜佇立於自然光下的模特兒，穿著{outfitStyle}。微風輕拂的髮絲與衣物皺褶，神情平靜自然。
+・背景: 樹影婆娑的老舊日式住宅走廊，或將清水模與綠植完美揉合的{location}場景。
+・光影・色彩: 清晨或傍晚柔和且具透明感的斑駁樹影光，低對比度且淡雅優質的大地色調（層次灰、橄欖綠、自然米色）。
+・字體排印（面向 GPT-image / Nano Banana Pro）: 文字「{concept}」與「{location}」以極細且現代的無襯線字體安靜排列於畫面的留白處。
+
+【排版與輸出嚴格限制（必須遵守）】
+・請直接將完成的設計填滿整個畫面輸出。設計內部的背景與場景描寫（牆壁・空間・陰影等）依內文指示即可。
+・禁止事項：將完成海報裝入相框的照片、貼在牆上的照片、放在桌上或紙上的樣品展示（Mockup）照片、紙張邊緣的透視變形與陰影效應。
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・寬高比: --ar 16:9
 ```
 
 [↑ 返回分類目錄](#catalog)

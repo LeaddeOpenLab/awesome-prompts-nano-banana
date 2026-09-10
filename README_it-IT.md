@@ -446,20 +446,39 @@ Un'incredibile vista verticale di una metropoli futuristica che fluttua con graz
 
 <a name="prompt-2097803184903274848"></a>
 
-### Traduzione in corso
+### Modello di prompt per ritratti editoriali per brand di moda giapponesi, valorizzando luce naturale, cemento e verde.
 
 Autore：[@AIGuideNote](https://x.com/AIGuideNote) · [Post originale](https://x.com/AIGuideNote/status/2097803184903274848)
 
 Ritratto / Selfie · Articolo di moda · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Modello di prompt per ritratti editoriali per brand di moda giapponesi, valorizzando luce naturale, cemento e verde.
 
 <img src="images/2097803184903274848-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+【Concept del brand】
+・Concept visivo: {concept}
+・Location dello scatto: {location}
+
+【Styling】
+・Coordinamento e outfit: {outfitStyle}
+
+【Specifiche su qualità visiva, regia e composizione】
+・Stile: Hero image per il lookbook di un brand giapponese di moda e lifestyle, minimalista e di alta gamma.
+・Soggetto: Modello/a che indossa {outfitStyle}, in posa serena e silenziosa nella luce naturale. Capelli mossi dal vento, pieghe nell'abito, espressione calma e naturale.
+・Sfondo: Il corridoio di un'antica casa tradizionale giapponese con i raggi di sole che filtrano tra gli alberi, o uno scorcio di {location} in cui cemento e verde si fondono armoniosamente.
+・Illuminazione e colori: Luce filtrata del mattino o della sera, morbida e trasparente; toni della terra tenui e raffinati con contrasto attenuato (grigio sfumato, oliva, beige naturale).
+・Tipografia (per GPT-image / Nano Banana Pro): Le scritte {concept} e {location} posizionate con discrezione nello spazio negativo dell'inquadratura, con un font sans-serif ultramoderno ed estremamente sottile.
+
+【Vincoli rigorosi di impaginazione e output (Obbligatorio)】
+・Generare il design finale stesso riempiendo interamente la tela. Gli sfondi e le rappresentazioni della scena all'interno del design (pareti, spazi, ombre, ecc.) possono seguire le istruzioni del testo principale.
+・Divieti: Foto del poster finale inserito in una cornice, foto del poster appeso alla parete, mockup su scrivania o carta, distorsioni prospettiche sui bordi della carta o ombre proiettate.
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・Rapporto d'aspetto: --ar 16:9
 ```
 
 [↑ Torna alle categorie](#catalog)

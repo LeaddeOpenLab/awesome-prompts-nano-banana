@@ -446,20 +446,39 @@ Góc nhìn thẳng đứng ngoạn mục của một đô thị tương lai lơ 
 
 <a name="prompt-2097803184903274848"></a>
 
-### Đang dịch
+### Mẫu gợi ý chụp ảnh chân dung biên tập \(editorial\) dành cho thương hiệu thời trang Nhật Bản, tận dụng ánh sáng tự nhiên, bê tông và mảng xanh.
 
 Tác giả：[@AIGuideNote](https://x.com/AIGuideNote) · [Bài gốc](https://x.com/AIGuideNote/status/2097803184903274848)
 
 Chân dung / Ảnh tự chụp · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Mẫu gợi ý chụp ảnh chân dung biên tập \(editorial\) dành cho thương hiệu thời trang Nhật Bản, tận dụng ánh sáng tự nhiên, bê tông và mảng xanh.
 
 <img src="images/2097803184903274848-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+【Khái niệm thương hiệu】
+・Ý tưởng hình ảnh: {concept}
+・Địa điểm chụp: {location}
+
+【Tạo hình phong cách】
+・Phối đồ・Trang phục: {outfitStyle}
+
+【Quy chuẩn chất lượng hình ảnh, phong cách và bố cục】
+・Phong cách: Hình ảnh chủ đạo (hero image) cho lookbook của thương hiệu thời trang và phong cách sống Nhật Bản cao cấp, tối giản.
+・Chủ thể: Người mẫu diện trang phục {outfitStyle} tĩnh lặng đứng dưới ánh sáng tự nhiên. Mái tóc khẽ bay trong gió cùng những nếp nhăn tự nhiên của trang phục, nét mặt bình yên và tự nhiên.
+・Hành lang: Hành lang nhà cổ Nhật Bản ngập tràn bóng nắng lung linh qua tán lá, hoặc một địa điểm tại {location} nơi bê tông và cây xanh giao thoa tuyệt đẹp.
+・Ánh sáng・Màu sắc: Ánh nắng sớm mai hoặc chiều muộn mềm mại, trong trẻo xuyên qua kẽ lá; tông màu đất dịu nhẹ, thanh thoát với độ tương phản thấp (xám tinh tế, màu ô liu, be tự nhiên).
+・Nghệ thuật chữ (Dành cho GPT-image / Nano Banana Pro): Dòng chữ {concept} và {location} xuất hiện trang nhã ở phần khoảng trống của khung hình bằng phông chữ sans-serif cực mảnh và hiện đại.
+
+【Ràng buộc nghiêm ngặt về bố cục và xuất hình (Bắt buộc)】
+・Vui lòng xuất chính bản thiết kế phẳng hoàn chỉnh lấp đầy toàn bộ khung hình. Các yếu tố bối cảnh bên trong thiết kế (tường, không gian, bóng đổ...) được phép tuân theo chỉ dẫn trong phần nội dung.
+・Điều cấm: Không chụp poster hoàn thiện đặt trong khung ảnh, không chụp poster dán trên tường, không chụp phối cảnh mô phỏng (mockup) trên bàn hoặc giấy, không làm biến dạng phối cảnh cạnh giấy hoặc hiệu ứng đổ bóng ở viền mép tác phẩm.
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・Tỷ lệ khung hình: --ar 16:9
 ```
 
 [↑ Về danh mục](#catalog)

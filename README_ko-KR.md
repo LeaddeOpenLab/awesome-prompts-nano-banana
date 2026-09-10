@@ -446,20 +446,39 @@ Prompt 2:
 
 <a name="prompt-2097803184903274848"></a>
 
-### 번역 중
+### 일본 패션 브랜드를 위한 자연광과 콘크리트, 녹음을 살린 에디토리얼 인물 사진 프롬프트 템플릿.
 
 작성자：[@AIGuideNote](https://x.com/AIGuideNote) · [원본 게시물](https://x.com/AIGuideNote/status/2097803184903274848)
 
 인물 사진 / 셀카 · 패션 아이템 · 배포 완료
 
-**요약:** 번역 중
+**요약:** 일본 패션 브랜드를 위한 자연광과 콘크리트, 녹음을 살린 에디토리얼 인물 사진 프롬프트 템플릿.
 
 <img src="images/2097803184903274848-1.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-번역 중
+【브랜드 콘셉트】
+・이미지 콘셉트: {concept}
+・촬영 로케이션: {location}
+
+【스타일링】
+・코디네이션・의상: {outfitStyle}
+
+【화질・연출・구도 지정】
+・스타일: 미니멀하고 고급스러운 일본 패션・라이프스타일 브랜드의 룩북용 히어로 이미지.
+・피사체: 자연광 속에서 조용히 서 있는 {outfitStyle} 차림의 모델. 바람에 흩날리는 머리카락과 옷 주름, 차분하고 자연스러운 표정.
+・배경: 나뭇잎 사이로 햇살이 흔들리는 오래된 일본식 가옥 복도, 또는 콘크리트와 녹음이 아름답게 어우러진 {location}의 스팟.
+・조명・색채: 아침 또는 해질녘의 부드럽고 투명한 나뭇잎 사이 햇살, 대비를 낮춘 옅고 아름다운 어스 톤(뉘앙스 그레이, 올리브, 내추럴 베이지).
+・타이포그래피 (GPT-image / Nano Banana Pro용): {concept} 및 {location}의 텍스트가 화면의 여백 부분에 매우 얇고 모던한 산세리프 폰트로 차분하게 배치됨.
+
+【레이아웃 및 출력 시 엄격한 제약 사항(필수)】
+・완성된 디자인 자체를 화면 전체에 가득 차게 출력해 주세요. 디자인 내부의 배경 및 장면 묘사(벽, 공간, 그림자 등)는 본문의 지시를 따라도 무방합니다.
+・금지 사항: 완성된 포스터를 액자에 넣은 사진, 벽에 붙인 상태의 사진, 책상이나 종이 위에 놓인 목업 사진, 종이 가장자리의 원근 왜곡이나 드롭 섀도.
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・종횡비: --ar 16:9
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

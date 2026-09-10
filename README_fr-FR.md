@@ -446,20 +446,39 @@ Une vue verticale à couper le souffle d'une métropole futuriste flottant graci
 
 <a name="prompt-2097803184903274848"></a>
 
-### Traduction en cours
+### Modèle de prompt de portrait éditorial pour marques de mode japonaises, mettant en valeur la lumière naturelle, le béton et la verdure.
 
 Auteur：[@AIGuideNote](https://x.com/AIGuideNote) · [Publication originale](https://x.com/AIGuideNote/status/2097803184903274848)
 
 Portrait / Selfie · Article de mode · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Modèle de prompt de portrait éditorial pour marques de mode japonaises, mettant en valeur la lumière naturelle, le béton et la verdure.
 
 <img src="images/2097803184903274848-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+【Concept de marque】
+・Concept d'image : {concept}
+・Lieu de prise de vue : {location}
+
+【Stylisme】
+・Coordination et tenue : {outfitStyle}
+
+【Spécifications de qualité d'image, mise en scène et composition】
+・Style : Image phare pour le lookbook d'une marque japonaise de mode et d'art de vivre, minimaliste et haut de gamme.
+・Sujet : Un mannequin vêtu de {outfitStyle}, debout en toute sérénité sous la lumière naturelle. Cheveux flottant légèrement au vent, plis sur les vêtements, expression calme et naturelle.
+・Arrière-plan : Le couloir d'une ancienne maison japonaise traditionnelle traversé par les rayons du soleil filtrant à travers les arbres, ou un lieu à {location} où le béton et la verdure s'harmonisent avec élégance.
+・Éclairage et couleurs : Lumière douce et diaphane du matin ou de la fin d'après-midi filtrant à travers le feuillage, tons terreux délicats et magnifiques à faible contraste (gris nuancé, olive, beige naturel).
+・Typographie (pour GPT-image / Nano Banana Pro) : Les textes {concept} et {location} discrètement disposés dans les espaces négatifs de l'image, en police sans-serif ultra-fine et moderne.
+
+【Contraintes strictes de mise en page et de rendu (Obligatoire)】
+・Affichez le design fini lui-même en plein écran, occupant l'intégralité de la toile. Les arrière-plans et décors au sein du design (murs, espaces, ombres, etc.) peuvent suivre les instructions du texte principal.
+・Interdictions : Photographies de l'affiche finale encadrée, photos de celle-ci fixée à un mur, maquettes (mockups) posées sur un bureau ou sur du papier, déformations de perspective sur les bords de la feuille ou ombres portées.
+・Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
+
+・Format d'image : --ar 16:9
 ```
 
 [↑ Retour aux catégories](#catalog)
