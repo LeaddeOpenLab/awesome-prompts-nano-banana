@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T12:31:24.623Z",
+  "model": "nano-banana",
+  "prompt": "{\n  \"title\": \"Cyberpunk Detective\",\n\n  \"image_description\": \"A cinematic cyberpunk scene viewed through a rain-soaked car window. Neon reflections dance across the glass while a handsome futuristic detective sits in the driver's seat wearing a heavy dark coat. A woman wearing a glowing translucent yellow jacket looks toward him. Flying vehicles move through a foggy futuristic city in the background.\",\n\n  \"characters\": [\n    {\n      \"role\": \"Futuristic Detective\",\n      \"position\": \"Driver's Seat\",\n      \"appearance\": \"Handsome, serious expression, heavy dark coat\",\n      \"focus\": \"Sharp Focus\"\n    },\n    {\n      \"role\": \"Mysterious Woman\",\n      \"position\": \"Passenger Seat\",\n      \"appearance\": \"Dark hair, glowing translucent yellow jacket\",\n      \"expression\": \"Quietly observing the detective\",\n      \"focus\": \"Slightly softer focus\"\n    }\n  ],\n\n  \"setting\": {\n    \"location\": \"Futuristic Vehicle Interior\",\n    \"cityscape\": \"Foggy cyberpunk megacity\",\n    \"background_elements\": [\n      \"Flying vehicles\",\n      \"Neon billboards\",\n      \"Rain-covered glass\",\n      \"Holographic lights\"\n    ]\n  },\n\n  \"cinematography\": {\n    \"shot_type\": \"Medium Close-Up\",\n    \"camera_angle\": \"Eye Level\",\n    \"lens\": \"50mm Anamorphic Lens\",\n    \"depth_of_field\": \"Shallow\",\n    \"composition\": \"Movie Still\"\n  },\n\n  \"lighting\": {\n    \"type\": \"Cinematic Lighting\",\n    \"effects\": [\n      \"Neon Reflections\",\n      \"Volumetric Lighting\",\n      \"Rain Refractions\",\n      \"Soft Ambient Glow\"\n    ]\n  },\n\n  \"mood\": [\n    \"Moody\",\n    \"Mysterious\",\n    \"Futuristic\",\n    \"Emotional\"\n  ],\n\n  \"color_palette\": [\n    \"Blue\",\n    \"Cyan\",\n    \"Yellow\"\n  ],\n\n  \"quality\": {\n    \"style\": \"Hollywood Blockbuster\",\n    \"realism\": \"Ultra Photorealistic\",\n    \"resolution\": \"8K\",\n    \"details\": [\n      \"Perfect Reflections\",\n      \"Photorealistic Faces\",\n      \"Film Grain\",\n      \"Volumetric Fog\",\n      \"Realistic Depth of Field\",\n      \"Award-Winning Cinematography\",\n      \"IMAX Quality\",\n      \"Cinematic Storytelling\",\n      \"Masterpiece\"\n    ]\n  }\n}",
+  "promptTranslations": {
+    "en": "{\n  \"title\": \"Cyberpunk Detective\",\n\n  \"image_description\": \"A cinematic cyberpunk scene viewed through a rain-soaked car window. Neon reflections dance across the glass while a handsome futuristic detective sits in the driver's seat wearing a heavy dark coat. A woman wearing a glowing translucent yellow jacket looks toward him. Flying vehicles move through a foggy futuristic city in the background.\",\n\n  \"characters\": [\n    {\n      \"role\": \"Futuristic Detective\",\n      \"position\": \"Driver's Seat\",\n      \"appearance\": \"Handsome, serious expression, heavy dark coat\",\n      \"focus\": \"Sharp Focus\"\n    },\n    {\n      \"role\": \"Mysterious Woman\",\n      \"position\": \"Passenger Seat\",\n      \"appearance\": \"Dark hair, glowing translucent yellow jacket\",\n      \"expression\": \"Quietly observing the detective\",\n      \"focus\": \"Slightly softer focus\"\n    }\n  ],\n\n  \"setting\": {\n    \"location\": \"Futuristic Vehicle Interior\",\n    \"cityscape\": \"Foggy cyberpunk megacity\",\n    \"background_elements\": [\n      \"Flying vehicles\",\n      \"Neon billboards\",\n      \"Rain-covered glass\",\n      \"Holographic lights\"\n    ]\n  },\n\n  \"cinematography\": {\n    \"shot_type\": \"Medium Close-Up\",\n    \"camera_angle\": \"Eye Level\",\n    \"lens\": \"50mm Anamorphic Lens\",\n    \"depth_of_field\": \"Shallow\",\n    \"composition\": \"Movie Still\"\n  },\n\n  \"lighting\": {\n    \"type\": \"Cinematic Lighting\",\n    \"effects\": [\n      \"Neon Reflections\",\n      \"Volumetric Lighting\",\n      \"Rain Refractions\",\n      \"Soft Ambient Glow\"\n    ]\n  },\n\n  \"mood\": [\n    \"Moody\",\n    \"Mysterious\",\n    \"Futuristic\",\n    \"Emotional\"\n  ],\n\n  \"color_palette\": [\n    \"Blue\",\n    \"Cyan\",\n    \"Yellow\"\n  ],\n\n  \"quality\": {\n    \"style\": \"Hollywood Blockbuster\",\n    \"realism\": \"Ultra Photorealistic\",\n    \"resolution\": \"8K\",\n    \"details\": [\n      \"Perfect Reflections\",\n      \"Photorealistic Faces\",\n      \"Film Grain\",\n      \"Volumetric Fog\",\n      \"Realistic Depth of Field\",\n      \"Award-Winning Cinematography\",\n      \"IMAX Quality\",\n      \"Cinematic Storytelling\",\n      \"Masterpiece\"\n    ]\n  }\n}"
+  },
+  "summaryTranslations": {
+    "en": "A cinematic cyberpunk scene of a detective and a woman in yellow viewed through a car window on a rainy night."
+  },
+  "translationVersion": 2,
+  "summary": "雨夜车窗透视下的赛博朋克侦探与黄衣女子电影质感场景。",
+  "summaryEn": "Cinematic cyberpunk scene of a detective and woman inside a car viewed through a rain-soaked window.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098365190282805417",
+    "canonicalUrl": "https://x.com/SheBuildsAI_/status/2098365190282805417",
+    "author": {
+      "username": "SheBuildsAI_",
+      "displayName": "Compound Learning - Tech | Science",
+      "profileUrl": "https://x.com/SheBuildsAI_"
+    },
+    "publishedAt": "2026-09-11T10:57:01.000Z",
+    "collectedAt": "2026-09-11T12:16:05.734Z",
+    "language": "en",
+    "originalText": "Gemini Nano Banana Pro\n\nPrompt:\n\n{\n  \"title\": \"Cyberpunk Detective\",\n\n  \"image_description\": \"A cinematic cyberpunk scene viewed through a rain-soaked car window. Neon reflections dance across the glass while a handsome futuristic detective sits in the driver's seat wearing a heavy dark coat. A woman wearing a glowing translucent yellow jacket looks toward him. Flying vehicles move through a foggy futuristic city in the background.\",\n\n  \"characters\": [\n    {\n      \"role\": \"Futuristic Detective\",\n      \"position\": \"Driver's Seat\",\n      \"appearance\": \"Handsome, serious expression, heavy dark coat\",\n      \"focus\": \"Sharp Focus\"\n    },\n    {\n      \"role\": \"Mysterious Woman\",\n      \"position\": \"Passenger Seat\",\n      \"appearance\": \"Dark hair, glowing translucent yellow jacket\",\n      \"expression\": \"Quietly observing the detective\",\n      \"focus\": \"Slightly softer focus\"\n    }\n  ],\n\n  \"setting\": {\n    \"location\": \"Futuristic Vehicle Interior\",\n    \"cityscape\": \"Foggy cyberpunk megacity\",\n    \"background_elements\": [\n      \"Flying vehicles\",\n      \"Neon billboards\",\n      \"Rain-covered glass\",\n      \"Holographic lights\"\n    ]\n  },\n\n  \"cinematography\": {\n    \"shot_type\": \"Medium Close-Up\",\n    \"camera_angle\": \"Eye Level\",\n    \"lens\": \"50mm Anamorphic Lens\",\n    \"depth_of_field\": \"Shallow\",\n    \"composition\": \"Movie Still\"\n  },\n\n  \"lighting\": {\n    \"type\": \"Cinematic Lighting\",\n    \"effects\": [\n      \"Neon Reflections\",\n      \"Volumetric Lighting\",\n      \"Rain Refractions\",\n      \"Soft Ambient Glow\"\n    ]\n  },\n\n  \"mood\": [\n    \"Moody\",\n    \"Mysterious\",\n    \"Futuristic\",\n    \"Emotional\"\n  ],\n\n  \"color_palette\": [\n    \"Blue\",\n    \"Cyan\",\n    \"Yellow\"\n  ],\n\n  \"quality\": {\n    \"style\": \"Hollywood Blockbuster\",\n    \"realism\": \"Ultra Photorealistic\",\n    \"resolution\": \"8K\",\n    \"details\": [\n      \"Perfect Reflections\",\n      \"Photorealistic Faces\",\n      \"Film Grain\",\n      \"Volumetric Fog\",\n      \"Realistic Depth of Field\",\n      \"Award-Winning Cinematography\",\n      \"IMAX Quality\",\n      \"Cinematic Storytelling\",\n      \"Masterpiece\"\n    ]\n  }\n}",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR7kBT-a4AAqBCJ.png",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR7kBT-a4AAqBCJ.png"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 64
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/SheBuildsAI_/status/2098365190282805417",
+  "coverUrl": "https://pbs.twimg.com/media/HR7kBT-a4AAqBCJ.png",
+  "coverPath": "images/2098365190282805417-1.png",
+  "imagePaths": [
+    "images/2098365190282805417-1.png"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR7kBT-a4AAqBCJ",
+    "x-post:2098365190282805417"
+  ],
+  "analysis": {
+    "summary": "雨夜车窗透视下的赛博朋克侦探与黄衣女子电影质感场景。",
+    "summaryEn": "Cinematic cyberpunk scene of a detective and woman inside a car viewed through a rain-soaked window.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "画面准确再现了透过带雨滴的车窗观察车内两人、男子着深色大衣驾驶、女子着半透明发光黄色夹克，以及背景带有飞行载具与霓虹的赛博朋克都市。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "{\n  \"title\": \"Cyberpunk Detective\",\n\n  \"image_description\": \"A cinematic cyberpunk scene viewed through a rain-soaked car window. Neon reflections dance across the glass while a handsome futuristic detective sits in the driver's seat wearing a heavy dark coat. A woman wearing a glowing translucent yellow jacket looks toward him. Flying vehicles move through a foggy futuristic city in the background.\",\n\n  \"characters\": [\n    {\n      \"role\": \"Futuristic Detective\",\n      \"position\": \"Driver's Seat\",\n      \"appearance\": \"Handsome, serious expression, heavy dark coat\",\n      \"focus\": \"Sharp Focus\"\n    },\n    {\n      \"role\": \"Mysterious Woman\",\n      \"position\": \"Passenger Seat\",\n      \"appearance\": \"Dark hair, glowing translucent yellow jacket\",\n      \"expression\": \"Quietly observing the detective\",\n      \"focus\": \"Slightly softer focus\"\n    }\n  ],\n\n  \"setting\": {\n    \"location\": \"Futuristic Vehicle Interior\",\n    \"cityscape\": \"Foggy cyberpunk megacity\",\n    \"background_elements\": [\n      \"Flying vehicles\",\n      \"Neon billboards\",\n      \"Rain-covered glass\",\n      \"Holographic lights\"\n    ]\n  },\n\n  \"cinematography\": {\n    \"shot_type\": \"Medium Close-Up\",\n    \"camera_angle\": \"Eye Level\",\n    \"lens\": \"50mm Anamorphic Lens\",\n    \"depth_of_field\": \"Shallow\",\n    \"composition\": \"Movie Still\"\n  },\n\n  \"lighting\": {\n    \"type\": \"Cinematic Lighting\",\n    \"effects\": [\n      \"Neon Reflections\",\n      \"Volumetric Lighting\",\n      \"Rain Refractions\",\n      \"Soft Ambient Glow\"\n    ]\n  },\n\n  \"mood\": [\n    \"Moody\",\n    \"Mysterious\",\n    \"Futuristic\",\n    \"Emotional\"\n  ],\n\n  \"color_palette\": [\n    \"Blue\",\n    \"Cyan\",\n    \"Yellow\"\n  ],\n\n  \"quality\": {\n    \"style\": \"Hollywood Blockbuster\",\n    \"realism\": \"Ultra Photorealistic\",\n    \"resolution\": \"8K\",\n    \"details\": [\n      \"Perfect Reflections\",\n      \"Photorealistic Faces\",\n      \"Film Grain\",\n      \"Volumetric Fog\",\n      \"Realistic Depth of Field\",\n      \"Award-Winning Cinematography\",\n      \"IMAX Quality\",\n      \"Cinematic Storytelling\",\n      \"Masterpiece\"\n    ]\n  }\n}",
+    "sourceRange": {
+      "start": 33,
+      "end": 2069
+    },
+    "translations": {
+      "zh": "赛博朋克侦探电影场景，透过带雨水的车窗观察。霓虹倒影在玻璃上映照，英俊的未来侦探身穿厚重深色大衣坐在驾驶座。身穿发光半透明黄色夹克的女子看着他，背景是雾气缭绕的未来都市与飞行载具。",
+      "en": "A cinematic cyberpunk scene viewed through a rain-soaked car window with neon reflections, featuring a futuristic detective in a dark coat and a woman in a glowing yellow jacket inside a vehicle, against a foggy sci-fi cityscape with flying cars."
+    },
+    "targetModels": [
+      "nano-banana"
+    ],
+    "category": "text-to-image",
+    "useCase": "text-to-image",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
