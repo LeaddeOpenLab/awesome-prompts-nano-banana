@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**17** Prompts · Latest addition: **2026-09-10**
+**18** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -140,6 +140,107 @@ A handsome young male with glowing tanned skin stands facing the camera directly
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2098365190282805417"></a>
+
+### A cinematic cyberpunk scene of a detective and a woman in yellow viewed through a car window on a rainy night.
+
+Author：[@SheBuildsAI\_](https://x.com/SheBuildsAI_) · [Source](https://x.com/SheBuildsAI_/status/2098365190282805417)
+
+Cinematic / Film Still · Cyberpunk / Sci-Fi · Character · Vehicle · Published
+
+**Summary:** A cinematic cyberpunk scene of a detective and a woman in yellow viewed through a car window on a rainy night.
+
+<img src="images/2098365190282805417-1.png" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+{
+  "title": "Cyberpunk Detective",
+
+  "image_description": "A cinematic cyberpunk scene viewed through a rain-soaked car window. Neon reflections dance across the glass while a handsome futuristic detective sits in the driver's seat wearing a heavy dark coat. A woman wearing a glowing translucent yellow jacket looks toward him. Flying vehicles move through a foggy futuristic city in the background.",
+
+  "characters": [
+    {
+      "role": "Futuristic Detective",
+      "position": "Driver's Seat",
+      "appearance": "Handsome, serious expression, heavy dark coat",
+      "focus": "Sharp Focus"
+    },
+    {
+      "role": "Mysterious Woman",
+      "position": "Passenger Seat",
+      "appearance": "Dark hair, glowing translucent yellow jacket",
+      "expression": "Quietly observing the detective",
+      "focus": "Slightly softer focus"
+    }
+  ],
+
+  "setting": {
+    "location": "Futuristic Vehicle Interior",
+    "cityscape": "Foggy cyberpunk megacity",
+    "background_elements": [
+      "Flying vehicles",
+      "Neon billboards",
+      "Rain-covered glass",
+      "Holographic lights"
+    ]
+  },
+
+  "cinematography": {
+    "shot_type": "Medium Close-Up",
+    "camera_angle": "Eye Level",
+    "lens": "50mm Anamorphic Lens",
+    "depth_of_field": "Shallow",
+    "composition": "Movie Still"
+  },
+
+  "lighting": {
+    "type": "Cinematic Lighting",
+    "effects": [
+      "Neon Reflections",
+      "Volumetric Lighting",
+      "Rain Refractions",
+      "Soft Ambient Glow"
+    ]
+  },
+
+  "mood": [
+    "Moody",
+    "Mysterious",
+    "Futuristic",
+    "Emotional"
+  ],
+
+  "color_palette": [
+    "Blue",
+    "Cyan",
+    "Yellow"
+  ],
+
+  "quality": {
+    "style": "Hollywood Blockbuster",
+    "realism": "Ultra Photorealistic",
+    "resolution": "8K",
+    "details": [
+      "Perfect Reflections",
+      "Photorealistic Faces",
+      "Film Grain",
+      "Volumetric Fog",
+      "Realistic Depth of Field",
+      "Award-Winning Cinematography",
+      "IMAX Quality",
+      "Cinematic Storytelling",
+      "Masterpiece"
+    ]
+  }
+}
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097564694974541836"></a>
 

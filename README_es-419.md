@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**17** Prompts · Última incorporación: **2026-09-10**
+**18** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -140,6 +140,28 @@ Un apuesto joven de piel bronceada y radiante se encuentra de pie mirando direct
 <a name="category-cinematic-film-still"></a>
 
 ## Cine / Fotograma
+
+<a name="prompt-2098365190282805417"></a>
+
+### Traducción en curso
+
+Autor：[@SheBuildsAI\_](https://x.com/SheBuildsAI_) · [Publicación original](https://x.com/SheBuildsAI_/status/2098365190282805417)
+
+Cine / Fotograma · Cyberpunk / Ciencia ficción · Personaje · Vehículo · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098365190282805417-1.png" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097564694974541836"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**17** Prompt · Bổ sung mới nhất: **2026-09-10**
+**18** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -140,6 +140,28 @@ Một chàng trai trẻ đẹp trai với làn da rám nắng rạng rỡ đứn
 <a name="category-cinematic-film-still"></a>
 
 ## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2098365190282805417"></a>
+
+### Đang dịch
+
+Tác giả：[@SheBuildsAI\_](https://x.com/SheBuildsAI_) · [Bài gốc](https://x.com/SheBuildsAI_/status/2098365190282805417)
+
+Điện ảnh / Ảnh tĩnh từ phim · Cyberpunk / Khoa học viễn tưởng · Nhân vật · Phương tiện · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098365190282805417-1.png" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097564694974541836"></a>
 

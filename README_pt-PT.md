@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**17** Prompts · Adição mais recente: **2026-09-10**
+**18** Prompts · Adição mais recente: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -140,6 +140,28 @@ Um jovem atraente com pele bronzeada e brilhante está virado diretamente para a
 <a name="category-cinematic-film-still"></a>
 
 ## Cena de Cinema / Fotograma
+
+<a name="prompt-2098365190282805417"></a>
+
+### Tradução em curso
+
+Autor：[@SheBuildsAI\_](https://x.com/SheBuildsAI_) · [Publicação original](https://x.com/SheBuildsAI_/status/2098365190282805417)
+
+Cena de Cinema / Fotograma · Cyberpunk / Ficção Científica · Personagem · Veículo · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098365190282805417-1.png" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097564694974541836"></a>
 

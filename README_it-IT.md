@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**17** Prompt · Ultima aggiunta: **2026-09-10**
+**18** Prompt · Ultima aggiunta: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -140,6 +140,28 @@ Un bell'uomo giovane dalla pelle abbronzata e luminosa è in piedi rivolto diret
 <a name="category-cinematic-film-still"></a>
 
 ## Fermo immagine cinematografico / Still fotografico
+
+<a name="prompt-2098365190282805417"></a>
+
+### Traduzione in corso
+
+Autore：[@SheBuildsAI\_](https://x.com/SheBuildsAI_) · [Post originale](https://x.com/SheBuildsAI_/status/2098365190282805417)
+
+Fermo immagine cinematografico / Still fotografico · Cyberpunk / Sci-Fi · Personaggio · Veicolo · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098365190282805417-1.png" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2097564694974541836"></a>
 

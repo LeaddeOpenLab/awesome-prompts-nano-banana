@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**17** Prompt · Son eklenen: **2026-09-10**
+**18** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -140,6 +140,28 @@ Işıltılı bronz tene sahip yakışıklı genç bir erkek, göğsünü açığ
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2098365190282805417"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@SheBuildsAI\_](https://x.com/SheBuildsAI_) · [Orijinal gönderi](https://x.com/SheBuildsAI_/status/2098365190282805417)
+
+Sinematik / Film Karesi · Siberpunk / Bilim Kurgu · Karakter · Araç · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098365190282805417-1.png" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097564694974541836"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**17** Prompts · Dernier ajout: **2026-09-10**
+**18** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -140,6 +140,28 @@ Un beau jeune homme à la peau bronzée et éclatante se tient face à l'apparei
 <a name="category-cinematic-film-still"></a>
 
 ## Image cinématographique / Photogramme de film
+
+<a name="prompt-2098365190282805417"></a>
+
+### Traduction en cours
+
+Auteur：[@SheBuildsAI\_](https://x.com/SheBuildsAI_) · [Publication originale](https://x.com/SheBuildsAI_/status/2098365190282805417)
+
+Image cinématographique / Photogramme de film · Cyberpunk / Science-fiction · Personnage · Véhicule · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098365190282805417-1.png" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097564694974541836"></a>
 
