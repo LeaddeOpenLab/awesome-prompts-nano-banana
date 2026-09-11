@@ -143,20 +143,99 @@ Işıltılı bronz tene sahip yakışıklı genç bir erkek, göğsünü açığ
 
 <a name="prompt-2098365190282805417"></a>
 
-### Çeviri sürüyor
+### Yağmurlu bir gecede araba camından görünen siberpunk dedektif ve sarı ceketli kadının sinematik sahnesi.
 
 Yazar：[@SheBuildsAI\_](https://x.com/SheBuildsAI_) · [Orijinal gönderi](https://x.com/SheBuildsAI_/status/2098365190282805417)
 
 Sinematik / Film Karesi · Siberpunk / Bilim Kurgu · Karakter · Araç · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yağmurlu bir gecede araba camından görünen siberpunk dedektif ve sarı ceketli kadının sinematik sahnesi.
 
 <img src="images/2098365190282805417-1.png" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+{
+  "title": "Siberpunk Dedektif",
+
+  "image_description": "Yağmurla kaplı bir araba camından görünen sinematik bir siberpunk sahnesi. Sürücü koltuğunda ağır, koyu renkli bir palto giyen yakışıklı, fütüristik bir dedektif otururken neon yansımaları cam boyunca dans ediyor. Işıltılı, yarı saydam sarı bir ceket giyen bir kadın ona doğru bakıyor. Arka planda sisli, fütüristik bir şehrin içinden uçan araçlar geçiyor.",
+
+  "characters": [
+    {
+      "role": "Fütüristik Dedektif",
+      "position": "Sürücü Koltuğu",
+      "appearance": "Yakışıklı, ciddi yüz ifadesi, ağır koyu renkli palto",
+      "focus": "Keskin Odak"
+    },
+    {
+      "role": "Gizemli Kadın",
+      "position": "Yolcu Koltuğu",
+      "appearance": "Koyu renk saçlar, ışıltılı yarı saydam sarı ceket",
+      "expression": "Sessizce dedektifi izliyor",
+      "focus": "Biraz daha yumuşak odak"
+    }
+  ],
+
+  "setting": {
+    "location": "Fütüristik Araç İçi",
+    "cityscape": "Sisli siberpunk megakenti",
+    "background_elements": [
+      "Uçan araçlar",
+      "Neon panolar",
+      "Yağmurla kaplı cam",
+      "Holografik ışıklar"
+    ]
+  },
+
+  "cinematography": {
+    "shot_type": "Göğüs Planı",
+    "camera_angle": "Göz Hizası",
+    "lens": "50mm Anamorfik Lens",
+    "depth_of_field": "Sığ",
+    "composition": "Film Karesi"
+  },
+
+  "lighting": {
+    "type": "Sinematik Aydınlatma",
+    "effects": [
+      "Neon Yansımaları",
+      "Hacimsel Aydınlatma",
+      "Yağmur Kırılmaları",
+      "Yumuşak Ortam Işıltısı"
+    ]
+  },
+
+  "mood": [
+    "Kasvetli",
+    "Gizemli",
+    "Fütüristik",
+    "Duygusal"
+  ],
+
+  "color_palette": [
+    "Mavi",
+    "Camgöbeği",
+    "Sarı"
+  ],
+
+  "quality": {
+    "style": "Hollywood Gişe Rekortmeni",
+    "realism": "Ultra Fotogerçekçi",
+    "resolution": "8K",
+    "details": [
+      "Kusursuz Yansımalar",
+      "Fotogerçekçi Yüzler",
+      "Film Greni",
+      "Hacimsel Sis",
+      "Gerçekçi Alan Derinliği",
+      "Ödüllü Sinematografi",
+      "IMAX Kalitesi",
+      "Sinematik Hikâye Anlatımı",
+      "Başyapıt"
+    ]
+  }
+}
 ```
 
 [↑ Kategorilere dön](#catalog)

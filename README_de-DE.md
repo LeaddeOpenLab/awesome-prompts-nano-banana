@@ -143,20 +143,20 @@ Ein gutaussehender junger Mann mit strahlender, gebräunter Haut steht in selbst
 
 <a name="prompt-2098365190282805417"></a>
 
-### Übersetzung läuft
+### Filmartige Szene eines Cyberpunk-Detektivs und einer Frau in Gelb, gesehen durch ein regennasses Autofenster in einer regnerischen Nacht.
 
 Autor：[@SheBuildsAI\_](https://x.com/SheBuildsAI_) · [Originalbeitrag](https://x.com/SheBuildsAI_/status/2098365190282805417)
 
 Kinematisch / Filmstill · Cyberpunk / Sci-Fi · Charakter · Fahrzeug · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Filmartige Szene eines Cyberpunk-Detektivs und einer Frau in Gelb, gesehen durch ein regennasses Autofenster in einer regnerischen Nacht.
 
 <img src="images/2098365190282805417-1.png" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+{"title":"Cyberpunk-Detektiv","image_description":"Eine filmreife Cyberpunk-Szene, betrachtet durch das regennasse Fenster eines Autos. Neonreflexionen tanzen über das Glas, während ein attraktiver futuristischer Detektiv in einem schweren dunklen Mantel auf dem Fahrersitz sitzt. Eine Frau in einer leuchtenden, durchscheinenden gelben Jacke blickt zu ihm. Im Hintergrund bewegen sich fliegende Fahrzeuge durch eine neblige futuristische Stadt.","characters":[{"role":"Futuristischer Detektiv","position":"Fahrersitz","appearance":"Attraktiv, ernster Gesichtsausdruck, schwerer dunkler Mantel","focus":"Scharfer Fokus"},{"role":"Geheimnisvolle Frau","position":"Beifahrersitz","appearance":"Dunkles Haar, leuchtende durchscheinende gelbe Jacke","expression":"Beobachtet ruhig den Detektiv","focus":"Etwas weicherer Fokus"}],"setting":{"location":"Futuristischer Fahrzeuginnenraum","cityscape":"Neblige Cyberpunk-Megastadt","background_elements":["Fliegende Fahrzeuge","Neon-Werbetafeln","Regenbedecktes Glas","Holografische Lichter"]},"cinematography":{"shot_type":"Halbnahaufnahme","camera_angle":"Augenhöhe","lens":"50-mm-Anamorphot-Objektiv","depth_of_field":"Gering","composition":"Filmstill"},"lighting":{"type":"Cinematische Beleuchtung","effects":["Neonreflexionen","Volumetrisches Licht","Regenbrechungen","Sanftes Umgebungsleuchten"]},"mood":["Stimmungsvoll","Geheimnisvoll","Futuristisch","Emotional"],"color_palette":["Blau","Cyan","Gelb"],"quality":{"style":"Hollywood-Blockbuster","realism":"Ultraphotorealistisch","resolution":"8K","details":["Perfekte Reflexionen","Photorealistische Gesichter","Filmkorn","Volumetrischer Nebel","Realistische Schärfentiefe","Preisgekrönte Kameraführung","IMAX-Qualität","Cinematisches Storytelling","Meisterwerk"]}}
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

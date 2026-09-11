@@ -143,20 +143,20 @@ Un bell'uomo giovane dalla pelle abbronzata e luminosa è in piedi rivolto diret
 
 <a name="prompt-2098365190282805417"></a>
 
-### Traduzione in corso
+### Scena cinematografica di un detective cyberpunk e di una donna vestita di giallo visti attraverso il finestrino di un'auto in una notte di pioggia.
 
 Autore：[@SheBuildsAI\_](https://x.com/SheBuildsAI_) · [Post originale](https://x.com/SheBuildsAI_/status/2098365190282805417)
 
 Fermo immagine cinematografico / Still fotografico · Cyberpunk / Sci-Fi · Personaggio · Veicolo · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Scena cinematografica di un detective cyberpunk e di una donna vestita di giallo visti attraverso il finestrino di un'auto in una notte di pioggia.
 
 <img src="images/2098365190282805417-1.png" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+{"title":"Detective cyberpunk","image_description":"Una scena cinematografica cyberpunk vista attraverso il finestrino bagnato di pioggia di un'auto. Riflessi al neon danzano sul vetro mentre un affascinante detective futuristico siede al posto di guida indossando un pesante cappotto scuro. Una donna con una giacca gialla traslucida e luminosa guarda verso di lui. Veicoli volanti si muovono attraverso una nebbiosa città futuristica sullo sfondo.","characters":[{"role":"Detective futuristico","position":"Sedile del guidatore","appearance":"Affascinante, espressione seria, pesante cappotto scuro","focus":"Messa a fuoco nitida"},{"role":"Donna misteriosa","position":"Sedile del passeggero","appearance":"Capelli scuri, giacca gialla traslucida e luminosa","expression":"Che osserva silenziosamente il detective","focus":"Messa a fuoco leggermente più morbida"}],"setting":{"location":"Interno di veicolo futuristico","cityscape":"Megacittà cyberpunk nebbiosa","background_elements":["Veicoli volanti","Cartelloni al neon","Vetro coperto di pioggia","Luci olografiche"]},"cinematography":{"shot_type":"Primo piano medio","camera_angle":"All'altezza degli occhi","lens":"Obiettivo anamorfico da 50 mm","depth_of_field":"Bassa","composition":"Fotogramma cinematografico"},"lighting":{"type":"Illuminazione cinematografica","effects":["Riflessi al neon","Illuminazione volumetrica","Rifrazioni della pioggia","Morbido bagliore ambientale"]},"mood":["Suggestivo","Misterioso","Futuristico","Emozionale"],"color_palette":["Blu","Ciano","Giallo"],"quality":{"style":"Blockbuster hollywoodiano","realism":"Ultra fotorealistico","resolution":"8K","details":["Riflessi perfetti","Volti fotorealistici","Grana della pellicola","Nebbia volumetrica","Profondità di campo realistica","Cinematografia pluripremiata","Qualità IMAX","Narrazione cinematografica","Capolavoro"]}}
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -143,20 +143,20 @@ Un apuesto joven de piel bronceada y radiante se encuentra de pie mirando direct
 
 <a name="prompt-2098365190282805417"></a>
 
-### Traducción en curso
+### Escena cinematográfica de un detective ciberpunk y una mujer vestida de amarillo vistos a través de la ventana de un auto en una noche lluviosa.
 
 Autor：[@SheBuildsAI\_](https://x.com/SheBuildsAI_) · [Publicación original](https://x.com/SheBuildsAI_/status/2098365190282805417)
 
 Cine / Fotograma · Cyberpunk / Ciencia ficción · Personaje · Vehículo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Escena cinematográfica de un detective ciberpunk y una mujer vestida de amarillo vistos a través de la ventana de un auto en una noche lluviosa.
 
 <img src="images/2098365190282805417-1.png" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+{"title":"Detective ciberpunk","image_description":"Una escena cinematográfica ciberpunk vista a través de la ventana empapada por la lluvia de un auto. Reflejos de neón bailan sobre el cristal mientras un apuesto detective futurista se sienta en el asiento del conductor con un pesado abrigo oscuro. Una mujer con una chaqueta amarilla translúcida y brillante lo mira. Vehículos voladores se desplazan a través de una brumosa ciudad futurista en el fondo.","characters":[{"role":"Detective futurista","position":"Asiento del conductor","appearance":"Apuesto, expresión seria, abrigo oscuro pesado","focus":"Enfoque nítido"},{"role":"Mujer misteriosa","position":"Asiento del copiloto","appearance":"Cabello oscuro, chaqueta amarilla translúcida y brillante","expression":"Observando en silencio al detective","focus":"Enfoque ligeramente más suave"}],"setting":{"location":"Interior de vehículo futurista","cityscape":"Megaciudad ciberpunk brumosa","background_elements":["Vehículos voladores","Carteles de neón","Cristal cubierto de lluvia","Luces holográficas"]},"cinematography":{"shot_type":"Plano medio corto","camera_angle":"A la altura de los ojos","lens":"Lente anamórfica de 50 mm","depth_of_field":"Poco profunda","composition":"Fotograma de película"},"lighting":{"type":"Iluminación cinematográfica","effects":["Reflejos de neón","Iluminación volumétrica","Refracciones de lluvia","Brillo ambiental suave"]},"mood":["Melancólico","Misterioso","Futurista","Emotivo"],"color_palette":["Azul","Cian","Amarillo"],"quality":{"style":"Éxito de taquilla de Hollywood","realism":"Ultrafotorrealista","resolution":"8K","details":["Reflejos perfectos","Rostros fotorrealistas","Grano de película","Niebla volumétrica","Profundidad de campo realista","Cinematografía galardonada","Calidad IMAX","Narrativa cinematográfica","Obra maestra"]}}
 ```
 
 [↑ Volver a categorías](#catalog)

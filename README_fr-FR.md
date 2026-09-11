@@ -143,20 +143,20 @@ Un beau jeune homme à la peau bronzée et éclatante se tient face à l'apparei
 
 <a name="prompt-2098365190282805417"></a>
 
-### Traduction en cours
+### Scène cinématographique d'un détective cyberpunk et d'une femme vêtue de jaune vus à travers la vitre d'une voiture par une nuit pluvieuse.
 
 Auteur：[@SheBuildsAI\_](https://x.com/SheBuildsAI_) · [Publication originale](https://x.com/SheBuildsAI_/status/2098365190282805417)
 
 Image cinématographique / Photogramme de film · Cyberpunk / Science-fiction · Personnage · Véhicule · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Scène cinématographique d'un détective cyberpunk et d'une femme vêtue de jaune vus à travers la vitre d'une voiture par une nuit pluvieuse.
 
 <img src="images/2098365190282805417-1.png" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+{"title":"Détective cyberpunk","image_description":"Une scène cinématographique cyberpunk vue à travers la vitre trempée de pluie d'une voiture. Des reflets néon dansent sur le verre tandis qu'un beau détective futuriste est assis sur le siège conducteur, vêtu d'un lourd manteau sombre. Une femme portant une veste jaune translucide et lumineuse regarde vers lui. Des véhicules volants circulent dans une ville futuriste embrumée en arrière-plan.","characters":[{"role":"Détective futuriste","position":"Siège conducteur","appearance":"Beau, expression sérieuse, lourd manteau sombre","focus":"Mise au point nette"},{"role":"Femme mystérieuse","position":"Siège passager","appearance":"Cheveux sombres, veste jaune translucide et lumineuse","expression":"Observant calmement le détective","focus":"Mise au point légèrement plus douce"}],"setting":{"location":"Intérieur de véhicule futuriste","cityscape":"Mégapole cyberpunk brumeuse","background_elements":["Véhicules volants","Panneaux d'affichage néon","Vitre couverte de pluie","Lumières holographiques"]},"cinematography":{"shot_type":"Plan rapproché poitrine","camera_angle":"Au niveau des yeux","lens":"Objectif anamorphique 50 mm","depth_of_field":"Faible","composition":"Arrêt sur image de film"},"lighting":{"type":"Éclairage cinématographique","effects":["Reflets néon","Éclairage volumétrique","Réfractions de pluie","Lueur ambiante douce"]},"mood":["Mélancolique","Mystérieux","Futuriste","Émouvant"],"color_palette":["Bleu","Cyan","Jaune"],"quality":{"style":"Blockbuster hollywoodien","realism":"Ultra photoréaliste","resolution":"8K","details":["Reflets parfaits","Visages photoréalistes","Grain de film","Brouillard volumétrique","Profondeur de champ réaliste","Cinématographie primée","Qualité IMAX","Narration cinématographique","Chef-d'œuvre"]}}
 ```
 
 [↑ Retour aux catégories](#catalog)

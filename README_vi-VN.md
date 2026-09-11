@@ -143,20 +143,99 @@ Một chàng trai trẻ đẹp trai với làn da rám nắng rạng rỡ đứn
 
 <a name="prompt-2098365190282805417"></a>
 
-### Đang dịch
+### Cảnh quay điện ảnh thám tử cyberpunk và người phụ nữ áo vàng nhìn qua cửa sổ xe vào đêm mưa.
 
 Tác giả：[@SheBuildsAI\_](https://x.com/SheBuildsAI_) · [Bài gốc](https://x.com/SheBuildsAI_/status/2098365190282805417)
 
 Điện ảnh / Ảnh tĩnh từ phim · Cyberpunk / Khoa học viễn tưởng · Nhân vật · Phương tiện · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Cảnh quay điện ảnh thám tử cyberpunk và người phụ nữ áo vàng nhìn qua cửa sổ xe vào đêm mưa.
 
 <img src="images/2098365190282805417-1.png" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+{
+  "title": "Thám Tử Cyberpunk",
+
+  "image_description": "Một khung cảnh cyberpunk đậm chất điện ảnh được nhìn qua cửa kính ô tô ướt đẫm nước mưa. Ánh đèn neon phản chiếu nhảy múa trên mặt kính trong khi một thám tử tương lai điển trai ngồi ở ghế lái trong chiếc áo khoác dày màu tối. Một người phụ nữ mặc chiếc áo khoác màu vàng mờ phát sáng đang nhìn về phía anh. Những phương tiện bay di chuyển xuyên qua một siêu đô thị tương lai mờ sương ở hậu cảnh.",
+
+  "characters": [
+    {
+      "role": "Thám tử tương lai",
+      "position": "Ghế lái",
+      "appearance": "Điển trai, biểu cảm nghiêm túc, áo khoác dày màu tối",
+      "focus": "Lấy nét sắc nét"
+    },
+    {
+      "role": "Người phụ nữ bí ẩn",
+      "position": "Ghế phụ",
+      "appearance": "Tóc sẫm màu, áo khoác màu vàng mờ phát sáng",
+      "expression": "Lặng lẽ quan sát người thám tử",
+      "focus": "Lấy nét mềm hơn một chút"
+    }
+  ],
+
+  "setting": {
+    "location": "Nội thất phương tiện tương lai",
+    "cityscape": "Siêu đô thị cyberpunk mờ sương",
+    "background_elements": [
+      "Phương tiện bay",
+      "Biển quảng cáo neon",
+      "Kính phủ đầy nước mưa",
+      "Ánh sáng ba chiều"
+    ]
+  },
+
+  "cinematography": {
+    "shot_type": "Cận cảnh trung bình",
+    "camera_angle": "Ngang tầm mắt",
+    "lens": "Ống kính Anamorphic 50mm",
+    "depth_of_field": "Nông",
+    "composition": "Ảnh tĩnh điện ảnh"
+  },
+
+  "lighting": {
+    "type": "Ánh sáng điện ảnh",
+    "effects": [
+      "Phản chiếu ánh neon",
+      "Ánh sáng thể tích",
+      "Khúc xạ nước mưa",
+      "Ánh sáng môi trường dịu nhẹ"
+    ]
+  },
+
+  "mood": [
+    "Tâm trạng",
+    "Bí ẩn",
+    "Tương lai",
+    "Cảm xúc"
+  ],
+
+  "color_palette": [
+    "Xanh lam",
+    "Xanh lơ",
+    "Vàng"
+  ],
+
+  "quality": {
+    "style": "Bom tấn Hollywood",
+    "realism": "Siêu chân thực như ảnh chụp",
+    "resolution": "8K",
+    "details": [
+      "Phản chiếu hoàn hảo",
+      "Khuôn mặt chân thực như ảnh chụp",
+      "Hạt phim",
+      "Sương mù thể tích",
+      "Độ sâu trường ảnh chân thực",
+      "Nghệ thuật quay phim từng đoạt giải thưởng",
+      "Chất lượng IMAX",
+      "Kể chuyện bằng hình ảnh điện ảnh",
+      "Kiệt tác"
+    ]
+  }
+}
 ```
 
 [↑ Về danh mục](#catalog)

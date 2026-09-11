@@ -143,20 +143,99 @@ Um jovem atraente com pele bronzeada e brilhante está virado diretamente para a
 
 <a name="prompt-2098365190282805417"></a>
 
-### Tradução em curso
+### Cena cinematográfica cyberpunk de um detetive e uma mulher de casaco amarelo vistos através da janela de um carro numa noite chuvosa.
 
 Autor：[@SheBuildsAI\_](https://x.com/SheBuildsAI_) · [Publicação original](https://x.com/SheBuildsAI_/status/2098365190282805417)
 
 Cena de Cinema / Fotograma · Cyberpunk / Ficção Científica · Personagem · Veículo · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Cena cinematográfica cyberpunk de um detetive e uma mulher de casaco amarelo vistos através da janela de um carro numa noite chuvosa.
 
 <img src="images/2098365190282805417-1.png" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+{
+  "title": "Detetive Cyberpunk",
+
+  "image_description": "Uma cena cyberpunk cinematográfica vista através da janela de um carro empapada pela chuva. Reflexos de néon dançam pelo vidro enquanto um atraente detetive futurista se senta no banco do condutor envergando um sobretudo escuro e pesado. Uma mulher com um casaco amarelo translúcido e brilhante olha na sua direção. Veículos voadores deslocam-se por entre uma cidade futurista nublada ao fundo.",
+
+  "characters": [
+    {
+      "role": "Detetive Futurista",
+      "position": "Banco do Condutor",
+      "appearance": "Atraente, expressão séria, sobretudo escuro e pesado",
+      "focus": "Foco Nítido"
+    },
+    {
+      "role": "Mulher Misteriosa",
+      "position": "Banco do Passageiro",
+      "appearance": "Cabelo escuro, casaco amarelo translúcido e brilhante",
+      "expression": "A observar calmamente o detetive",
+      "focus": "Foco ligeiramente mais suave"
+    }
+  ],
+
+  "setting": {
+    "location": "Interior de Veículo Futurista",
+    "cityscape": "Megacidade cyberpunk envolta em nevoeiro",
+    "background_elements": [
+      "Veículos voadores",
+      "Painéis de néon",
+      "Vidro coberto de chuva",
+      "Luzes holográficas"
+    ]
+  },
+
+  "cinematography": {
+    "shot_type": "Plano Médio Curto",
+    "camera_angle": "Nível dos Olhos",
+    "lens": "Lente Anamórfica de 50mm",
+    "depth_of_field": "Reduzida",
+    "composition": "Fotograma de Filme"
+  },
+
+  "lighting": {
+    "type": "Iluminação Cinematográfica",
+    "effects": [
+      "Reflexos de Néon",
+      "Iluminação Volumétrica",
+      "Refrações de Chuva",
+      "Brilho Ambiente Suave"
+    ]
+  },
+
+  "mood": [
+    "Denso",
+    "Misterioso",
+    "Futurista",
+    "Emotivo"
+  ],
+
+  "color_palette": [
+    "Azul",
+    "Ciano",
+    "Amarelo"
+  ],
+
+  "quality": {
+    "style": "Sucesso de Bilheteira de Hollywood",
+    "realism": "Ultra Fotorrealista",
+    "resolution": "8K",
+    "details": [
+      "Reflexos Perfeitos",
+      "Rostos Fotorrealistas",
+      "Grão de Filme",
+      "Nevoeiro Volumétrico",
+      "Profundidade de Campo Realista",
+      "Cinematografia Premiada",
+      "Qualidade IMAX",
+      "Narrativa Cinematográfica",
+      "Obra-prima"
+    ]
+  }
+}
 ```
 
 [↑ Voltar às categorias](#catalog)
