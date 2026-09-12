@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T16:33:41.885Z",
+  "model": "nano-banana",
+  "prompt": "Photorealistic 9:16 vertical close-up mirror selfie of a young adult American girl sadie sink in a narrow bedroom hallway at night. Mid-length dark wavy hair falling over one shoulder, warm golden-bronze skin, natural makeup, calm expression looking at the mirror. She is in a low squat, knees apart and legs spreaded widely, heels slightly lifted, torso mostly upright, right hand resting on her thigh. She wears a fitted sky-blue bodysuit with a small printed-star pattern and wide straps and deep neckline with high cut legs. Blue electric high heels. In her left hand she holds a small compact camera at face level. Dark wood floor, vanity with skincare bottles, chairs in the background, a bag with the written 'Keor' somewhere, out-of-focus elegant hats on a rack in the foreground. Warm indoor light plus mild camera flash, slight grain, candid smartphone look.",
+  "promptTranslations": {
+    "en": "Photorealistic 9:16 vertical close-up mirror selfie of a young adult American girl sadie sink in a narrow bedroom hallway at night. Mid-length dark wavy hair falling over one shoulder, warm golden-bronze skin, natural makeup, calm expression looking at the mirror. She is in a low squat, knees apart and legs spreaded widely, heels slightly lifted, torso mostly upright, right hand resting on her thigh. She wears a fitted sky-blue bodysuit with a small printed-star pattern and wide straps and deep neckline with high cut legs. Blue electric high heels. In her left hand she holds a small compact camera at face level. Dark wood floor, vanity with skincare bottles, chairs in the background, a bag with the written 'Keor' somewhere, out-of-focus elegant hats on a rack in the foreground. Warm indoor light plus mild camera flash, slight grain, candid smartphone look."
+  },
+  "summaryTranslations": {
+    "en": "Bedroom hallway mirror selfie prompt, showcasing a low-squat selfie pose of a woman in a sky-blue bodysuit and high heels with realistic interior background details."
+  },
+  "translationVersion": 2,
+  "summary": "卧室走廊镜前自拍提示词，展现身穿天蓝色连体衣与高跟鞋的女性低蹲自拍身姿及真实室内背景细节。",
+  "summaryEn": "Mirror selfie prompt depicting a woman squatting in a blue bodysuit with heels and a compact camera in a hallway.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2096625354505097451",
+      "canonicalUrl": "https://x.com/alicekpop_ai/status/2096625354505097451",
+      "author": {
+        "username": "alicekpop_ai",
+        "displayName": "Alice Han",
+        "profileUrl": "https://x.com/alicekpop_ai"
+      },
+      "originalText": "Quiet night at home...\n\nRose, Jisoo, Jennie\n\nBlackpink\n\nNano Banana Pro, prompt ⏬ https://t.co/VqX6kYwBNT"
+    },
+    "id": "2098763429636907474",
+    "canonicalUrl": "https://x.com/KeorUnreal/status/2098763429636907474",
+    "author": {
+      "username": "KeorUnreal",
+      "displayName": "KeorUnreal",
+      "profileUrl": "https://x.com/KeorUnreal"
+    },
+    "publishedAt": "2026-09-12T13:19:29.000Z",
+    "collectedAt": "2026-09-12T16:17:13.194Z",
+    "language": "en",
+    "originalText": "GM my friends 🌞it’s time for the Sunday selfie😉\n\nSadie Sink, Anya Taylor-Joy, Megan Fox🔥\n👉🏻Subscribe for more content ⚡️\n\nNano Banana Pro via Higgsfield AI\nPrompt:\n\nPhotorealistic 9:16 vertical close-up mirror selfie of a young adult American girl sadie sink in a narrow bedroom hallway at night. Mid-length dark wavy hair falling over one shoulder, warm golden-bronze skin, natural makeup, calm expression looking at the mirror. She is in a low squat, knees apart and legs spreaded widely, heels slightly lifted, torso mostly upright, right hand resting on her thigh. She wears a fitted sky-blue bodysuit with a small printed-star pattern and wide straps and deep neckline with high cut legs. Blue electric high heels. In her left hand she holds a small compact camera at face level. Dark wood floor, vanity with skincare bottles, chairs in the background, a bag with the written 'Keor' somewhere, out-of-focus elegant hats on a rack in the foreground. Warm indoor light plus mild camera flash, slight grain, candid smartphone look.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSBONI8bEAAtyDd.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSBONI8bEAAtyDd.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSBONIdW0AQVa1e.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSBONIdW0AQVa1e.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSBONI-bQAAtA3C.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSBONI-bQAAtA3C.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRi1kKpaAAAT00a.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRi1kKpaAAAT00a.jpg",
+        "sourcePostId": "2096625354505097451"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRi1kKpbUAAGE5-.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRi1kKpbUAAGE5-.jpg",
+        "sourcePostId": "2096625354505097451"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRi1kKrbAAAwl2W.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRi1kKrbAAAwl2W.jpg",
+        "sourcePostId": "2096625354505097451"
+      }
+    ],
+    "metrics": {
+      "likeCount": 73,
+      "repostCount": 1,
+      "replyCount": 4,
+      "quoteCount": 1,
+      "viewCount": 3490
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/KeorUnreal/status/2098763429636907474",
+  "coverUrl": "https://pbs.twimg.com/media/HSBONI8bEAAtyDd.jpg",
+  "coverPath": "images/2098763429636907474-1.jpg",
+  "imagePaths": [
+    "images/2098763429636907474-1.jpg",
+    "images/2098763429636907474-2.jpg",
+    "images/2098763429636907474-3.jpg",
+    "images/2098763429636907474-4.jpg",
+    "images/2098763429636907474-5.jpg",
+    "images/2098763429636907474-6.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSBONI8bEAAtyDd",
+    "x-image:/media/HSBONIdW0AQVa1e",
+    "x-image:/media/HSBONI-bQAAtA3C",
+    "x-image:/media/HRi1kKpaAAAT00a",
+    "x-image:/media/HRi1kKpbUAAGE5-",
+    "x-image:/media/HRi1kKrbAAAwl2W",
+    "x-post:2098763429636907474",
+    "x-post:2096625354505097451"
+  ],
+  "analysis": {
+    "summary": "卧室走廊镜前自拍提示词，展现身穿天蓝色连体衣与高跟鞋的女性低蹲自拍身姿及真实室内背景细节。",
+    "summaryEn": "Mirror selfie prompt depicting a woman squatting in a blue bodysuit with heels and a compact camera in a hallway.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generated images directly match the prompt's squat pose, star-patterned sky-blue bodysuit, blue heels, camera mirror selfie, and bedroom hallway setting."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Photorealistic 9:16 vertical close-up mirror selfie of a young adult American girl sadie sink in a narrow bedroom hallway at night. Mid-length dark wavy hair falling over one shoulder, warm golden-bronze skin, natural makeup, calm expression looking at the mirror. She is in a low squat, knees apart and legs spreaded widely, heels slightly lifted, torso mostly upright, right hand resting on her thigh. She wears a fitted sky-blue bodysuit with a small printed-star pattern and wide straps and deep neckline with high cut legs. Blue electric high heels. In her left hand she holds a small compact camera at face level. Dark wood floor, vanity with skincare bottles, chairs in the background, a bag with the written 'Keor' somewhere, out-of-focus elegant hats on a rack in the foreground. Warm indoor light plus mild camera flash, slight grain, candid smartphone look.",
+    "sourceRange": {
+      "start": 165,
+      "end": 1033
+    },
+    "translations": {
+      "zh": "逼真的9:16垂直特写镜前自拍，年轻美国女孩Sadie Sink夜间在狭窄卧室走廊。中长深色卷发搭在一侧肩膀，温暖金古铜色肌肤，自然妆容，平静看着镜子。她呈低蹲姿势，双膝张开双腿大开，脚后跟微离地，上身基本直立，右手搭在大腿上。身穿带微小印花星星图案、宽肩带和深领口的高叉天蓝色连体衣。蓝色电光高跟鞋。左手在面部高度拿着一台小卡片相机。深色木地板，摆着护肤瓶的梳妆台，背景有椅子，某处有一只印着“Keor”的包，前景衣架上挂着散焦的高雅帽子。温暖室内光加柔和相机闪光，轻微噪点，抓拍手机质感。",
+      "en": "Photorealistic 9:16 vertical close-up mirror selfie of a young adult American girl sadie sink in a narrow bedroom hallway at night. Mid-length dark wavy hair falling over one shoulder, warm golden-bronze skin, natural makeup, calm expression looking at the mirror. She is in a low squat, knees apart and legs spreaded widely, heels slightly lifted, torso mostly upright, right hand resting on her thigh. She wears a fitted sky-blue bodysuit with a small printed-star pattern and wide straps and deep neckline with high cut legs. Blue electric high heels. In her left hand she holds a small compact camera at face level. Dark wood floor, vanity with skincare bottles, chairs in the background, a bag with the written 'Keor' somewhere, out-of-focus elegant hats on a rack in the foreground. Warm indoor light plus mild camera flash, slight grain, candid smartphone look."
+    },
+    "targetModels": [
+      "nano-banana"
+    ],
+    "category": "text-to-image",
+    "useCase": "portrait",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [
+        "celebrity_likeness"
+      ],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
