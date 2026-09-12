@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**18** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**19** Prompts · Zuletzt hinzugefügt: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,40 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 <a name="category-photography"></a>
 
 ## Fotografie
+
+<a name="prompt-2098763429636907474"></a>
+
+### Übersetzung läuft
+
+Autor：[@KeorUnreal](https://x.com/KeorUnreal) · [Originalbeitrag](https://x.com/KeorUnreal/status/2098763429636907474)
+
+Fotografie · Porträt / Selfie · Charakter · Architektur / Interieur · Zusammenfassung / Hintergrund · Veröffentlicht
+
+Originalbeitrag：[@alicekpop\_ai](https://x.com/alicekpop_ai) · [Originalbeitrag](https://x.com/alicekpop_ai/status/2096625354505097451)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098763429636907474-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2098763429636907474-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2098763429636907474-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2098763429636907474-4.jpg" alt="Bild 4" width="480" />
+
+<img src="images/2098763429636907474-5.jpg" alt="Bild 5" width="480" />
+
+<img src="images/2098763429636907474-6.jpg" alt="Bild 6" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2097623415939076175"></a>
 

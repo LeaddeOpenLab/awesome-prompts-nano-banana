@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**18** Prompts · Dernier ajout: **2026-09-11**
+**19** Prompts · Dernier ajout: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,40 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2098763429636907474"></a>
+
+### Traduction en cours
+
+Auteur：[@KeorUnreal](https://x.com/KeorUnreal) · [Publication originale](https://x.com/KeorUnreal/status/2098763429636907474)
+
+Photographie · Portrait / Selfie · Personnage · Architecture / Intérieur · Résumé / Contexte · Publié
+
+Publication originale：[@alicekpop\_ai](https://x.com/alicekpop_ai) · [Publication originale](https://x.com/alicekpop_ai/status/2096625354505097451)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098763429636907474-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098763429636907474-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098763429636907474-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2098763429636907474-4.jpg" alt="Image 4" width="480" />
+
+<img src="images/2098763429636907474-5.jpg" alt="Image 5" width="480" />
+
+<img src="images/2098763429636907474-6.jpg" alt="Image 6" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097623415939076175"></a>
 

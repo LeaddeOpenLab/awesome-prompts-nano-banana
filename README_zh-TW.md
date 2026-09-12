@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**18** 筆內容 · 最新收錄: **2026-09-11**
+**19** 筆內容 · 最新收錄: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,40 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 <a name="category-photography"></a>
 
 ## 攝影
+
+<a name="prompt-2098763429636907474"></a>
+
+### 翻譯中
+
+作者：[@KeorUnreal](https://x.com/KeorUnreal) · [查看 X 原帖](https://x.com/KeorUnreal/status/2098763429636907474)
+
+攝影 · 人像 / 自拍 · 角色 · 建築 / 室內設計 · 摘要 / 背景 · 已推流
+
+查看 X 原帖：[@alicekpop\_ai](https://x.com/alicekpop_ai) · [查看 X 原帖](https://x.com/alicekpop_ai/status/2096625354505097451)
+
+**概括:** 翻譯中
+
+<img src="images/2098763429636907474-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2098763429636907474-2.jpg" alt="圖片 2" width="480" />
+
+<img src="images/2098763429636907474-3.jpg" alt="圖片 3" width="480" />
+
+<img src="images/2098763429636907474-4.jpg" alt="圖片 4" width="480" />
+
+<img src="images/2098763429636907474-5.jpg" alt="圖片 5" width="480" />
+
+<img src="images/2098763429636907474-6.jpg" alt="圖片 6" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2097623415939076175"></a>
 

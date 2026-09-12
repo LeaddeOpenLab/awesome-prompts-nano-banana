@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**18** Prompts · Última adição: **2026-09-11**
+**19** Prompts · Última adição: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,40 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2098763429636907474"></a>
+
+### Tradução em andamento
+
+Autor：[@KeorUnreal](https://x.com/KeorUnreal) · [Publicação original](https://x.com/KeorUnreal/status/2098763429636907474)
+
+Fotografia · Retrato / Selfie · Personagem · Arquitetura / Interiores · Resumo / Contexto · Publicado
+
+Publicação original：[@alicekpop\_ai](https://x.com/alicekpop_ai) · [Publicação original](https://x.com/alicekpop_ai/status/2096625354505097451)
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098763429636907474-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098763429636907474-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2098763429636907474-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2098763429636907474-4.jpg" alt="Imagem 4" width="480" />
+
+<img src="images/2098763429636907474-5.jpg" alt="Imagem 5" width="480" />
+
+<img src="images/2098763429636907474-6.jpg" alt="Imagem 6" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097623415939076175"></a>
 

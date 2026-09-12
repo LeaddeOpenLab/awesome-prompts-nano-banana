@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**18** Prompts · Latest addition: **2026-09-11**
+**19** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,40 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098763429636907474"></a>
+
+### Bedroom hallway mirror selfie prompt, showcasing a low-squat selfie pose of a woman in a sky-blue bodysuit and high heels with realistic interior background details.
+
+Author：[@KeorUnreal](https://x.com/KeorUnreal) · [Source](https://x.com/KeorUnreal/status/2098763429636907474)
+
+Photography · Portrait / Selfie · Character · Architecture / Interior · Abstract / Background · Published
+
+Source：[@alicekpop\_ai](https://x.com/alicekpop_ai) · [Source](https://x.com/alicekpop_ai/status/2096625354505097451)
+
+**Summary:** Bedroom hallway mirror selfie prompt, showcasing a low-squat selfie pose of a woman in a sky-blue bodysuit and high heels with realistic interior background details.
+
+<img src="images/2098763429636907474-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098763429636907474-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098763429636907474-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2098763429636907474-4.jpg" alt="Image 4" width="480" />
+
+<img src="images/2098763429636907474-5.jpg" alt="Image 5" width="480" />
+
+<img src="images/2098763429636907474-6.jpg" alt="Image 6" width="480" />
+
+**Prompt**
+
+```text
+Photorealistic 9:16 vertical close-up mirror selfie of a young adult American girl sadie sink in a narrow bedroom hallway at night. Mid-length dark wavy hair falling over one shoulder, warm golden-bronze skin, natural makeup, calm expression looking at the mirror. She is in a low squat, knees apart and legs spreaded widely, heels slightly lifted, torso mostly upright, right hand resting on her thigh. She wears a fitted sky-blue bodysuit with a small printed-star pattern and wide straps and deep neckline with high cut legs. Blue electric high heels. In her left hand she holds a small compact camera at face level. Dark wood floor, vanity with skincare bottles, chairs in the background, a bag with the written 'Keor' somewhere, out-of-focus elegant hats on a rack in the foreground. Warm indoor light plus mild camera flash, slight grain, candid smartphone look.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097623415939076175"></a>
 

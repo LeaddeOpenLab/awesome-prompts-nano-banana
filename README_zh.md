@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**18** 条内容 · 最新收录: **2026-09-11**
+**19** 条内容 · 最新收录: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,40 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 <a name="category-photography"></a>
 
 ## 摄影
+
+<a name="prompt-2098763429636907474"></a>
+
+### 翻译中
+
+作者：[@KeorUnreal](https://x.com/KeorUnreal) · [查看 X 原帖](https://x.com/KeorUnreal/status/2098763429636907474)
+
+摄影 · 人像 / 自拍 · 角色 · 建筑 / 室内设计 · 摘要 / 背景 · 已推流
+
+查看 X 原帖：[@alicekpop\_ai](https://x.com/alicekpop_ai) · [查看 X 原帖](https://x.com/alicekpop_ai/status/2096625354505097451)
+
+**概括:** 翻译中
+
+<img src="images/2098763429636907474-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2098763429636907474-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2098763429636907474-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2098763429636907474-4.jpg" alt="图片 4" width="480" />
+
+<img src="images/2098763429636907474-5.jpg" alt="图片 5" width="480" />
+
+<img src="images/2098763429636907474-6.jpg" alt="图片 6" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2097623415939076175"></a>
 

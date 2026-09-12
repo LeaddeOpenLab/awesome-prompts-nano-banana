@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**18** Prompt · Bổ sung mới nhất: **2026-09-11**
+**19** Prompt · Bổ sung mới nhất: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,40 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2098763429636907474"></a>
+
+### Đang dịch
+
+Tác giả：[@KeorUnreal](https://x.com/KeorUnreal) · [Bài gốc](https://x.com/KeorUnreal/status/2098763429636907474)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Kiến trúc / Nội thất · Tóm tắt / Bối cảnh · Đã xuất bản
+
+Bài gốc：[@alicekpop\_ai](https://x.com/alicekpop_ai) · [Bài gốc](https://x.com/alicekpop_ai/status/2096625354505097451)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098763429636907474-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098763429636907474-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2098763429636907474-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2098763429636907474-4.jpg" alt="Hình ảnh 4" width="480" />
+
+<img src="images/2098763429636907474-5.jpg" alt="Hình ảnh 5" width="480" />
+
+<img src="images/2098763429636907474-6.jpg" alt="Hình ảnh 6" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097623415939076175"></a>
 

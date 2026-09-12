@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**18** Prompt · Son eklenen: **2026-09-11**
+**19** Prompt · Son eklenen: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,40 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2098763429636907474"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@KeorUnreal](https://x.com/KeorUnreal) · [Orijinal gönderi](https://x.com/KeorUnreal/status/2098763429636907474)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Mimari / İç Mekan · Özet / Arka Plan · Yayımlandı
+
+Orijinal gönderi：[@alicekpop\_ai](https://x.com/alicekpop_ai) · [Orijinal gönderi](https://x.com/alicekpop_ai/status/2096625354505097451)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098763429636907474-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2098763429636907474-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2098763429636907474-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2098763429636907474-4.jpg" alt="Görsel 4" width="480" />
+
+<img src="images/2098763429636907474-5.jpg" alt="Görsel 5" width="480" />
+
+<img src="images/2098763429636907474-6.jpg" alt="Görsel 6" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097623415939076175"></a>
 

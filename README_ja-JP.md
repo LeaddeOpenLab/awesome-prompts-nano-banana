@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**18** 件 · 最新の追加: **2026-09-11**
+**19** 件 · 最新の追加: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,40 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 <a name="category-photography"></a>
 
 ## 写真撮影
+
+<a name="prompt-2098763429636907474"></a>
+
+### 翻訳中
+
+作者：[@KeorUnreal](https://x.com/KeorUnreal) · [元の投稿](https://x.com/KeorUnreal/status/2098763429636907474)
+
+写真撮影 · ポートレート / セルフィー · キャラクター · 建築 / インテリア · 要旨 / 背景 · 配信済み
+
+元の投稿：[@alicekpop\_ai](https://x.com/alicekpop_ai) · [元の投稿](https://x.com/alicekpop_ai/status/2096625354505097451)
+
+**概要:** 翻訳中
+
+<img src="images/2098763429636907474-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2098763429636907474-2.jpg" alt="画像 2" width="480" />
+
+<img src="images/2098763429636907474-3.jpg" alt="画像 3" width="480" />
+
+<img src="images/2098763429636907474-4.jpg" alt="画像 4" width="480" />
+
+<img src="images/2098763429636907474-5.jpg" alt="画像 5" width="480" />
+
+<img src="images/2098763429636907474-6.jpg" alt="画像 6" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2097623415939076175"></a>
 
