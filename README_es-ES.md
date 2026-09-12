@@ -35,7 +35,7 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 <a name="prompt-2098763429636907474"></a>
 
-### Traducción en curso
+### Prompt de selfie frente al espejo en el pasillo de un dormitorio, que muestra la postura en cuclillas de una mujer con body azul cielo y tacones altos, junto con detalles realistas del fondo interior.
 
 Autor：[@KeorUnreal](https://x.com/KeorUnreal) · [Publicación original](https://x.com/KeorUnreal/status/2098763429636907474)
 
@@ -43,7 +43,7 @@ Fotografía · Retrato / Selfie · Personaje · Arquitectura / Interiorismo · R
 
 Publicación original：[@alicekpop\_ai](https://x.com/alicekpop_ai) · [Publicación original](https://x.com/alicekpop_ai/status/2096625354505097451)
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de selfie frente al espejo en el pasillo de un dormitorio, que muestra la postura en cuclillas de una mujer con body azul cielo y tacones altos, junto con detalles realistas del fondo interior.
 
 <img src="images/2098763429636907474-1.jpg" alt="Imagen 1" width="480" />
 
@@ -60,7 +60,7 @@ Publicación original：[@alicekpop\_ai](https://x.com/alicekpop_ai) · [Publica
 **Prompt**
 
 ```text
-Traducción en curso
+Selfie de espejo fotorrealista en primer plano vertical de 9:16 de una chica estadounidense adulta joven Sadie Sink en el estrecho pasillo de un dormitorio por la noche. Cabello oscuro y ondulado de longitud media que cae sobre un hombro, piel cálida de tono bronce dorado, maquillaje natural, expresión serena mirando al espejo. Está en una posición en cuclillas baja, con las rodillas separadas y las piernas muy abiertas, los talones ligeramente levantados, el torso mayormente erguido y la mano derecha apoyada en el muslo. Lleva un body ajustado de color azul cielo con un pequeño estampado de estrellas, tirantes anchos, escote pronunciado y corte alto en las piernas. Tacones altos de color azul eléctrico. En la mano izquierda sostiene una pequeña cámara compacta a la altura del rostro. Suelo de madera oscura, tocador con frascos de productos para el cuidado de la piel, sillas al fondo, una bolsa con la inscripción 'Keor' en algún lugar, y sombreros elegantes desenfocados en un perchero en primer plano. Luz interior cálida combinada con un suave flash de cámara, ligero grano y aspecto espontáneo de teléfono inteligente.
 ```
 
 [↑ Volver a categorías](#catalog)

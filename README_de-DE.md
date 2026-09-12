@@ -35,7 +35,7 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2098763429636907474"></a>
 
-### Übersetzung läuft
+### 卧室走廊镜前自拍提示词，展现身穿天蓝色连体衣与高跟鞋的女性低蹲自拍身姿及真实室内背景细节。
 
 Autor：[@KeorUnreal](https://x.com/KeorUnreal) · [Originalbeitrag](https://x.com/KeorUnreal/status/2098763429636907474)
 
@@ -43,7 +43,7 @@ Fotografie · Porträt / Selfie · Charakter · Architektur / Interieur · Zusam
 
 Originalbeitrag：[@alicekpop\_ai](https://x.com/alicekpop_ai) · [Originalbeitrag](https://x.com/alicekpop_ai/status/2096625354505097451)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 卧室走廊镜前自拍提示词，展现身穿天蓝色连体衣与高跟鞋的女性低蹲自拍身姿及真实室内背景细节。
 
 <img src="images/2098763429636907474-1.jpg" alt="Bild 1" width="480" />
 
@@ -60,7 +60,7 @@ Originalbeitrag：[@alicekpop\_ai](https://x.com/alicekpop_ai) · [Originalbeitr
 **Prompt**
 
 ```text
-Übersetzung läuft
+Fotorealistisches 9:16 vertikales Nahaufnahme-Spiegelselfie einer jungen erwachsenen US-Amerikanerin sadie sink nachts in einem schmalen Schlafzimmerflur. Mittellanges, dunkles, welliges Haar, das über eine Schulter fällt, warme, goldbronzene Haut, natürliches Make-up, ruhiger Ausdruck mit Blick in den Spiegel. Sie befindet sich in einer tiefen Hocke, die Knie auseinander und die Beine weit gespreizt, die Fersen leicht angehoben, der Oberkörper größtenteils aufrecht, die rechte Hand ruht auf ihrem Oberschenkel. Sie trägt einen eng anliegenden himmelblauen Bodysuit mit kleinem Sternenmuster, breiten Trägern und tiefem Ausschnitt mit hohem Beinausschnitt. Elektrisch blaue High Heels. In ihrer linken Hand hält sie eine kleine Kompaktkamera auf Gesichtshöhe. Dunkler Holzboden, Frisiertisch mit Hautpflegeflaschen, Stühle im Hintergrund, irgendwo eine Tasche mit der Aufschrift 'Keor', unscharfe elegante Hüte an einer Garderobe im Vordergrund. Warmes Innenlicht plus milder Kamerablitz, leichte Körnung, spontaner Smartphone-Look.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -35,7 +35,7 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2098763429636907474"></a>
 
-### Đang dịch
+### Prompt selfie trước gương ở hành lang phòng ngủ, thể hiện dáng ngồi xổm chụp ảnh của người phụ nữ trong bộ bodysuit màu xanh da trời cùng giày cao gót và các chi tiết bối cảnh nội thất chân thực.
 
 Tác giả：[@KeorUnreal](https://x.com/KeorUnreal) · [Bài gốc](https://x.com/KeorUnreal/status/2098763429636907474)
 
@@ -43,7 +43,7 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Kiến trúc /
 
 Bài gốc：[@alicekpop\_ai](https://x.com/alicekpop_ai) · [Bài gốc](https://x.com/alicekpop_ai/status/2096625354505097451)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt selfie trước gương ở hành lang phòng ngủ, thể hiện dáng ngồi xổm chụp ảnh của người phụ nữ trong bộ bodysuit màu xanh da trời cùng giày cao gót và các chi tiết bối cảnh nội thất chân thực.
 
 <img src="images/2098763429636907474-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -60,7 +60,7 @@ Bài gốc：[@alicekpop\_ai](https://x.com/alicekpop_ai) · [Bài gốc](https:
 **Câu lệnh**
 
 ```text
-Đang dịch
+Ảnh chụp selfie cận cảnh trước gương chân thực tỷ lệ 9:16 theo chiều dọc của một cô gái người Mỹ trẻ tuổi Sadie Sink trong hành lang phòng ngủ hẹp vào ban đêm. Mái tóc gợn sóng màu tối dài ngang vai xõa qua một bên vai, làn da màu đồng vàng ấm áp, trang điểm tự nhiên, nét mặt điềm tĩnh nhìn vào gương. Cô đang trong tư thế ngồi xổm thấp, hai đầu gối dang ra và hai chân mở rộng, gót chân hơi nhấc lên, thân mình gần như thẳng đứng, tay phải đặt trên đùi. Cô mặc bộ bodysuit màu xanh da trời ôm sát với họa tiết in hình ngôi sao nhỏ, quai áo bản rộng, cổ áo khoét sâu và phần chân cắt cao. Giày cao gót màu xanh electric. Tay trái cô cầm một chiếc máy ảnh compact nhỏ ngang tầm mặt. Sàn gỗ tối màu, bàn trang điểm với các chai lọ dưỡng da, những chiếc ghế ở hậu cảnh, một chiếc túi có chữ 'Keor' ở đâu đó, những chiếc mũ thanh lịch mất nét trên giá treo ở tiền cảnh. Ánh sáng ấm áp trong nhà kết hợp với đèn flash máy ảnh nhẹ nhàng, một chút hạt nhiễu, mang vẻ tự nhiên như chụp bằng điện thoại thông minh.
 ```
 
 [↑ Về danh mục](#catalog)

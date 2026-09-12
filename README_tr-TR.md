@@ -35,7 +35,7 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2098763429636907474"></a>
 
-### Çeviri sürüyor
+### 卧室走廊镜前自拍提示词，展现身穿天蓝色连体衣与高跟鞋的女性低蹲自拍身姿及真实室内背景细节。
 
 Yazar：[@KeorUnreal](https://x.com/KeorUnreal) · [Orijinal gönderi](https://x.com/KeorUnreal/status/2098763429636907474)
 
@@ -43,7 +43,7 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Mimari / İç Mekan · Özet
 
 Orijinal gönderi：[@alicekpop\_ai](https://x.com/alicekpop_ai) · [Orijinal gönderi](https://x.com/alicekpop_ai/status/2096625354505097451)
 
-**Özet:** Çeviri sürüyor
+**Özet:** 卧室走廊镜前自拍提示词，展现身穿天蓝色连体衣与高跟鞋的女性低蹲自拍身姿及真实室内背景细节。
 
 <img src="images/2098763429636907474-1.jpg" alt="Görsel 1" width="480" />
 
@@ -60,7 +60,7 @@ Orijinal gönderi：[@alicekpop\_ai](https://x.com/alicekpop_ai) · [Orijinal g�
 **İstem**
 
 ```text
-Çeviri sürüyor
+Gece dar bir yatak odası koridorunda genç yetişkin Amerikalı bir kadın olan sadie sink'in fotogerçekçi 9:16 dikey yakın çekim ayna selfie'si. Bir omzunun üzerine dökülen orta uzunlukta koyu dalgalı saçlar, sıcak altın-bronz ten, doğal makyaj, aynaya bakan sakin bir ifade. Dizleri açık ve bacakları genişçe ayrılmış, topukları hafifçe kalkık, gövdesi çoğunlukla dik, sağ eli uyluğunda duran alçak bir çömelme pozisyonunda. Küçük baskılı yıldız desenli, geniş askılı ve derin dekolteli, bacak kesimi yüksek, vücuda oturan gök mavisi bir tulum giyiyor. Elektrik mavisi yüksek topuklu ayakkabılar. Sol elinde yüz hizasında küçük bir kompakt kamera tutuyor. Koyu ahşap zemin, cilt bakım şişeleri olan makyaj masası, arka planda sandalyeler, bir yerlerde üzerinde 'Keor' yazan bir çanta, ön planda askılıkta odak dışı zarif şapkalar. Sıcak iç mekân ışığı artı hafif kamera flaşı, hafif gren, samimi akıllı telefon görünümü.
 ```
 
 [↑ Kategorilere dön](#catalog)

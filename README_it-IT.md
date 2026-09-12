@@ -35,7 +35,7 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2098763429636907474"></a>
 
-### Traduzione in corso
+### 卧室走廊镜前自拍提示词，展现身穿天蓝色连体衣与高跟鞋的女性低蹲自拍身姿及真实室内背景细节。
 
 Autore：[@KeorUnreal](https://x.com/KeorUnreal) · [Post originale](https://x.com/KeorUnreal/status/2098763429636907474)
 
@@ -43,7 +43,7 @@ Fotografia · Ritratto / Selfie · Personaggio · Architettura / Interni · Abst
 
 Post originale：[@alicekpop\_ai](https://x.com/alicekpop_ai) · [Post originale](https://x.com/alicekpop_ai/status/2096625354505097451)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** 卧室走廊镜前自拍提示词，展现身穿天蓝色连体衣与高跟鞋的女性低蹲自拍身姿及真实室内背景细节。
 
 <img src="images/2098763429636907474-1.jpg" alt="Immagine 1" width="480" />
 
@@ -60,7 +60,7 @@ Post originale：[@alicekpop\_ai](https://x.com/alicekpop_ai) · [Post originale
 **Prompt**
 
 ```text
-Traduzione in corso
+Selfie allo specchio ravvicinato verticale 9:16 fotorealistico di una giovane donna adulta americana sadie sink in uno stretto corridoio di camera da letto di notte. Capelli mossi scuri di media lunghezza che scendono su una spalla, pelle calda bronzo dorato, trucco naturale, espressione calma mentre guarda lo specchio. È in uno squat profondo, ginocchia divaricate e gambe ampiamente allargate, talloni leggermente sollevati, busto perlopiù eretto, mano destra posata sulla coscia. Indossa un body aderente celeste con una piccola fantasia a stelle stampate, spalline larghe e scollatura profonda con sgambatura alta. Tacchi alti blu elettrico. Nella mano sinistra tiene una piccola fotocamera compatta all'altezza del viso. Pavimento in legno scuro, toeletta con flaconi di cosmetici, sedie sullo sfondo, una borsa con la scritta 'Keor' da qualche parte, cappelli eleganti fuori fuoco su un appendiabiti in primo piano. Luce interna calda combinata a un leggero flash della fotocamera, leggera grana, aspetto spontaneo da smartphone.
 ```
 
 [↑ Torna alle categorie](#catalog)

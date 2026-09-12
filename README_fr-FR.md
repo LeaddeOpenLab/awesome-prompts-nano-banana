@@ -35,7 +35,7 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2098763429636907474"></a>
 
-### Traduction en cours
+### 卧室走廊镜前自拍提示词，展现身穿天蓝色连体衣与高跟鞋的女性低蹲自拍身姿及真实室内背景细节。
 
 Auteur：[@KeorUnreal](https://x.com/KeorUnreal) · [Publication originale](https://x.com/KeorUnreal/status/2098763429636907474)
 
@@ -43,7 +43,7 @@ Photographie · Portrait / Selfie · Personnage · Architecture / Intérieur · 
 
 Publication originale：[@alicekpop\_ai](https://x.com/alicekpop_ai) · [Publication originale](https://x.com/alicekpop_ai/status/2096625354505097451)
 
-**Résumé:** Traduction en cours
+**Résumé:** 卧室走廊镜前自拍提示词，展现身穿天蓝色连体衣与高跟鞋的女性低蹲自拍身姿及真实室内背景细节。
 
 <img src="images/2098763429636907474-1.jpg" alt="Image 1" width="480" />
 
@@ -60,7 +60,7 @@ Publication originale：[@alicekpop\_ai](https://x.com/alicekpop_ai) · [Publica
 **Consigne**
 
 ```text
-Traduction en cours
+Selfie dans le miroir en gros plan vertical 9:16 photoréaliste d'une jeune femme adulte américaine sadie sink dans un couloir étroit de chambre à coucher la nuit. Cheveux ondulés sombres de longueur moyenne tombant sur une épaule, peau chaude bronze doré, maquillage naturel, expression calme regardant dans le miroir. Elle est accroupie bas, les genoux écartés et les jambes largement ouvertes, les talons légèrement décollés, le torse en grande partie droit, la main droite reposant sur sa cuisse. Elle porte un body bleu ciel ajusté avec un petit motif d'étoiles imprimées, de larges bretelles et un décolleté plongeant avec une coupe haute sur les cuisses. Talons hauts bleu électrique. Dans sa main gauche, elle tient un petit appareil photo compact à hauteur du visage. Sol en bois sombre, coiffeuse avec des flacons de soins pour la peau, chaises en arrière-plan, un sac avec l'inscription 'Keor' quelque part, chapeaux élégants flous sur un porte-manteau au premier plan. Lumière intérieure chaude complétée d'un léger flash d'appareil photo, léger grain, allure spontanée prise au smartphone.
 ```
 
 [↑ Retour aux catégories](#catalog)

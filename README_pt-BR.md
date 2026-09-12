@@ -35,7 +35,7 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2098763429636907474"></a>
 
-### Tradução em andamento
+### 卧室走廊镜前自拍提示词，展现身穿天蓝色连体衣与高跟鞋的女性低蹲自拍身姿及真实室内背景细节。
 
 Autor：[@KeorUnreal](https://x.com/KeorUnreal) · [Publicação original](https://x.com/KeorUnreal/status/2098763429636907474)
 
@@ -43,7 +43,7 @@ Fotografia · Retrato / Selfie · Personagem · Arquitetura / Interiores · Resu
 
 Publicação original：[@alicekpop\_ai](https://x.com/alicekpop_ai) · [Publicação original](https://x.com/alicekpop_ai/status/2096625354505097451)
 
-**Resumo:** Tradução em andamento
+**Resumo:** 卧室走廊镜前自拍提示词，展现身穿天蓝色连体衣与高跟鞋的女性低蹲自拍身姿及真实室内背景细节。
 
 <img src="images/2098763429636907474-1.jpg" alt="Imagem 1" width="480" />
 
@@ -60,7 +60,7 @@ Publicação original：[@alicekpop\_ai](https://x.com/alicekpop_ai) · [Publica
 **Prompt**
 
 ```text
-Tradução em andamento
+Selfie no espelho em close-up vertical 9:16 fotorrealista de uma jovem mulher americana sadie sink em um corredor estreito de quarto à noite. Cabelo ondulado escuro de comprimento médio caindo sobre um ombro, pele quente bronze-dourada, maquiagem natural, expressão calma olhando para o espelho. Ela está em um agachamento baixo, joelhos afastados e pernas amplamente abertas, calcanhares ligeiramente levantados, torso quase ereto, mão direita apoiada na coxa. Ela veste um body azul-celeste justo com estampa de pequenas estrelas, alças largas e decote profundo com corte alto nas pernas. Saltos altos azul-elétrico. Na mão esquerda, segura uma pequena câmera compacta na altura do rosto. Chão de madeira escura, penteadeira com frascos de cuidados com a pele, cadeiras ao fundo, uma bolsa com a inscrição 'Keor' em algum lugar, chapéus elegantes fora de foco em um cabideiro em primeiro plano. Luz interna quente mais flash suave de câmera, leve granulação, visual espontâneo de smartphone.
 ```
 
 [↑ Voltar às categorias](#catalog)

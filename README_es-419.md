@@ -35,7 +35,7 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 <a name="prompt-2098763429636907474"></a>
 
-### Traducción en curso
+### 卧室走廊镜前自拍提示词，展现身穿天蓝色连体衣与高跟鞋的女性低蹲自拍身姿及真实室内背景细节。
 
 Autor：[@KeorUnreal](https://x.com/KeorUnreal) · [Publicación original](https://x.com/KeorUnreal/status/2098763429636907474)
 
@@ -43,7 +43,7 @@ Fotografía · Retrato / Selfie · Personaje · Arquitectura / Interiores · Res
 
 Publicación original：[@alicekpop\_ai](https://x.com/alicekpop_ai) · [Publicación original](https://x.com/alicekpop_ai/status/2096625354505097451)
 
-**Resumen:** Traducción en curso
+**Resumen:** 卧室走廊镜前自拍提示词，展现身穿天蓝色连体衣与高跟鞋的女性低蹲自拍身姿及真实室内背景细节。
 
 <img src="images/2098763429636907474-1.jpg" alt="Imagen 1" width="480" />
 
@@ -60,7 +60,7 @@ Publicación original：[@alicekpop\_ai](https://x.com/alicekpop_ai) · [Publica
 **Prompt**
 
 ```text
-Traducción en curso
+Selfie en el espejo en primer plano vertical fotorrealista 9:16 de una joven adulta estadounidense sadie sink en un pasillo estrecho de dormitorio por la noche. Cabello oscuro y ondulado de longitud media cayendo sobre un hombro, piel cálida de tono bronce dorado, maquillaje natural, expresión tranquila mirando al espejo. Está en una sentadilla baja, con las rodillas separadas y las piernas ampliamente abiertas, los talones ligeramente levantados, el torso mayormente erguido, la mano derecha apoyada en su muslo. Viste un body ceñido de color azul cielo con un pequeño patrón de estrellas estampadas, tirantes anchos y escote pronunciado con corte alto en las piernas. Tacones altos azul eléctrico. En su mano izquierda sostiene una pequeña cámara compacta a la altura del rostro. Suelo de madera oscura, tocador con botellas de productos para el cuidado de la piel, sillas al fondo, una bolsa con la inscripción 'Keor' en algún lugar, sombreros elegantes desenfocados en un perchero en primer plano. Luz interior cálida más un suave flash de cámara, ligero grano, aspecto espontáneo de teléfono inteligente.
 ```
 
 [↑ Volver a categorías](#catalog)
