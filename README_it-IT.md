@@ -526,20 +526,20 @@ Un'incredibile vista verticale di una metropoli futuristica che fluttua con graz
 
 <a name="prompt-2098987568507535737"></a>
 
-### Traduzione in corso
+### Ritratto di moda di una donna dell'Asia meridionale in abito tradizionale giallo senape sotto il sole su un tetto cittadino.
 
 Autore：[@DaniaSafvi](https://x.com/DaniaSafvi) · [Post originale](https://x.com/DaniaSafvi/status/2098987568507535737)
 
 Ritratto / Selfie · Personaggio · Articolo di moda · Paesaggio urbano / Strada · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto di moda di una donna dell'Asia meridionale in abito tradizionale giallo senape sotto il sole su un tetto cittadino.
 
 <img src="images/2098987568507535737-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Una bellissima giovane donna dell'Asia meridionale che indossa un elegante shalwar kameez tradizionale giallo senape con intricati ricami dorati e delicati dettagli di paillettes, con una dupatta velata coordinata drappeggiata naturalmente sulle spalle. Capelli lunghi, lisci e setosi, color castano scuro con riga centrale, morbide ciocche che le incorniciano il viso. Si tocca delicatamente i capelli con una mano e sorride calorosamente alla fotocamera, espressione naturale e sicura di sé, labbra rosa tenue, lineamenti del viso morbidi e raffinati, espressivi occhi marrone chiaro. Indossa tradizionali orecchini jhumka dorati e una delicata collana con ciondolo. Calda luce solare naturale che cade dolcemente sul suo viso, texture della pelle realistica, riflessi morbidi, profondità di campo ridotta, sfondo sfocato di tetto/città, fotografia cinematografica di lifestyle, elegante editoriale di moda pakistana, colori naturali, ricami su tessuto altamente dettagliati, fotorealistico, obiettivo per ritratti da 85 mm, bokeh morbido, illuminazione realistica, composizione verticale, 9:16.
 ```
 
 [↑ Torna alle categorie](#catalog)

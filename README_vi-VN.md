@@ -605,20 +605,20 @@ Góc nhìn thẳng đứng ngoạn mục của một đô thị tương lai lơ 
 
 <a name="prompt-2098987568507535737"></a>
 
-### Đang dịch
+### Ảnh chân dung thời trang một người phụ nữ Nam Á trong trang phục truyền thống màu vàng mù tạc dưới ánh nắng trên sân thượng thành phố.
 
 Tác giả：[@DaniaSafvi](https://x.com/DaniaSafvi) · [Bài gốc](https://x.com/DaniaSafvi/status/2098987568507535737)
 
 Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Quang cảnh thành phố / Đường phố · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Ảnh chân dung thời trang một người phụ nữ Nam Á trong trang phục truyền thống màu vàng mù tạc dưới ánh nắng trên sân thượng thành phố.
 
 <img src="images/2098987568507535737-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một phụ nữ trẻ Nam Á xinh đẹp mặc bộ shalwar kameez truyền thống màu vàng mù tạc thanh lịch với đường thêu chỉ vàng tinh xảo cùng chi tiết đính sequin nhẹ nhàng, khăn dupatta voan mỏng đồng bộ buông rủ tự nhiên trên vai. Mái tóc dài thẳng mượt màu nâu sẫm rẽ ngôi giữa, vài lọn tóc mềm mại ôm lấy khuôn mặt. Cô nhẹ nhàng chạm tay vào tóc và mỉm cười ấm áp trước ống kính, biểu cảm tự tin tự nhiên, đôi môi hồng phớt nhẹ, đường nét khuôn mặt thanh tú mềm mại, đôi mắt màu nâu sáng đầy biểu cảm. Đeo hoa tai jhumka vàng truyền thống và dây chuyền mặt thanh mảnh. Ánh nắng tự nhiên ấm áp rọi nhẹ lên khuôn mặt cô, kết cấu da chân thực, vùng sáng mềm mại, độ sâu trường ảnh nông, hậu cảnh sân thượng/thành phố mờ ảo, nhiếp ảnh phong cách sống điện ảnh, ảnh biên tập thời trang Pakistan thanh lịch, màu sắc tự nhiên, thêu vải cực kỳ chi tiết, chân thực như ảnh chụp, ống kính chân dung 85mm, hiệu ứng bokeh mềm mại, ánh sáng chân thực, bố cục dọc, 9:16.
 ```
 
 [↑ Về danh mục](#catalog)

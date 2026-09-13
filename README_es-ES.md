@@ -605,20 +605,20 @@ Una impresionante vista vertical de una metrópolis futurista que flota grácilm
 
 <a name="prompt-2098987568507535737"></a>
 
-### Traducción en curso
+### Foto de retrato de moda de una mujer del sur de Asia con vestimenta tradicional amarillo mostaza bajo la luz solar en una azotea urbana.
 
 Autor：[@DaniaSafvi](https://x.com/DaniaSafvi) · [Publicación original](https://x.com/DaniaSafvi/status/2098987568507535737)
 
 Retrato / Selfie · Personaje · Artículo de moda · Paisaje urbano / Calle · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Foto de retrato de moda de una mujer del sur de Asia con vestimenta tradicional amarillo mostaza bajo la luz solar en una azotea urbana.
 
 <img src="images/2098987568507535737-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Una hermosa joven del sur de Asia que viste un elegante shalwar kameez tradicional de color amarillo mostaza con intrincados bordados dorados y delicados detalles de lentejuelas, con una dupatta transparente a juego colocada con naturalidad sobre sus hombros. Cabello largo, liso y sedoso de color castaño oscuro con raya en medio, con suaves mechones enmarcando su rostro. Toca suavemente su cabello con una mano y sonríe con calidez a la cámara, con una expresión natural y segura, labios sutilmente rosados, rasgos faciales suaves y refinados, y expresivos ojos castaños claros. Lleva pendientes tradicionales de jhumka dorados y un delicado collar con colgante. Cálida luz solar natural que incide suavemente sobre su rostro, textura de piel realista, reflejos suaves, poca profundidad de campo, fondo borroso de azotea/ciudad, fotografía cinematográfica de estilo de vida, elegante editorial de moda pakistaní, colores naturales, bordado de tela muy detallado, fotorrealista, lente de retrato de 85 mm, suave efecto bokeh, iluminación realista, composición vertical, 9:16.
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -635,20 +635,20 @@ Alacakaranlıkta, dalgalanan yoğun koyu gri bulutlardan oluşan sonsuz bir deni
 
 <a name="prompt-2098987568507535737"></a>
 
-### Çeviri sürüyor
+### Şehir çatı katında güneş ışığı altında hardal sarısı geleneksel kıyafetiyle Güney Asyalı bir kadının moda portresi.
 
 Yazar：[@DaniaSafvi](https://x.com/DaniaSafvi) · [Orijinal gönderi](https://x.com/DaniaSafvi/status/2098987568507535737)
 
 Portre / Selfie · Karakter · Moda Ürünü · Şehir Manzarası / Sokak · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Şehir çatı katında güneş ışığı altında hardal sarısı geleneksel kıyafetiyle Güney Asyalı bir kadının moda portresi.
 
 <img src="images/2098987568507535737-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Zarif hardal sarısı geleneksel bir şalvar kamiz giymiş, karmaşık altın rengi işlemeleri ve narin pul detayları olan, omuzlarına doğal bir şekilde dökülen uyumlu tül dupattasıyla güzel, genç bir Güney Asyalı kadın. Ortadan ayrılmış, yüzünü çerçeveleyen yumuşak tutamlarıyla uzun, düz, ipeksi koyu kahverengi saçlar. Bir eliyle saçına nazikçe dokunuyor ve kameraya sıcak bir şekilde gülümsüyor, doğal ve kendinden emin bir ifade, hafif pembe dudaklar, yumuşak ve zarif yüz hatları, etkileyici açık kahverengi gözler. Geleneksel altın rengi jhumka küpeler ve zarif bir kolyeli kolye ucu takıyor. Yüzüne yumuşakça vuran sıcak doğal güneş ışığı, gerçekçi cilt dokusu, yumuşak parlamalar, sığ alan derinliği, bulanık çatı katı/şehir arka planı, sinematik yaşam tarzı fotoğrafçılığı, zarif Pakistan moda editoryali, doğal renkler, son derece ayrıntılı kumaş işlemesi, fotogerçekçi, 85 mm portre lensi, yumuşak bokeh, gerçekçi aydınlatma, dikey kompozisyon, 9:16.
 ```
 
 [↑ Kategorilere dön](#catalog)

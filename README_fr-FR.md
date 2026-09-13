@@ -526,20 +526,20 @@ Une vue verticale à couper le souffle d'une métropole futuriste flottant graci
 
 <a name="prompt-2098987568507535737"></a>
 
-### Traduction en cours
+### Portrait de mode d'une femme sud-asiatique vêtue d'un habit traditionnel jaune moutarde sous le soleil sur un toit urbain.
 
 Auteur：[@DaniaSafvi](https://x.com/DaniaSafvi) · [Publication originale](https://x.com/DaniaSafvi/status/2098987568507535737)
 
 Portrait / Selfie · Personnage · Article de mode · Paysage urbain / Rue · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait de mode d'une femme sud-asiatique vêtue d'un habit traditionnel jaune moutarde sous le soleil sur un toit urbain.
 
 <img src="images/2098987568507535737-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Une belle jeune femme sud-asiatique portant un élégant shalwar kameez traditionnel jaune moutarde avec des broderies dorées complexes et de délicats détails de paillettes, assorti d'une dupatta diaphane drapée naturellement sur ses épaules. De longs cheveux châtain foncé, lisses et soyeux, avec une raie au milieu et de douces mèches encadrant son visage. Elle touche doucement ses cheveux d'une main et sourit chaleureusement à l'appareil photo, expression naturelle et confiante, lèvres subtilement roses, traits du visage doux et raffinés, yeux marron clair expressifs. Portant des boucles d'oreilles traditionnelles jhumka dorées et un délicat collier à pendentif. Une lumière naturelle et chaude du soleil tombant doucement sur son visage, texture de peau réaliste, hautes lumières douces, faible profondeur de champ, arrière-plan flou de toit-terrasse/ville, photographie lifestyle cinématographique, élégant éditorial de mode pakistanaise, couleurs naturelles, broderie de tissu très détaillée, photoréaliste, objectif à portrait 85 mm, bokeh doux, éclairage réaliste, composition verticale, 9:16.
 ```
 
 [↑ Retour aux catégories](#catalog)

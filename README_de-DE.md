@@ -526,20 +526,20 @@ Eine atemberaubende vertikale Ansicht einer futuristischen Metropole, die in der
 
 <a name="prompt-2098987568507535737"></a>
 
-### Übersetzung läuft
+### Modeporträt einer südasiatischen Frau in traditioneller senfgelber Kleidung im Sonnenlicht auf einem städtischen Dach.
 
 Autor：[@DaniaSafvi](https://x.com/DaniaSafvi) · [Originalbeitrag](https://x.com/DaniaSafvi/status/2098987568507535737)
 
 Porträt / Selfie · Charakter · Modeartikel · Stadtbild / Straße · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Modeporträt einer südasiatischen Frau in traditioneller senfgelber Kleidung im Sonnenlicht auf einem städtischen Dach.
 
 <img src="images/2098987568507535737-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eine wunderschöne junge südasiatische Frau in einem eleganten, senfgelben traditionellen Shalwar Kameez mit kunstvollen goldenen Stickereien und zarten Paillettendetails, dazu eine passende transparente Dupatta, die natürlich über ihre Schultern fällt. Langes, glattes, seidiges dunkelbraunes Haar mit Mittelscheitel, weiche Strähnen umrahmen ihr Gesicht. Sie berührt ihr Haar sanft mit einer Hand und lächelt warm in die Kamera, natürlicher, selbstbewusster Ausdruck, dezente rosa Lippen, weiche, feine Gesichtszüge, ausdrucksstarke hellbraune Augen. Sie trägt traditionelle goldene Jhumka-Ohrringe und eine zarte Halskette mit Anhänger. Warmes natürliches Sonnenlicht fällt sanft über ihr Gesicht, realistische Hauttextur, sanfte Glanzlichter, geringe Schärfentiefe, verschwommener Dachterrassen-/Stadthintergrund, filmische Lifestyle-Fotografie, elegantes pakistanisches Mode-Editorial, natürliche Farben, hochdetaillierte Stoffstickerei, fotorealistisch, 85-mm-Porträtobjektiv, weiches Bokeh, realistische Beleuchtung, vertikale Komposition, 9:16.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

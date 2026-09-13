@@ -605,20 +605,20 @@ Uma vista vertical deslumbrante de uma metrópole futurista flutuando graciosame
 
 <a name="prompt-2098987568507535737"></a>
 
-### Tradução em andamento
+### Retrato de moda de uma mulher do sul da Ásia usando trajes tradicionais amarelo-mostarda sob a luz do sol no terraço de uma cidade.
 
 Autor：[@DaniaSafvi](https://x.com/DaniaSafvi) · [Publicação original](https://x.com/DaniaSafvi/status/2098987568507535737)
 
 Retrato / Selfie · Personagem · Item de Moda · Paisagem Urbana / Rua · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Retrato de moda de uma mulher do sul da Ásia usando trajes tradicionais amarelo-mostarda sob a luz do sol no terraço de uma cidade.
 
 <img src="images/2098987568507535737-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Uma linda jovem mulher do sul da Ásia usando um elegante shalwar kameez tradicional amarelo-mostarda com intrincados bordados dourados e delicados detalhes em lantejoulas, acompanhado por uma dupatta translúcida combinando, drapeada naturalmente sobre os ombros. Cabelos castanho-escuros longos, lisos e sedosos com risca ao meio, mechas suaves emoldurando seu rosto. Ela toca suavemente o cabelo com uma mão e sorri calorosamente para a câmera, expressão natural e confiante, lábios rosados sutis, traços faciais suaves e refinados, olhos castanho-claros expressivos. Usando brincos tradicionais jhumka dourados e um delicado colar com pingente. Luz solar natural e quente caindo suavemente sobre seu rosto, textura de pele realista, realces suaves, profundidade de campo rasa, fundo desfocado de terraço/cidade, fotografia cinematográfica de estilo de vida, elegante editorial de moda paquistanesa, cores naturais, bordados de tecido altamente detalhados, fotorrealista, lente de retrato de 85 mm, bokeh suave, iluminação realista, composição vertical, 9:16.
 ```
 
 [↑ Voltar às categorias](#catalog)
