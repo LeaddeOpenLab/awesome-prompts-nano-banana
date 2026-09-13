@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**20** Prompts · Última incorporación: **2026-09-13**
+**21** Prompts · Última incorporación: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -523,6 +523,28 @@ Una impresionante vista vertical de una metrópolis futurista que flota grácilm
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2098987568507535737"></a>
+
+### Traducción en curso
+
+Autor：[@DaniaSafvi](https://x.com/DaniaSafvi) · [Publicación original](https://x.com/DaniaSafvi/status/2098987568507535737)
+
+Retrato / Selfie · Personaje · Artículo de moda · Paisaje urbano / Calle · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098987568507535737-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097803184903274848"></a>
 

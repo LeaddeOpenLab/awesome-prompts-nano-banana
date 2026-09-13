@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**20** Prompts · Latest addition: **2026-09-13**
+**21** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -575,6 +575,28 @@ A breathtaking vertical view of a futuristic metropolis floating gracefully abov
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098987568507535737"></a>
+
+### Fashion portrait of a South Asian woman wearing mustard-yellow traditional attire under sunlight on an urban rooftop.
+
+Author：[@DaniaSafvi](https://x.com/DaniaSafvi) · [Source](https://x.com/DaniaSafvi/status/2098987568507535737)
+
+Portrait / Selfie · Character · Fashion Item · Cityscape / Street · Published
+
+**Summary:** Fashion portrait of a South Asian woman wearing mustard-yellow traditional attire under sunlight on an urban rooftop.
+
+<img src="images/2098987568507535737-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A beautiful young South Asian woman wearing an elegant mustard-yellow traditional shalwar kameez with intricate golden embroidery and delicate sequin detailing, matching sheer dupatta draped naturally over her shoulders. Long, straight, silky dark-brown hair with a center part, soft strands framing her face. She is gently touching her hair with one hand and smiling warmly at the camera, natural confident expression, subtle pink lips, soft refined facial features, expressive light brown eyes. Wearing traditional golden jhumka earrings and a delicate pendant necklace. Warm natural sunlight falling softly across her face, realistic skin texture, soft highlights, shallow depth of field, blurred rooftop/city background, cinematic lifestyle photography, elegant Pakistani fashion editorial, natural colors, highly detailed fabric embroidery, photorealistic, 85mm portrait lens, soft bokeh, realistic lighting, vertical composition, 9:16.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097803184903274848"></a>
 

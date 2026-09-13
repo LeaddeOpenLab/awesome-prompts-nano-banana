@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**20** Prompt · Bổ sung mới nhất: **2026-09-13**
+**21** Prompt · Bổ sung mới nhất: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -602,6 +602,28 @@ Góc nhìn thẳng đứng ngoạn mục của một đô thị tương lai lơ 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2098987568507535737"></a>
+
+### Đang dịch
+
+Tác giả：[@DaniaSafvi](https://x.com/DaniaSafvi) · [Bài gốc](https://x.com/DaniaSafvi/status/2098987568507535737)
+
+Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Quang cảnh thành phố / Đường phố · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098987568507535737-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097803184903274848"></a>
 

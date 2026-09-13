@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**20** Prompt · Ultima aggiunta: **2026-09-13**
+**21** Prompt · Ultima aggiunta: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -523,6 +523,28 @@ Un'incredibile vista verticale di una metropoli futuristica che fluttua con graz
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2098987568507535737"></a>
+
+### Traduzione in corso
+
+Autore：[@DaniaSafvi](https://x.com/DaniaSafvi) · [Post originale](https://x.com/DaniaSafvi/status/2098987568507535737)
+
+Ritratto / Selfie · Personaggio · Articolo di moda · Paesaggio urbano / Strada · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098987568507535737-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2097803184903274848"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**20** Prompt · Son eklenen: **2026-09-13**
+**21** Prompt · Son eklenen: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -632,6 +632,28 @@ Alacakaranlıkta, dalgalanan yoğun koyu gri bulutlardan oluşan sonsuz bir deni
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2098987568507535737"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@DaniaSafvi](https://x.com/DaniaSafvi) · [Orijinal gönderi](https://x.com/DaniaSafvi/status/2098987568507535737)
+
+Portre / Selfie · Karakter · Moda Ürünü · Şehir Manzarası / Sokak · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098987568507535737-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097803184903274848"></a>
 
