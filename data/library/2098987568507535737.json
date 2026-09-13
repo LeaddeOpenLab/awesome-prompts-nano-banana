@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-13T05:22:43.265Z",
+  "model": "nano-banana",
+  "prompt": "A beautiful young South Asian woman wearing an elegant mustard-yellow traditional shalwar kameez with intricate golden embroidery and delicate sequin detailing, matching sheer dupatta draped naturally over her shoulders. Long, straight, silky dark-brown hair with a center part, soft strands framing her face. She is gently touching her hair with one hand and smiling warmly at the camera, natural confident expression, subtle pink lips, soft refined facial features, expressive light brown eyes. Wearing traditional golden jhumka earrings and a delicate pendant necklace. Warm natural sunlight falling softly across her face, realistic skin texture, soft highlights, shallow depth of field, blurred rooftop/city background, cinematic lifestyle photography, elegant Pakistani fashion editorial, natural colors, highly detailed fabric embroidery, photorealistic, 85mm portrait lens, soft bokeh, realistic lighting, vertical composition, 9:16.",
+  "promptTranslations": {
+    "en": "A beautiful young South Asian woman wearing an elegant mustard-yellow traditional shalwar kameez with intricate golden embroidery and delicate sequin detailing, matching sheer dupatta draped naturally over her shoulders. Long, straight, silky dark-brown hair with a center part, soft strands framing her face. She is gently touching her hair with one hand and smiling warmly at the camera, natural confident expression, subtle pink lips, soft refined facial features, expressive light brown eyes. Wearing traditional golden jhumka earrings and a delicate pendant necklace. Warm natural sunlight falling softly across her face, realistic skin texture, soft highlights, shallow depth of field, blurred rooftop/city background, cinematic lifestyle photography, elegant Pakistani fashion editorial, natural colors, highly detailed fabric embroidery, photorealistic, 85mm portrait lens, soft bokeh, realistic lighting, vertical composition, 9:16."
+  },
+  "summaryTranslations": {
+    "en": "Fashion portrait of a South Asian woman wearing mustard-yellow traditional attire under sunlight on an urban rooftop."
+  },
+  "translationVersion": 2,
+  "summary": "南亚女子身着芥末黄传统服饰在城市屋顶阳光下的时尚人像照。",
+  "summaryEn": "Sunlit fashion portrait of a South Asian woman in traditional mustard-yellow attire on a rooftop.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098987568507535737",
+    "canonicalUrl": "https://x.com/DaniaSafvi/status/2098987568507535737",
+    "author": {
+      "username": "DaniaSafvi",
+      "displayName": "Dania",
+      "profileUrl": "https://x.com/DaniaSafvi"
+    },
+    "publishedAt": "2026-09-13T04:10:08.000Z",
+    "collectedAt": "2026-09-13T05:12:35.790Z",
+    "language": "en",
+    "originalText": "Golden vibes, soft smiles, and a little desi elegance \nSome moments are simply meant to glow.\n\nNano Banana pro on Gemini.\n\nPrompt:\n\n A beautiful young South Asian woman wearing an elegant mustard-yellow traditional shalwar kameez with intricate golden embroidery and delicate sequin detailing, matching sheer dupatta draped naturally over her shoulders. Long, straight, silky dark-brown hair with a center part, soft strands framing her face. She is gently touching her hair with one hand and smiling warmly at the camera, natural confident expression, subtle pink lips, soft refined facial features, expressive light brown eyes. Wearing traditional golden jhumka earrings and a delicate pendant necklace. Warm natural sunlight falling softly across her face, realistic skin texture, soft highlights, shallow depth of field, blurred rooftop/city background, cinematic lifestyle photography, elegant Pakistani fashion editorial, natural colors, highly detailed fabric embroidery, photorealistic, 85mm portrait lens, soft bokeh, realistic lighting, vertical composition, 9:16.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSEaEHEbsAE_sLw.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSEaEHEbsAE_sLw.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 13,
+      "repostCount": 0,
+      "replyCount": 14,
+      "quoteCount": 0,
+      "viewCount": 217
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/DaniaSafvi/status/2098987568507535737",
+  "coverUrl": "https://pbs.twimg.com/media/HSEaEHEbsAE_sLw.jpg",
+  "coverPath": "images/2098987568507535737-1.jpg",
+  "imagePaths": [
+    "images/2098987568507535737-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSEaEHEbsAE_sLw",
+    "x-post:2098987568507535737"
+  ],
+  "analysis": {
+    "summary": "南亚女子身着芥末黄传统服饰在城市屋顶阳光下的时尚人像照。",
+    "summaryEn": "Sunlit fashion portrait of a South Asian woman in traditional mustard-yellow attire on a rooftop.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated image directly portrays the mustard-yellow embroidered outfit, hand-to-hair pose, jewelry, and rooftop bokeh background described."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A beautiful young South Asian woman wearing an elegant mustard-yellow traditional shalwar kameez with intricate golden embroidery and delicate sequin detailing, matching sheer dupatta draped naturally over her shoulders. Long, straight, silky dark-brown hair with a center part, soft strands framing her face. She is gently touching her hair with one hand and smiling warmly at the camera, natural confident expression, subtle pink lips, soft refined facial features, expressive light brown eyes. Wearing traditional golden jhumka earrings and a delicate pendant necklace. Warm natural sunlight falling softly across her face, realistic skin texture, soft highlights, shallow depth of field, blurred rooftop/city background, cinematic lifestyle photography, elegant Pakistani fashion editorial, natural colors, highly detailed fabric embroidery, photorealistic, 85mm portrait lens, soft bokeh, realistic lighting, vertical composition, 9:16.",
+    "sourceRange": {
+      "start": 133,
+      "end": 1074
+    },
+    "translations": {
+      "zh": "一位美丽的南亚年轻女子，身穿精致的芥末黄色传统沙丽克米兹（shalwar kameez），饰有金色刺绣与亮片，搭配同色薄纱杜帕塔披肩。深棕色长直发中分，单手轻抚秀发并面带微笑。佩戴传统金色耳环与项链，暖阳照在面部，背景为虚化的屋顶城市景观，电影感人像摄影。",
+      "en": "A beautiful young South Asian woman wearing an elegant mustard-yellow traditional shalwar kameez with intricate golden embroidery and sequin detailing, matching sheer dupatta. Long straight dark hair, gently touching her hair while smiling at the camera. Wearing traditional golden jhumka earrings, warm natural sunlight, shallow depth of field with blurred rooftop city background."
+    },
+    "targetModels": [
+      "nano-banana"
+    ],
+    "category": "text-to-image",
+    "useCase": "fashion portrait",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.92,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
