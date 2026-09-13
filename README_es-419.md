@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**19** Prompts · Última incorporación: **2026-09-12**
+**20** Prompts · Última incorporación: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -374,6 +374,30 @@ Comercial de bebida premium ultrarrealista, líquido cristalino, carbonatación 
 <a name="category-3d-render"></a>
 
 ## Renderizado 3D
+
+<a name="prompt-2098960605776601426"></a>
+
+### Traducción en curso
+
+Autor：[@aniyaintel](https://x.com/aniyaintel) · [Publicación original](https://x.com/aniyaintel/status/2098960605776601426)
+
+Renderizado 3D · Retrato / Selfie · Personaje · Artículo de moda · Texto / Tipografía · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098960605776601426-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2098960605776601426-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097629839209758892"></a>
 

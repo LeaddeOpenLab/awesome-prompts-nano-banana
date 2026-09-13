@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**19** Prompt · Son eklenen: **2026-09-12**
+**20** Prompt · Son eklenen: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -453,6 +453,30 @@ Ultra gerçekçi premium içecek reklamı, kristal berraklığında sıvı, patl
 <a name="category-3d-render"></a>
 
 ## 3D Modelleme
+
+<a name="prompt-2098960605776601426"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@aniyaintel](https://x.com/aniyaintel) · [Orijinal gönderi](https://x.com/aniyaintel/status/2098960605776601426)
+
+3D Modelleme · Portre / Selfie · Karakter · Moda Ürünü · Metin / Tipografi · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098960605776601426-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2098960605776601426-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097629839209758892"></a>
 

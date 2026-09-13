@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**19** Prompt · Ultima aggiunta: **2026-09-12**
+**20** Prompt · Ultima aggiunta: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -374,6 +374,30 @@ Spot pubblicitario di bevande premium ultra-realistico, liquido cristallino, car
 <a name="category-3d-render"></a>
 
 ## Rendering 3D
+
+<a name="prompt-2098960605776601426"></a>
+
+### Traduzione in corso
+
+Autore：[@aniyaintel](https://x.com/aniyaintel) · [Post originale](https://x.com/aniyaintel/status/2098960605776601426)
+
+Rendering 3D · Ritratto / Selfie · Personaggio · Articolo di moda · Testo / Tipografia · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098960605776601426-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098960605776601426-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2097629839209758892"></a>
 

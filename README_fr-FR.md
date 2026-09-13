@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**19** Prompts · Dernier ajout: **2026-09-12**
+**20** Prompts · Dernier ajout: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -374,6 +374,30 @@ Publicité pour boisson haut de gamme ultra-réaliste, liquide cristallin, carbo
 <a name="category-3d-render"></a>
 
 ## Rendu 3D
+
+<a name="prompt-2098960605776601426"></a>
+
+### Traduction en cours
+
+Auteur：[@aniyaintel](https://x.com/aniyaintel) · [Publication originale](https://x.com/aniyaintel/status/2098960605776601426)
+
+Rendu 3D · Portrait / Selfie · Personnage · Article de mode · Texte / Typographie · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098960605776601426-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098960605776601426-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097629839209758892"></a>
 

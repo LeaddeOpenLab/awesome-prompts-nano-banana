@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**19** Prompts · Última incorporación: **2026-09-12**
+**20** Prompts · Última incorporación: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -453,6 +453,30 @@ Anuncio comercial de bebidas premium ultrarrealista, líquido cristalino, carbon
 <a name="category-3d-render"></a>
 
 ## Render 3D
+
+<a name="prompt-2098960605776601426"></a>
+
+### Traducción en curso
+
+Autor：[@aniyaintel](https://x.com/aniyaintel) · [Publicación original](https://x.com/aniyaintel/status/2098960605776601426)
+
+Render 3D · Retrato / Selfie · Personaje · Artículo de moda · Texto / Tipografía · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098960605776601426-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2098960605776601426-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097629839209758892"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**19** Prompt · Bổ sung mới nhất: **2026-09-12**
+**20** Prompt · Bổ sung mới nhất: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -453,6 +453,30 @@ Quảng cáo đồ uống cao cấp siêu thực, chất lỏng trong suốt nh�
 <a name="category-3d-render"></a>
 
 ## Kết xuất 3D
+
+<a name="prompt-2098960605776601426"></a>
+
+### Đang dịch
+
+Tác giả：[@aniyaintel](https://x.com/aniyaintel) · [Bài gốc](https://x.com/aniyaintel/status/2098960605776601426)
+
+Kết xuất 3D · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Văn bản / Kiểu chữ · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098960605776601426-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098960605776601426-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097629839209758892"></a>
 

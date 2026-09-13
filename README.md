@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**19** Prompts · Latest addition: **2026-09-12**
+**20** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -453,6 +453,44 @@ Ultra-realistic premium beverage commercial, crystal-clear liquid, explosive car
 <a name="category-3d-render"></a>
 
 ## 3D Render
+
+<a name="prompt-2098960605776601426"></a>
+
+### Prompt for an autumn fashion studio portrait featuring a woman seated on 3D &quot;HELLO AUTUMN&quot; letters.
+
+Author：[@aniyaintel](https://x.com/aniyaintel) · [Source](https://x.com/aniyaintel/status/2098960605776601426)
+
+3D Render · Portrait / Selfie · Character · Fashion Item · Text / Typography · Published
+
+**Summary:** Prompt for an autumn fashion studio portrait featuring a woman seated on 3D &quot;HELLO AUTUMN&quot; letters.
+
+<img src="images/2098960605776601426-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098960605776601426-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Use my uploaded female face as the ONLY identity reference for the main subject. Preserve my exact facial identity and natural appearance — facial structure, skin tone, eyes, eyebrows, nose, lips, cheekbones, jawline, facial proportions, hairline, hair texture, and natural skin texture. Keep me instantly recognizable. Do not beautify, reshape, feminize, masculinize, age, de-age, or alter my facial features.
+
+Create a premium hyper-realistic editorial autumn fashion portrait, closely matching the reference composition. A stylish young woman is seated confidently on large three-dimensional off-white block letters spelling “HELLO AUTUMN”, with the text clearly readable and physically integrated into the studio set.
+
+She wears a mustard-yellow lightweight hooded jacket over a black oversized hoodie, paired with black tapered jogger pants and chunky black lace-up combat boots. She holds a small black-and-beige takeaway coffee cup naturally in one hand. Relaxed, confident fashion-editorial pose, one leg bent and resting across the oversized lettering while the other leg hangs naturally.
+
+Autumn atmosphere: warm mustard, beige, cream, brown and black tones, subtle cozy seasonal feeling without adding leaves or excessive decorations. Minimal luxury studio environment with a warm taupe/beige seamless background, soft reflective floor, and elegant sculptural typography.
+
+The oversized 3D “HELLO AUTUMN” letters should be thick, matte, off-white/ivory, realistic, dimensional, carefully arranged at different depths, with natural contact shadows and subtle floor reflections. Make sure every letter is correctly formed and the exact text reads “HELLO AUTUMN”.
+
+Lighting: premium commercial fashion photography, soft large studio key light, gentle fill, subtle rim light, realistic shadows, warm cinematic highlights, natural skin tones, sophisticated contrast.
+
+Camera: full-body vertical fashion composition, eye-level/slightly low editorial perspective, 50mm lens aesthetic, sharp facial details, realistic fabric and leather textures, natural proportions, photorealistic depth of field.
+
+Overall style: luxury autumn campaign, premium fashion advertisement, sophisticated, modern, minimal, hyper-realistic photography, extremely detailed, realistic skin texture, realistic hair strands, physically accurate clothing, cinematic studio lighting.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097629839209758892"></a>
 
