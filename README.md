@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**21** Prompts · Latest addition: **2026-09-13**
+**22** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2099345837688271000"></a>
+
+### Photorealistic portrait of an elegant woman in a red blazer posing in an art gallery.
+
+Author：[@laviniavelle](https://x.com/laviniavelle) · [Source](https://x.com/laviniavelle/status/2099345837688271000)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Photorealistic portrait of an elegant woman in a red blazer posing in an art gallery.
+
+<img src="images/2099345837688271000-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A high resolution photorealistic portrait of an elegant young woman with brunette hair styled in a high ponytail and soft front bangs posing in a modern art gallery She is wearing a tailored deep red blazer over a cream satin blouse looking at the camera with a subtle confident smile Her hand is delicately resting near her neck The background features a softly blurred, brightly lit luxury gallery hallway with abstract paintings on the wall and high end warm ambient studio lighting shallow depth of field 8k resolution, shot on 85mm lens photorealistic.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098763429636907474"></a>
 

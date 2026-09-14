@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**21** 条内容 · 最新收录: **2026-09-13**
+**22** 条内容 · 最新收录: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 <a name="category-photography"></a>
 
 ## 摄影
+
+<a name="prompt-2099345837688271000"></a>
+
+### 翻译中
+
+作者：[@laviniavelle](https://x.com/laviniavelle) · [查看 X 原帖](https://x.com/laviniavelle/status/2099345837688271000)
+
+摄影 · 人像 / 自拍 · 角色 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2099345837688271000-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2098763429636907474"></a>
 
