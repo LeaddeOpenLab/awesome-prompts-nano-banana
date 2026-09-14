@@ -35,20 +35,20 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2099345837688271000"></a>
 
-### Traduction en cours
+### Portrait photoréaliste d'une femme élégante en blazer rouge posant dans une galerie d'art.
 
 Auteur：[@laviniavelle](https://x.com/laviniavelle) · [Publication originale](https://x.com/laviniavelle/status/2099345837688271000)
 
 Photographie · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait photoréaliste d'une femme élégante en blazer rouge posant dans une galerie d'art.
 
 <img src="images/2099345837688271000-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Un portrait photoréaliste en haute résolution d'une jeune femme élégante aux cheveux bruns coiffés en queue-de-cheval haute avec une frange douce sur le devant, posant dans une galerie d'art moderne. Elle porte un blazer cintré rouge foncé sur un chemisier en satin crème, regardant l'appareil photo avec un sourire subtil et confiant. Sa main repose délicatement près de son cou. L'arrière-plan présente un couloir de galerie luxueuse doucement flou et vivement éclairé avec des peintures abstraites sur le mur et un éclairage d'ambiance de studio chaleureux haut de gamme, faible profondeur de champ, résolution 8k, prise de vue avec un objectif 85 mm, photoréaliste.
 ```
 
 [↑ Retour aux catégories](#catalog)

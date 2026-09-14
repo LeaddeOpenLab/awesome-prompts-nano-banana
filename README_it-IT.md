@@ -35,20 +35,20 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2099345837688271000"></a>
 
-### Traduzione in corso
+### Ritratto fotorealistico di un'elegante donna in blazer rosso in posa in una galleria d'arte.
 
 Autore：[@laviniavelle](https://x.com/laviniavelle) · [Post originale](https://x.com/laviniavelle/status/2099345837688271000)
 
 Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto fotorealistico di un'elegante donna in blazer rosso in posa in una galleria d'arte.
 
 <img src="images/2099345837688271000-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Un ritratto fotorealistico ad alta risoluzione di un'elegante giovane donna con capelli castani acconciati in una coda di cavallo alta e morbida frangia frontale, in posa in una galleria d'arte moderna. Indossa un blazer rosso scuro su misura sopra una camicetta di raso crema, guardando la fotocamera con un sorriso sottile e sicuro. La sua mano è delicatamente posata vicino al collo. Lo sfondo presenta un corridoio di galleria di lusso leggermente sfocato e ben illuminato con dipinti astratti sulla parete e un'illuminazione d'ambiente da studio calda e di fascia alta, profondità di campo ridotta, risoluzione 8k, scattata con obiettivo da 85 mm, fotorealistica.
 ```
 
 [↑ Torna alle categorie](#catalog)

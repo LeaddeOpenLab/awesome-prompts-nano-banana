@@ -35,20 +35,20 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2099345837688271000"></a>
 
-### Çeviri sürüyor
+### Bir sanat galerisinde poz veren kırmızı blazer ceketli zarif bir kadının fotogerçekçi portresi.
 
 Yazar：[@laviniavelle](https://x.com/laviniavelle) · [Orijinal gönderi](https://x.com/laviniavelle/status/2099345837688271000)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bir sanat galerisinde poz veren kırmızı blazer ceketli zarif bir kadının fotogerçekçi portresi.
 
 <img src="images/2099345837688271000-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Modern bir sanat galerisinde poz veren, yüksek at kuyruğu şeklinde toplanmış esmer saçlı ve yumuşak ön kahküllü zarif bir genç kadının yüksek çözünürlüklü fotogerçekçi portresi. Krem rengi saten bir bluz üzerine dikilmiş koyu kırmızı bir blazer ceket giyiyor ve hafif, kendinden emin bir gülümsemeyle kameraya bakıyor. Eli boynunun hemen yanında zarifçe duruyor. Arka planda duvarda soyut resimlerin bulunduğu, yumuşakça bulanıklaştırılmış, parlak bir şekilde aydınlatılmış lüks bir galeri koridoru ve üst düzey sıcak ortam stüdyo aydınlatması, sığ alan derinliği, 8k çözünürlük, 85mm lensle çekilmiş, fotogerçekçi yer alıyor.
 ```
 
 [↑ Kategorilere dön](#catalog)

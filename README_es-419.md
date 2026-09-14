@@ -35,20 +35,20 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 <a name="prompt-2099345837688271000"></a>
 
-### Traducción en curso
+### Retrato fotorrealista de una mujer elegante con un blazer rojo posando en una galería de arte.
 
 Autor：[@laviniavelle](https://x.com/laviniavelle) · [Publicación original](https://x.com/laviniavelle/status/2099345837688271000)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato fotorrealista de una mujer elegante con un blazer rojo posando en una galería de arte.
 
 <img src="images/2099345837688271000-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Un retrato fotorrealista de alta resolución de una elegante mujer joven con cabello castaño peinado en una coleta alta y flequillo frontal suave posando en una galería de arte moderno. Viste un blazer entallado de color rojo intenso sobre una blusa de satén color crema, mirando a la cámara con una sutil sonrisa de confianza. Su mano descansa delicadamente cerca de su cuello. El fondo presenta un pasillo de galería de lujo suavemente desenfocado y brillantemente iluminado con pinturas abstractas en la pared e iluminación ambiental de estudio cálida de alta gama, profundidad de campo reducida, resolución de 8k, tomada con lente de 85 mm, fotorrealista.
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -35,20 +35,20 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2099345837688271000"></a>
 
-### Übersetzung läuft
+### Fotorealistisches Porträt einer eleganten Frau im roten Blazer, die in einer Kunstgalerie posiert.
 
 Autor：[@laviniavelle](https://x.com/laviniavelle) · [Originalbeitrag](https://x.com/laviniavelle/status/2099345837688271000)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fotorealistisches Porträt einer eleganten Frau im roten Blazer, die in einer Kunstgalerie posiert.
 
 <img src="images/2099345837688271000-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein hochauflösendes, fotorealistisches Porträt einer eleganten jungen Frau mit zu einem hohen Pferdeschwanz frisiertem braunem Haar und weichem Stirnpony, die in einer modernen Kunstgalerie posiert. Sie trägt einen maßgeschneiderten, tiefroten Blazer über einer cremefarbenen Satinbluse und blickt mit einem subtilen, selbstbewussten Lächeln in die Kamera. Ihre Hand ruht zart an ihrem Hals. Der Hintergrund zeigt einen sanft verschwommenen, hell erleuchteten Korridor einer Luxusgalerie mit abstrakten Gemälden an der Wand und hochwertiger, warmer Studio-Umgebungsbeleuchtung, geringe Schärfentiefe, 8k-Auflösung, aufgenommen mit einem 85-mm-Objektiv, fotorealistisch.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -35,20 +35,20 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2099345837688271000"></a>
 
-### Đang dịch
+### Chân dung chân thực của một phụ nữ thanh lịch trong chiếc áo blazer đỏ đang tạo dáng trong phòng triển lãm nghệ thuật.
 
 Tác giả：[@laviniavelle](https://x.com/laviniavelle) · [Bài gốc](https://x.com/laviniavelle/status/2099345837688271000)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung chân thực của một phụ nữ thanh lịch trong chiếc áo blazer đỏ đang tạo dáng trong phòng triển lãm nghệ thuật.
 
 <img src="images/2099345837688271000-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một bức chân dung chân thực độ phân giải cao chụp một phụ nữ trẻ thanh lịch với mái tóc nâu buộc đuôi ngựa cao và tóc mái thưa mềm mại đang tạo dáng trong một phòng triển lãm nghệ thuật hiện đại. Cô ấy mặc một chiếc áo blazer màu đỏ thẫm được may đo kỹ lưỡng bên ngoài áo sơ mi lụa satin màu kem, nhìn vào máy ảnh với nụ cười tự tin tinh tế. Tay cô ấy nhẹ nhàng đặt gần cổ. Hậu cảnh là hành lang triển lãm sang trọng mờ ảo, đủ ánh sáng với các bức tranh trừu tượng trên tường và ánh sáng studio ấm áp cao cấp, độ sâu trường ảnh nông, độ phân giải 8k, chụp bằng ống kính 85mm, chân thực như ảnh chụp.
 ```
 
 [↑ Về danh mục](#catalog)
