@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T05:23:35.902Z",
+  "model": "nano-banana",
+  "prompt": "Selfie-style photo taken from an outstretched arm's POV, reaching toward the camera with a wristwatch visible on the wrist. A young woman with long straight black hair blowing in the wind, wearing round gold-rimmed glasses, winking one eye while puckering her lips in a playful kiss/pout expression. She's wearing a cream-colored knit sweater. Background is a bright blue sky with scattered white clouds. Natural outdoor lighting, candid and playful mood, shot from a low angle looking up. Realistic photography style, shallow depth of field, vibrant colors.",
+  "promptTranslations": {
+    "en": "Selfie-style photo taken from an outstretched arm's POV, reaching toward the camera with a wristwatch visible on the wrist. A young woman with long straight black hair blowing in the wind, wearing round gold-rimmed glasses, winking one eye while puckering her lips in a playful kiss/pout expression. She's wearing a cream-colored knit sweater. Background is a bright blue sky with scattered white clouds. Natural outdoor lighting, candid and playful mood, shot from a low angle looking up. Realistic photography style, shallow depth of field, vibrant colors."
+  },
+  "summaryTranslations": {
+    "en": "Low-angle candid selfie of a winking young woman in glasses and knit sweater reaching toward the camera under a blue sky."
+  },
+  "translationVersion": 2,
+  "summary": "Low-angle candid selfie of a winking young woman in glasses and knit sweater reaching toward the camera under a blue sky.",
+  "summaryEn": "Low-angle candid selfie of a winking young woman in glasses and knit sweater reaching toward the camera under a blue sky.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100090685240336654",
+    "canonicalUrl": "https://x.com/DaniaSafvi/status/2100090685240336654",
+    "author": {
+      "username": "DaniaSafvi",
+      "displayName": "Dania",
+      "profileUrl": "https://x.com/DaniaSafvi"
+    },
+    "publishedAt": "2026-09-16T05:13:31.000Z",
+    "collectedAt": "2026-09-16T05:18:53.564Z",
+    "language": "en",
+    "originalText": "Nano Banana pro on Gemini.\n\nPrompt:\n\nSelfie-style photo taken from an outstretched arm's POV, reaching toward the camera with a wristwatch visible on the wrist. A young woman with long straight black hair blowing in the wind, wearing round gold-rimmed glasses, winking one eye while puckering her lips in a playful kiss/pout expression. She's wearing a cream-colored knit sweater. Background is a bright blue sky with scattered white clouds. Natural outdoor lighting, candid and playful mood, shot from a low angle looking up. Realistic photography style, shallow depth of field, vibrant colors.\"\nOptional style tags to add: ultra realistic, 8k, phone photography aesthetic, golden hour lighting, windy day, Instagram-style candid shot\nWant me to tweak the mood, outfit, or setting (e.g., beach, city skyline, sunset).",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSUFVxPbwAAbVTW.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSUFVxPbwAAbVTW.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 30
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/DaniaSafvi/status/2100090685240336654",
+  "coverUrl": "https://pbs.twimg.com/media/HSUFVxPbwAAbVTW.jpg",
+  "coverPath": "images/2100090685240336654-1.jpg",
+  "imagePaths": [
+    "images/2100090685240336654-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSUFVxPbwAAbVTW",
+    "x-post:2100090685240336654"
+  ],
+  "analysis": {
+    "summary": "Low-angle candid selfie of a winking young woman in glasses and knit sweater reaching toward the camera under a blue sky.",
+    "summaryEn": "Low-angle candid selfie of a winking young woman in glasses and knit sweater reaching toward the camera under a blue sky.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The image precisely matches the POV outstretched arm with wristwatch, low-angle perspective, winking eye and pouting expression, round gold-rimmed glasses, cream knit sweater, and cloudy blue sky background."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Selfie-style photo taken from an outstretched arm's POV, reaching toward the camera with a wristwatch visible on the wrist. A young woman with long straight black hair blowing in the wind, wearing round gold-rimmed glasses, winking one eye while puckering her lips in a playful kiss/pout expression. She's wearing a cream-colored knit sweater. Background is a bright blue sky with scattered white clouds. Natural outdoor lighting, candid and playful mood, shot from a low angle looking up. Realistic photography style, shallow depth of field, vibrant colors.",
+    "sourceRange": {
+      "start": 37,
+      "end": 595
+    },
+    "translations": {
+      "zh": "从伸出手臂的主观视角拍摄的自拍风格照片，手腕上可见手表并伸向镜头。一名年轻女性留着随风飘动的黑色直长发，戴着金色细圆框眼镜，眨着一只眼睛并嘟起嘴唇摆出俏皮的吻/撅嘴表情。她穿着米白色针织毛衣。背景是晴朗的蓝天与点缀的白云。自然户外光线，抓拍俏皮氛围，低角度仰拍。逼真摄影风格，浅景深，色彩鲜明。",
+      "en": "Selfie-style photo taken from an outstretched arm's POV, reaching toward the camera with a wristwatch visible on the wrist. A young woman with long straight black hair blowing in the wind, wearing round gold-rimmed glasses, winking one eye while puckering her lips in a playful kiss/pout expression. She's wearing a cream-colored knit sweater. Background is a bright blue sky with scattered white clouds. Natural outdoor lighting, candid and playful mood, shot from a low angle looking up. Realistic photography style, shallow depth of field, vibrant colors."
+    },
+    "targetModels": [
+      "nano-banana"
+    ],
+    "category": "text-to-image",
+    "useCase": "candid portrait photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
