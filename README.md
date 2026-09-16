@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**22** Prompts · Latest addition: **2026-09-14**
+**23** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2100090685240336654"></a>
+
+### Low-angle candid selfie of a winking young woman in glasses and knit sweater reaching toward the camera under a blue sky.
+
+Author：[@DaniaSafvi](https://x.com/DaniaSafvi) · [Source](https://x.com/DaniaSafvi/status/2100090685240336654)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Low-angle candid selfie of a winking young woman in glasses and knit sweater reaching toward the camera under a blue sky.
+
+<img src="images/2100090685240336654-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Selfie-style photo taken from an outstretched arm's POV, reaching toward the camera with a wristwatch visible on the wrist. A young woman with long straight black hair blowing in the wind, wearing round gold-rimmed glasses, winking one eye while puckering her lips in a playful kiss/pout expression. She's wearing a cream-colored knit sweater. Background is a bright blue sky with scattered white clouds. Natural outdoor lighting, candid and playful mood, shot from a low angle looking up. Realistic photography style, shallow depth of field, vibrant colors.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099345837688271000"></a>
 

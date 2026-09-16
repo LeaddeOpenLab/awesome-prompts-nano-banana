@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**22** Prompts · Adição mais recente: **2026-09-14**
+**23** Prompts · Adição mais recente: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2100090685240336654"></a>
+
+### Tradução em curso
+
+Autor：[@DaniaSafvi](https://x.com/DaniaSafvi) · [Publicação original](https://x.com/DaniaSafvi/status/2100090685240336654)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2100090685240336654-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2099345837688271000"></a>
 
