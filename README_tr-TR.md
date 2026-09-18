@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**23** Prompt · Son eklenen: **2026-09-16**
+**24** Prompt · Son eklenen: **2026-09-18**
 
 <a name="catalog"></a>
 
@@ -33,22 +33,78 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 ## Fotoğrafçılık
 
-<a name="prompt-2100090685240336654"></a>
+<a name="prompt-2101018672978342023"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@zeuuss\_01](https://x.com/zeuuss_01) · [Orijinal gönderi](https://x.com/zeuuss_01/status/2101018672978342023)
+
+Uygulama / Web Tasarımı · Fotoğrafçılık · Yayımlandı
+
+Orijinal gönderi：[@zeuuss\_01](https://x.com/zeuuss_01) · [Orijinal gönderi](https://x.com/zeuuss_01/status/2100241638702416364)
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2101018672978342023.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2101037044138922324"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@KeorUnreal](https://x.com/KeorUnreal) · [Orijinal gönderi](https://x.com/KeorUnreal/status/2101037044138922324)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Mimari / İç Mekan · Yayımlandı
+
+Orijinal gönderi：[@keepgoingAnnie](https://x.com/keepgoingAnnie) · [Orijinal gönderi](https://x.com/keepgoingAnnie/status/2100147195055899134)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101037044138922324-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2101037044138922324-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2101037044138922324-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2101037044138922324-4.png" alt="Görsel 4" width="480" />
+
+<img src="images/2101037044138922324-5.jpg" alt="Görsel 5" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100090685240336654"></a>
+
+### Mavi gökyüzü altında gözlüklü ve örgü kazaklı, göz kırpan genç bir kadının kameraya doğru uzandığı düşük açılı samimi selfie.
 
 Yazar：[@DaniaSafvi](https://x.com/DaniaSafvi) · [Orijinal gönderi](https://x.com/DaniaSafvi/status/2100090685240336654)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Mavi gökyüzü altında gözlüklü ve örgü kazaklı, göz kırpan genç bir kadının kameraya doğru uzandığı düşük açılı samimi selfie.
 
 <img src="images/2100090685240336654-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Uzatılmış bir kolun bakış açısından (POV) çekilmiş selfie tarzı fotoğraf; bileğinde bir kol saati görünen kol kameraya doğru uzanıyor. Rüzgarda uçuşan uzun, düz siyah saçlı, yuvarlak altın çerçeveli gözlük takan genç bir kadın, eğlenceli bir öpücük/dudak bükme ifadesiyle dudaklarını büzüştürürken bir gözünü kırpıyor. Üzerinde krem rengi örgü bir kazak var. Arka planda dağınık beyaz bulutların olduğu parlak mavi bir gökyüzü yer alıyor. Doğal dış mekan aydınlatması, samimi ve neşeli bir hava, aşağıdan yukarıya bakan düşük açıyla çekilmiş. Gerçekçi fotoğraf stili, sığ alan derinliği, canlı renkler.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -778,28 +834,6 @@ Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 
 ```text
 Görüntü, Sony A1 ve 120 mm lens ile çekilmiş, 20'li yaşlarının başında narin bir süper modeli yakalayan, altın saatin sıcak ışığıyla yıkanmış, bir salıncakta teselli bulan, yumuşak puslu pastel renkler, kobalt mavisi ipek bir elbise giymiş, rüya gibi bir atmosfer, rüzgarda savrulan uzun simsiyah saçlar, iri etkileyici koyu kahverengi gözler, aralık kırmızı dudaklar, nostalji ve huzur ileten, düşünceli bakış, bir nostalji kırıntısı, güneşin son ışınları darmadağınık saçlarının arasından dans ederken sıcak ambiyansı delen, sessiz bir anın içinde yüksek çözünürlüklü tam boy dikey güzel sanatlar portresidir.
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="prompt-2097547198523388128"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@AIGuideNote](https://x.com/AIGuideNote) · [Orijinal gönderi](https://x.com/AIGuideNote/status/2097547198523388128)
-
-Ürün Pazarlaması · Poster / El İlanı · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2097547198523388128-1.jpg" alt="Görsel 1" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

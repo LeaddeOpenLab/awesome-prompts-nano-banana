@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**23** Prompt · Bổ sung mới nhất: **2026-09-16**
+**24** Prompt · Bổ sung mới nhất: **2026-09-18**
 
 <a name="catalog"></a>
 
@@ -33,22 +33,78 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 ## Nhiếp ảnh
 
-<a name="prompt-2100090685240336654"></a>
+<a name="prompt-2101018672978342023"></a>
 
 ### Đang dịch
+
+Tác giả：[@zeuuss\_01](https://x.com/zeuuss_01) · [Bài gốc](https://x.com/zeuuss_01/status/2101018672978342023)
+
+Thiết kế ứng dụng / web · Nhiếp ảnh · Đã xuất bản
+
+Bài gốc：[@zeuuss\_01](https://x.com/zeuuss_01) · [Bài gốc](https://x.com/zeuuss_01/status/2100241638702416364)
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2101018672978342023.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2101037044138922324"></a>
+
+### Đang dịch
+
+Tác giả：[@KeorUnreal](https://x.com/KeorUnreal) · [Bài gốc](https://x.com/KeorUnreal/status/2101037044138922324)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Kiến trúc / Nội thất · Đã xuất bản
+
+Bài gốc：[@keepgoingAnnie](https://x.com/keepgoingAnnie) · [Bài gốc](https://x.com/keepgoingAnnie/status/2100147195055899134)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2101037044138922324-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2101037044138922324-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2101037044138922324-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2101037044138922324-4.png" alt="Hình ảnh 4" width="480" />
+
+<img src="images/2101037044138922324-5.jpg" alt="Hình ảnh 5" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100090685240336654"></a>
+
+### Ảnh selfie tự nhiên góc thấp của một cô gái trẻ nháy mắt đeo kính và áo len dệt kim đang vươn tay về phía máy ảnh dưới bầu trời xanh.
 
 Tác giả：[@DaniaSafvi](https://x.com/DaniaSafvi) · [Bài gốc](https://x.com/DaniaSafvi/status/2100090685240336654)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Ảnh selfie tự nhiên góc thấp của một cô gái trẻ nháy mắt đeo kính và áo len dệt kim đang vươn tay về phía máy ảnh dưới bầu trời xanh.
 
 <img src="images/2100090685240336654-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Ảnh phong cách selfie chụp từ góc nhìn thứ nhất (POV) của cánh tay vươn ra, đang vươn về phía máy ảnh với một chiếc đồng hồ đeo tay lộ rõ trên cổ tay. Một thiếu nữ với mái tóc đen dài thẳng bay trong gió, đeo kính gọng vàng tròn, đang nháy một bên mắt đồng thời chu môi tạo biểu cảm hôn/hờn dỗi tinh nghịch. Cô ấy mặc một chiếc áo len dệt kim màu kem. Hậu cảnh là bầu trời xanh trong với những đám mây trắng rải rác. Ánh sáng tự nhiên ngoài trời, tâm trạng tự nhiên và vui tươi, chụp từ góc thấp nhìn lên. Phong cách chụp ảnh chân thực, độ sâu trường ảnh nông, màu sắc rực rỡ.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -748,28 +804,6 @@ Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đ�
 
 ```text
 Hình ảnh là chân dung mỹ thuật dạng đứng toàn thân độ phân giải cao, chụp bằng máy ảnh Sony A1 và ống kính 120mm, ghi lại hình ảnh một siêu mẫu thon thả ở độ tuổi đầu 20, đắm mình trong ánh sáng hoàng hôn ấm áp, tìm kiếm sự bình yên trên chiếc xích đu, tông màu pastel mờ ảo mềm mại, mặc chiếc váy lụa màu xanh cô-ban, bầu không khí mơ màng, với mái tóc đen nhánh dài tung bay trong gió, đôi mắt nâu sẫm to tròn đầy biểu cảm, đôi môi đỏ khẽ hé mở, gợi lên nỗi nhớ nhung và sự bình yên, ánh nhìn đăm chiêu, một thoáng hoài niệm, xuyên qua bầu không khí ấm áp khi những tia nắng cuối cùng nhảy múa qua mái tóc rối bời của cô, trong khoảnh khắc tĩnh lặng.
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
-<a name="prompt-2097547198523388128"></a>
-
-### Đang dịch
-
-Tác giả：[@AIGuideNote](https://x.com/AIGuideNote) · [Bài gốc](https://x.com/AIGuideNote/status/2097547198523388128)
-
-Tiếp thị sản phẩm · Áp phích / Tờ rơi · Đã xuất bản
-
-**Tóm tắt:** Đang dịch
-
-<img src="images/2097547198523388128-1.jpg" alt="Hình ảnh 1" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**23** Prompts · Zuletzt hinzugefügt: **2026-09-16**
+**24** Prompts · Zuletzt hinzugefügt: **2026-09-18**
 
 <a name="catalog"></a>
 
@@ -33,22 +33,78 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 ## Fotografie
 
-<a name="prompt-2100090685240336654"></a>
+<a name="prompt-2101018672978342023"></a>
 
 ### Übersetzung läuft
+
+Autor：[@zeuuss\_01](https://x.com/zeuuss_01) · [Originalbeitrag](https://x.com/zeuuss_01/status/2101018672978342023)
+
+App- / Webdesign · Fotografie · Veröffentlicht
+
+Originalbeitrag：[@zeuuss\_01](https://x.com/zeuuss_01) · [Originalbeitrag](https://x.com/zeuuss_01/status/2100241638702416364)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2101018672978342023.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2101037044138922324"></a>
+
+### Übersetzung läuft
+
+Autor：[@KeorUnreal](https://x.com/KeorUnreal) · [Originalbeitrag](https://x.com/KeorUnreal/status/2101037044138922324)
+
+Fotografie · Porträt / Selfie · Charakter · Modeartikel · Architektur / Interieur · Veröffentlicht
+
+Originalbeitrag：[@keepgoingAnnie](https://x.com/keepgoingAnnie) · [Originalbeitrag](https://x.com/keepgoingAnnie/status/2100147195055899134)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2101037044138922324-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2101037044138922324-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2101037044138922324-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2101037044138922324-4.png" alt="Bild 4" width="480" />
+
+<img src="images/2101037044138922324-5.jpg" alt="Bild 5" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2100090685240336654"></a>
+
+### Schnappschuss-Selfie aus der Froschperspektive einer zwinkernden jungen Frau mit Brille und Strickpullover, die unter blauem Himmel nach der Kamera greift.
 
 Autor：[@DaniaSafvi](https://x.com/DaniaSafvi) · [Originalbeitrag](https://x.com/DaniaSafvi/status/2100090685240336654)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Schnappschuss-Selfie aus der Froschperspektive einer zwinkernden jungen Frau mit Brille und Strickpullover, die unter blauem Himmel nach der Kamera greift.
 
 <img src="images/2100090685240336654-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Foto im Selfie-Stil aus der Ich-Perspektive (POV) eines ausgestreckten Arms, der nach der Kamera greift, wobei eine Armbanduhr am Handgelenk sichtbar ist. Eine junge Frau mit langem, glattem, schwarzem Haar, das im Wind weht, trägt eine runde Brille mit Goldrand, zwinkert mit einem Auge und schürzt die Lippen zu einem verspielten Kussmund/Schmollmund. Sie trägt einen cremefarbenen Strickpullover. Der Hintergrund ist ein strahlend blauer Himmel mit vereinzelten weißen Wolken. Natürliches Außenlicht, ungestellte und verspielte Stimmung, aus der Froschperspektive nach oben fotografiert. Realistischer Fotostil, geringe Schärfentiefe, lebendige Farben.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -669,28 +725,6 @@ Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
 ```text
 Das Bild ist ein hochauflösendes vertikales Kunstporträt in voller Höhe, aufgenommen mit einer Sony A1 und einem 120-mm-Objektiv, das ein schlankes Supermodel Anfang 20 einfängt, gebadet in warmes Licht der goldenen Stunde, Trost suchend auf einer Schaukel, weiche dunstige Pastellfarben, bekleidet mit einem kobaltblauen Seidenkleid, traumhafte Atmosphäre, mit langem, windverwehtem pechschwarzem Haar, großen ausdrucksstarken dunkelbraunen Augen, leicht geöffneten roten Lippen, die Nostalgie und Frieden vermitteln, nachdenklicher Blick, ein Hauch von Nostalgie, durchdringt das warme Ambiente, während die letzten Sonnenstrahlen durch ihr zerzaustes Haar tanzen, in einem Moment der Stille.
-```
-
-[↑ Zurück zu Kategorien](#catalog)
-
----
-
-<a name="prompt-2097547198523388128"></a>
-
-### Übersetzung läuft
-
-Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Originalbeitrag](https://x.com/AIGuideNote/status/2097547198523388128)
-
-Produktmarketing · Plakat / Flyer · Veröffentlicht
-
-**Zusammenfassung:** Übersetzung läuft
-
-<img src="images/2097547198523388128-1.jpg" alt="Bild 1" width="480" />
-
-**Prompt**
-
-```text
-Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

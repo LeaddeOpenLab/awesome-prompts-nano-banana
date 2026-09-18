@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**23** Prompts · Última adição: **2026-09-16**
+**24** Prompts · Última adição: **2026-09-18**
 
 <a name="catalog"></a>
 
@@ -33,22 +33,78 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 ## Fotografia
 
-<a name="prompt-2100090685240336654"></a>
+<a name="prompt-2101018672978342023"></a>
 
 ### Tradução em andamento
+
+Autor：[@zeuuss\_01](https://x.com/zeuuss_01) · [Publicação original](https://x.com/zeuuss_01/status/2101018672978342023)
+
+Design de Aplicativos / Web · Fotografia · Publicado
+
+Publicação original：[@zeuuss\_01](https://x.com/zeuuss_01) · [Publicação original](https://x.com/zeuuss_01/status/2100241638702416364)
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2101018672978342023.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101037044138922324"></a>
+
+### Tradução em andamento
+
+Autor：[@KeorUnreal](https://x.com/KeorUnreal) · [Publicação original](https://x.com/KeorUnreal/status/2101037044138922324)
+
+Fotografia · Retrato / Selfie · Personagem · Item de Moda · Arquitetura / Interiores · Publicado
+
+Publicação original：[@keepgoingAnnie](https://x.com/keepgoingAnnie) · [Publicação original](https://x.com/keepgoingAnnie/status/2100147195055899134)
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2101037044138922324-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2101037044138922324-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2101037044138922324-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2101037044138922324-4.png" alt="Imagem 4" width="480" />
+
+<img src="images/2101037044138922324-5.jpg" alt="Imagem 5" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100090685240336654"></a>
+
+### Selfie espontânea em ângulo baixo de uma jovem piscando com óculos e suéter de tricô estendendo a mão para a câmera sob o céu azul.
 
 Autor：[@DaniaSafvi](https://x.com/DaniaSafvi) · [Publicação original](https://x.com/DaniaSafvi/status/2100090685240336654)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Selfie espontânea em ângulo baixo de uma jovem piscando com óculos e suéter de tricô estendendo a mão para a câmera sob o céu azul.
 
 <img src="images/2100090685240336654-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Foto em estilo selfie tirada do ponto de vista (POV) de um braço estendido em direção à câmera, com um relógio visível no pulso. Uma jovem de longos cabelos pretos e lisos esvoaçando ao vento, usando óculos redondos de armação dourada, piscando um olho enquanto faz biquinho de beijo de forma brincalhona. Ela veste um suéter de tricô na cor creme. O fundo é um céu azul brilhante com nuvens brancas espalhadas. Iluminação natural externa, clima espontâneo e divertido, capturado em ângulo baixo olhando para cima. Estilo de fotografia realista, profundidade de campo rasa, cores vibrantes.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -748,28 +804,6 @@ Retrato / Selfie · Personagem · Item de Moda · Publicado
 
 ```text
 A imagem é um retrato artístico vertical de corpo inteiro em alta resolução, Sony A1 e lente de 120 mm, capturando uma esbelta supermodelo no início dos seus 20 anos, banhada pela luz quente da hora dourada, encontrando consolo em um balanço, cores pastéis suaves e nebulosas, vestindo um vestido de seda azul-cobalto, atmosfera de sonho, com longos cabelos negros como azeviche esvoaçantes, grandes e expressivos olhos castanho-escuros, lábios vermelhos entreabertos, transmitindo nostalgia e paz, olhar pensativo, um toque de nostalgia, atravessa o ambiente acolhedor enquanto os últimos raios de sol dançam por seus cabelos desalinhados, em um momento de quietude.
-```
-
-[↑ Voltar às categorias](#catalog)
-
----
-
-<a name="prompt-2097547198523388128"></a>
-
-### Tradução em andamento
-
-Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Publicação original](https://x.com/AIGuideNote/status/2097547198523388128)
-
-Marketing de Produto · Pôster / Flyer · Publicado
-
-**Resumo:** Tradução em andamento
-
-<img src="images/2097547198523388128-1.jpg" alt="Imagem 1" width="480" />
-
-**Prompt**
-
-```text
-Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)

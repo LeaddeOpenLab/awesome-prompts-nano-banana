@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**23** Prompts · Adição mais recente: **2026-09-16**
+**24** Prompts · Adição mais recente: **2026-09-18**
 
 <a name="catalog"></a>
 
@@ -33,22 +33,78 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 ## Fotografia
 
-<a name="prompt-2100090685240336654"></a>
+<a name="prompt-2101018672978342023"></a>
 
 ### Tradução em curso
+
+Autor：[@zeuuss\_01](https://x.com/zeuuss_01) · [Publicação original](https://x.com/zeuuss_01/status/2101018672978342023)
+
+Design de Aplicações / Web · Fotografia · Publicado
+
+Publicação original：[@zeuuss\_01](https://x.com/zeuuss_01) · [Publicação original](https://x.com/zeuuss_01/status/2100241638702416364)
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2101018672978342023.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101037044138922324"></a>
+
+### Tradução em curso
+
+Autor：[@KeorUnreal](https://x.com/KeorUnreal) · [Publicação original](https://x.com/KeorUnreal/status/2101037044138922324)
+
+Fotografia · Retrato / Selfie · Personagem · Item de Moda · Arquitetura / Interiores · Publicado
+
+Publicação original：[@keepgoingAnnie](https://x.com/keepgoingAnnie) · [Publicação original](https://x.com/keepgoingAnnie/status/2100147195055899134)
+
+**Resumo:** Tradução em curso
+
+<img src="images/2101037044138922324-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2101037044138922324-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2101037044138922324-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2101037044138922324-4.png" alt="Imagem 4" width="480" />
+
+<img src="images/2101037044138922324-5.jpg" alt="Imagem 5" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100090685240336654"></a>
+
+### Selfie espontânea em ângulo contra-picado de uma jovem a piscar o olho com óculos e camisola de malha a estender a mão para a câmara sob um céu azul.
 
 Autor：[@DaniaSafvi](https://x.com/DaniaSafvi) · [Publicação original](https://x.com/DaniaSafvi/status/2100090685240336654)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Selfie espontânea em ângulo contra-picado de uma jovem a piscar o olho com óculos e camisola de malha a estender a mão para a câmara sob um céu azul.
 
 <img src="images/2100090685240336654-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Foto em estilo de selfie tirada a partir do ponto de vista (POV) de um braço estendido, alcançando a câmara com um relógio de pulso visível no pulso. Uma jovem de cabelo comprido, liso e preto a esvoaçar ao vento, a usar óculos redondos de armação dourada, a piscar um olho enquanto franze os lábios numa expressão brincalhona de beicinho/beijo. Está a usar uma camisola de malha em tom creme. O fundo é um céu azul brilhante com nuvens brancas dispersas. Luz natural exterior, ambiente espontâneo e brincalhão, captada de um ângulo baixo a olhar para cima. Estilo fotográfico realista, profundidade de campo reduzida, cores vibrantes.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -748,28 +804,6 @@ Retrato / Selfie · Personagem · Item de Moda · Publicado
 
 ```text
 A imagem é um retrato artístico vertical de corpo inteiro em alta resolução, Sony A1 e lente de 120 mm, captando uma esbelta supermodelo no início dos seus 20 anos, banhada pela luz quente da hora dourada, encontrando consolo num baloiço, cores pastel suaves e nebulosas, vestindo um vestido de seda azul-cobalto, atmosfera de sonho, com longos cabelos pretos como azeviche esvoaçantes, grandes e expressivos olhos castanho-escuros, lábios vermelhos entreabertos, transmitindo nostalgia e paz, olhar pensativo, uma pitada de nostalgia, atravessa o ambiente acolhedor enquanto os últimos raios de sol dançam pelos seus cabelos desalinhados, num momento de quietude.
-```
-
-[↑ Voltar às categorias](#catalog)
-
----
-
-<a name="prompt-2097547198523388128"></a>
-
-### Tradução em curso
-
-Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Publicação original](https://x.com/AIGuideNote/status/2097547198523388128)
-
-Marketing de Produto · Pôster / Folheto · Publicado
-
-**Resumo:** Tradução em curso
-
-<img src="images/2097547198523388128-1.jpg" alt="Imagem 1" width="480" />
-
-**Prompt**
-
-```text
-Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)

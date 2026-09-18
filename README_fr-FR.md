@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**23** Prompts · Dernier ajout: **2026-09-16**
+**24** Prompts · Dernier ajout: **2026-09-18**
 
 <a name="catalog"></a>
 
@@ -33,22 +33,78 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 ## Photographie
 
-<a name="prompt-2100090685240336654"></a>
+<a name="prompt-2101018672978342023"></a>
 
 ### Traduction en cours
+
+Auteur：[@zeuuss\_01](https://x.com/zeuuss_01) · [Publication originale](https://x.com/zeuuss_01/status/2101018672978342023)
+
+Conception d'applications / de sites web · Photographie · Publié
+
+Publication originale：[@zeuuss\_01](https://x.com/zeuuss_01) · [Publication originale](https://x.com/zeuuss_01/status/2100241638702416364)
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2101018672978342023.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2101037044138922324"></a>
+
+### Traduction en cours
+
+Auteur：[@KeorUnreal](https://x.com/KeorUnreal) · [Publication originale](https://x.com/KeorUnreal/status/2101037044138922324)
+
+Photographie · Portrait / Selfie · Personnage · Article de mode · Architecture / Intérieur · Publié
+
+Publication originale：[@keepgoingAnnie](https://x.com/keepgoingAnnie) · [Publication originale](https://x.com/keepgoingAnnie/status/2100147195055899134)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2101037044138922324-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2101037044138922324-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2101037044138922324-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2101037044138922324-4.png" alt="Image 4" width="480" />
+
+<img src="images/2101037044138922324-5.jpg" alt="Image 5" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2100090685240336654"></a>
+
+### Selfie spontané en contre-plongée d'une jeune femme faisant un clin d'œil, avec des lunettes et un pull en tricot, tendant la main vers l'appareil sous un ciel bleu.
 
 Auteur：[@DaniaSafvi](https://x.com/DaniaSafvi) · [Publication originale](https://x.com/DaniaSafvi/status/2100090685240336654)
 
 Photographie · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Selfie spontané en contre-plongée d'une jeune femme faisant un clin d'œil, avec des lunettes et un pull en tricot, tendant la main vers l'appareil sous un ciel bleu.
 
 <img src="images/2100090685240336654-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Photo de style selfie prise du point de vue (POV) d'un bras tendu vers l'appareil photo, avec une montre-bracelet visible au poignet. Une jeune femme aux longs cheveux noirs et lisses flottant au vent, portant des lunettes rondes à monture dorée, fait un clin d'œil tout en pinçant les lèvres dans une moue boudeuse/espiègle de bisou. Elle porte un pull en tricot couleur crème. L'arrière-plan est un ciel bleu éclatant parsemé de nuages blancs. Éclairage naturel extérieur, atmosphère spontanée et espiègle, prise en contre-plongée vers le haut. Style photographique réaliste, faible profondeur de champ, couleurs éclatantes.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -669,28 +725,6 @@ Portrait / Selfie · Personnage · Article de mode · Publié
 
 ```text
 L'image est un portrait d'art vertical en pied haute résolution, Sony A1 et objectif 120 mm, capturant une svelte top-modèle au début de la vingtaine, baignée dans la chaude lumière de l'heure dorée, trouvant du réconfort sur une balançoire, couleurs pastel douces et vaporeuses, vêtue d'une robe en soie bleu cobalt, atmosphère de rêve, avec de longs cheveux noir de jais balayés par le vent, de grands yeux marron foncé expressifs, des lèvres rouges entrouvertes, véhiculant nostalgie et paix, regard pensif, un soupçon de nostalgie, perçant l'ambiance chaleureuse alors que les derniers rayons du soleil dansent à travers ses cheveux ébouriffés, dans un moment de quiétude.
-```
-
-[↑ Retour aux catégories](#catalog)
-
----
-
-<a name="prompt-2097547198523388128"></a>
-
-### Traduction en cours
-
-Auteur：[@AIGuideNote](https://x.com/AIGuideNote) · [Publication originale](https://x.com/AIGuideNote/status/2097547198523388128)
-
-Marketing produit · Affiche / Flyer · Publié
-
-**Résumé:** Traduction en cours
-
-<img src="images/2097547198523388128-1.jpg" alt="Image 1" width="480" />
-
-**Consigne**
-
-```text
-Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)

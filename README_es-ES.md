@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**23** Prompts · Última incorporación: **2026-09-16**
+**24** Prompts · Última incorporación: **2026-09-18**
 
 <a name="catalog"></a>
 
@@ -33,22 +33,78 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 ## Fotografía
 
-<a name="prompt-2100090685240336654"></a>
+<a name="prompt-2101018672978342023"></a>
 
 ### Traducción en curso
+
+Autor：[@zeuuss\_01](https://x.com/zeuuss_01) · [Publicación original](https://x.com/zeuuss_01/status/2101018672978342023)
+
+Diseño de aplicaciones / web · Fotografía · Publicado
+
+Publicación original：[@zeuuss\_01](https://x.com/zeuuss_01) · [Publicación original](https://x.com/zeuuss_01/status/2100241638702416364)
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2101018672978342023.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2101037044138922324"></a>
+
+### Traducción en curso
+
+Autor：[@KeorUnreal](https://x.com/KeorUnreal) · [Publicación original](https://x.com/KeorUnreal/status/2101037044138922324)
+
+Fotografía · Retrato / Selfie · Personaje · Artículo de moda · Arquitectura / Interiorismo · Publicado
+
+Publicación original：[@keepgoingAnnie](https://x.com/keepgoingAnnie) · [Publicación original](https://x.com/keepgoingAnnie/status/2100147195055899134)
+
+**Resumen:** Traducción en curso
+
+<img src="images/2101037044138922324-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2101037044138922324-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2101037044138922324-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2101037044138922324-4.png" alt="Imagen 4" width="480" />
+
+<img src="images/2101037044138922324-5.jpg" alt="Imagen 5" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2100090685240336654"></a>
+
+### Selfi espontáneo en ángulo contrapicado de una mujer joven guiñando un ojo con gafas y jersey de punto extendiendo la mano hacia la cámara bajo un cielo azul.
 
 Autor：[@DaniaSafvi](https://x.com/DaniaSafvi) · [Publicación original](https://x.com/DaniaSafvi/status/2100090685240336654)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Selfi espontáneo en ángulo contrapicado de una mujer joven guiñando un ojo con gafas y jersey de punto extendiendo la mano hacia la cámara bajo un cielo azul.
 
 <img src="images/2100090685240336654-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Foto de estilo selfi tomada desde la perspectiva en primera persona (POV) de un brazo extendido, alcanzando la cámara con un reloj de pulsera visible en la muñeca. Una mujer joven con el pelo largo y liso de color negro ondeando al viento, con gafas redondas de montura dorada, guiñando un ojo mientras frunce los labios en una expresión juguetona de beso/puchero. Lleva un jersey de punto de color crema. El fondo es un cielo azul brillante con nubes blancas dispersas. Iluminación natural al aire libre, ambiente espontáneo y juguetón, tomada desde un ángulo bajo mirando hacia arriba. Estilo de fotografía realista, profundidad de campo reducida, colores vibrantes.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -748,28 +804,6 @@ Retrato / Selfie · Personaje · Artículo de moda · Publicado
 
 ```text
 La imagen es un retrato vertical de bellas artes de cuerpo entero y alta resolución, tomado con Sony A1 y lente de 120 mm, que captura a una esbelta supermodelo de unos 20 años, bañada por la cálida luz de la hora dorada, encontrando solaz en un columpio, suaves y brumosos colores pastel, vestida con un vestido de seda azul cobalto, atmósfera de ensueño, con cabello largo negro azabache al viento, grandes y expresivos ojos marrón oscuro, labios rojos entreabiertos, transmitiendo nostalgia y paz, mirada pensativa, un toque de nostalgia, atraviesa el ambiente cálido mientras los últimos rayos del sol bailan a través de su cabello despeinado, en un momento de quietud.
-```
-
-[↑ Volver a categorías](#catalog)
-
----
-
-<a name="prompt-2097547198523388128"></a>
-
-### Traducción en curso
-
-Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Publicación original](https://x.com/AIGuideNote/status/2097547198523388128)
-
-Marketing de producto · Póster / Folleto · Publicado
-
-**Resumen:** Traducción en curso
-
-<img src="images/2097547198523388128-1.jpg" alt="Imagen 1" width="480" />
-
-**Prompt**
-
-```text
-Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

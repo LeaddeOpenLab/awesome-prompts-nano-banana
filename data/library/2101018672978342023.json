@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T20:26:04.079Z",
+  "model": "nano-banana",
+  "prompt": "the aircraft lifts off the pad, rotors tilting forward as it rises, camera locked off on a tripod, thin low dust, one continuous take, no cuts, no camera shake.",
+  "promptTranslations": {
+    "en": "the aircraft lifts off the pad, rotors tilting forward as it rises, camera locked off on a tripod, thin low dust, one continuous take, no cuts, no camera shake."
+  },
+  "summaryTranslations": {
+    "en": "Prompt generating an electric aircraft taking off from a pad with tilting rotors and locked tripod camera."
+  },
+  "translationVersion": 2,
+  "summary": "Prompt generating an electric aircraft taking off from a pad with tilting rotors and locked tripod camera.",
+  "summaryEn": "Prompt generating an electric aircraft taking off from a pad with tilting rotors and locked tripod camera.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2100241638702416364",
+      "canonicalUrl": "https://x.com/zeuuss_01/status/2100241638702416364",
+      "author": {
+        "username": "zeuuss_01",
+        "displayName": "ZEUS⚡️",
+        "profileUrl": "https://x.com/zeuuss_01"
+      },
+      "originalText": "https://t.co/ZGCYNqZget"
+    },
+    "id": "2101018672978342023",
+    "canonicalUrl": "https://x.com/zeuuss_01/status/2101018672978342023",
+    "author": {
+      "username": "zeuuss_01",
+      "displayName": "ZEUS⚡️",
+      "profileUrl": "https://x.com/zeuuss_01"
+    },
+    "publishedAt": "2026-09-18T18:41:01.000Z",
+    "collectedAt": "2026-09-18T20:16:43.822Z",
+    "language": "en",
+    "originalText": "GPT-6 ASTRA + HIGGSFIELD BUILT THIS $35,000 SITE IN 5 STEPS. HERE IS THE WHOLE ANIMATION PIPELINE, WITH THE PROMPTS.\n\nthe first time I put video on a client site I wrote a description, hit generate, and got back something beautiful that had nothing to do with the brand..\n\nafter enough of those I stopped writing descriptions altogether. \n\nnow I build the first frame and the last frame myself, sit with them a while, and the model only moves between them.\n\nit hasn't surprised me badly since, and I miss the surprises less than I expected to.\n\n\"STEP 1. WRITE THE SHOT LIST BEFORE ANY PIXELS\"\n\nin Astra I open plan mode, agree the shot list there, and only then set it as a goal so it survives longer than one reply.\n\n/plan\n\nSix shots for a pre-launch aviation site. \n\nFor each one give me the purpose, the first frame, the last frame and the length in seconds. \n\nNo shot longer than 8 seconds.\n\n/goal\n\nHold this shot list. \n\nEvery image and every clip we make from now on belongs to one of these six.\n\nthe goal sits above the composer with its own progress, so nothing drifts into shot seven at two in the morning.\n\n\"STEP 2. PUT THE LOOK IN A FILE, NOT IN YOUR PROMPTS\"\n\n/init writes an AGENTS.md scaffold, and the visual contract goes in there once instead of into every prompt forever.\n\nLook contract. \n\nDawn or dusk only, never midday. \n\nWarm key from one side, cool ambient fill. Real camera behaviour, no floating drone moves. \n\nSix rotors on the aircraft, white body, dark underside. \n\nNever restate this to me, just obey it.\n\nthe first long build I did, I pasted the style paragraph into\nnineteen prompts and shot six still went its own way. \n\nit was not the model losing the thread, it was me never writing the thread down..\n\n\"STEP 3. BUILD THE MACHINE ONCE, THEN BUILD THE LAST FRAME\"\n\nthe aircraft is invented, so nothing in the world keeps it\nconsistent, and that is why every fresh clip hands you a slightly different vehicle. \n\nit gets rendered once, and that file becomes the law.\n\ngenerate with cinematic_studio_2_5, 16:9, 4k:\na white six rotor electric air taxi parked on a desert\npad, three quarter view from the front left, dark\nunderside, tilting rotors, dusk light from camera right,\nlong shadows, photographic, no people.\n\nthen comes the habit that changed the most for me. \n\ndecide what the shot has to end on, build that still first, and only then build the opening frame that has to arrive at it.\n\ngenerate with nano_banana_pro, 21:9, 4k, reference: aircraft_master.png: end frame. \n\nThe aircraft is airborne at about fifty metres, rotors forward, city skyline low behind it, sunrise haze. \n\nSame vehicle as the reference, same livery, same six rotors.\n\na shot built forwards wanders, and a shot built backwards lands.\n\n\"STEP 4. BUY THE MOVEMENT, NOTHING ELSE\"\n\nnow the video model gets both ends and has almost no room left to invent. \n\naudio goes off at generation, because a hero video only\nautoplays if it is silent, and 21:9 means you are not cropping your own composition later.\n\ngenerate with cinematic_studio_3_0, start_image: pad_start.png, end_image: air_end.png, 21:9, 1080p, generate_audio: false, 8 seconds: the aircraft lifts off the pad, rotors tilting forward as it rises, camera locked off on a tripod, thin low dust, one continuous take, no cuts, no camera shake.\n\n\"STEP 5. STRIP THE SKY AND BIND IT TO SCROLL\"\n\nwhere the machine floats over the page background instead of over a photograph, the clip runs with its background removed by video_background_remover.\n\nthat hands you the vehicle alone, so the section colour behind it can change without regenerating a single frame, and the file gets small enough that the hero still loads fast..\n\nand when I want to try the reckless version of a shot, /side opens a temporary chat so the experiment never lands in the thread that holds the real build\n\nfive steps, and honestly only two of them are creative. \n\nthe other three exist so that the creative two never have to be repeated nineteen times.\n\nFull guide in article below",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/zeuuss_01/status/2101018672978342023",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101014092102213632/img/ANNx-DrSuGLL7Ew4.jpg",
+        "analysisUrl": "https://x.com/zeuuss_01/status/2101018672978342023"
+      }
+    ],
+    "metrics": {
+      "likeCount": 11,
+      "repostCount": 0,
+      "replyCount": 3,
+      "quoteCount": 0,
+      "viewCount": 1088
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/zeuuss_01/status/2101018672978342023",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101014092102213632/img/ANNx-DrSuGLL7Ew4.jpg",
+  "coverPath": "covers/2101018672978342023.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101014092102213632",
+    "x-post:2101018672978342023",
+    "x-post:2100241638702416364"
+  ],
+  "analysis": {
+    "summary": "Prompt generating an electric aircraft taking off from a pad with tilting rotors and locked tripod camera.",
+    "summaryEn": "Prompt generating an electric aircraft taking off from a pad with tilting rotors and locked tripod camera.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video shows an electric 6-rotor aircraft taking off and hovering with tilting rotors from a locked tripod angle."
+    },
+    "videoQuality": null,
+    "originalPrompt": "the aircraft lifts off the pad, rotors tilting forward as it rises, camera locked off on a tripod, thin low dust, one continuous take, no cuts, no camera shake.",
+    "sourceRange": {
+      "start": 3146,
+      "end": 3306
+    },
+    "translations": {
+      "zh": "飞行器从停机坪起飞，上升过程中旋翼向前倾斜，相机固定在三脚架上，地面扬起轻微灰尘，一镜到底，无剪辑，无镜头晃动。",
+      "en": "the aircraft lifts off the pad, rotors tilting forward as it rises, camera locked off on a tripod, thin low dust, one continuous take, no cuts, no camera shake."
+    },
+    "targetModels": [
+      "nano-banana"
+    ],
+    "category": "image-to-video",
+    "useCase": "website hero video animation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

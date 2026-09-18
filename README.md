@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**23** Prompts · Latest addition: **2026-09-16**
+**24** Prompts · Latest addition: **2026-09-18**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,69 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2101018672978342023"></a>
+
+### Prompt generating an electric aircraft taking off from a pad with tilting rotors and locked tripod camera.
+
+Author：[@zeuuss\_01](https://x.com/zeuuss_01) · [Source](https://x.com/zeuuss_01/status/2101018672978342023)
+
+App / Web Design · Photography · Published
+
+Source：[@zeuuss\_01](https://x.com/zeuuss_01) · [Source](https://x.com/zeuuss_01/status/2100241638702416364)
+
+**Summary:** Prompt generating an electric aircraft taking off from a pad with tilting rotors and locked tripod camera.
+
+<img src="covers/2101018672978342023.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+the aircraft lifts off the pad, rotors tilting forward as it rises, camera locked off on a tripod, thin low dust, one continuous take, no cuts, no camera shake.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101037044138922324"></a>
+
+### High-definition indoor fashion photography prompt based on a reference portrait, locking facial features and paired with a neon lime-green fuzzy off-the-shoulder outfit and aqua gradient hair.
+
+Author：[@KeorUnreal](https://x.com/KeorUnreal) · [Source](https://x.com/KeorUnreal/status/2101037044138922324)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Architecture / Interior · Published
+
+Source：[@keepgoingAnnie](https://x.com/keepgoingAnnie) · [Source](https://x.com/keepgoingAnnie/status/2100147195055899134)
+
+**Summary:** High-definition indoor fashion photography prompt based on a reference portrait, locking facial features and paired with a neon lime-green fuzzy off-the-shoulder outfit and aqua gradient hair.
+
+<img src="images/2101037044138922324-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2101037044138922324-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2101037044138922324-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2101037044138922324-4.png" alt="Image 4" width="480" />
+
+<img src="images/2101037044138922324-5.jpg" alt="Image 5" width="480" />
+
+**Prompt**
+
+```text
+Use the uploaded photo as the exact character reference. Preserve the subject’s face and identity perfectly — same facial structure, eye shape and color, nose, lips, jawline, cheekbones, forehead, skin tone, pores, subtle skin texture, and unique facial proportions. Maintain exact face fidelity from the source image with zero morphing or alteration. Match the uploaded subject’s gender exactly. Adult proportions. Do not make the subject look teenage or doll-like. Do not stylize. Do not add extra fine details. Suppress extra fine details. Build in deliberate low-frequency atmospheric artifacts to create a smoother texture field and reduce pixel crawl. Ultra-photorealistic high-fashion indoor portrait. One person only. Exactly two arms. Exactly two legs. Pose:
+Crouching near a black-framed glass green door, both hands on thighs. Body angled slightly, looking at the camera. Hair and makeup:
+Long straight neon lime-green hair fading to aqua at the ends. Glam makeup, glossy lips. Outfit:
+An opaque off-the-shoulder lime-green knit crop top with huge fuzzy lime-green statement sleeves. A fitted opaque knit mini skirt in mixed teal, aqua, and lime with a small sign 'Keor' embroidered on border. Bright blue pointed-toe pumps. Rings. Full fashion coverage. No sheer panels. Setting:
+Modern indoor patio with black-framed glass doors, white floor, white curtain, a dark ceiling to floor goya painting. Camera:
+Tall vertical full-body shot. Lighting:
+Bright indoor daylight. Aesthetic:
+Photorealistic high-fashion photography. No extra text, no logos, no watermarks. The face must remain an exact match to the uploaded photo at all times — perfect identity lock from beginning to end.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100090685240336654"></a>
 
@@ -721,45 +784,6 @@ Portrait / Selfie · Character · Fashion Item · Published
 
 ```text
 Image is high resolution full-hight vertical fine art portrait, Sony A1 and 120mm lens, capturing a lithe supermodel in her early 20s, bathed in warm golden hour light, finding solace on a swing, soft hazy pastel colors, wearing a cobalt blue silk dress, dreamy atmosphere, with long, windswept jet black hair, large expressive dark brown eyes, parted red lips, conveying nostalgia and peace, thoughtful gaze, hint of nostalgia, pierces through the warm ambiance as the sun's final rays dance through her tousled hair, in a moment of quietude.
-```
-
-[↑ Back to categories](#catalog)
-
----
-
-<a name="prompt-2097547198523388128"></a>
-
-### High-End Cosmetics &amp; Fragrance Launch Advertising Poster Design Prompt Template
-
-Author：[@AIGuideNote](https://x.com/AIGuideNote) · [Source](https://x.com/AIGuideNote/status/2097547198523388128)
-
-Product Marketing · Poster / Flyer · Published
-
-**Summary:** High-End Cosmetics &amp; Fragrance Launch Advertising Poster Design Prompt Template
-
-<img src="images/2097547198523388128-1.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-[Brand & Product Copy]
-- Main copy: {copy}
-- Product features & sub-copy: {subtext}
-- Brand collection name: {brandName}
-
-[Image Quality, Staging & Composition Specifications]
-- Style: Live-action beauty advertisement photo for high-end luxury cosmetic brands (such as CHANEL, DIOR, SHISEIDO, etc.).
-- Subject: Close-up of a female model's glossy, alluring lips or radiant skin, or a luxurious rouge (lipstick) or beauty serum bottle.
-- Background: Elegant, deep textures such as satin fabric, reflective black water surfaces, or marble.
-- Color & Lighting: Dramatic, gorgeous color palette emphasizing contrasts such as deep red (red of destiny), jet black, and gold. Highlighting glossiness and three-dimensionality with spotlights.
-- Typography (for GPT-image / Nano Banana Pro): The messages "{copy}" and "{subtext}", along with the brand name "{brandName}", are tastefully laid out in an extremely elegant, slender serif font.
-
-[Strict Layout and Output Constraints (Mandatory)]
-- Output the finished design itself, filling the entire canvas edge-to-edge. Interior backgrounds and scene depictions within the design (walls, spaces, shadows, etc.) may follow the instructions in the text.
-- Prohibited: Photos of the finished poster inside a picture frame, photos of it affixed to a wall, mockup photos placed on a desk or paper, perspective distortion of paper edges, or drop shadows.
-- Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
-
-- Aspect Ratio: --ar 3:4
 ```
 
 [↑ Back to categories](#catalog)

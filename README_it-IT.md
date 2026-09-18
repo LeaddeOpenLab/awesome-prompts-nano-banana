@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**23** Prompt · Ultima aggiunta: **2026-09-16**
+**24** Prompt · Ultima aggiunta: **2026-09-18**
 
 <a name="catalog"></a>
 
@@ -33,22 +33,78 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 ## Fotografia
 
-<a name="prompt-2100090685240336654"></a>
+<a name="prompt-2101018672978342023"></a>
 
 ### Traduzione in corso
+
+Autore：[@zeuuss\_01](https://x.com/zeuuss_01) · [Post originale](https://x.com/zeuuss_01/status/2101018672978342023)
+
+App / Web Design · Fotografia · Pubblicato
+
+Post originale：[@zeuuss\_01](https://x.com/zeuuss_01) · [Post originale](https://x.com/zeuuss_01/status/2100241638702416364)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2101018672978342023.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2101037044138922324"></a>
+
+### Traduzione in corso
+
+Autore：[@KeorUnreal](https://x.com/KeorUnreal) · [Post originale](https://x.com/KeorUnreal/status/2101037044138922324)
+
+Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Architettura / Interni · Pubblicato
+
+Post originale：[@keepgoingAnnie](https://x.com/keepgoingAnnie) · [Post originale](https://x.com/keepgoingAnnie/status/2100147195055899134)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2101037044138922324-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2101037044138922324-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2101037044138922324-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2101037044138922324-4.png" alt="Immagine 4" width="480" />
+
+<img src="images/2101037044138922324-5.jpg" alt="Immagine 5" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2100090685240336654"></a>
+
+### Selfie spontaneo dal basso verso l'alto di una giovane donna che fa l'occhiolino con occhiali e maglione lavorato a maglia mentre si protende verso la fotocamera sotto un cielo blu.
 
 Autore：[@DaniaSafvi](https://x.com/DaniaSafvi) · [Post originale](https://x.com/DaniaSafvi/status/2100090685240336654)
 
 Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Selfie spontaneo dal basso verso l'alto di una giovane donna che fa l'occhiolino con occhiali e maglione lavorato a maglia mentre si protende verso la fotocamera sotto un cielo blu.
 
 <img src="images/2100090685240336654-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Foto in stile selfie scattata dal punto di vista (POV) di un braccio teso che si allunga verso la fotocamera, con un orologio da polso visibile sul polso. Una giovane donna con lunghi capelli neri lisci mossi dal vento, che indossa occhiali rotondi con montatura dorata, fa l'occhiolino mentre arriccia le labbra in una giocosa smorfia a bacio/broncio. Indossa un maglione lavorato a maglia color crema. Lo sfondo è un cielo azzurro brillante con nuvole bianche sparse. Luce naturale all'aperto, atmosfera spontanea e giocosa, scatto dal basso verso l'alto. Stile fotografico realistico, profondità di campo ridotta, colori vivaci.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -669,28 +725,6 @@ Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
 
 ```text
 L'immagine è un ritratto artistico verticale a figura intera ad alta risoluzione, Sony A1 e obiettivo da 120 mm, che cattura una snella top model poco più che ventenne, immersa nella calda luce dell'ora d'oro, che trova conforto su un'altalena, morbidi e velati colori pastello, che indossa un abito di seta blu cobalto, atmosfera sognante, con lunghi capelli corvini scompigliati dal vento, grandi ed espressivi occhi castano scuro, labbra rosse dischiuse, che trasmettono nostalgia e pace, sguardo pensieroso, una punta di nostalgia, trafigge la calda atmosfera mentre gli ultimi raggi del sole danzano tra i suoi capelli spettinati, in un momento di quiete.
-```
-
-[↑ Torna alle categorie](#catalog)
-
----
-
-<a name="prompt-2097547198523388128"></a>
-
-### Traduzione in corso
-
-Autore：[@AIGuideNote](https://x.com/AIGuideNote) · [Post originale](https://x.com/AIGuideNote/status/2097547198523388128)
-
-Marketing di Prodotto · Poster / Volantino · Pubblicato
-
-**Riepilogo:** Traduzione in corso
-
-<img src="images/2097547198523388128-1.jpg" alt="Immagine 1" width="480" />
-
-**Prompt**
-
-```text
-Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
