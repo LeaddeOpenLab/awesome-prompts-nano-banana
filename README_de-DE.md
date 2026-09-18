@@ -59,7 +59,7 @@ Das Fluggerät hebt von der Plattform ab, die Rotoren neigen sich beim Aufsteige
 
 <a name="prompt-2101037044138922324"></a>
 
-### Übersetzung läuft
+### High-Fashion-Innenraum-Fotografie-Prompt basierend auf einem Referenzporträt, der die Gesichtszüge der Person fixiert und mit einem flauschigen schulterfreien Outfit in Neongrün sowie einem Farbverlaufshaar in Aquamarin kombiniert.
 
 Autor：[@KeorUnreal](https://x.com/KeorUnreal) · [Originalbeitrag](https://x.com/KeorUnreal/status/2101037044138922324)
 
@@ -67,7 +67,7 @@ Fotografie · Porträt / Selfie · Charakter · Modeartikel · Architektur / Int
 
 Originalbeitrag：[@keepgoingAnnie](https://x.com/keepgoingAnnie) · [Originalbeitrag](https://x.com/keepgoingAnnie/status/2100147195055899134)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** High-Fashion-Innenraum-Fotografie-Prompt basierend auf einem Referenzporträt, der die Gesichtszüge der Person fixiert und mit einem flauschigen schulterfreien Outfit in Neongrün sowie einem Farbverlaufshaar in Aquamarin kombiniert.
 
 <img src="images/2101037044138922324-1.jpg" alt="Bild 1" width="480" />
 
@@ -82,7 +82,14 @@ Originalbeitrag：[@keepgoingAnnie](https://x.com/keepgoingAnnie) · [Originalbe
 **Prompt**
 
 ```text
-Übersetzung läuft
+Verwenden Sie das hochgeladene Foto als genaue Zeichenreferenz. Bewahren Sie das Gesicht und die Identität der Person perfekt — gleiche Gesichtsstruktur, Augenform und -farbe, Nase, Lippen, Kieferpartie, Wangenknochen, Stirn, Hautton, Poren, subtile Hauttextur und einzigartige Gesichtsproportionen. Behalten Sie die exakte Gesichtstreue des Quellbildes ohne jegliche Verformung oder Veränderung bei. Stimmen Sie das Geschlecht der hochgeladenen Person genau ab. Erwachsene Proportionen. Lassen Sie die Person weder jugendlich noch puppenhaft wirken. Nicht stilisieren. Fügen Sie keine zusätzlichen feinen Details hinzu. Unterdrücken Sie zusätzliche feine Details. Bauen Sie bewusst niederfrequente atmosphärische Artefakte ein, um ein weicheres Texturfeld zu erzeugen und Pixel-Crawl zu reduzieren. Ultra-fotorealistisches High-Fashion-Innenporträt. Nur eine Person. Genau zwei Arme. Genau zwei Beine. Pose:
+Hockend neben einer schwarz gerahmten grünen Glastür, beide Hände auf den Oberschenkeln. Körper leicht angewinkelt, blickt in die Kamera. Haare und Make-up:
+Langes, glattes, neongrünes Haar, das an den Spitzen in Aquamarin übergeht. Glamouröses Make-up, glänzende Lippen. Outfit:
+Ein blickdichtes, schulterfreies Strick-Crop-Top in Limettengrün mit riesigen, flauschigen Statement-Ärmeln in Limettengrün. Ein eng anliegender, blickdichter Strick-Minirock in einer Mischung aus Petrol, Aquamarin und Limette mit dem kleinen, am Saum eingestickten Schriftzug 'Keor'. Leuchtend blaue spitze Pumps. Ringe. Vollständige modische Bedeckung. Keine transparenten Einsätze. Kulisse:
+Moderner Innenhof mit schwarz gerahmten Glastüren, weißem Boden, weißem Vorhang, einem dunklen Goya-Gemälde von der Decke bis zum Boden. Kamera:
+Hohe vertikale Ganzkörperaufnahme. Beleuchtung:
+Helles Tageslicht im Innenbereich. Ästhetik:
+Fotorealistische High-Fashion-Fotografie. Kein zusätzlicher Text, keine Logos, keine Wasserzeichen. Das Gesicht muss jederzeit exakt mit dem hochgeladenen Foto übereinstimmen — perfekte Identitätsbindung von Anfang bis Ende.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

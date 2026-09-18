@@ -59,7 +59,7 @@ l'aéronef décolle de la plate-forme, les rotors s'inclinant vers l'avant à me
 
 <a name="prompt-2101037044138922324"></a>
 
-### Traduction en cours
+### Prompt de photographie haute couture en intérieur basé sur un portrait de référence, verrouillant les traits du visage et associant une tenue pelucheuse à épaules dénudées vert fluo à des cheveux dégradés aqua.
 
 Auteur：[@KeorUnreal](https://x.com/KeorUnreal) · [Publication originale](https://x.com/KeorUnreal/status/2101037044138922324)
 
@@ -67,7 +67,7 @@ Photographie · Portrait / Selfie · Personnage · Article de mode · Architectu
 
 Publication originale：[@keepgoingAnnie](https://x.com/keepgoingAnnie) · [Publication originale](https://x.com/keepgoingAnnie/status/2100147195055899134)
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de photographie haute couture en intérieur basé sur un portrait de référence, verrouillant les traits du visage et associant une tenue pelucheuse à épaules dénudées vert fluo à des cheveux dégradés aqua.
 
 <img src="images/2101037044138922324-1.jpg" alt="Image 1" width="480" />
 
@@ -82,7 +82,14 @@ Publication originale：[@keepgoingAnnie](https://x.com/keepgoingAnnie) · [Publ
 **Consigne**
 
 ```text
-Traduction en cours
+Utilisez la photo téléchargée comme référence exacte du personnage. Préservez parfaitement le visage et l'identité du sujet — même structure faciale, forme et couleur des yeux, nez, lèvres, mâchoire, pommettes, front, teint de la peau, pores, texture subtile de la peau et proportions faciales uniques. Maintenez une fidélité faciale exacte par rapport à l'image source, avec zéro morphing ni altération. Faites correspondre exactement le genre du sujet téléchargé. Proportions d'adulte. Ne donnez pas au sujet une allure d'adolescent ou de poupée. Ne pas styliser. N'ajoutez pas de détails fins supplémentaires. Supprimez les détails fins superflus. Intégrez délibérément des artefacts atmosphériques basse fréquence pour créer un champ de texture plus lisse et réduire le fourmillement de pixels. Portrait d'intérieur haute couture ultra-photoréaliste. Une seule personne. Exactement deux bras. Exactement deux jambes. Pose :
+Accroupie près d'une porte vitrée verte à cadre noir, les deux mains sur les cuisses. Corps légèrement incliné, regardant l'objectif. Coiffure et maquillage :
+Cheveux longs et raides vert citron fluo avec un dégradé aqua aux pointes. Maquillage glamour, lèvres brillantes. Tenue :
+Un crop top en tricot opaque vert citron à épaules dénudées avec d'immenses manches originales et pelucheuses vert citron. Une minijupe en tricot opaque et ajustée dans un mélange de sarcelle, d'aqua et de citron vert avec un petit signe 'Keor' brodé sur le bord. Escarpins pointus bleu vif. Bagues. Couverture mode complète. Pas d'empiècements transparents. Décor :
+Patio intérieur moderne avec portes vitrées à cadre noir, sol blanc, rideau blanc, une peinture sombre de Goya du sol au plafond. Caméra :
+Prise de vue verticale en pied. Éclairage :
+Lumière naturelle vive en intérieur. Esthétique :
+Photographie haute couture photoréaliste. Pas de texte superflu, pas de logos, pas de filigranes. Le visage doit rester une copie exacte de la photo téléchargée à tout moment — verrouillage parfait de l'identité du début à la fin.
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -59,7 +59,7 @@ hava aracı pistten havalanıyor, yükseldikçe rotorlar öne doğru eğiliyor, 
 
 <a name="prompt-2101037044138922324"></a>
 
-### Çeviri sürüyor
+### Referans portreye dayanan, kişinin yüz özelliklerini sabitleyip neon yeşil tüylü düşük omuzlu kıyafet ve su yeşili degrade saç rengiyle birleştiren yüksek moda iç mekân fotoğrafçılığı istemi.
 
 Yazar：[@KeorUnreal](https://x.com/KeorUnreal) · [Orijinal gönderi](https://x.com/KeorUnreal/status/2101037044138922324)
 
@@ -67,7 +67,7 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Mimari / İ
 
 Orijinal gönderi：[@keepgoingAnnie](https://x.com/keepgoingAnnie) · [Orijinal gönderi](https://x.com/keepgoingAnnie/status/2100147195055899134)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Referans portreye dayanan, kişinin yüz özelliklerini sabitleyip neon yeşil tüylü düşük omuzlu kıyafet ve su yeşili degrade saç rengiyle birleştiren yüksek moda iç mekân fotoğrafçılığı istemi.
 
 <img src="images/2101037044138922324-1.jpg" alt="Görsel 1" width="480" />
 
@@ -82,7 +82,14 @@ Orijinal gönderi：[@keepgoingAnnie](https://x.com/keepgoingAnnie) · [Orijinal
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yüklenen fotoğrafı tam karakter referansı olarak kullanın. Öznenin yüzünü ve kimliğini kusursuz bir şekilde koruyun — aynı yüz yapısı, göz şekli ve rengi, burun, dudaklar, çene hattı, elmacık kemikleri, alın, ten rengi, gözenekler, ince cilt dokusu ve benzersiz yüz oranları. Kaynak görüntüdeki yüz sadakatini sıfır başkalaşım veya değişiklik ile aynen koruyun. Yüklenen öznenin cinsiyetiyle birebir eşleştirin. Yetişkin oranları. Özneyi ergen veya oyuncak bebek gibi göstermeyin. Stilize etmeyin. Ekstra ince ayrıntılar eklemeyin. Ekstra ince ayrıntıları bastırın. Daha pürüzsüz bir doku alanı yaratmak ve piksel kaymasını azaltmak için kasıtlı olarak düşük frekanslı atmosferik yapaylıklar oluşturun. Ultra fotogerçekçi yüksek moda iç mekân portresi. Yalnızca bir kişi. Tam olarak iki kol. Tam olarak iki bacak. Duruş:
+Siyah çerçeveli cam yeşil kapının yanında çömelmiş, iki eli de uyluklarında. Vücut hafif açılı, kameraya bakıyor. Saç ve makyaj:
+Uçlara doğru su yeşiline dönüşen uzun, düz, neon misket limonu yeşili saçlar. Gösterişli makyaj, parlak dudaklar. Kıyafet:
+Kocaman tüylü misket limonu yeşili iddialı kollara sahip, opak, düşük omuzlu misket limonu yeşili örgü crop top. Kenarında küçük bir 'Keor' işlemesi bulunan camgöbeği, su yeşili ve misket limonu yeşili karışımı dar, opak örgü mini etek. Parlak mavi sivri burunlu stiletto ayakkabılar. Yüzükler. Tam moda örtücülüğü. Şeffaf parçalar yok. Ortam:
+Siyah çerçeveli cam kapılar, beyaz zemin, beyaz perde ve tavandan tabana koyu renkli bir Goya tablosu içeren modern iç avlu. Kamera:
+Yüksek dikey boydan çekim. Aydınlatma:
+Parlak iç mekân gün ışığı. Estetik:
+Fotogerçekçi yüksek moda fotoğrafçılığı. Ekstra metin yok, logo yok, filigran yok. Yüz, her zaman yüklenen fotoğrafla tam olarak eşleşmelidir — baştan sona kusursuz kimlik kilidi.
 ```
 
 [↑ Kategorilere dön](#catalog)

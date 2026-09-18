@@ -59,7 +59,7 @@ la aeronave despega de la plataforma, los rotores se inclinan hacia adelante mie
 
 <a name="prompt-2101037044138922324"></a>
 
-### Traducción en curso
+### Prompt de fotografía de interiores de alta costura basado en un retrato de referencia, fijando los rasgos faciales del sujeto y combinándolo con un top afelpado con hombros descubiertos en verde lima y cabello degradado a aguamarina.
 
 Autor：[@KeorUnreal](https://x.com/KeorUnreal) · [Publicación original](https://x.com/KeorUnreal/status/2101037044138922324)
 
@@ -67,7 +67,7 @@ Fotografía · Retrato / Selfie · Personaje · Artículo de moda · Arquitectur
 
 Publicación original：[@keepgoingAnnie](https://x.com/keepgoingAnnie) · [Publicación original](https://x.com/keepgoingAnnie/status/2100147195055899134)
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de fotografía de interiores de alta costura basado en un retrato de referencia, fijando los rasgos faciales del sujeto y combinándolo con un top afelpado con hombros descubiertos en verde lima y cabello degradado a aguamarina.
 
 <img src="images/2101037044138922324-1.jpg" alt="Imagen 1" width="480" />
 
@@ -82,7 +82,14 @@ Publicación original：[@keepgoingAnnie](https://x.com/keepgoingAnnie) · [Publ
 **Prompt**
 
 ```text
-Traducción en curso
+Usa la foto subida como referencia exacta del personaje. Conserva el rostro y la identidad del sujeto a la perfección: la misma estructura facial, forma y color de ojos, nariz, labios, línea de la mandíbula, pómulos, frente, tono de piel, poros, textura sutil de la piel y proporciones faciales únicas. Mantén una fidelidad facial exacta a partir de la imagen de origen sin ninguna alteración ni transformación. Coincide exactamente con el género del sujeto subido. Proporciones de adulto. No hagas que el sujeto parezca adolescente ni semejante a una muñeca. No estilices. No agregues detalles finos adicionales. Suprime los detalles finos adicionales. Incorpora artefactos atmosféricos deliberados de baja frecuencia para crear un campo de textura más suave y reducir el parpadeo de píxeles (pixel crawl). Retrato de interiores de alta costura ultra fotorrealista. Una sola persona. Exactamente dos brazos. Exactamente dos piernas. Pose:
+En cuclillas cerca de una puerta de vidrio verde con marco negro, ambas manos sobre los muslos. Cuerpo ligeramente ladeado, mirando a la cámara. Cabello y maquillaje:
+Cabello largo y liso verde lima neón que se difumina hacia el aguamarina en las puntas. Maquillaje glam, labios brillantes. Atuendo:
+Un top corto de punto verde lima opaco con hombros descubiertos y enormes mangas llamativas y afelpadas en verde lima. Una minifalda de punto opaca y ajustada en una mezcla de verde azulado, aguamarina y lima con un pequeño letrero 'Keor' bordado en el borde. Zapatos de tacón de punta en color azul brillante. Anillos. Cobertura de moda completa. Sin paneles transparentes. Escenario:
+Patio interior moderno con puertas de vidrio con marco negro, suelo blanco, cortina blanca, una pintura oscura de Goya del techo al suelo. Cámara:
+Plano vertical de cuerpo entero. Iluminación:
+Luz natural interior brillante. Estética:
+Fotografía de alta costura fotorrealista. Sin texto adicional, sin logotipos, sin marcas de agua. El rostro debe coincidir exactamente con la foto subida en todo momento: bloqueo perfecto de identidad de principio a fin.
 ```
 
 [↑ Volver a categorías](#catalog)

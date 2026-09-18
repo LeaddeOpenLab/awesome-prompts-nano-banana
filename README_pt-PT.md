@@ -59,7 +59,7 @@ a aeronave descola da plataforma, os rotores inclinam-se para a frente à medida
 
 <a name="prompt-2101037044138922324"></a>
 
-### Tradução em curso
+### Prompt de fotografia de interior de alta-costura com base num retrato de referência, bloqueando os traços faciais da pessoa com conjunto felpudo de ombros descobertos verde-néon e cabelo degradé em água.
 
 Autor：[@KeorUnreal](https://x.com/KeorUnreal) · [Publicação original](https://x.com/KeorUnreal/status/2101037044138922324)
 
@@ -67,7 +67,7 @@ Fotografia · Retrato / Selfie · Personagem · Item de Moda · Arquitetura / In
 
 Publicação original：[@keepgoingAnnie](https://x.com/keepgoingAnnie) · [Publicação original](https://x.com/keepgoingAnnie/status/2100147195055899134)
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de fotografia de interior de alta-costura com base num retrato de referência, bloqueando os traços faciais da pessoa com conjunto felpudo de ombros descobertos verde-néon e cabelo degradé em água.
 
 <img src="images/2101037044138922324-1.jpg" alt="Imagem 1" width="480" />
 
@@ -82,7 +82,14 @@ Publicação original：[@keepgoingAnnie](https://x.com/keepgoingAnnie) · [Publ
 **Prompt**
 
 ```text
-Tradução em curso
+Use a foto carregada como referência exata da personagem. Preserve o rosto e a identidade do indivíduo na perfeição — a mesma estrutura facial, formato e cor dos olhos, nariz, lábios, linha da mandíbula, maçãs do rosto, testa, tom de pele, poros, textura sutil da pele e proporções faciais únicas. Mantenha a fidelidade facial exata a partir da imagem de origem, com zero deformação ou alteração. Corresponda exatamente ao género do indivíduo carregado. Proporções de adulto. Não faça o indivíduo parecer adolescente ou com ar de boneca. Não estilize. Não adicione pormenores finos extra. Suprima pormenores finos extra. Introduza deliberadamente artefactos atmosféricos de baixa frequência para criar um campo de textura mais suave e reduzir o pixel crawl. Retrato de interior de alta-costura ultra-fotorrealista. Apenas uma pessoa. Exatamente dois braços. Exatamente duas pernas. Pose:
+Agachada perto de uma porta de vidro verde com caixilharia preta, ambas as mãos nas coxas. Corpo ligeiramente inclinado, a olhar para a câmara. Cabelo e maquilhagem:
+Cabelo comprido e liso verde-lima néon a desvanecer para água nas pontas. Maquilhagem glam, lábios brilhantes. Roupa:
+Um top curto de malha opaco verde-lima com ombros descobertos e mangas felpudas volumosas e marcantes em verde-lima. Uma minissaia de malha opaca justa numa mistura de cerceta, água e lima com uma pequena inscrição 'Keor' bordada na bainha. Sapatos de salto alto pontiagudos em azul vivo. Anéis. Cobertura de moda completa. Sem painéis transparentes. Cenário:
+Pátio interior moderno com portas de vidro com caixilharia preta, chão branco, cortina branca, uma pintura escura de Goya do chão ao teto. Câmara:
+Plano vertical de corpo inteiro. Iluminação:
+Luz natural interior brilhante. Estética:
+Fotografia de alta-costura fotorrealista. Sem texto adicional, sem logótipos, sem marcas de água. O rosto deve permanecer uma correspondência exata com a foto carregada em todos os momentos — fixação de identidade perfeita do princípio ao fim.
 ```
 
 [↑ Voltar às categorias](#catalog)

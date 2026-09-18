@@ -59,7 +59,7 @@ l'aeromobile decolla dalla piazzola, i rotori si inclinano in avanti mentre si s
 
 <a name="prompt-2101037044138922324"></a>
 
-### Traduzione in corso
+### Prompt per fotografia di interni di alta moda basata su un ritratto di riferimento, che blocca i tratti del volto abbinandoli a un top peloso con spalle scoperte verde neon e capelli sfumati in acqua.
 
 Autore：[@KeorUnreal](https://x.com/KeorUnreal) · [Post originale](https://x.com/KeorUnreal/status/2101037044138922324)
 
@@ -67,7 +67,7 @@ Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Architettu
 
 Post originale：[@keepgoingAnnie](https://x.com/keepgoingAnnie) · [Post originale](https://x.com/keepgoingAnnie/status/2100147195055899134)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per fotografia di interni di alta moda basata su un ritratto di riferimento, che blocca i tratti del volto abbinandoli a un top peloso con spalle scoperte verde neon e capelli sfumati in acqua.
 
 <img src="images/2101037044138922324-1.jpg" alt="Immagine 1" width="480" />
 
@@ -82,7 +82,14 @@ Post originale：[@keepgoingAnnie](https://x.com/keepgoingAnnie) · [Post origin
 **Prompt**
 
 ```text
-Traduzione in corso
+Usa la foto caricata come riferimento esatto per il personaggio. Preserva perfettamente il volto e l'identità del soggetto: stessa struttura facciale, forma e colore degli occhi, naso, labbra, mascella, zigomi, fronte, tonalità della pelle, pori, trama sottile della pelle e proporzioni facciali uniche. Mantieni l'esatta fedeltà al volto dell'immagine di partenza con zero deformazioni o alterazioni. Rispetta esattamente il genere del soggetto caricato. Proporzioni adulte. Non far sembrare il soggetto un adolescente o una bambola. Non stilizzare. Non aggiungere dettagli fini extra. Sopprimi i dettagli fini extra. Costruisci deliberatamente artefatti atmosferici a bassa frequenza per creare un campo di texture più morbido e ridurre il pixel crawl. Ritratto di interni di alta moda ultra-fotorealistico. Una sola persona. Esattamente due braccia. Esattamente due gambe. Posa:
+Accovacciata vicino a una porta di vetro verde con telaio nero, entrambe le mani sulle cosce. Corpo leggermente angolato, guardando la fotocamera. Capelli e trucco:
+Capelli lunghi lisci verde lime neon che sfumano nell'acqua sulle punte. Trucco glamour, labbra lucide. Abbigliamento:
+Un crop top in maglia opaca verde lime con spalle scoperte e maniche vistose enormi e pelose in verde lime. Una minigonna in maglia opaca aderente in una combinazione di ottanio, acqua e lime con una piccola scritta 'Keor' ricamata sul bordo. Décolleté a punta blu brillante. Anelli. Copertura moda totale. Nessun pannello trasparente. Ambientazione:
+Patio interno moderno con porte a vetri dal telaio nero, pavimento bianco, tenda bianca, un dipinto scuro di Goya dal pavimento al soffitto. Fotocamera:
+Inquadratura verticale a figura intera dall'alto. Illuminazione:
+Luce diurna interna brillante. Estetica:
+Fotografia di alta moda fotorealistica. Nessun testo aggiuntivo, nessun logo, nessun watermark. Il viso deve rimanere una corrispondenza esatta con la foto caricata in ogni momento: blocco perfetto dell'identità dall'inizio alla fine.
 ```
 
 [↑ Torna alle categorie](#catalog)

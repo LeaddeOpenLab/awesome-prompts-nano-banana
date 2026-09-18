@@ -59,7 +59,7 @@ máy bay cất cánh khỏi bãi đáp, các cánh quạt nghiêng về phía tr
 
 <a name="prompt-2101037044138922324"></a>
 
-### Đang dịch
+### Lời nhắc chụp ảnh thời trang trong nhà độ nét cao dựa trên chân dung tham chiếu, khóa các đường nét trên khuôn mặt và kết hợp trang phục trễ vai lông xù màu xanh neon cùng mái tóc chuyển sắc xanh nước biển.
 
 Tác giả：[@KeorUnreal](https://x.com/KeorUnreal) · [Bài gốc](https://x.com/KeorUnreal/status/2101037044138922324)
 
@@ -67,7 +67,7 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng th
 
 Bài gốc：[@keepgoingAnnie](https://x.com/keepgoingAnnie) · [Bài gốc](https://x.com/keepgoingAnnie/status/2100147195055899134)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc chụp ảnh thời trang trong nhà độ nét cao dựa trên chân dung tham chiếu, khóa các đường nét trên khuôn mặt và kết hợp trang phục trễ vai lông xù màu xanh neon cùng mái tóc chuyển sắc xanh nước biển.
 
 <img src="images/2101037044138922324-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -82,7 +82,14 @@ Bài gốc：[@keepgoingAnnie](https://x.com/keepgoingAnnie) · [Bài gốc](htt
 **Câu lệnh**
 
 ```text
-Đang dịch
+Sử dụng ảnh đã tải lên làm tài liệu tham khảo chính xác cho nhân vật. Giữ nguyên khuôn mặt và danh tính của đối tượng một cách hoàn hảo — cùng cấu trúc khuôn mặt, hình dáng và màu mắt, mũi, môi, đường viền hàm, gò má, trán, tông màu da, lỗ chân lông, kết cấu da tinh tế và tỷ lệ khuôn mặt độc đáo. Duy trì độ chân thực chính xác của khuôn mặt từ hình ảnh nguồn mà không có sự biến đổi hay thay đổi nào. Khớp chính xác giới tính của đối tượng đã tải lên. Tỷ lệ cơ thể người trưởng thành. Không làm cho đối tượng trông như thiếu niên hay búp bê. Không cách điệu hóa. Không thêm các chi tiết quá nhỏ nhặt. Triệt tiêu các chi tiết cực mịn dư thừa. Tích hợp các hiệu ứng khí quyển tần số thấp có chủ ý để tạo ra trường kết cấu mượt mà hơn và giảm hiện tượng nhiễu hạt điểm ảnh. Chân dung trong nhà thời trang cao cấp siêu thực. Chỉ một người duy nhất. Chính xác hai cánh tay. Chính xác hai chân. Tư thế:
+Ngồi xổm gần cánh cửa kính màu xanh lá cây khung đen, hai tay đặt trên đùi. Cơ thể hơi nghiêng, nhìn vào ống kính máy ảnh. Tóc và trang điểm:
+Tóc thẳng dài màu xanh chanh neon chuyển dần sang màu xanh nước biển ở phần đuôi. Trang điểm lộng lẫy, môi bóng. Trang phục:
+Áo len crop top trễ vai màu xanh chanh không xuyên thấu với tay áo phồng xù khổng lồ màu xanh chanh tạo điểm nhấn. Chân váy ngắn dệt kim ôm sát không xuyên thấu phối màu mòng két, xanh nước biển và xanh chanh với biểu tượng chữ 'Keor' nhỏ được thêu ở viền. Giày cao gót mũi nhọn màu xanh lam sáng. Nhẫn. Che phủ thời trang hoàn toàn. Không có mảng vải xuyên thấu. Bối cảnh:
+Sân trong nhà hiện đại với cửa kính khung đen, sàn màu trắng, rèm trắng, bức tranh Goya tông màu tối từ trần đến sàn. Máy ảnh:
+Ảnh chụp toàn thân khung dọc cao. Ánh sáng:
+Ánh sáng ban ngày trong nhà rực rỡ. Tính thẩm mỹ:
+Nhiếp ảnh thời trang cao cấp chân thực. Không có chữ bổ sung, không có logo, không có hình mờ. Khuôn mặt phải luôn khớp chính xác với ảnh đã tải lên — khóa danh tính hoàn hảo từ đầu đến cuối.
 ```
 
 [↑ Về danh mục](#catalog)

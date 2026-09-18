@@ -59,7 +59,7 @@ a aeronave decola da plataforma, os rotores se inclinam para a frente enquanto e
 
 <a name="prompt-2101037044138922324"></a>
 
-### Tradução em andamento
+### Prompt de fotografia interna de alta moda baseado em retrato de referência, bloqueando os traços faciais com look felpudo ombro a ombro verde-limão neon e cabelo degradê em tom água.
 
 Autor：[@KeorUnreal](https://x.com/KeorUnreal) · [Publicação original](https://x.com/KeorUnreal/status/2101037044138922324)
 
@@ -67,7 +67,7 @@ Fotografia · Retrato / Selfie · Personagem · Item de Moda · Arquitetura / In
 
 Publicação original：[@keepgoingAnnie](https://x.com/keepgoingAnnie) · [Publicação original](https://x.com/keepgoingAnnie/status/2100147195055899134)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de fotografia interna de alta moda baseado em retrato de referência, bloqueando os traços faciais com look felpudo ombro a ombro verde-limão neon e cabelo degradê em tom água.
 
 <img src="images/2101037044138922324-1.jpg" alt="Imagem 1" width="480" />
 
@@ -82,7 +82,14 @@ Publicação original：[@keepgoingAnnie](https://x.com/keepgoingAnnie) · [Publ
 **Prompt**
 
 ```text
-Tradução em andamento
+Use a foto enviada como referência exata do personagem. Preserve perfeitamente o rosto e a identidade da pessoa — mesma estrutura facial, formato e cor dos olhos, nariz, lábios, linha da mandíbula, maçãs do rosto, testa, tom de pele, poros, textura sutil da pele e proporções faciais únicas. Mantenha fidelidade facial exata à imagem de origem, com zero morphing ou alteração. Corresponda exatamente ao gênero do sujeito enviado. Proporções adultas. Não faça a pessoa parecer adolescente ou com aspecto de boneca. Não estilize. Não adicione detalhes finos extras. Suprima detalhes finos extras. Crie deliberadamente artefatos atmosféricos de baixa frequência para obter um campo de textura mais suave e reduzir o pixel crawl. Retrato interno de alta moda ultra-fotorrealista. Apenas uma pessoa. Exatamente dois braços. Exatamente duas pernas. Pose:
+Agachada perto de uma porta de vidro verde com moldura preta, com as duas mãos nas coxas. Corpo levemente angulado, olhando para a câmera. Cabelo e maquiagem:
+Cabelo longo e liso em verde-limão neon degradê para água nas pontas. Maquiagem glam, lábios com gloss. Roupas:
+Um cropped de tricô verde-limão opaco de ombro a ombro com mangas extravagantes felpudas e volumosas em verde-limão. Uma minissaia de tricô opaca e ajustada em uma mistura de cerceta, água e limão com a pequena inscrição 'Keor' bordada na barra. Scarpins de bico fino azul-brilhante. Anéis. Cobertura de moda total. Sem painéis transparentes. Cenário:
+Pátio interno moderno com portas de vidro com moldura preta, piso branco, cortina branca, uma pintura escura de Goya do chão ao teto. Câmera:
+Enquadramento vertical de corpo inteiro. Iluminação:
+Luz do dia interna brilhante. Estética:
+Fotografia de alta moda fotorrealista. Sem texto adicional, sem logotipos, sem marcas d'água. O rosto deve permanecer uma correspondência exata com a foto enviada o tempo todo — bloqueio de identidade perfeito do início ao fim.
 ```
 
 [↑ Voltar às categorias](#catalog)
