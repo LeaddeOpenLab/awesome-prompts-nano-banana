@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**24** Prompts · Dernier ajout: **2026-09-18**
+**25** Prompts · Dernier ajout: **2026-09-18**
 
 <a name="catalog"></a>
 
@@ -35,7 +35,7 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2101018672978342023"></a>
 
-### Traduction en cours
+### Prompt générant un aéronef électrique décollant d'une plate-forme avec des rotors basculants et une caméra verrouillée sur trépied.
 
 Auteur：[@zeuuss\_01](https://x.com/zeuuss_01) · [Publication originale](https://x.com/zeuuss_01/status/2101018672978342023)
 
@@ -43,14 +43,14 @@ Conception d'applications / de sites web · Photographie · Publié
 
 Publication originale：[@zeuuss\_01](https://x.com/zeuuss_01) · [Publication originale](https://x.com/zeuuss_01/status/2100241638702416364)
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt générant un aéronef électrique décollant d'une plate-forme avec des rotors basculants et une caméra verrouillée sur trépied.
 
 <img src="covers/2101018672978342023.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+l'aéronef décolle de la plate-forme, les rotors s'inclinant vers l'avant à mesure qu'il s'élève, caméra verrouillée sur un trépied, fine poussière basse, une seule prise continue, sans coupure, sans tremblement de caméra.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -725,6 +725,28 @@ Portrait / Selfie · Personnage · Article de mode · Publié
 
 ```text
 L'image est un portrait d'art vertical en pied haute résolution, Sony A1 et objectif 120 mm, capturant une svelte top-modèle au début de la vingtaine, baignée dans la chaude lumière de l'heure dorée, trouvant du réconfort sur une balançoire, couleurs pastel douces et vaporeuses, vêtue d'une robe en soie bleu cobalt, atmosphère de rêve, avec de longs cheveux noir de jais balayés par le vent, de grands yeux marron foncé expressifs, des lèvres rouges entrouvertes, véhiculant nostalgie et paix, regard pensif, un soupçon de nostalgie, perçant l'ambiance chaleureuse alors que les derniers rayons du soleil dansent à travers ses cheveux ébouriffés, dans un moment de quiétude.
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Traduction en cours
+
+Auteur：[@AIGuideNote](https://x.com/AIGuideNote) · [Publication originale](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Marketing produit · Affiche / Flyer · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097547198523388128-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**24** Prompt · Bổ sung mới nhất: **2026-09-18**
+**25** Prompt · Bổ sung mới nhất: **2026-09-18**
 
 <a name="catalog"></a>
 
@@ -35,7 +35,7 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2101018672978342023"></a>
 
-### Đang dịch
+### Lời nhắc tạo cảnh máy bay điện cất cánh từ bãi đáp với các cánh quạt nghiêng và máy quay cố định trên chân máy.
 
 Tác giả：[@zeuuss\_01](https://x.com/zeuuss_01) · [Bài gốc](https://x.com/zeuuss_01/status/2101018672978342023)
 
@@ -43,14 +43,14 @@ Thiết kế ứng dụng / web · Nhiếp ảnh · Đã xuất bản
 
 Bài gốc：[@zeuuss\_01](https://x.com/zeuuss_01) · [Bài gốc](https://x.com/zeuuss_01/status/2100241638702416364)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc tạo cảnh máy bay điện cất cánh từ bãi đáp với các cánh quạt nghiêng và máy quay cố định trên chân máy.
 
 <img src="covers/2101018672978342023.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+máy bay cất cánh khỏi bãi đáp, các cánh quạt nghiêng về phía trước khi nó bay lên, máy quay cố định trên chân máy, lớp bụi mỏng tầm thấp, một cảnh quay liên tục, không cắt cảnh, không rung máy.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -804,6 +804,28 @@ Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đ�
 
 ```text
 Hình ảnh là chân dung mỹ thuật dạng đứng toàn thân độ phân giải cao, chụp bằng máy ảnh Sony A1 và ống kính 120mm, ghi lại hình ảnh một siêu mẫu thon thả ở độ tuổi đầu 20, đắm mình trong ánh sáng hoàng hôn ấm áp, tìm kiếm sự bình yên trên chiếc xích đu, tông màu pastel mờ ảo mềm mại, mặc chiếc váy lụa màu xanh cô-ban, bầu không khí mơ màng, với mái tóc đen nhánh dài tung bay trong gió, đôi mắt nâu sẫm to tròn đầy biểu cảm, đôi môi đỏ khẽ hé mở, gợi lên nỗi nhớ nhung và sự bình yên, ánh nhìn đăm chiêu, một thoáng hoài niệm, xuyên qua bầu không khí ấm áp khi những tia nắng cuối cùng nhảy múa qua mái tóc rối bời của cô, trong khoảnh khắc tĩnh lặng.
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Đang dịch
+
+Tác giả：[@AIGuideNote](https://x.com/AIGuideNote) · [Bài gốc](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Tiếp thị sản phẩm · Áp phích / Tờ rơi · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097547198523388128-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

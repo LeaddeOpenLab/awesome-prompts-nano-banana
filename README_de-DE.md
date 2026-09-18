@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**24** Prompts · Zuletzt hinzugefügt: **2026-09-18**
+**25** Prompts · Zuletzt hinzugefügt: **2026-09-18**
 
 <a name="catalog"></a>
 
@@ -35,7 +35,7 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2101018672978342023"></a>
 
-### Übersetzung läuft
+### Prompt zur Generierung eines Elektroflugzeugs, das mit kippbaren Rotoren von einer Plattform abhebt, mit fest arretierter Stativkamera.
 
 Autor：[@zeuuss\_01](https://x.com/zeuuss_01) · [Originalbeitrag](https://x.com/zeuuss_01/status/2101018672978342023)
 
@@ -43,14 +43,14 @@ App- / Webdesign · Fotografie · Veröffentlicht
 
 Originalbeitrag：[@zeuuss\_01](https://x.com/zeuuss_01) · [Originalbeitrag](https://x.com/zeuuss_01/status/2100241638702416364)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt zur Generierung eines Elektroflugzeugs, das mit kippbaren Rotoren von einer Plattform abhebt, mit fest arretierter Stativkamera.
 
 <img src="covers/2101018672978342023.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Das Fluggerät hebt von der Plattform ab, die Rotoren neigen sich beim Aufsteigen nach vorne, die Kamera ist fest auf einem Stativ arretiert, dünner, bodennaher Staub, eine durchgehende Aufnahme, keine Schnitte, kein Verwackeln der Kamera.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -725,6 +725,28 @@ Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
 ```text
 Das Bild ist ein hochauflösendes vertikales Kunstporträt in voller Höhe, aufgenommen mit einer Sony A1 und einem 120-mm-Objektiv, das ein schlankes Supermodel Anfang 20 einfängt, gebadet in warmes Licht der goldenen Stunde, Trost suchend auf einer Schaukel, weiche dunstige Pastellfarben, bekleidet mit einem kobaltblauen Seidenkleid, traumhafte Atmosphäre, mit langem, windverwehtem pechschwarzem Haar, großen ausdrucksstarken dunkelbraunen Augen, leicht geöffneten roten Lippen, die Nostalgie und Frieden vermitteln, nachdenklicher Blick, ein Hauch von Nostalgie, durchdringt das warme Ambiente, während die letzten Sonnenstrahlen durch ihr zerzaustes Haar tanzen, in einem Moment der Stille.
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Übersetzung läuft
+
+Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Originalbeitrag](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Produktmarketing · Plakat / Flyer · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097547198523388128-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**24** Prompts · Adição mais recente: **2026-09-18**
+**25** Prompts · Adição mais recente: **2026-09-18**
 
 <a name="catalog"></a>
 
@@ -35,7 +35,7 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2101018672978342023"></a>
 
-### Tradução em curso
+### Prompt que gera uma aeronave elétrica a descolar de uma plataforma com rotores inclináveis e câmara fixa em tripé.
 
 Autor：[@zeuuss\_01](https://x.com/zeuuss_01) · [Publicação original](https://x.com/zeuuss_01/status/2101018672978342023)
 
@@ -43,14 +43,14 @@ Design de Aplicações / Web · Fotografia · Publicado
 
 Publicação original：[@zeuuss\_01](https://x.com/zeuuss_01) · [Publicação original](https://x.com/zeuuss_01/status/2100241638702416364)
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt que gera uma aeronave elétrica a descolar de uma plataforma com rotores inclináveis e câmara fixa em tripé.
 
 <img src="covers/2101018672978342023.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+a aeronave descola da plataforma, os rotores inclinam-se para a frente à medida que ela sobe, câmara bloqueada num tripé, poeira baixa e fina, um único plano contínuo, sem cortes, sem vibração da câmara.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -804,6 +804,28 @@ Retrato / Selfie · Personagem · Item de Moda · Publicado
 
 ```text
 A imagem é um retrato artístico vertical de corpo inteiro em alta resolução, Sony A1 e lente de 120 mm, captando uma esbelta supermodelo no início dos seus 20 anos, banhada pela luz quente da hora dourada, encontrando consolo num baloiço, cores pastel suaves e nebulosas, vestindo um vestido de seda azul-cobalto, atmosfera de sonho, com longos cabelos pretos como azeviche esvoaçantes, grandes e expressivos olhos castanho-escuros, lábios vermelhos entreabertos, transmitindo nostalgia e paz, olhar pensativo, uma pitada de nostalgia, atravessa o ambiente acolhedor enquanto os últimos raios de sol dançam pelos seus cabelos desalinhados, num momento de quietude.
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Tradução em curso
+
+Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Publicação original](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Marketing de Produto · Pôster / Folheto · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2097547198523388128-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)

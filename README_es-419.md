@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**24** Prompts · Última incorporación: **2026-09-18**
+**25** Prompts · Última incorporación: **2026-09-18**
 
 <a name="catalog"></a>
 
@@ -35,7 +35,7 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 <a name="prompt-2101018672978342023"></a>
 
-### Traducción en curso
+### Prompt para generar una aeronave eléctrica despegando de una plataforma con rotores basculantes y cámara fija en trípode.
 
 Autor：[@zeuuss\_01](https://x.com/zeuuss_01) · [Publicación original](https://x.com/zeuuss_01/status/2101018672978342023)
 
@@ -43,14 +43,14 @@ Diseño de aplicaciones / web · Fotografía · Publicado
 
 Publicación original：[@zeuuss\_01](https://x.com/zeuuss_01) · [Publicación original](https://x.com/zeuuss_01/status/2100241638702416364)
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para generar una aeronave eléctrica despegando de una plataforma con rotores basculantes y cámara fija en trípode.
 
 <img src="covers/2101018672978342023.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+la aeronave despega de la plataforma, los rotores se inclinan hacia adelante mientras se eleva, cámara fija bloqueada en un trípode, polvo fino y bajo, una sola toma continua, sin cortes, sin movimiento de cámara.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -725,6 +725,28 @@ Retrato / Selfie · Personaje · Artículo de moda · Publicado
 
 ```text
 La imagen es un retrato vertical de bellas artes de cuerpo entero y alta resolución, tomado con Sony A1 y lente de 120 mm, que captura a una esbelta supermodelo de unos 20 años, bañada por la cálida luz de la hora dorada, encontrando consuelo en un columpio, suaves y brumosos colores pastel, vestida con un vestido de seda azul cobalto, atmósfera de ensueño, con cabello largo negro azabache al viento, grandes y expresivos ojos café oscuro, labios rojos entreabiertos, transmitiendo nostalgia y paz, mirada pensativa, una pizca de nostalgia, atraviesa el ambiente cálido mientras los últimos rayos del sol bailan a través de su cabello despeinado, en un momento de quietud.
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Traducción en curso
+
+Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Publicación original](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Marketing de producto · Póster / Volante · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097547198523388128-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

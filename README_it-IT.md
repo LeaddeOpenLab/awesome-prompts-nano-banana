@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**24** Prompt · Ultima aggiunta: **2026-09-18**
+**25** Prompt · Ultima aggiunta: **2026-09-18**
 
 <a name="catalog"></a>
 
@@ -35,7 +35,7 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2101018672978342023"></a>
 
-### Traduzione in corso
+### Prompt che genera un aeromobile elettrico che decolla da una piazzola con rotori basculanti e telecamera fissa su treppiede.
 
 Autore：[@zeuuss\_01](https://x.com/zeuuss_01) · [Post originale](https://x.com/zeuuss_01/status/2101018672978342023)
 
@@ -43,14 +43,14 @@ App / Web Design · Fotografia · Pubblicato
 
 Post originale：[@zeuuss\_01](https://x.com/zeuuss_01) · [Post originale](https://x.com/zeuuss_01/status/2100241638702416364)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt che genera un aeromobile elettrico che decolla da una piazzola con rotori basculanti e telecamera fissa su treppiede.
 
 <img src="covers/2101018672978342023.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+l'aeromobile decolla dalla piazzola, i rotori si inclinano in avanti mentre si solleva, telecamera bloccata su un treppiede, polvere sottile e bassa, un'unica ripresa continua, nessun taglio, nessuna vibrazione della telecamera.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -725,6 +725,28 @@ Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
 
 ```text
 L'immagine è un ritratto artistico verticale a figura intera ad alta risoluzione, Sony A1 e obiettivo da 120 mm, che cattura una snella top model poco più che ventenne, immersa nella calda luce dell'ora d'oro, che trova conforto su un'altalena, morbidi e velati colori pastello, che indossa un abito di seta blu cobalto, atmosfera sognante, con lunghi capelli corvini scompigliati dal vento, grandi ed espressivi occhi castano scuro, labbra rosse dischiuse, che trasmettono nostalgia e pace, sguardo pensieroso, una punta di nostalgia, trafigge la calda atmosfera mentre gli ultimi raggi del sole danzano tra i suoi capelli spettinati, in un momento di quiete.
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Traduzione in corso
+
+Autore：[@AIGuideNote](https://x.com/AIGuideNote) · [Post originale](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Marketing di Prodotto · Poster / Volantino · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097547198523388128-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
