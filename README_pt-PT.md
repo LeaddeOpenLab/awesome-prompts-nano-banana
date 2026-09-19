@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**25** Prompts · Adição mais recente: **2026-09-19**
+**26** Prompts · Adição mais recente: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2100861885981790532"></a>
 
-### Tradução em curso
+### Um homem elegante num fato de linho creme a segurar numa chávena de café expresso numa varanda costeira soalheira com vista para o oceano.
 
 Autor：[@pictsbyai](https://x.com/pictsbyai) · [Publicação original](https://x.com/pictsbyai/status/2100861885981790532)
 
 Fotografia · Retrato / Selfie · Personagem · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Um homem elegante num fato de linho creme a segurar numa chávena de café expresso numa varanda costeira soalheira com vista para o oceano.
 
 <img src="images/2100861885981790532-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Um homem adulto musculado exala uma elegância masculina sofisticada num fato de linho trespassado branco-creme, com botões dourados metálicos e um lenço de bolso com padrões em castanho e dourado metido no bolso do peito, vestido sobre uma camisa branca profundamente desabotoada. O seu cabelo castanho curto e ondulado está penteado para trás, e o seu rosto sério exibe uma boca fechada e neutra, com um olhar voltado para baixo parcialmente obscurecido por óculos de sol com armação de arame dourado e lentes em tom castanho. Em pé, diretamente virado para a câmara com o peso do corpo ligeiramente deslocado, a sua mão direita está erguida à altura da parte inferior do peito, com o polegar e o indicador a segurar delicadamente a pequena asa de uma chávena de café expresso em cerâmica branca. O sujeito encontra-se numa varanda costeira ao ar livre, de pé junto a uma murete de estuque envelhecida em cor de areia quente no primeiro plano inferior direito, caracterizada por uma porosidade granular e áspera. Atrás dele, o oceano de um azul-profundo e imaculado estende-se até ao plano intermédio, com a textura da superfície reduzida a um desfoque suave. Banhada por uma luz solar natural, dourada e quente, altamente direcional, que incide a partir de um ângulo de 45 graus no canto superior esquerdo, a cena contrasta dramaticamente os pontos de luz brilhantes na maçã do rosto direita, na cana do nariz, no ombro direito e no rebordo da chávena com sombras escuras e profundas projetadas sob o queixo, no interior da camisa desabotoada, pelas lapelas sobre o peito e pelos seus dedos na chávena. A paleta de cores complementares de branco-creme, azul-marinho profundo e bronze quente cria uma atmosfera de luxo discreto e solarengo. Fotografado num estilo de fotografia digital editorial altamente realista, fortemente influenciado pela moda masculina da Riviera Italiana e pela estética old money, recorrendo a uma objetiva de retrato de 85mm com uma grande abertura em torno de f/2.0 para assegurar um sujeito extremamente nítido contra uma profundidade de campo reduzida, melhorado por uma gradação de cores quentes de alto contraste e grão de película subtil, totalmente enquadrado num formato de 9:16.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -833,6 +833,28 @@ Retrato / Selfie · Personagem · Item de Moda · Publicado
 
 ```text
 A imagem é um retrato artístico vertical de corpo inteiro em alta resolução, Sony A1 e lente de 120 mm, captando uma esbelta supermodelo no início dos seus 20 anos, banhada pela luz quente da hora dourada, encontrando consolo num baloiço, cores pastel suaves e nebulosas, vestindo um vestido de seda azul-cobalto, atmosfera de sonho, com longos cabelos pretos como azeviche esvoaçantes, grandes e expressivos olhos castanho-escuros, lábios vermelhos entreabertos, transmitindo nostalgia e paz, olhar pensativo, uma pitada de nostalgia, atravessa o ambiente acolhedor enquanto os últimos raios de sol dançam pelos seus cabelos desalinhados, num momento de quietude.
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Tradução em curso
+
+Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Publicação original](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Marketing de Produto · Pôster / Folheto · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2097547198523388128-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**25** Prompts · Última incorporación: **2026-09-19**
+**26** Prompts · Última incorporación: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 <a name="prompt-2100861885981790532"></a>
 
-### Traducción en curso
+### Un hombre elegante con un traje de lino crema sostiene una taza de espresso en un soleado balcón costero con vistas al océano.
 
 Autor：[@pictsbyai](https://x.com/pictsbyai) · [Publicación original](https://x.com/pictsbyai/status/2100861885981790532)
 
 Fotografía · Retrato / Selfie · Personaje · Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un hombre elegante con un traje de lino crema sostiene una taza de espresso en un soleado balcón costero con vistas al océano.
 
 <img src="images/2100861885981790532-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Un hombre adulto y musculoso irradia una sofisticada elegancia masculina con un traje cruzado de lino blanco crema con botones dorados metálicos y un pañuelo de bolsillo con motivos marrones y dorados en el bolsillo del pecho, llevado sobre una camisa blanca profundamente desabrochada. Su cabello castaño corto y ondulado está peinado hacia atrás, y su rostro serio presenta una boca cerrada y neutral y una mirada hacia abajo parcialmente cubierta por gafas de sol de montura metálica dorada con lentes de tinte marrón. De pie y mirando directamente a la cámara con el peso ligeramente desplazado, su mano derecha está elevada hacia la parte inferior del pecho, sosteniendo delicadamente con el pulgar y el índice la pequeña asa de una taza de café expreso de cerámica blanca. El sujeto está situado en un balcón costero al aire libre, de pie cerca de un saliente de yeso desgastado de color arena cálido en el primer plano inferior derecho, caracterizado por una textura rugosa, porosa y granular. Detrás de él, el océano prístino y de color azul intenso se extiende hacia el plano medio, con la textura de su superficie convertida en un suave desenfoque. Bañada por una luz solar natural dorada y cálida muy direccional que incide desde un ángulo de 45 grados arriba a la izquierda, la escena contrasta drásticamente reflejos brillantes en su pómulo derecho, el puente nasal, el hombro derecho y el borde de la taza contra sombras negras profundas e intensas proyectadas debajo de su barbilla, en el interior de su camisa desabrochada, por las solapas sobre su pecho y por sus dedos sobre la taza. La paleta de colores complementarios de blanco crema, azul marino profundo y bronce cálido crea una atmósfera de lujo silencioso y bañado por el sol. Tomada con un estilo de fotografía digital editorial muy realista, fuertemente influenciado por la moda masculina de la Riviera italiana y la estética de «old money», utilizando una lente de retrato de 85 mm con una amplia apertura de alrededor de f/2.0 para garantizar un sujeto nítido frente a una profundidad de campo reducida, realzada por una gradación de color cálida de alto contraste y un sutil grano de película, totalmente encuadrada en una relación de aspecto de 9:16.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -754,6 +754,28 @@ Retrato / Selfie · Personaje · Artículo de moda · Publicado
 
 ```text
 La imagen es un retrato vertical de bellas artes de cuerpo entero y alta resolución, tomado con Sony A1 y lente de 120 mm, que captura a una esbelta supermodelo de unos 20 años, bañada por la cálida luz de la hora dorada, encontrando consuelo en un columpio, suaves y brumosos colores pastel, vestida con un vestido de seda azul cobalto, atmósfera de ensueño, con cabello largo negro azabache al viento, grandes y expresivos ojos café oscuro, labios rojos entreabiertos, transmitiendo nostalgia y paz, mirada pensativa, una pizca de nostalgia, atraviesa el ambiente cálido mientras los últimos rayos del sol bailan a través de su cabello despeinado, en un momento de quietud.
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Traducción en curso
+
+Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Publicación original](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Marketing de producto · Póster / Volante · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097547198523388128-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

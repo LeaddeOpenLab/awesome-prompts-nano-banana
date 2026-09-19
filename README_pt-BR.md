@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**25** Prompts · Última adição: **2026-09-19**
+**26** Prompts · Última adição: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2100861885981790532"></a>
 
-### Tradução em andamento
+### Um homem elegante de terno de linho creme segurando uma xícara de café expresso em uma varanda costeira ensolarada com vista para o oceano.
 
 Autor：[@pictsbyai](https://x.com/pictsbyai) · [Publicação original](https://x.com/pictsbyai/status/2100861885981790532)
 
 Fotografia · Retrato / Selfie · Personagem · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Um homem elegante de terno de linho creme segurando uma xícara de café expresso em uma varanda costeira ensolarada com vista para o oceano.
 
 <img src="images/2100861885981790532-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Um homem adulto musculoso exala uma elegância masculina sofisticada vestindo um terno de linho trespassado branco-creme, com botões dourados metálicos e um lenço de bolso com estampas em marrom e dourado dobrado no bolso do peito, usado sobre uma camisa branca profundamente desabotoada. Seu cabelo castanho curto e ondulado está penteado para trás, e seu rosto sério apresenta uma boca fechada e neutra, com um olhar para baixo parcialmente obscurecido por óculos de sol de armação metálica dourada com lentes em tom marrom. Posicionado diretamente de frente para a câmera, com o peso do corpo ligeiramente deslocado, sua mão direita está erguida na altura da parte inferior do peito, com o polegar e o indicador segurando delicadamente a pequena asa de uma xícara de café expresso de cerâmica branca. O sujeito está posicionado em uma varanda costeira ao ar livre, em pé perto de uma mureta de reboco envelhecida em tom de areia quente no primeiro plano inferior direito, caracterizada por porosidades e ranhuras granulares ásperas. Atrás dele, o oceano azul-profundo e intocado se estende até o plano intermediário, com a textura de sua superfície suavemente desfocada. Banhada por uma luz solar natural, dourada e quente, altamente direcional, incidindo em um ângulo de 45 graus a partir do canto superior esquerdo, a cena contrasta dramaticamente realces brilhantes em sua maçã do rosto direita, dorso do nariz, ombro direito e na borda da xícara contra sombras escuras e profundas projetadas sob o queixo, no interior da camisa desabotoada, pelas lapelas sobre o peito e por seus dedos na xícara. A paleta de cores complementares de branco-creme, azul-marinho profundo e bronze quente cria uma atmosfera de luxo discreto banhado pelo sol. Fotografado em um estilo de fotografia digital editorial altamente realista, fortemente influenciado pela moda masculina da Riviera Italiana e pela estética old money, utilizando uma lente de retrato de 85mm com uma ampla abertura em torno de f/2.0 para garantir um tema extremamente nítido contra uma profundidade de campo rasa, aprimorado por gradação de cor quente de alto contraste e granulação sutil de filme, inteiramente enquadrado em uma proporção de tela de 9:16.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -833,6 +833,28 @@ Retrato / Selfie · Personagem · Item de Moda · Publicado
 
 ```text
 A imagem é um retrato artístico vertical de corpo inteiro em alta resolução, Sony A1 e lente de 120 mm, capturando uma esbelta supermodelo no início dos seus 20 anos, banhada pela luz quente da hora dourada, encontrando consolo em um balanço, cores pastéis suaves e nebulosas, vestindo um vestido de seda azul-cobalto, atmosfera de sonho, com longos cabelos negros como azeviche esvoaçantes, grandes e expressivos olhos castanho-escuros, lábios vermelhos entreabertos, transmitindo nostalgia e paz, olhar pensativo, um toque de nostalgia, atravessa o ambiente acolhedor enquanto os últimos raios de sol dançam por seus cabelos desalinhados, em um momento de quietude.
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Tradução em andamento
+
+Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Publicação original](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Marketing de Produto · Pôster / Flyer · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2097547198523388128-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)

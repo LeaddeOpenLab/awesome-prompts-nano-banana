@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**25** Prompt · Ultima aggiunta: **2026-09-19**
+**26** Prompt · Ultima aggiunta: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2100861885981790532"></a>
 
-### Traduzione in corso
+### Un uomo elegante in abito di lino crema tiene una tazzina da caffè su un soleggiato balcone costiero affacciato sull'oceano.
 
 Autore：[@pictsbyai](https://x.com/pictsbyai) · [Post originale](https://x.com/pictsbyai/status/2100861885981790532)
 
 Fotografia · Ritratto / Selfie · Personaggio · Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un uomo elegante in abito di lino crema tiene una tazzina da caffè su un soleggiato balcone costiero affacciato sull'oceano.
 
 <img src="images/2100861885981790532-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Un uomo adulto e muscoloso emana una sofisticata eleganza maschile indossando un abito doppiopetto in lino bianco crema con bottoni dorati metallici e un fazzoletto da taschino con motivi marroni e dorati inserito nel taschino, portato sopra una camicia bianca ampiamente sbottonata. I suoi capelli castani corti e mossi sono pettinati all'indietro, e il suo viso serio presenta una bocca chiusa e neutra e uno sguardo verso il basso parzialmente schermato da occhiali da sole con montatura in metallo dorato e lenti sfumate marroni. In piedi rivolto direttamente verso la fotocamera con il peso leggermente spostato, la mano destra è sollevata verso la parte inferiore del petto, con il pollice e l'indice che afferrano delicatamente il piccolo manico di una tazzina da caffè espresso in ceramica bianca. Il soggetto è posizionato su un balcone costiero all'aperto, vicino a un cornicione in intonaco color sabbia caldo e usurato dal tempo in primo piano in basso a destra, caratterizzato da una texture ruvida, porosa e granulare. Dietro di lui, l'oceano incontaminato e blu intenso si estende nel piano medio, con la texture della superficie resa in una morbida sfocatura. Immersa in una luce solare naturale calda e dorata, fortemente direzionale che colpisce da un angolo di 45 gradi in alto a sinistra, la scena contrasta drammaticamente riflessi luminosi sul suo zigomo destro, sul ponte nasale, sulla spalla destra e sul bordo della tazzina con ombre nere, profonde e nette proiettate sotto il mento, all'interno della camicia sbottonata, dai revers sul petto e dalle dita sulla tazzina. La tavolozza di colori complementari composta da bianco crema, blu oceano profondo e bronzo caldo crea un'atmosfera di sobrio lusso inondato di sole. Scattata in uno stile fotografico digitale editoriale altamente realistico, fortemente influenzato dalla moda maschile della Riviera italiana e dall'estetica old money, utilizzando un obiettivo per ritratti da 85 mm con un'ampia apertura intorno a f/2.0 per garantire un soggetto nitidissimo a fronte di una ridotta profondità di campo, valorizzata da una gradazione colore calda e ad alto contrasto e da una sottile grana della pellicola, interamente inquadrata in un formato 9:16.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -754,6 +754,28 @@ Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
 
 ```text
 L'immagine è un ritratto artistico verticale a figura intera ad alta risoluzione, Sony A1 e obiettivo da 120 mm, che cattura una snella top model poco più che ventenne, immersa nella calda luce dell'ora d'oro, che trova conforto su un'altalena, morbidi e velati colori pastello, che indossa un abito di seta blu cobalto, atmosfera sognante, con lunghi capelli corvini scompigliati dal vento, grandi ed espressivi occhi castano scuro, labbra rosse dischiuse, che trasmettono nostalgia e pace, sguardo pensieroso, una punta di nostalgia, trafigge la calda atmosfera mentre gli ultimi raggi del sole danzano tra i suoi capelli spettinati, in un momento di quiete.
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Traduzione in corso
+
+Autore：[@AIGuideNote](https://x.com/AIGuideNote) · [Post originale](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Marketing di Prodotto · Poster / Volantino · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097547198523388128-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**25** Prompts · Dernier ajout: **2026-09-19**
+**26** Prompts · Dernier ajout: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2100861885981790532"></a>
 
-### Traduction en cours
+### Un homme élégant dans un costume en lin crème tient une tasse d'expresso sur un balcon côtier ensoleillé surplombant l'océan.
 
 Auteur：[@pictsbyai](https://x.com/pictsbyai) · [Publication originale](https://x.com/pictsbyai/status/2100861885981790532)
 
 Photographie · Portrait / Selfie · Personnage · Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un homme élégant dans un costume en lin crème tient une tasse d'expresso sur un balcon côtier ensoleillé surplombant l'océan.
 
 <img src="images/2100861885981790532-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Un homme adulte et musclé dégage une élégance masculine sophistiquée dans un costume croisé en lin blanc crème doté de boutons en métal doré et d'une pochette à motifs marron et or glissée dans la poche de poitrine, porté sur une chemise blanche largement déboutonnée. Ses cheveux bruns, courts et ondulés, sont coiffés en arrière, et son visage sérieux présente une bouche fermée et neutre ainsi qu'un regard dirigé vers le bas, partiellement masqué par des lunettes de soleil à monture métallique dorée et verres teintés marron. Debout, faisant directement face à l'appareil photo avec son poids légèrement déplacé, sa main droite est levée au niveau de sa poitrine inférieure, le pouce et l'index pinçant délicatement la petite anse d'une tasse à expresso en céramique blanche. Le sujet est positionné sur un balcon côtier en extérieur, se tenant près d'un rebord en plâtre patiné de couleur sable chaud au premier plan inférieur droit, caractérisé par une porosité granuleuse et rugueuse. Derrière lui, l'océan d'un bleu profond et immaculé s'étend vers le plan moyen, la texture de sa surface étant rendue par un flou doux. Baignée par une lumière naturelle dorée et chaude, très directionnelle, frappant selon un angle de 45 degrés depuis le coin supérieur gauche, la scène contraste de manière spectaculaire de vifs reflets lumineux sur sa pommette droite, l'arête de son nez, son épaule droite et le rebord de la tasse avec des ombres d'un noir profond et nettes projetées sous son menton, au creux de sa chemise déboutonnée, par les revers sur son torse et par ses doigts sur la tasse. La palette de couleurs complémentaires de blanc crème, de bleu océan profond et de bronze chaud crée une atmosphère de luxe discret et baigné de soleil. Prise dans un style de photographie numérique éditoriale très réaliste, fortement influencée par la mode masculine de la Riviera italienne et l'esthétique old money, utilisant un objectif à portrait de 85 mm avec une grande ouverture autour de f/2,0 pour garantir un sujet d'une netteté parfaite sur une faible profondeur de champ, sublimée par un étalonnage des couleurs chaud et très contrasté ainsi qu'un subtil grain de film, entièrement cadrée au format 9:16.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -754,6 +754,28 @@ Portrait / Selfie · Personnage · Article de mode · Publié
 
 ```text
 L'image est un portrait d'art vertical en pied haute résolution, Sony A1 et objectif 120 mm, capturant une svelte top-modèle au début de la vingtaine, baignée dans la chaude lumière de l'heure dorée, trouvant du réconfort sur une balançoire, couleurs pastel douces et vaporeuses, vêtue d'une robe en soie bleu cobalt, atmosphère de rêve, avec de longs cheveux noir de jais balayés par le vent, de grands yeux marron foncé expressifs, des lèvres rouges entrouvertes, véhiculant nostalgie et paix, regard pensif, un soupçon de nostalgie, perçant l'ambiance chaleureuse alors que les derniers rayons du soleil dansent à travers ses cheveux ébouriffés, dans un moment de quiétude.
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Traduction en cours
+
+Auteur：[@AIGuideNote](https://x.com/AIGuideNote) · [Publication originale](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Marketing produit · Affiche / Flyer · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097547198523388128-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)

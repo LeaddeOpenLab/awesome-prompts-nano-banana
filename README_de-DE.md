@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**25** Prompts · Zuletzt hinzugefügt: **2026-09-19**
+**26** Prompts · Zuletzt hinzugefügt: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2100861885981790532"></a>
 
-### Übersetzung läuft
+### Ein stilvoller Mann in einem cremefarbenen Leinenanzug hält eine Espressotasse auf einem sonnigen Küstenbalkon mit Blick auf das Meer.
 
 Autor：[@pictsbyai](https://x.com/pictsbyai) · [Originalbeitrag](https://x.com/pictsbyai/status/2100861885981790532)
 
 Fotografie · Porträt / Selfie · Charakter · Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein stilvoller Mann in einem cremefarbenen Leinenanzug hält eine Espressotasse auf einem sonnigen Küstenbalkon mit Blick auf das Meer.
 
 <img src="images/2100861885981790532-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein muskulöser erwachsener Mann strahlt raffinierte maskuline Eleganz in einem cremeweißen zweireihigen Leinenanzug mit metallisch goldenen Knöpfen und einem braun-gold gemusterten Einstecktuch in der Brusttasche aus, getragen über einem tief aufgeknöpften weißen Hemd. Sein kurzes, welliges braunes Haar ist nach hinten frisiert, und sein ernstes Gesicht zeigt einen geschlossenen, neutralen Mund und einen nach unten gerichteten Blick, der teilweise von einer goldgeränderten Sonnenbrille mit braun getönten Gläsern verdeckt wird. Er steht direkt vor der Kamera mit leicht verlagertem Gewicht; seine rechte Hand ist zu seiner unteren Brust angehoben, wobei Daumen und Zeigefinger den kleinen Henkel einer weißen Keramik-Espressotasse sanft greifen. Das Motiv befindet sich auf einem Balkon an der Küste im Freien, nahe einem verwitterten, warmsandfarbenen Putzvorsprung im vorderen rechten Bildbereich, der durch eine raue, poröse und körnige Narbung gekennzeichnet ist. Hinter ihm erstreckt sich der makellose, tiefblaue Ozean in den Mittelgrund, dessen Oberflächentextur in einer sanften Unschärfe dargestellt ist. Die Szene ist in stark gerichtetes, warmes, goldenes natürliches Sonnenlicht getaucht, das in einem 45-Grad-Winkel von oben links einfällt, und setzt helle Glanzlichter auf seinem rechten Wangenknochen, Nasenrücken, der rechten Schulter und dem Rand der Tasse dramatisch gegen harte, tiefschwarze Schatten ab, die unter sein Kinn, tief ins Innere seines aufgeknöpften Hemdes, von den Revers auf seine Brust und von seinen Fingern auf die Tasse fallen. Die komplementäre Farbpalette aus Cremeweiß, tiefem Ozeanblau und warmer Bronze schafft eine von der Sonne durchflutete Stimmung von diskretem Luxus. Aufgenommen in einem hochrealistischen editorialen Digitalfotografiestil, stark beeinflusst von der Herrenmode der italienischen Riviera und der Old-Money-Ästhetik, unter Verwendung eines 85-mm-Porträtobjektivs mit einer weiten Blende von etwa f/2.0, um ein gestochen scharfes Motiv vor geringer Tiefenschärfe zu gewährleisten, verstärkt durch ein kontrastreiches, warmes Color Grading und feines Filmkorn, vollständig gerahmt im 9:16-Seitenverhältnis.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -754,6 +754,28 @@ Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
 ```text
 Das Bild ist ein hochauflösendes vertikales Kunstporträt in voller Höhe, aufgenommen mit einer Sony A1 und einem 120-mm-Objektiv, das ein schlankes Supermodel Anfang 20 einfängt, gebadet in warmes Licht der goldenen Stunde, Trost suchend auf einer Schaukel, weiche dunstige Pastellfarben, bekleidet mit einem kobaltblauen Seidenkleid, traumhafte Atmosphäre, mit langem, windverwehtem pechschwarzem Haar, großen ausdrucksstarken dunkelbraunen Augen, leicht geöffneten roten Lippen, die Nostalgie und Frieden vermitteln, nachdenklicher Blick, ein Hauch von Nostalgie, durchdringt das warme Ambiente, während die letzten Sonnenstrahlen durch ihr zerzaustes Haar tanzen, in einem Moment der Stille.
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Übersetzung läuft
+
+Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Originalbeitrag](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Produktmarketing · Plakat / Flyer · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097547198523388128-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

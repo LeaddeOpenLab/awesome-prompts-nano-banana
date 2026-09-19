@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**25** Prompt · Son eklenen: **2026-09-19**
+**26** Prompt · Son eklenen: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2100861885981790532"></a>
 
-### Çeviri sürüyor
+### Okyanusa bakan güneşli bir sahil balkonunda krem rengi keten takım elbisesiyle espresso fincanı tutan şık bir adam.
 
 Yazar：[@pictsbyai](https://x.com/pictsbyai) · [Orijinal gönderi](https://x.com/pictsbyai/status/2100861885981790532)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Okyanusa bakan güneşli bir sahil balkonunda krem rengi keten takım elbisesiyle espresso fincanı tutan şık bir adam.
 
 <img src="images/2100861885981790532-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kaslı bir yetişkin erkek, derinlemesine iliklenmemiş beyaz bir gömlek üzerine giyilmiş, metalik altın düğmelere ve göğüs cebine sıkıştırılmış kahverengi ve altın desenli bir mendile sahip krem beyazı kruvaze keten bir takım elbise içinde sofistike ve erkeksi bir zarafet sergiliyor. Kısa, dalgalı kahverengi saçları geriye doğru taranmış olup, ciddi yüzünde kapalı, nötr bir ağız ve kahverengi tonlu camlara sahip altın tel çerçeveli güneş gözlükleriyle kısmen gizlenmiş aşağı doğru bir bakış yer alıyor. Ağırlığı hafifçe yana verilmiş şekilde doğrudan kameraya dönük duran modelin sağ eli göğsünün alt kısmına doğru kaldırılmış durumda; başparmağı ve işaret parmağı beyaz seramik bir espresso fincanının küçük kulpunu zarifçe tutuyor. Konu, sağ alt ön planda kaba, gözenekli granüler pürüzlerle karakterize edilen, yıpranmış, sıcak kum rengi sıvalı bir çıkıntının yakınında durarak açık havadaki bir sahil balkonunda konumlandırılmıştır. Arkasında, el değmemiş, derin mavi okyanus orta plana doğru uzanırken yüzey dokusu pürüzsüz bir bulanıklığa dönüşüyor. Sol üstten 45 derecelik bir açıyla vuran son derece yönlü, sıcak altın rengi doğal güneş ışığıyla aydınlanan sahnede, sağ elmacık kemiği, burun kemeri, sağ omuz ve fincanın kenarındaki parlak vurgular; çenesinin altında, açık gömleğinin derinliklerinde, klapaların göğsüne ve parmaklarının fincana düşürdüğü sert, derin siyah gölgelerle çarpıcı bir tezat oluşturuyor. Krem beyazı, derin okyanus mavisi ve sıcak bronzdan oluşan tamamlayıcı renk paleti, güneşle yıkanmış, sessiz bir lüks havası yaratıyor. İtalyan Rivierası erkek giyimi ve 'old money' estetiğinden yoğun bir şekilde etkilenmiş, son derece gerçekçi editoryal dijital fotoğrafçılık tarzında çekilmiş; sığ bir alan derinliği önünde son derece net bir özne sağlamak için f/2.0 civarında geniş diyafram açıklığına sahip 85 mm portre lensi kullanılmış, yüksek kontrastlı sıcak renk derecelendirmesi ve hafif film greni ile zenginleştirilmiş, tamamen 9:16 en boy oranında çerçevelenmiştir.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -863,6 +863,28 @@ Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 
 ```text
 Görüntü, Sony A1 ve 120 mm lens ile çekilmiş, 20'li yaşlarının başında narin bir süper modeli yakalayan, altın saatin sıcak ışığıyla yıkanmış, bir salıncakta teselli bulan, yumuşak puslu pastel renkler, kobalt mavisi ipek bir elbise giymiş, rüya gibi bir atmosfer, rüzgarda savrulan uzun simsiyah saçlar, iri etkileyici koyu kahverengi gözler, aralık kırmızı dudaklar, nostalji ve huzur ileten, düşünceli bakış, bir nostalji kırıntısı, güneşin son ışınları darmadağınık saçlarının arasından dans ederken sıcak ambiyansı delen, sessiz bir anın içinde yüksek çözünürlüklü tam boy dikey güzel sanatlar portresidir.
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AIGuideNote](https://x.com/AIGuideNote) · [Orijinal gönderi](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Ürün Pazarlaması · Poster / El İlanı · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097547198523388128-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

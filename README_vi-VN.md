@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**25** Prompt · Bổ sung mới nhất: **2026-09-19**
+**26** Prompt · Bổ sung mới nhất: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2100861885981790532"></a>
 
-### Đang dịch
+### Một người đàn ông lịch lãm trong bộ vest vải lanh màu kem cầm tách espresso trên ban công ven biển đầy nắng nhìn ra đại dương.
 
 Tác giả：[@pictsbyai](https://x.com/pictsbyai) · [Bài gốc](https://x.com/pictsbyai/status/2100861885981790532)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một người đàn ông lịch lãm trong bộ vest vải lanh màu kem cầm tách espresso trên ban công ven biển đầy nắng nhìn ra đại dương.
 
 <img src="images/2100861885981790532-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một người đàn ông trưởng thành vạm vỡ toát lên vẻ thanh lịch nam tính đầy tinh tế trong bộ âu phục vải lanh hai hàng khuy màu trắng kem với các cúc kim loại màu vàng kim và một chiếc khăn cài túi áo họa tiết màu nâu và vàng kim trong túi ngực, mặc ngoài chiếc áo sơ mi trắng mở cúc sâu. Mái tóc ngắn gợn sóng màu nâu của anh được vuốt ngược ra sau, và khuôn mặt nghiêm nghị có đôi môi khép trung tính cùng ánh nhìn hướng xuống được che khuất một phần bởi kính râm gọng kim loại mạ vàng với tròng kính màu nâu. Đứng đối diện trực tiếp với máy ảnh với trọng tâm hơi lệch, tay phải anh nâng lên ngang ngực dưới, với ngón cái và ngón trỏ khéo léo kẹp lấy chiếc quai nhỏ của tách espresso bằng gốm trắng. Nhân vật đứng trên ban công ven biển ngoài trời, gần gờ thạch cao màu cát ấm áp đã phong hóa ở góc phải phía trước với đặc điểm bề mặt rỗ hạt xốp ráp. Phía sau anh, đại dương xanh thẳm hoang sơ trải dài ở trung cảnh, kết cấu bề mặt nước được làm mờ mịn màng. Đắm mình trong ánh nắng tự nhiên màu vàng ấm áp có hướng chiếu rõ rệt từ góc 45 độ ở phía trên bên trái, khung cảnh tương phản ấn tượng giữa những điểm nhấn sáng trên gò má phải, sống mũi, vai phải và miệng tách với bóng đen sâu gắt đổ dưới cằm, sâu bên trong áo sơ mi mở cúc, từ ve áo xuống ngực và từ các ngón tay lên tách. Bảng màu bổ sung gồm trắng kem, xanh đại dương thẳm và đồng ấm áp tạo nên bầu không khí sang trọng thầm lặng ngập tràn ánh nắng. Được chụp theo phong cách nhiếp ảnh kỹ thuật số biên tập mang tính chân thực cao, chịu ảnh hưởng mạnh mẽ từ thời trang nam vùng duyên hải Riviera nước Ý và thẩm mỹ 'tiền tài cổ điển' (old money), sử dụng ống kính chân dung 85mm với khẩu độ rộng khoảng f/2.0 để đảm bảo chủ thể sắc nét tuyệt đối trên nền độ sâu trường ảnh nông, được nâng tầm bởi sự phân màu ấm áp có độ tương phản cao và hạt phim tinh tế, được đóng khung hoàn toàn theo tỷ lệ khung hình 9:16.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -833,6 +833,28 @@ Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đ�
 
 ```text
 Hình ảnh là chân dung mỹ thuật dạng đứng toàn thân độ phân giải cao, chụp bằng máy ảnh Sony A1 và ống kính 120mm, ghi lại hình ảnh một siêu mẫu thon thả ở độ tuổi đầu 20, đắm mình trong ánh sáng hoàng hôn ấm áp, tìm kiếm sự bình yên trên chiếc xích đu, tông màu pastel mờ ảo mềm mại, mặc chiếc váy lụa màu xanh cô-ban, bầu không khí mơ màng, với mái tóc đen nhánh dài tung bay trong gió, đôi mắt nâu sẫm to tròn đầy biểu cảm, đôi môi đỏ khẽ hé mở, gợi lên nỗi nhớ nhung và sự bình yên, ánh nhìn đăm chiêu, một thoáng hoài niệm, xuyên qua bầu không khí ấm áp khi những tia nắng cuối cùng nhảy múa qua mái tóc rối bời của cô, trong khoảnh khắc tĩnh lặng.
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Đang dịch
+
+Tác giả：[@AIGuideNote](https://x.com/AIGuideNote) · [Bài gốc](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Tiếp thị sản phẩm · Áp phích / Tờ rơi · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097547198523388128-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
