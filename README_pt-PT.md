@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**25** Prompts · Adição mais recente: **2026-09-18**
+**25** Prompts · Adição mais recente: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2100861885981790532"></a>
+
+### Tradução em curso
+
+Autor：[@pictsbyai](https://x.com/pictsbyai) · [Publicação original](https://x.com/pictsbyai/status/2100861885981790532)
+
+Fotografia · Retrato / Selfie · Personagem · Paisagem / Natureza · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2100861885981790532-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2101018672978342023"></a>
 
@@ -811,28 +833,6 @@ Retrato / Selfie · Personagem · Item de Moda · Publicado
 
 ```text
 A imagem é um retrato artístico vertical de corpo inteiro em alta resolução, Sony A1 e lente de 120 mm, captando uma esbelta supermodelo no início dos seus 20 anos, banhada pela luz quente da hora dourada, encontrando consolo num baloiço, cores pastel suaves e nebulosas, vestindo um vestido de seda azul-cobalto, atmosfera de sonho, com longos cabelos pretos como azeviche esvoaçantes, grandes e expressivos olhos castanho-escuros, lábios vermelhos entreabertos, transmitindo nostalgia e paz, olhar pensativo, uma pitada de nostalgia, atravessa o ambiente acolhedor enquanto os últimos raios de sol dançam pelos seus cabelos desalinhados, num momento de quietude.
-```
-
-[↑ Voltar às categorias](#catalog)
-
----
-
-<a name="prompt-2097547198523388128"></a>
-
-### Tradução em curso
-
-Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Publicação original](https://x.com/AIGuideNote/status/2097547198523388128)
-
-Marketing de Produto · Pôster / Folheto · Publicado
-
-**Resumo:** Tradução em curso
-
-<img src="images/2097547198523388128-1.jpg" alt="Imagem 1" width="480" />
-
-**Prompt**
-
-```text
-Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)

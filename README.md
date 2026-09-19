@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**25** Prompts · Latest addition: **2026-09-18**
+**25** Prompts · Latest addition: **2026-09-19**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2100861885981790532"></a>
+
+### A stylish man in a cream linen suit holding an espresso cup on a sunny coastal balcony overlooking the ocean.
+
+Author：[@pictsbyai](https://x.com/pictsbyai) · [Source](https://x.com/pictsbyai/status/2100861885981790532)
+
+Photography · Portrait / Selfie · Character · Landscape / Nature · Published
+
+**Summary:** A stylish man in a cream linen suit holding an espresso cup on a sunny coastal balcony overlooking the ocean.
+
+<img src="images/2100861885981790532-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A muscular adult male exudes sophisticated masculine elegance in a cream white double-breasted linen suit featuring metallic gold buttons and a brown and gold patterned pocket square tucked into the breast pocket, worn over a deeply unbuttoned white shirt. His short, wavy brown hair is styled back, and his serious face features a closed, neutral mouth and a downward gaze partially obscured by gold wire-rimmed sunglasses with brown tinted lenses. Standing directly facing the camera with slightly shifted weight, his right hand is elevated to his lower chest, with the thumb and index finger delicately pinching the small handle of a white ceramic espresso cup. The subject is positioned on an outdoor coastal balcony, standing near a weathered, warm sand-colored plaster ledge in the bottom right foreground characterized by rough, porous granular pitting. Behind him, the pristine, deep blue ocean stretches into the midground, its surface texture rendered into a smooth blur. Bathed in highly directional, warm golden natural sunlight striking from a 45-degree angle at the top left, the scene dramatically contrasts bright highlights on his right cheekbone, nose bridge, right shoulder, and the cup's rim against harsh, deep black shadows cast under his chin, deep inside his unbuttoned shirt, by the lapels onto his chest, and by his fingers onto the cup. The complementary color palette of cream white, deep ocean blue, and warm bronze creates a mood of sun-drenched, quiet luxury. Shot in a highly realistic editorial digital photography style heavily influenced by Italian Riviera menswear and old money aesthetics, utilizing an 85mm portrait lens with a wide aperture around f/2.0 to ensure a tack-sharp subject against a shallow depth of field, enhanced by high-contrast warm color grading and subtle film grain, entirely framed in a 9:16 aspect ratio.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2101018672978342023"></a>
 
@@ -784,45 +806,6 @@ Portrait / Selfie · Character · Fashion Item · Published
 
 ```text
 Image is high resolution full-hight vertical fine art portrait, Sony A1 and 120mm lens, capturing a lithe supermodel in her early 20s, bathed in warm golden hour light, finding solace on a swing, soft hazy pastel colors, wearing a cobalt blue silk dress, dreamy atmosphere, with long, windswept jet black hair, large expressive dark brown eyes, parted red lips, conveying nostalgia and peace, thoughtful gaze, hint of nostalgia, pierces through the warm ambiance as the sun's final rays dance through her tousled hair, in a moment of quietude.
-```
-
-[↑ Back to categories](#catalog)
-
----
-
-<a name="prompt-2097547198523388128"></a>
-
-### High-End Cosmetics &amp; Fragrance Launch Advertising Poster Design Prompt Template
-
-Author：[@AIGuideNote](https://x.com/AIGuideNote) · [Source](https://x.com/AIGuideNote/status/2097547198523388128)
-
-Product Marketing · Poster / Flyer · Published
-
-**Summary:** High-End Cosmetics &amp; Fragrance Launch Advertising Poster Design Prompt Template
-
-<img src="images/2097547198523388128-1.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-[Brand & Product Copy]
-- Main copy: {copy}
-- Product features & sub-copy: {subtext}
-- Brand collection name: {brandName}
-
-[Image Quality, Staging & Composition Specifications]
-- Style: Live-action beauty advertisement photo for high-end luxury cosmetic brands (such as CHANEL, DIOR, SHISEIDO, etc.).
-- Subject: Close-up of a female model's glossy, alluring lips or radiant skin, or a luxurious rouge (lipstick) or beauty serum bottle.
-- Background: Elegant, deep textures such as satin fabric, reflective black water surfaces, or marble.
-- Color & Lighting: Dramatic, gorgeous color palette emphasizing contrasts such as deep red (red of destiny), jet black, and gold. Highlighting glossiness and three-dimensionality with spotlights.
-- Typography (for GPT-image / Nano Banana Pro): The messages "{copy}" and "{subtext}", along with the brand name "{brandName}", are tastefully laid out in an extremely elegant, slender serif font.
-
-[Strict Layout and Output Constraints (Mandatory)]
-- Output the finished design itself, filling the entire canvas edge-to-edge. Interior backgrounds and scene depictions within the design (walls, spaces, shadows, etc.) may follow the instructions in the text.
-- Prohibited: Photos of the finished poster inside a picture frame, photos of it affixed to a wall, mockup photos placed on a desk or paper, perspective distortion of paper edges, or drop shadows.
-- Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
-
-- Aspect Ratio: --ar 3:4
 ```
 
 [↑ Back to categories](#catalog)
