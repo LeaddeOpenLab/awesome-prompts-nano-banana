@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**26** Prompts · Latest addition: **2026-09-19**
+**26** Prompts · Latest addition: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2101586661775675700"></a>
+
+### Editorial photo of a man with a laptop in a luxury car cabin with cognac leather.
+
+Author：[@pictsbyai](https://x.com/pictsbyai) · [Source](https://x.com/pictsbyai/status/2101586661775675700)
+
+Photography · Character · Vehicle · Published
+
+**Summary:** Editorial photo of a man with a laptop in a luxury car cabin with cognac leather.
+
+<img src="images/2101586661775675700-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A handsome young adult male with messy, dark curly hair sits centered in a relaxed posture, gazing down with a serious, candid expression, closed neutral mouth, and relaxed eyebrows. He wears a dark navy polo shirt accented by a bright white-trimmed collar and crisp white trousers. A silver metal link watch adorns his left wrist, which is slightly elevated as his left hand rests casually on the left side of a silver laptop's black keyboard deck, while his relaxed right hand has its index and middle fingers lightly touching the trackpad, conveying an organic, casual readiness to type. He is positioned in the shallow spatial depth of the rear cabin of a luxury executive automobile, seated against a pristine midground of cognac brown leather featuring fine perforated patterns and precise stitched detailing. Smooth cognac brown leather front seat headrests in the foreground symmetrically flank and frame his silhouette, while a dark tinted car window to the left reflects faint exterior street lights and a subtle hint of a red seatbelt buckle edge is visible near the lower right against the black carpet. The moody, sophisticated scene is illuminated by hard, dramatic top-down lighting emanating from two warm golden overhead cabin reading lights, casting high-contrast, deep black, harshly defined shadows under his chin, beneath the laptop, and flanking the car's interior. Brilliant specular highlights are preserved on his brightly lit face, the crisp white collar, the metallic watch face, and the top edges of the luxurious leather seats, enhancing a rich complementary palette of deep navy, cognac brown, stark black, and warm white. This editorial luxury lifestyle photograph is captured digitally with tack-sharp realism and a straight-on perspective, evoking the aesthetic of a full-frame camera using a 35mm lens at f/2.0 for a medium depth of field. Shot with a high ISO of 3200 to introduce authentic digital noise, the image features cinematic post-processing with crushed blacks for dense shadow depth, enhanced color contrast between the navy shirt and brown leather, and a clarity boost on the facial features, all meticulously framed in a 4:5 aspect ratio.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100861885981790532"></a>
 
@@ -806,45 +828,6 @@ Portrait / Selfie · Character · Fashion Item · Published
 
 ```text
 Image is high resolution full-hight vertical fine art portrait, Sony A1 and 120mm lens, capturing a lithe supermodel in her early 20s, bathed in warm golden hour light, finding solace on a swing, soft hazy pastel colors, wearing a cobalt blue silk dress, dreamy atmosphere, with long, windswept jet black hair, large expressive dark brown eyes, parted red lips, conveying nostalgia and peace, thoughtful gaze, hint of nostalgia, pierces through the warm ambiance as the sun's final rays dance through her tousled hair, in a moment of quietude.
-```
-
-[↑ Back to categories](#catalog)
-
----
-
-<a name="prompt-2097547198523388128"></a>
-
-### High-End Cosmetics &amp; Fragrance Launch Advertising Poster Design Prompt Template
-
-Author：[@AIGuideNote](https://x.com/AIGuideNote) · [Source](https://x.com/AIGuideNote/status/2097547198523388128)
-
-Product Marketing · Poster / Flyer · Published
-
-**Summary:** High-End Cosmetics &amp; Fragrance Launch Advertising Poster Design Prompt Template
-
-<img src="images/2097547198523388128-1.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-[Brand & Product Copy]
-- Main copy: {copy}
-- Product features & sub-copy: {subtext}
-- Brand collection name: {brandName}
-
-[Image Quality, Staging & Composition Specifications]
-- Style: Live-action beauty advertisement photo for high-end luxury cosmetic brands (such as CHANEL, DIOR, SHISEIDO, etc.).
-- Subject: Close-up of a female model's glossy, alluring lips or radiant skin, or a luxurious rouge (lipstick) or beauty serum bottle.
-- Background: Elegant, deep textures such as satin fabric, reflective black water surfaces, or marble.
-- Color & Lighting: Dramatic, gorgeous color palette emphasizing contrasts such as deep red (red of destiny), jet black, and gold. Highlighting glossiness and three-dimensionality with spotlights.
-- Typography (for GPT-image / Nano Banana Pro): The messages "{copy}" and "{subtext}", along with the brand name "{brandName}", are tastefully laid out in an extremely elegant, slender serif font.
-
-[Strict Layout and Output Constraints (Mandatory)]
-- Output the finished design itself, filling the entire canvas edge-to-edge. Interior backgrounds and scene depictions within the design (walls, spaces, shadows, etc.) may follow the instructions in the text.
-- Prohibited: Photos of the finished poster inside a picture frame, photos of it affixed to a wall, mockup photos placed on a desk or paper, perspective distortion of paper edges, or drop shadows.
-- Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
-
-- Aspect Ratio: --ar 3:4
 ```
 
 [↑ Back to categories](#catalog)

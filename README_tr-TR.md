@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**26** Prompt · Son eklenen: **2026-09-19**
+**26** Prompt · Son eklenen: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2101586661775675700"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@pictsbyai](https://x.com/pictsbyai) · [Orijinal gönderi](https://x.com/pictsbyai/status/2101586661775675700)
+
+Fotoğrafçılık · Karakter · Araç · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101586661775675700-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2100861885981790532"></a>
 
@@ -863,28 +885,6 @@ Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 
 ```text
 Görüntü, Sony A1 ve 120 mm lens ile çekilmiş, 20'li yaşlarının başında narin bir süper modeli yakalayan, altın saatin sıcak ışığıyla yıkanmış, bir salıncakta teselli bulan, yumuşak puslu pastel renkler, kobalt mavisi ipek bir elbise giymiş, rüya gibi bir atmosfer, rüzgarda savrulan uzun simsiyah saçlar, iri etkileyici koyu kahverengi gözler, aralık kırmızı dudaklar, nostalji ve huzur ileten, düşünceli bakış, bir nostalji kırıntısı, güneşin son ışınları darmadağınık saçlarının arasından dans ederken sıcak ambiyansı delen, sessiz bir anın içinde yüksek çözünürlüklü tam boy dikey güzel sanatlar portresidir.
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="prompt-2097547198523388128"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@AIGuideNote](https://x.com/AIGuideNote) · [Orijinal gönderi](https://x.com/AIGuideNote/status/2097547198523388128)
-
-Ürün Pazarlaması · Poster / El İlanı · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2097547198523388128-1.jpg" alt="Görsel 1" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
