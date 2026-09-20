@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**26** Prompts · Dernier ajout: **2026-09-20**
+**27** Prompts · Dernier ajout: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2101586661775675700"></a>
 
-### Traduction en cours
+### Photo éditoriale d'un homme avec un ordinateur portable dans l'habitacle d'une voiture de luxe en cuir cognac.
 
 Auteur：[@pictsbyai](https://x.com/pictsbyai) · [Publication originale](https://x.com/pictsbyai/status/2101586661775675700)
 
 Photographie · Personnage · Véhicule · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Photo éditoriale d'un homme avec un ordinateur portable dans l'habitacle d'une voiture de luxe en cuir cognac.
 
 <img src="images/2101586661775675700-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Un bel homme jeune adulte aux cheveux bruns bouclés et ébouriffés est assis au centre dans une posture détendue, regardant vers le bas avec une expression sérieuse et spontanée, la bouche fermée et neutre, et les sourcils détendus. Il porte un polo bleu marine foncé rehaussé d'un col à bordure blanche éclatante et un pantalon blanc immaculé. Une montre à maillons en métal argenté orne son poignet gauche, qui est légèrement surélevé tandis que sa main gauche repose nonchalamment sur le côté gauche du châssis du clavier noir d'un ordinateur portable argenté, tandis que sa main droite détendue a l'index et le majeur touchant légèrement le pavé tactile, traduisant une disposition naturelle et décontractée à taper. Il est positionné dans la faible profondeur spatiale de la cabine arrière d'une automobile exécutive de luxe, assis contre un plan moyen immaculé en cuir marron cognac orné de fins motifs perforés et de surpiqûres précises. À l'avant-plan, des appuie-tête avant en cuir marron cognac lisse flanquent et encadrent symétriquement sa silhouette, tandis qu'une vitre de voiture teintée foncée sur la gauche reflète de faibles lampadaires extérieurs et qu'un soupçon subtil du bord rouge d'une boucle de ceinture de sécurité est visible vers le bas à droite contre la moquette noire. La scène feutrée et sophistiquée est illuminée par un éclairage plongeant dur et dramatique émanant de deux liseuses dorées chaleureuses au plafond de la cabine, projetant des ombres très contrastées, d'un noir profond et nettement définies sous son menton, sous l'ordinateur portable et le long de l'intérieur de la voiture. De brillants reflets spéculaires sont préservés sur son visage vivement éclairé, le col blanc immaculé, le cadran métallique de la montre et les bords supérieurs des luxueux sièges en cuir, sublimant une riche palette complémentaire de bleu marine profond, de marron cognac, de noir intense et de blanc chaud. Cette photographie éditoriale de style de vie luxueux est capturée numériquement avec un réalisme d'une netteté chirurgicale et une perspective de face, évoquant l'esthétique d'un appareil plein format utilisant un objectif de 35 mm à f/2.0 pour une profondeur de champ moyenne. Prise avec une sensibilité ISO élevée de 3200 pour introduire un bruit numérique authentique, l'image présente un post-traitement cinématographique avec des noirs écrasés pour une profondeur d'ombre dense, un contraste de couleur accentué entre la chemise marine et le cuir marron, et un gain de clarté sur les traits du visage, le tout méticuleusement cadré dans un format 4:5.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -776,6 +776,28 @@ Portrait / Selfie · Personnage · Article de mode · Publié
 
 ```text
 L'image est un portrait d'art vertical en pied haute résolution, Sony A1 et objectif 120 mm, capturant une svelte top-modèle au début de la vingtaine, baignée dans la chaude lumière de l'heure dorée, trouvant du réconfort sur une balançoire, couleurs pastel douces et vaporeuses, vêtue d'une robe en soie bleu cobalt, atmosphère de rêve, avec de longs cheveux noir de jais balayés par le vent, de grands yeux marron foncé expressifs, des lèvres rouges entrouvertes, véhiculant nostalgie et paix, regard pensif, un soupçon de nostalgie, perçant l'ambiance chaleureuse alors que les derniers rayons du soleil dansent à travers ses cheveux ébouriffés, dans un moment de quiétude.
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Traduction en cours
+
+Auteur：[@AIGuideNote](https://x.com/AIGuideNote) · [Publication originale](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Marketing produit · Affiche / Flyer · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097547198523388128-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)

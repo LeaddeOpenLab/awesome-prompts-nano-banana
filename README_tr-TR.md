@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**26** Prompt · Son eklenen: **2026-09-20**
+**27** Prompt · Son eklenen: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2101586661775675700"></a>
 
-### Çeviri sürüyor
+### Konyak rengi deriye sahip lüks bir araba kabininde dizüstü bilgisayarlı bir adamın editoryal fotoğrafı.
 
 Yazar：[@pictsbyai](https://x.com/pictsbyai) · [Orijinal gönderi](https://x.com/pictsbyai/status/2101586661775675700)
 
 Fotoğrafçılık · Karakter · Araç · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Konyak rengi deriye sahip lüks bir araba kabininde dizüstü bilgisayarlı bir adamın editoryal fotoğrafı.
 
 <img src="images/2101586661775675700-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Dağınık, koyu renkli kıvırcık saçlı, yakışıklı genç bir yetişkin erkek, rahat bir duruşla merkeze oturmuş, ciddi, samimi bir ifade, kapalı nötr bir ağız ve gevşemiş kaşlarla aşağıya doğru bakıyor. Parlak beyaz biyeli bir yakayla vurgulanmış koyu lacivert bir polo tişört ve jilet gibi beyaz pantolon giyiyor. Sol bileğinde gümüş metal baklalı bir saat takılı; gümüş renkli bir dizüstü bilgisayarın siyah klavye gövdesinin sol tarafında sol eli rahatça dururken sol bileği hafifçe kalkık duruyor; rahat olan sağ elinin işaret ve orta parmakları ise izleme dörtgenine (trackpad) hafifçe dokunarak yazmaya hazır, doğal ve rahat bir hali yansıtıyor. Lüks bir makam otomobilinin arka kabininin sığ uzamsal derinliğinde, ince delikli desenlere ve kusursuz dikiş detaylarına sahip konyak kahverengisi deriden oluşan kusursuz bir orta planın önünde oturuyor. Ön planda yer alan pürüzsüz konyak kahverengisi deri ön koltuk başlıkları onun siluetini simetrik olarak çevreleyip çerçevelerken, soldaki koyu renkli araç camı dışarıdaki sokak ışıklarını belli belirsiz yansıtıyor ve siyah halıya karşı sağ alt tarafta kırmızı bir emniyet kemeri tokasının kenarının ince bir ipucu görülüyor. Bu kasvetli ve sofistike sahne, iki sıcak altın sarısı tavan okuma lambasından yayılan sert, dramatik tepeden aydınlatmayla aydınlatılarak çenesinin altında, dizüstü bilgisayarın altında ve otomobilin iç kısımlarının yanlarında yüksek kontrastlı, koyu siyah, keskin hatlı gölgeler oluşturuyor. Parlak bir şekilde aydınlatılmış yüzünde, kolalı beyaz yakada, metalik saat kadranında ve lüks deri koltukların üst kenarlarında parlak yansımalar korunarak derin lacivert, konyak kahverengisi, keskin siyah ve sıcak beyazdan oluşan zengin tamamlayıcı renk paleti güçlendiriliyor. Bu editoryal lüks yaşam tarzı fotoğrafı, orta alan derinliği için f/2.0 diyafram açıklığında 35 mm lens kullanan tam kare bir kameranın estetiğini çağrıştıran, son derece keskin bir gerçekçilik ve tam karşıdan bir perspektifle dijital olarak yakalanmıştır. Otantik dijital gren oluşturmak için 3200 gibi yüksek bir ISO ile çekilen görüntü; yoğun gölge derinliği için ezilmiş siyahlar, lacivert gömlek ile kahverengi deri arasında artırılmış renk kontrastı ve yüz hatlarında netlik artışı içeren sinematik bir son işlemeye sahip olup 4:5 en-boy oranında titizlikle çerçevelenmiştir.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -885,6 +885,28 @@ Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 
 ```text
 Görüntü, Sony A1 ve 120 mm lens ile çekilmiş, 20'li yaşlarının başında narin bir süper modeli yakalayan, altın saatin sıcak ışığıyla yıkanmış, bir salıncakta teselli bulan, yumuşak puslu pastel renkler, kobalt mavisi ipek bir elbise giymiş, rüya gibi bir atmosfer, rüzgarda savrulan uzun simsiyah saçlar, iri etkileyici koyu kahverengi gözler, aralık kırmızı dudaklar, nostalji ve huzur ileten, düşünceli bakış, bir nostalji kırıntısı, güneşin son ışınları darmadağınık saçlarının arasından dans ederken sıcak ambiyansı delen, sessiz bir anın içinde yüksek çözünürlüklü tam boy dikey güzel sanatlar portresidir.
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AIGuideNote](https://x.com/AIGuideNote) · [Orijinal gönderi](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Ürün Pazarlaması · Poster / El İlanı · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097547198523388128-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

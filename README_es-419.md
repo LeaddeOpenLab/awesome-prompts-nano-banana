@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**26** Prompts · Última incorporación: **2026-09-20**
+**27** Prompts · Última incorporación: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 <a name="prompt-2101586661775675700"></a>
 
-### Traducción en curso
+### Foto editorial de un hombre con una laptop en la cabina de un auto de lujo con cuero color coñac.
 
 Autor：[@pictsbyai](https://x.com/pictsbyai) · [Publicación original](https://x.com/pictsbyai/status/2101586661775675700)
 
 Fotografía · Personaje · Vehículo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Foto editorial de un hombre con una laptop en la cabina de un auto de lujo con cuero color coñac.
 
 <img src="images/2101586661775675700-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Un apuesto hombre adulto joven con cabello oscuro, rizado y despeinado se sienta centrado en una postura relajada, mirando hacia abajo con una expresión seria y espontánea, boca neutra cerrada y cejas relajadas. Viste una camisa polo azul marino oscuro acentuada por un cuello con ribete blanco brillante y pantalones blancos impecables. Un reloj de eslabones de metal plateado adorna su muñeca izquierda, la cual está ligeramente elevada mientras su mano izquierda descansa casualmente sobre el lado izquierdo del área del teclado negro de una laptop plateada, mientras que su relajada mano derecha tiene los dedos índice y medio tocando ligeramente el panel táctil, transmitiendo una disposición orgánica y casual para escribir. Está ubicado en la poca profundidad espacial de la cabina trasera de un automóvil ejecutivo de lujo, sentado contra un plano medio impecable de cuero marrón coñac con finos patrones perforados y detalles de costuras precisas. Los suaves reposacabezas de cuero marrón coñac de los asientos delanteros en el primer plano flanquean y enmarcan simétricamente su silueta, mientras que una ventanilla polarizada oscura a la izquierda refleja tenues luces de la calle exterior y se vislumbra un sutil toque del borde rojo de una hebilla de cinturón de seguridad cerca de la parte inferior derecha contra la alfombra negra. La escena atmosférica y sofisticada está iluminada por una luz cenital dura y dramática que emana de dos cálidas luces doradas de lectura del techo de la cabina, proyectando sombras de alto contraste, negro profundo y duramente definidas debajo de su barbilla, debajo de la laptop y a los lados del interior del automóvil. Se conservan brillantes reflejos especulares en su rostro vivamente iluminado, el cuello blanco impecable, la esfera metálica del reloj y los bordes superiores de los lujosos asientos de cuero, realzando una rica paleta complementaria de azul marino profundo, marrón coñac, negro absoluto y blanco cálido. Esta fotografía editorial de estilo de vida de lujo está capturada digitalmente con un realismo de nitidez extrema y una perspectiva frontal, evocando la estética de una cámara de fotograma completo con un lente de 35 mm a f/2.0 para una profundidad de campo media. Tomada con un ISO alto de 3200 para introducir ruido digital auténtico, la imagen presenta un posprocesamiento cinematográfico con negros aplastados para una densidad profunda de sombras, un contraste de color mejorado entre la camisa azul marino y el cuero marrón, y un aumento de claridad en los rasgos faciales, todo meticulosamente encuadrado en una relación de aspecto de 4:5.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -776,6 +776,28 @@ Retrato / Selfie · Personaje · Artículo de moda · Publicado
 
 ```text
 La imagen es un retrato vertical de bellas artes de cuerpo entero y alta resolución, tomado con Sony A1 y lente de 120 mm, que captura a una esbelta supermodelo de unos 20 años, bañada por la cálida luz de la hora dorada, encontrando consuelo en un columpio, suaves y brumosos colores pastel, vestida con un vestido de seda azul cobalto, atmósfera de ensueño, con cabello largo negro azabache al viento, grandes y expresivos ojos café oscuro, labios rojos entreabiertos, transmitiendo nostalgia y paz, mirada pensativa, una pizca de nostalgia, atraviesa el ambiente cálido mientras los últimos rayos del sol bailan a través de su cabello despeinado, en un momento de quietud.
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Traducción en curso
+
+Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Publicación original](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Marketing de producto · Póster / Volante · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097547198523388128-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

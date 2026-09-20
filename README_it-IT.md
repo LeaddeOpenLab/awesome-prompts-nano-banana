@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**26** Prompt · Ultima aggiunta: **2026-09-20**
+**27** Prompt · Ultima aggiunta: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2101586661775675700"></a>
 
-### Traduzione in corso
+### Foto editoriale di un uomo con un laptop nell'abitacolo di un'auto di lusso con interni in pelle color cognac.
 
 Autore：[@pictsbyai](https://x.com/pictsbyai) · [Post originale](https://x.com/pictsbyai/status/2101586661775675700)
 
 Fotografia · Personaggio · Veicolo · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Foto editoriale di un uomo con un laptop nell'abitacolo di un'auto di lusso con interni in pelle color cognac.
 
 <img src="images/2101586661775675700-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Un bell'uomo giovane adulto con capelli scuri, ricci e scompigliati siede al centro in una postura rilassata, guardando verso il basso con un'espressione seria e spontanea, bocca neutra chiusa e sopracciglia rilassate. Indossa una polo blu navy scuro rifinita da un colletto con bordino bianco brillante e pantaloni bianchi impeccabili. Un orologio con maglie in metallo argentato adorna il suo polso sinistro, che è leggermente sollevato mentre la mano sinistra riposa casualmente sul lato sinistro del piano della tastiera nera di un computer portatile argentato, mentre la mano destra rilassata ha indice e medio che toccano leggermente il trackpad, trasmettendo una naturale e informale prontezza a digitare. È posizionato nella ridotta profondità spaziale della cabina posteriore di un'automobile executive di lusso, seduto contro un piano medio immacolato di pelle marrone cognac caratterizzata da raffinati motivi traforati e cuciture precise. I lisci poggiatesta dei sedili anteriori in pelle marrone cognac in primo piano fiancheggiano e incorniciano simmetricamente la sua silhouette, mentre un finestrino oscurato scuro sulla sinistra riflette i deboli lampioni esterni e un sottile accenno del bordo rosso di una fibbia della cintura di sicurezza è visibile in basso a destra contro la moquette nera. La scena suggestiva e sofisticata è illuminata da una luce dura e drammatica proveniente dall'alto, emanata da due calde luci dorate di lettura sul padiglione della cabina, proiettando ombre ad alto contrasto, nero profondo e nettamente definite sotto il suo mento, sotto il portatile e sui lati dell'interno dell'auto. Brillanti riflessi speculari sono conservati sul suo viso vivamente illuminato, sul colletto bianco candido, sul quadrante metallico dell'orologio e sui bordi superiori dei lussuosi sedili in pelle, esaltando una ricca tavolozza complementare di blu navy profondo, marrone cognac, nero assoluto e bianco caldo. Questa fotografia editoriale di lifestyle di lusso è catturata digitalmente con un realismo straordinariamente nitido e una prospettiva frontale, evocando l'estetica di una fotocamera full-frame con un obiettivo da 35 mm a f/2.0 per una profondità di campo media. Scattata con un ISO elevato di 3200 per introdurre un autentico rumore digitale, l'immagine presenta una post-produzione cinematografica con neri schiacciati per una densa profondità delle ombre, un contrasto cromatico accentuato tra la polo navy e la pelle marrone e una maggiore nitidezza sui tratti del viso, il tutto meticolosamente inquadrato in un rapporto d'aspetto 4:5.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -776,6 +776,28 @@ Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
 
 ```text
 L'immagine è un ritratto artistico verticale a figura intera ad alta risoluzione, Sony A1 e obiettivo da 120 mm, che cattura una snella top model poco più che ventenne, immersa nella calda luce dell'ora d'oro, che trova conforto su un'altalena, morbidi e velati colori pastello, che indossa un abito di seta blu cobalto, atmosfera sognante, con lunghi capelli corvini scompigliati dal vento, grandi ed espressivi occhi castano scuro, labbra rosse dischiuse, che trasmettono nostalgia e pace, sguardo pensieroso, una punta di nostalgia, trafigge la calda atmosfera mentre gli ultimi raggi del sole danzano tra i suoi capelli spettinati, in un momento di quiete.
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Traduzione in corso
+
+Autore：[@AIGuideNote](https://x.com/AIGuideNote) · [Post originale](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Marketing di Prodotto · Poster / Volantino · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097547198523388128-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)

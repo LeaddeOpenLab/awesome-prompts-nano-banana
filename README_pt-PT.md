@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**26** Prompts · Adição mais recente: **2026-09-20**
+**27** Prompts · Adição mais recente: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2101586661775675700"></a>
 
-### Tradução em curso
+### Foto editorial de um homem com um portátil no habitáculo de um carro de luxo com couro conhaque.
 
 Autor：[@pictsbyai](https://x.com/pictsbyai) · [Publicação original](https://x.com/pictsbyai/status/2101586661775675700)
 
 Fotografia · Personagem · Veículo · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Foto editorial de um homem com um portátil no habitáculo de um carro de luxo com couro conhaque.
 
 <img src="images/2101586661775675700-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Um atraente jovem adulto do sexo masculino com cabelo escuro, encaracolado e despenteado está sentado ao centro numa postura descontraída, a olhar para baixo com uma expressão séria e espontânea, boca fechada e neutra, e sobrancelhas relaxadas. Veste uma camisa polo azul-marinho escuro realçada por um colarinho debruado a branco brilhante e calças brancas impecáveis. Um relógio de elos metálicos prateado adorna o seu pulso esquerdo, que está ligeiramente elevado enquanto a mão esquerda repousa casualmente no lado esquerdo da base preta do teclado de um portátil prateado, enquanto a mão direita descontraída tem os dedos indicador e médio a tocar suavemente no trackpad, transmitindo uma prontidão orgânica e casual para digitar. Encontra-se posicionado na profundidade espacial rasa do habitáculo traseiro de um automóvel executivo de luxo, sentado contra um plano intermédio imaculado de couro castanho-conhaque com padrões perfurados finos e costuras detalhadas e precisas. Encostos de cabeça dos bancos dianteiros em couro castanho-conhaque liso no primeiro plano ladeiam simetricamente e emolduram a sua silhueta, enquanto um vidro escurecido à esquerda reflete discretas luzes da rua e um toque subtil da borda vermelha do fecho do cinto de segurança é visível no canto inferior direito contra a carpete preta. A cena sombria e sofisticada é iluminada por uma luz superior dura e dramática proveniente de duas luzes de leitura de teto douradas e quentes, projetando sombras de alto contraste, pretas profundas e duramente definidas sob o queixo, sob o portátil e a rodear o interior do carro. Brilhantes realces especulares são preservados no seu rosto iluminado, no colarinho branco nítido, no mostrador metálico do relógio e nas extremidades superiores dos luxuosos bancos de couro, realçando uma rica paleta complementar de azul-marinho profundo, castanho-conhaque, preto austero e branco quente. Esta fotografia editorial de estilo de vida de luxo é captada digitalmente com realismo cirúrgico e uma perspetiva frontal, evocando a estética de uma câmara full-frame com uma objetiva de 35mm a f/2.0 para uma profundidade de campo média. Fotografada com um ISO elevado de 3200 para introduzir ruído digital autêntico, a imagem apresenta pós-processamento cinematográfico com pretos esmagados para uma profundidade de sombra densa, contraste de cor melhorado entre a camisa azul-marinho e o couro castanho, e um ganho de nitidez nos traços faciais, tudo meticulosamente enquadrado numa proporção de 4:5.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -855,6 +855,28 @@ Retrato / Selfie · Personagem · Item de Moda · Publicado
 
 ```text
 A imagem é um retrato artístico vertical de corpo inteiro em alta resolução, Sony A1 e lente de 120 mm, captando uma esbelta supermodelo no início dos seus 20 anos, banhada pela luz quente da hora dourada, encontrando consolo num baloiço, cores pastel suaves e nebulosas, vestindo um vestido de seda azul-cobalto, atmosfera de sonho, com longos cabelos pretos como azeviche esvoaçantes, grandes e expressivos olhos castanho-escuros, lábios vermelhos entreabertos, transmitindo nostalgia e paz, olhar pensativo, uma pitada de nostalgia, atravessa o ambiente acolhedor enquanto os últimos raios de sol dançam pelos seus cabelos desalinhados, num momento de quietude.
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Tradução em curso
+
+Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Publicação original](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Marketing de Produto · Pôster / Folheto · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2097547198523388128-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)

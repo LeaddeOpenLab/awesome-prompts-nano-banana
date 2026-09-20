@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**26** Prompt · Bổ sung mới nhất: **2026-09-20**
+**27** Prompt · Bổ sung mới nhất: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2101586661775675700"></a>
 
-### Đang dịch
+### Ảnh biên tập về một người đàn ông cùng máy tính xách tay trong khoang xe hơi sang trọng với da màu cognac.
 
 Tác giả：[@pictsbyai](https://x.com/pictsbyai) · [Bài gốc](https://x.com/pictsbyai/status/2101586661775675700)
 
 Nhiếp ảnh · Nhân vật · Phương tiện · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Ảnh biên tập về một người đàn ông cùng máy tính xách tay trong khoang xe hơi sang trọng với da màu cognac.
 
 <img src="images/2101586661775675700-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một thanh niên điển trai với mái tóc xoăn màu tối hơi rối ngồi ở vị trí trung tâm trong tư thế thư thái, ánh mắt nhìn xuống với vẻ mặt nghiêm nghị, tự nhiên, miệng khép trung tính và lông mày thả lỏng. Anh mặc chiếc áo polo màu xanh navy đậm với điểm nhấn là cổ áo viền trắng sáng và chiếc quần dài màu trắng tinh tươm. Chiếc đồng hồ kim loại mắt xích màu bạc tô điểm cho cổ tay trái của anh, cổ tay hơi nâng lên khi bàn tay trái đặt hờ hững trên mặt bên trái của bàn phím đen trên chiếc laptop màu bạc, trong khi bàn tay phải thả lỏng có ngón trỏ và ngón giữa chạm nhẹ vào bàn di chuột, thể hiện tư thế sẵn sàng gõ phím một cách tự nhiên, thoải mái. Anh ở trong khoảng không gian có độ sâu nông của khoang sau một chiếc xe hơi hạng sang dành cho doanh nhân, ngồi tựa vào hậu cảnh trung tâm tinh tươm bằng da màu nâu cognac với các họa tiết đục lỗ tinh xảo cùng đường chỉ may tỉ mỉ. Tựa đầu ghế trước bằng da màu nâu cognac mịn màng ở tiền cảnh nằm đối xứng hai bên và tạo khung cho bóng dáng của anh, trong khi cửa sổ xe dán kính tối màu bên trái phản chiếu ánh đèn đường mờ ảo bên ngoài và một thoáng gờ khóa dây an toàn màu đỏ có thể nhìn thấy gần phía dưới bên phải trên nền thảm đen. Khung cảnh đầy tâm trạng, tinh tế này được chiếu sáng bởi ánh sáng gắt, đầy kịch tính từ trên cao rọi xuống phát ra từ hai ngọn đèn đọc sách màu vàng ấm trên trần khoang xe, tạo ra những vùng bóng đen sâu, độ tương phản cao, sắc nét dưới cằm anh, dưới laptop và hai bên sườn nội thất xe. Các vệt sáng phản chiếu rực rỡ được giữ nguyên trên khuôn mặt sáng bừng của anh, cổ áo trắng tinh, mặt đồng hồ kim loại và các cạnh trên của ghế da sang trọng, làm nổi bật bảng màu bổ trợ phong phú gồm xanh navy đậm, nâu cognac, đen tuyền và trắng ấm. Bức ảnh phong cách sống xa xỉ mang tính biên tập này được chụp kỹ thuật số với độ chân thực sắc nét và góc nhìn trực diện, gợi lên tính thẩm mỹ của máy ảnh full-frame dùng ống kính 35mm ở f/2.0 cho độ sâu trường ảnh trung bình. Được chụp với ISO cao 3200 để tạo ra độ nhiễu hạt kỹ thuật số chân thực, bức ảnh có phần hậu kỳ mang đậm chất điện ảnh với độ đen được nén sâu để tăng độ sâu của bóng tối, độ tương phản màu sắc được tăng cường giữa áo sơ mi màu navy và da màu nâu, cùng độ rõ nét được tăng cường trên các đường nét khuôn mặt, tất cả được đóng khung tỉ mỉ theo tỷ lệ khung hình 4:5.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -855,6 +855,28 @@ Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đ�
 
 ```text
 Hình ảnh là chân dung mỹ thuật dạng đứng toàn thân độ phân giải cao, chụp bằng máy ảnh Sony A1 và ống kính 120mm, ghi lại hình ảnh một siêu mẫu thon thả ở độ tuổi đầu 20, đắm mình trong ánh sáng hoàng hôn ấm áp, tìm kiếm sự bình yên trên chiếc xích đu, tông màu pastel mờ ảo mềm mại, mặc chiếc váy lụa màu xanh cô-ban, bầu không khí mơ màng, với mái tóc đen nhánh dài tung bay trong gió, đôi mắt nâu sẫm to tròn đầy biểu cảm, đôi môi đỏ khẽ hé mở, gợi lên nỗi nhớ nhung và sự bình yên, ánh nhìn đăm chiêu, một thoáng hoài niệm, xuyên qua bầu không khí ấm áp khi những tia nắng cuối cùng nhảy múa qua mái tóc rối bời của cô, trong khoảnh khắc tĩnh lặng.
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Đang dịch
+
+Tác giả：[@AIGuideNote](https://x.com/AIGuideNote) · [Bài gốc](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Tiếp thị sản phẩm · Áp phích / Tờ rơi · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097547198523388128-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
