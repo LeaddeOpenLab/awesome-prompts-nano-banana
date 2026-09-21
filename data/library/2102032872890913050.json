@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T16:28:53.846Z",
+  "model": "nano-banana",
+  "prompt": "Ultra-realistic cinematic beauty portrait of a stunning young woman, preserving the exact facial identity and recognizable features of the reference face. She wears an elegant traditional-inspired Korean hanbok in soft blush pink and ivory. She has long dark black hair styled in a sophisticated low bun with delicate pearl hair ornaments and a soft pink ribbon.\n\nHer face is beautiful, natural, and photorealistic, with a clearly sad and melancholic expression — slightly downturned eyes, subtle emotional sadness in her gaze, relaxed facial muscles, and naturally soft lips. The sadness should feel authentic and understated, not exaggerated or crying.\n\nShe holds a traditional ceremonial mask beside her face with one hand. The mask closely resembles her facial identity, facial structure, hairstyle, and recognizable features, creating the impression that it represents her own face. However, the mask has the complete opposite emotion: a genuinely happy and joyful expression, with bright cheerful eyes, raised cheeks, rosy cheeks, and a warm natural smile with red lips. The woman's face must remain sad while the mask remains clearly happy.\n\nShe wears an off-shoulder ivory blouse decorated with delicate pink floral embroidery, layered with a translucent dusty-rose silk shawl featuring intricate golden floral details. Warm soft studio lighting, dreamy peach-pink background, cinematic shadows, realistic skin pores, fine individual hair strands, detailed silk and embroidery textures, shallow depth of field, 85mm portrait lens, f/1.8, soft bokeh, elegant Korean fashion editorial photography, emotional visual storytelling, photorealistic, highly detailed, natural skin texture, cinematic color grading, 8K detail, vertical 4:5 composition.",
+  "promptTranslations": {
+    "en": "Ultra-realistic cinematic beauty portrait of a stunning young woman, preserving the exact facial identity and recognizable features of the reference face. She wears an elegant traditional-inspired Korean hanbok in soft blush pink and ivory. She has long dark black hair styled in a sophisticated low bun with delicate pearl hair ornaments and a soft pink ribbon.\n\nHer face is beautiful, natural, and photorealistic, with a clearly sad and melancholic expression — slightly downturned eyes, subtle emotional sadness in her gaze, relaxed facial muscles, and naturally soft lips. The sadness should feel authentic and understated, not exaggerated or crying.\n\nShe holds a traditional ceremonial mask beside her face with one hand. The mask closely resembles her facial identity, facial structure, hairstyle, and recognizable features, creating the impression that it represents her own face. However, the mask has the complete opposite emotion: a genuinely happy and joyful expression, with bright cheerful eyes, raised cheeks, rosy cheeks, and a warm natural smile with red lips. The woman's face must remain sad while the mask remains clearly happy.\n\nShe wears an off-shoulder ivory blouse decorated with delicate pink floral embroidery, layered with a translucent dusty-rose silk shawl featuring intricate golden floral details. Warm soft studio lighting, dreamy peach-pink background, cinematic shadows, realistic skin pores, fine individual hair strands, detailed silk and embroidery textures, shallow depth of field, 85mm portrait lens, f/1.8, soft bokeh, elegant Korean fashion editorial photography, emotional visual storytelling, photorealistic, highly detailed, natural skin texture, cinematic color grading, 8K detail, vertical 4:5 composition."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic portrait of a melancholic young woman in a hanbok holding a smiling mask beside her face."
+  },
+  "translationVersion": 2,
+  "summary": "Cinematic portrait of a melancholic young woman in a hanbok holding a smiling mask beside her face.",
+  "summaryEn": "Cinematic portrait of a melancholic young woman in a hanbok holding a smiling mask beside her face.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102032872890913050",
+    "canonicalUrl": "https://x.com/Elvorya/status/2102032872890913050",
+    "author": {
+      "username": "Elvorya",
+      "displayName": "Elvorya",
+      "profileUrl": "https://x.com/Elvorya"
+    },
+    "publishedAt": "2026-09-21T13:51:05.000Z",
+    "collectedAt": "2026-09-21T16:15:58.179Z",
+    "language": "en",
+    "originalText": "Nano Banana Pro\n\nPrompt:Ultra-realistic cinematic beauty portrait of a stunning young woman, preserving the exact facial identity and recognizable features of the reference face. She wears an elegant traditional-inspired Korean hanbok in soft blush pink and ivory. She has long dark black hair styled in a sophisticated low bun with delicate pearl hair ornaments and a soft pink ribbon.\n\nHer face is beautiful, natural, and photorealistic, with a clearly sad and melancholic expression — slightly downturned eyes, subtle emotional sadness in her gaze, relaxed facial muscles, and naturally soft lips. The sadness should feel authentic and understated, not exaggerated or crying.\n\nShe holds a traditional ceremonial mask beside her face with one hand. The mask closely resembles her facial identity, facial structure, hairstyle, and recognizable features, creating the impression that it represents her own face. However, the mask has the complete opposite emotion: a genuinely happy and joyful expression, with bright cheerful eyes, raised cheeks, rosy cheeks, and a warm natural smile with red lips. The woman's face must remain sad while the mask remains clearly happy.\n\nShe wears an off-shoulder ivory blouse decorated with delicate pink floral embroidery, layered with a translucent dusty-rose silk shawl featuring intricate golden floral details. Warm soft studio lighting, dreamy peach-pink background, cinematic shadows, realistic skin pores, fine individual hair strands, detailed silk and embroidery textures, shallow depth of field, 85mm portrait lens, f/1.8, soft bokeh, elegant Korean fashion editorial photography, emotional visual storytelling, photorealistic, highly detailed, natural skin texture, cinematic color grading, 8K detail, vertical 4:5 composition.\n\nNegative prompt: sad or neutral mask, sad mask expression, smiling woman, happy woman, matching emotions, exaggerated crying, tears, cartoon, anime, CGI, 3D render, plastic skin, over-smoothed face, distorted hands, extra fingers, malformed mask, duplicated features, deformed face, asymmetrical eyes, blurry details, text, logo, watermark.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSvrwL5aUAACQnU.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSvrwL5aUAACQnU.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 68,
+      "repostCount": 6,
+      "replyCount": 26,
+      "quoteCount": 0,
+      "viewCount": 2039
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Elvorya/status/2102032872890913050",
+  "coverUrl": "https://pbs.twimg.com/media/HSvrwL5aUAACQnU.jpg",
+  "coverPath": "images/2102032872890913050-1.jpg",
+  "imagePaths": [
+    "images/2102032872890913050-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSvrwL5aUAACQnU",
+    "x-post:2102032872890913050"
+  ],
+  "analysis": {
+    "summary": "Cinematic portrait of a melancholic young woman in a hanbok holding a smiling mask beside her face.",
+    "summaryEn": "Cinematic portrait of a melancholic young woman in a hanbok holding a smiling mask beside her face.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The image precisely matches the prompt's subject, lighting, styling, and contrasting melancholic face with a smiling mask."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Ultra-realistic cinematic beauty portrait of a stunning young woman, preserving the exact facial identity and recognizable features of the reference face. She wears an elegant traditional-inspired Korean hanbok in soft blush pink and ivory. She has long dark black hair styled in a sophisticated low bun with delicate pearl hair ornaments and a soft pink ribbon.\n\nHer face is beautiful, natural, and photorealistic, with a clearly sad and melancholic expression — slightly downturned eyes, subtle emotional sadness in her gaze, relaxed facial muscles, and naturally soft lips. The sadness should feel authentic and understated, not exaggerated or crying.\n\nShe holds a traditional ceremonial mask beside her face with one hand. The mask closely resembles her facial identity, facial structure, hairstyle, and recognizable features, creating the impression that it represents her own face. However, the mask has the complete opposite emotion: a genuinely happy and joyful expression, with bright cheerful eyes, raised cheeks, rosy cheeks, and a warm natural smile with red lips. The woman's face must remain sad while the mask remains clearly happy.\n\nShe wears an off-shoulder ivory blouse decorated with delicate pink floral embroidery, layered with a translucent dusty-rose silk shawl featuring intricate golden floral details. Warm soft studio lighting, dreamy peach-pink background, cinematic shadows, realistic skin pores, fine individual hair strands, detailed silk and embroidery textures, shallow depth of field, 85mm portrait lens, f/1.8, soft bokeh, elegant Korean fashion editorial photography, emotional visual storytelling, photorealistic, highly detailed, natural skin texture, cinematic color grading, 8K detail, vertical 4:5 composition.",
+    "sourceRange": {
+      "start": 24,
+      "end": 1775
+    },
+    "translations": {
+      "zh": "电影感肖像，一名身着粉白韩服的忧伤年轻女子，身旁手持一张极具对比感的微笑面具。",
+      "en": "Cinematic portrait of a melancholic young woman in a hanbok holding a smiling mask beside her face."
+    },
+    "targetModels": [
+      "nano-banana"
+    ],
+    "category": "text-to-image",
+    "useCase": "creative",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

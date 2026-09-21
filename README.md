@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**27** Prompts · Latest addition: **2026-09-20**
+**27** Prompts · Latest addition: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -325,6 +325,34 @@ A handsome young male with glowing tanned skin stands facing the camera directly
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2102032872890913050"></a>
+
+### Cinematic portrait of a melancholic young woman in a hanbok holding a smiling mask beside her face.
+
+Author：[@Elvorya](https://x.com/Elvorya) · [Source](https://x.com/Elvorya/status/2102032872890913050)
+
+Cinematic / Film Still · Portrait / Selfie · Character · Published
+
+**Summary:** Cinematic portrait of a melancholic young woman in a hanbok holding a smiling mask beside her face.
+
+<img src="images/2102032872890913050-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Ultra-realistic cinematic beauty portrait of a stunning young woman, preserving the exact facial identity and recognizable features of the reference face. She wears an elegant traditional-inspired Korean hanbok in soft blush pink and ivory. She has long dark black hair styled in a sophisticated low bun with delicate pearl hair ornaments and a soft pink ribbon.
+
+Her face is beautiful, natural, and photorealistic, with a clearly sad and melancholic expression — slightly downturned eyes, subtle emotional sadness in her gaze, relaxed facial muscles, and naturally soft lips. The sadness should feel authentic and understated, not exaggerated or crying.
+
+She holds a traditional ceremonial mask beside her face with one hand. The mask closely resembles her facial identity, facial structure, hairstyle, and recognizable features, creating the impression that it represents her own face. However, the mask has the complete opposite emotion: a genuinely happy and joyful expression, with bright cheerful eyes, raised cheeks, rosy cheeks, and a warm natural smile with red lips. The woman's face must remain sad while the mask remains clearly happy.
+
+She wears an off-shoulder ivory blouse decorated with delicate pink floral embroidery, layered with a translucent dusty-rose silk shawl featuring intricate golden floral details. Warm soft studio lighting, dreamy peach-pink background, cinematic shadows, realistic skin pores, fine individual hair strands, detailed silk and embroidery textures, shallow depth of field, 85mm portrait lens, f/1.8, soft bokeh, elegant Korean fashion editorial photography, emotional visual storytelling, photorealistic, highly detailed, natural skin texture, cinematic color grading, 8K detail, vertical 4:5 composition.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098365190282805417"></a>
 
@@ -828,45 +856,6 @@ Portrait / Selfie · Character · Fashion Item · Published
 
 ```text
 Image is high resolution full-hight vertical fine art portrait, Sony A1 and 120mm lens, capturing a lithe supermodel in her early 20s, bathed in warm golden hour light, finding solace on a swing, soft hazy pastel colors, wearing a cobalt blue silk dress, dreamy atmosphere, with long, windswept jet black hair, large expressive dark brown eyes, parted red lips, conveying nostalgia and peace, thoughtful gaze, hint of nostalgia, pierces through the warm ambiance as the sun's final rays dance through her tousled hair, in a moment of quietude.
-```
-
-[↑ Back to categories](#catalog)
-
----
-
-<a name="prompt-2097547198523388128"></a>
-
-### High-End Cosmetics &amp; Fragrance Launch Advertising Poster Design Prompt Template
-
-Author：[@AIGuideNote](https://x.com/AIGuideNote) · [Source](https://x.com/AIGuideNote/status/2097547198523388128)
-
-Product Marketing · Poster / Flyer · Published
-
-**Summary:** High-End Cosmetics &amp; Fragrance Launch Advertising Poster Design Prompt Template
-
-<img src="images/2097547198523388128-1.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-[Brand & Product Copy]
-- Main copy: {copy}
-- Product features & sub-copy: {subtext}
-- Brand collection name: {brandName}
-
-[Image Quality, Staging & Composition Specifications]
-- Style: Live-action beauty advertisement photo for high-end luxury cosmetic brands (such as CHANEL, DIOR, SHISEIDO, etc.).
-- Subject: Close-up of a female model's glossy, alluring lips or radiant skin, or a luxurious rouge (lipstick) or beauty serum bottle.
-- Background: Elegant, deep textures such as satin fabric, reflective black water surfaces, or marble.
-- Color & Lighting: Dramatic, gorgeous color palette emphasizing contrasts such as deep red (red of destiny), jet black, and gold. Highlighting glossiness and three-dimensionality with spotlights.
-- Typography (for GPT-image / Nano Banana Pro): The messages "{copy}" and "{subtext}", along with the brand name "{brandName}", are tastefully laid out in an extremely elegant, slender serif font.
-
-[Strict Layout and Output Constraints (Mandatory)]
-- Output the finished design itself, filling the entire canvas edge-to-edge. Interior backgrounds and scene depictions within the design (walls, spaces, shadows, etc.) may follow the instructions in the text.
-- Prohibited: Photos of the finished poster inside a picture frame, photos of it affixed to a wall, mockup photos placed on a desk or paper, perspective distortion of paper edges, or drop shadows.
-- Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
-
-- Aspect Ratio: --ar 3:4
 ```
 
 [↑ Back to categories](#catalog)

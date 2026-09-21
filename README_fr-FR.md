@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**27** Prompts · Dernier ajout: **2026-09-20**
+**27** Prompts · Dernier ajout: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -325,6 +325,28 @@ Un beau jeune homme à la peau bronzée et éclatante se tient face à l'apparei
 <a name="category-cinematic-film-still"></a>
 
 ## Image cinématographique / Photogramme de film
+
+<a name="prompt-2102032872890913050"></a>
+
+### Traduction en cours
+
+Auteur：[@Elvorya](https://x.com/Elvorya) · [Publication originale](https://x.com/Elvorya/status/2102032872890913050)
+
+Image cinématographique / Photogramme de film · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2102032872890913050-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098365190282805417"></a>
 
@@ -776,28 +798,6 @@ Portrait / Selfie · Personnage · Article de mode · Publié
 
 ```text
 L'image est un portrait d'art vertical en pied haute résolution, Sony A1 et objectif 120 mm, capturant une svelte top-modèle au début de la vingtaine, baignée dans la chaude lumière de l'heure dorée, trouvant du réconfort sur une balançoire, couleurs pastel douces et vaporeuses, vêtue d'une robe en soie bleu cobalt, atmosphère de rêve, avec de longs cheveux noir de jais balayés par le vent, de grands yeux marron foncé expressifs, des lèvres rouges entrouvertes, véhiculant nostalgie et paix, regard pensif, un soupçon de nostalgie, perçant l'ambiance chaleureuse alors que les derniers rayons du soleil dansent à travers ses cheveux ébouriffés, dans un moment de quiétude.
-```
-
-[↑ Retour aux catégories](#catalog)
-
----
-
-<a name="prompt-2097547198523388128"></a>
-
-### Traduction en cours
-
-Auteur：[@AIGuideNote](https://x.com/AIGuideNote) · [Publication originale](https://x.com/AIGuideNote/status/2097547198523388128)
-
-Marketing produit · Affiche / Flyer · Publié
-
-**Résumé:** Traduction en cours
-
-<img src="images/2097547198523388128-1.jpg" alt="Image 1" width="480" />
-
-**Consigne**
-
-```text
-Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
