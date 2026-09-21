@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**27** Prompts · Última incorporación: **2026-09-21**
+**28** Prompts · Última incorporación: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -328,20 +328,26 @@ Un apuesto joven de piel bronceada y radiante se encuentra de pie mirando direct
 
 <a name="prompt-2102032872890913050"></a>
 
-### Traducción en curso
+### Retrato cinematográfico de una joven melancólica con un hanbok sosteniendo una máscara sonriente junto a su rostro.
 
 Autor：[@Elvorya](https://x.com/Elvorya) · [Publicación original](https://x.com/Elvorya/status/2102032872890913050)
 
 Cine / Fotograma · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato cinematográfico de una joven melancólica con un hanbok sosteniendo una máscara sonriente junto a su rostro.
 
 <img src="images/2102032872890913050-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Retrato de belleza cinematográfico ultrarrealista de una deslumbrante mujer joven, conservando la identidad facial exacta y los rasgos reconocibles del rostro de referencia. Viste un elegante hanbok coreano de inspiración tradicional en tonos rosa pastel suave y marfil. Tiene el cabello largo, negro y oscuro, peinado en un sofisticado moño bajo con delicados adornos para el cabello de perlas y una cinta de color rosa suave.
+
+Su rostro es hermoso, natural y fotorrealista, con una expresión claramente triste y melancólica: ojos ligeramente caídos, una sutil tristeza emocional en su mirada, músculos faciales relajados y labios naturalmente suaves. La tristeza debe sentirse auténtica y sobria, no exagerada ni con llanto.
+
+Sostiene con una mano una máscara ceremonial tradicional junto a su rostro. La máscara se asemeja fielmente a su identidad facial, estructura ósea, peinado y rasgos característicos, creando la impresión de que representa su propio rostro. Sin embargo, la máscara muestra una emoción completamente opuesta: una expresión genuinamente alegre y feliz, con ojos brillantes y risueños, mejillas alzadas y sonrosadas, y una cálida sonrisa natural con labios rojos. El rostro de la mujer debe permanecer triste mientras que la máscara debe mantenerse claramente alegre.
+
+Lleva una blusa color marfil con hombros descubiertos, decorada con delicados bordados florales de color rosa, combinada con un chal de seda translúcido de color rosa empolvado con intrincados detalles florales dorados. Iluminación de estudio suave y cálida, fondo de ensueño en tono rosa melocotón, sombras cinematográficas, poros de piel realistas, mechones de cabello individuales finos, texturas detalladas de seda y bordado, profundidad de campo reducida, lente de retrato de 85 mm, f/1.8, suave efecto bokeh, elegante fotografía editorial de moda coreana, narración visual emotiva, fotorrealista, altamente detallada, textura de piel natural, gradación de color cinematográfica, detalle en 8K, composición vertical 4:5.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -798,6 +804,28 @@ Retrato / Selfie · Personaje · Artículo de moda · Publicado
 
 ```text
 La imagen es un retrato vertical de bellas artes de cuerpo entero y alta resolución, tomado con Sony A1 y lente de 120 mm, que captura a una esbelta supermodelo de unos 20 años, bañada por la cálida luz de la hora dorada, encontrando consuelo en un columpio, suaves y brumosos colores pastel, vestida con un vestido de seda azul cobalto, atmósfera de ensueño, con cabello largo negro azabache al viento, grandes y expresivos ojos café oscuro, labios rojos entreabiertos, transmitiendo nostalgia y paz, mirada pensativa, una pizca de nostalgia, atraviesa el ambiente cálido mientras los últimos rayos del sol bailan a través de su cabello despeinado, en un momento de quietud.
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Traducción en curso
+
+Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Publicación original](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Marketing de producto · Póster / Volante · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097547198523388128-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

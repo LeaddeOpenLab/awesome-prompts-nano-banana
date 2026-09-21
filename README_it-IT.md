@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**27** Prompt · Ultima aggiunta: **2026-09-21**
+**28** Prompt · Ultima aggiunta: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -328,20 +328,26 @@ Un bell'uomo giovane dalla pelle abbronzata e luminosa è in piedi rivolto diret
 
 <a name="prompt-2102032872890913050"></a>
 
-### Traduzione in corso
+### Ritratto cinematografico di una giovane donna malinconica in hanbok che tiene una maschera sorridente accanto al viso.
 
 Autore：[@Elvorya](https://x.com/Elvorya) · [Post originale](https://x.com/Elvorya/status/2102032872890913050)
 
 Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto cinematografico di una giovane donna malinconica in hanbok che tiene una maschera sorridente accanto al viso.
 
 <img src="images/2102032872890913050-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Ritratto cinematografico di bellezza ultra-realistico di una splendida giovane donna, che preserva l'esatta identità facciale e i tratti riconoscibili del volto di riferimento. Indossa un elegante hanbok coreano di ispirazione tradizionale nei toni del rosa cipria e dell'avorio. Ha lunghi capelli neri scuri acconciati in un sofisticato chignon basso con delicati ornamenti di perle e un nastro rosa tenue.
+
+Il suo viso è bello, naturale e fotorealistico, con un'espressione chiaramente triste e malinconica: occhi leggermente rivolti verso il basso, una sottile tristezza emotiva nello sguardo, muscoli facciali rilassati e labbra naturalmente morbide. La tristezza deve apparire autentica e sobria, non esagerata né in lacrime.
+
+Tiene una maschera cerimoniale tradizionale accanto al viso con una mano. La maschera richiama fedelmente la sua identità facciale, la struttura del viso, l'acconciatura e i tratti riconoscibili, creando l'impressione che rappresenti il suo stesso volto. Tuttavia, la maschera esprime un'emozione del tutto opposta: un'espressione genuinamente felice e gioiosa, con occhi luminosi e allegri, guance sollevate e rosee, e un caldo sorriso naturale con labbra rosse. Il viso della donna deve rimanere triste, mentre la maschera deve apparire chiaramente felice.
+
+Indossa una camicetta color avorio con spalle scoperte, decorata con delicati ricami floreali rosa, abbinata a uno scialle di seta rosa antico traslucido con intricati dettagli floreali dorati. Illuminazione da studio calda e morbida, sfondo sognante rosa pesca, ombre cinematografiche, pori della pelle realistici, singole ciocche di capelli sottili, texture dettagliate della seta e dei ricami, profondità di campo ridotta, obiettivo per ritratti da 85 mm, f/1.8, bokeh morbido, fotografia editoriale di moda coreana elegante, narrazione visiva emozionale, fotorealistica, altamente dettagliata, texture della pelle naturale, color grading cinematografico, dettagli in 8K, composizione verticale 4:5.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -798,6 +804,28 @@ Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
 
 ```text
 L'immagine è un ritratto artistico verticale a figura intera ad alta risoluzione, Sony A1 e obiettivo da 120 mm, che cattura una snella top model poco più che ventenne, immersa nella calda luce dell'ora d'oro, che trova conforto su un'altalena, morbidi e velati colori pastello, che indossa un abito di seta blu cobalto, atmosfera sognante, con lunghi capelli corvini scompigliati dal vento, grandi ed espressivi occhi castano scuro, labbra rosse dischiuse, che trasmettono nostalgia e pace, sguardo pensieroso, una punta di nostalgia, trafigge la calda atmosfera mentre gli ultimi raggi del sole danzano tra i suoi capelli spettinati, in un momento di quiete.
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Traduzione in corso
+
+Autore：[@AIGuideNote](https://x.com/AIGuideNote) · [Post originale](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Marketing di Prodotto · Poster / Volantino · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097547198523388128-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)

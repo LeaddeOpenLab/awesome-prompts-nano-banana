@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**27** Prompts · Última adição: **2026-09-21**
+**28** Prompts · Última adição: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -328,20 +328,26 @@ Um jovem atraente com pele bronzeada e brilhante está de frente para a câmera 
 
 <a name="prompt-2102032872890913050"></a>
 
-### Tradução em andamento
+### Retrato cinematográfico de uma jovem melancólica em um hanbok segurando uma máscara sorridente ao lado do rosto.
 
 Autor：[@Elvorya](https://x.com/Elvorya) · [Publicação original](https://x.com/Elvorya/status/2102032872890913050)
 
 Cinematográfico / Imagem de Filme · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Retrato cinematográfico de uma jovem melancólica em um hanbok segurando uma máscara sorridente ao lado do rosto.
 
 <img src="images/2102032872890913050-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Retrato de beleza cinematográfico ultrarrealista de uma jovem deslumbrante, preservando a identidade facial exata e os traços reconhecíveis do rosto de referência. Ela veste um elegante hanbok coreano de inspiração tradicional em tons suaves de rosa-chá e marfim. Ela tem longos cabelos negros escuros penteados em um coque baixo sofisticado com delicados ornamentos de pérola e uma fita rosa suave.
+
+Seu rosto é lindo, natural e fotorrealista, com uma expressão claramente triste e melancólica — olhos ligeiramente caídos, uma sutil tristeza emocional no olhar, músculos faciais relaxados e lábios naturalmente suaves. A tristeza deve parecer autêntica e contida, não exagerada ou chorosa.
+
+Ela segura uma máscara cerimonial tradicional ao lado do rosto com uma das mãos. A máscara se assemelha muito à sua identidade facial, estrutura do rosto, penteado e características reconhecíveis, criando a impressão de que representa seu próprio rosto. No entanto, a máscara expressa uma emoção completamente oposta: uma expressão genuinamente feliz e alegre, com olhos brilhantes e vivazes, bochechas levantadas e rosadas, e um sorriso caloroso e natural com lábios vermelhos. O rosto da mulher deve permanecer triste, enquanto a máscara permanece claramente alegre.
+
+Ela usa uma blusa marfim com ombros à mostra decorada com delicados bordados florais cor-de-rosa, sobreposta por um xale de seda translúcido em tom rosa-antigo com intrincados detalhes florais dourados. Iluminação de estúdio suave e quente, fundo rosa-pêssego sonhador, sombras cinematográficas, poros de pele realistas, fios de cabelo individuais finos, texturas detalhadas de seda e bordado, profundidade de campo rasa, lente de retrato de 85 mm, f/1.8, bokeh suave, elegante fotografia editorial de moda coreana, narrativa visual emocional, fotorrealista, altamente detalhada, textura de pele natural, gradação de cor cinematográfica, detalhamento em 8K, composição vertical 4:5.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -877,6 +883,28 @@ Retrato / Selfie · Personagem · Item de Moda · Publicado
 
 ```text
 A imagem é um retrato artístico vertical de corpo inteiro em alta resolução, Sony A1 e lente de 120 mm, capturando uma esbelta supermodelo no início dos seus 20 anos, banhada pela luz quente da hora dourada, encontrando consolo em um balanço, cores pastéis suaves e nebulosas, vestindo um vestido de seda azul-cobalto, atmosfera de sonho, com longos cabelos negros como azeviche esvoaçantes, grandes e expressivos olhos castanho-escuros, lábios vermelhos entreabertos, transmitindo nostalgia e paz, olhar pensativo, um toque de nostalgia, atravessa o ambiente acolhedor enquanto os últimos raios de sol dançam por seus cabelos desalinhados, em um momento de quietude.
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Tradução em andamento
+
+Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Publicação original](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Marketing de Produto · Pôster / Flyer · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2097547198523388128-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)

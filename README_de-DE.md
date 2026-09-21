@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**27** Prompts · Zuletzt hinzugefügt: **2026-09-21**
+**28** Prompts · Zuletzt hinzugefügt: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -328,20 +328,26 @@ Ein gutaussehender junger Mann mit strahlender, gebräunter Haut steht in selbst
 
 <a name="prompt-2102032872890913050"></a>
 
-### Übersetzung läuft
+### Filmisches Porträt einer melancholischen jungen Frau in einem Hanbok, die eine lächelnde Maske neben ihr Gesicht hält.
 
 Autor：[@Elvorya](https://x.com/Elvorya) · [Originalbeitrag](https://x.com/Elvorya/status/2102032872890913050)
 
 Kinematisch / Filmstill · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Filmisches Porträt einer melancholischen jungen Frau in einem Hanbok, die eine lächelnde Maske neben ihr Gesicht hält.
 
 <img src="images/2102032872890913050-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ultrarealistisches filmisches Schönheitsporträt einer atemberaubenden jungen Frau, wobei die exakte Gesichtsidentität und die erkennbaren Merkmale des Referenzgesichts erhalten bleiben. Sie trägt einen eleganten, traditionell inspirierten koreanischen Hanbok in zartem Rosé und Elfenbein. Ihr langes, tiefschwarzes Haar ist zu einem raffinierten tiefen Dutt mit zartem Perlhaarschmuck und einem zartrosa Band gestylt.
+
+Ihr Gesicht ist wunderschön, natürlich und fotorealistisch, mit einem deutlich traurigen und melancholischen Ausdruck – leicht herabhängende Augen, subtile emotionale Traurigkeit im Blick, entspannte Gesichtsmuskeln und natürlich weiche Lippen. Die Traurigkeit sollte authentisch und zurückhaltend wirken, nicht übertrieben oder weinend.
+
+Sie hält mit einer Hand eine traditionelle zeremonielle Maske neben ihr Gesicht. Die Maske ähnelt stark ihrer Gesichtsidentität, Gesichtsstruktur, Frisur und ihren erkennbaren Merkmalen, was den Eindruck erweckt, dass sie ihr eigenes Gesicht darstellt. Die Maske weist jedoch die völlig entgegengesetzte Emotion auf: einen wahrhaft glücklichen und freudigen Ausdruck mit strahlenden, fröhlichen Augen, angehobenen Wangen, rosigen Wangen und einem warmen, natürlichen Lächeln mit roten Lippen. Das Gesicht der Frau muss traurig bleiben, während die Maske deutlich fröhlich bleibt.
+
+Sie trägt eine schulterfreie elfenbeinfarbene Bluse, die mit zarter rosa Blumenstickerei verziert ist, darüber ein durchscheinender altrosafarbener Seidenschal mit kunstvollen goldenen Blumendetails. Warme, weiche Studiobeleuchtung, verträumter pfirsichrosa Hintergrund, filmische Schatten, realistische Hautporen, feine einzelne Haarsträhnen, detaillierte Seiden- und Stickereitexturen, geringe Schärfentiefe, 85-mm-Porträtobjektiv, f/1.8, weiches Bokeh, elegante koreanische Mode-Editorial-Fotografie, emotionales visuelles Geschichtenerzählen, fotorealistisch, hochdetailliert, natürliche Hautstruktur, filmisches Color Grading, 8K-Detail, vertikale 4:5-Komposition.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -798,6 +804,28 @@ Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
 ```text
 Das Bild ist ein hochauflösendes vertikales Kunstporträt in voller Höhe, aufgenommen mit einer Sony A1 und einem 120-mm-Objektiv, das ein schlankes Supermodel Anfang 20 einfängt, gebadet in warmes Licht der goldenen Stunde, Trost suchend auf einer Schaukel, weiche dunstige Pastellfarben, bekleidet mit einem kobaltblauen Seidenkleid, traumhafte Atmosphäre, mit langem, windverwehtem pechschwarzem Haar, großen ausdrucksstarken dunkelbraunen Augen, leicht geöffneten roten Lippen, die Nostalgie und Frieden vermitteln, nachdenklicher Blick, ein Hauch von Nostalgie, durchdringt das warme Ambiente, während die letzten Sonnenstrahlen durch ihr zerzaustes Haar tanzen, in einem Moment der Stille.
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Übersetzung läuft
+
+Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Originalbeitrag](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Produktmarketing · Plakat / Flyer · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097547198523388128-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

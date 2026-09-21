@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**27** Prompt · Son eklenen: **2026-09-21**
+**28** Prompt · Son eklenen: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -328,20 +328,26 @@ Işıltılı bronz tene sahip yakışıklı genç bir erkek, göğsünü açığ
 
 <a name="prompt-2102032872890913050"></a>
 
-### Çeviri sürüyor
+### Yüzünün yanında gülümseyen bir maske tutan, hanbok giymiş melankolik genç bir kadının sinematik portresi.
 
 Yazar：[@Elvorya](https://x.com/Elvorya) · [Orijinal gönderi](https://x.com/Elvorya/status/2102032872890913050)
 
 Sinematik / Film Karesi · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yüzünün yanında gülümseyen bir maske tutan, hanbok giymiş melankolik genç bir kadının sinematik portresi.
 
 <img src="images/2102032872890913050-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Referans yüzün tam yüz kimliğini ve tanınabilir hatlarını koruyan, büyüleyici genç bir kadının ultra gerçekçi sinematik güzellik portresi. Yumuşak pudra pembesi ve fildişi tonlarında, geleneksel esintili zarif bir Kore hanboku giyiyor. Zarif inci saç süsleri ve yumuşak pembe bir kurdele ile sofistike bir düşük topuz şeklinde toplanmış uzun, koyu siyah saçları var.
+
+Yüzü güzel, doğal ve fotogerçekçi; belirgin biçimde hüzünlü ve melankolik bir ifade taşıyor — hafifçe aşağı eğik gözler, bakışlarında ince bir duygusal keder, gevşemiş yüz kasları ve doğal yumuşaklıkta dudaklar. Hüzün hissi abartılı ya da ağlamaklı değil, otantik ve yalın olmalıdır.
+
+Bir eliyle yüzünün yanında geleneksel bir tören maskesi tutuyor. Maske, onun yüz kimliğine, yüz yapısına, saç modeline ve tanınabilir özelliklerine çok benzeyerek kendi yüzünü temsil ettiği izlenimini veriyor. Ancak maske tamamen zıt bir duyguya sahip: parlak ve neşeli gözler, yukarı kalkmış yanaklar, pembeleşmiş yanaklar ve kırmızı dudaklı sıcak, doğal bir gülümsemeyle içtenlikle mutlu ve neşeli bir ifade. Maske belirgin şekilde mutluluğunu korurken kadının yüzü hüzünlü kalmalıdır.
+
+Üzerinde narin pembe çiçek işlemeleriyle süslenmiş düşük omuzlu fildişi bir bluz ve üstünde karmaşık altın rengi çiçek detaylarına sahip yarı saydam, gül kurusu ipek bir şal var. Sıcak ve yumuşak stüdyo aydınlatması, rüya gibi şeftali-pembe arka plan, sinematik gölgeler, gerçekçi cilt gözenekleri, ince ince ayrılmış saç telleri, detaylı ipek ve nakış dokuları, sığ alan derinliği, 85mm portre lensi, f/1.8, yumuşak bokeh efekti, zarif Kore moda editoryal fotoğrafçılığı, duygusal görsel hikaye anlatımı, fotogerçekçi, son derece detaylı, doğal cilt dokusu, sinematik renk derecelendirmesi, 8K detay, dikey 4:5 kompozisyon.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -907,6 +913,28 @@ Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 
 ```text
 Görüntü, Sony A1 ve 120 mm lens ile çekilmiş, 20'li yaşlarının başında narin bir süper modeli yakalayan, altın saatin sıcak ışığıyla yıkanmış, bir salıncakta teselli bulan, yumuşak puslu pastel renkler, kobalt mavisi ipek bir elbise giymiş, rüya gibi bir atmosfer, rüzgarda savrulan uzun simsiyah saçlar, iri etkileyici koyu kahverengi gözler, aralık kırmızı dudaklar, nostalji ve huzur ileten, düşünceli bakış, bir nostalji kırıntısı, güneşin son ışınları darmadağınık saçlarının arasından dans ederken sıcak ambiyansı delen, sessiz bir anın içinde yüksek çözünürlüklü tam boy dikey güzel sanatlar portresidir.
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AIGuideNote](https://x.com/AIGuideNote) · [Orijinal gönderi](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Ürün Pazarlaması · Poster / El İlanı · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097547198523388128-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**27** Prompts · Dernier ajout: **2026-09-21**
+**28** Prompts · Dernier ajout: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -328,20 +328,26 @@ Un beau jeune homme à la peau bronzée et éclatante se tient face à l'apparei
 
 <a name="prompt-2102032872890913050"></a>
 
-### Traduction en cours
+### Portrait cinématographique d'une jeune femme mélancolique en hanbok tenant un masque souriant à côté de son visage.
 
 Auteur：[@Elvorya](https://x.com/Elvorya) · [Publication originale](https://x.com/Elvorya/status/2102032872890913050)
 
 Image cinématographique / Photogramme de film · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait cinématographique d'une jeune femme mélancolique en hanbok tenant un masque souriant à côté de son visage.
 
 <img src="images/2102032872890913050-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Portrait de beauté cinématographique ultra-réaliste d'une superbe jeune femme, préservant l'identité faciale exacte et les traits reconnaissables du visage de référence. Elle porte un élégant hanbok coréen d'inspiration traditionnelle dans des tons rose poudré et ivoire. Elle a de longs cheveux noirs foncés coiffés en un chignon bas sophistiqué avec de délicats ornements de cheveux en perles et un ruban rose tendre.
+
+Son visage est magnifique, naturel et photoréaliste, avec une expression nettement triste et mélancolique — des yeux légèrement tombants, une subtile tristesse émotionnelle dans le regard, des muscles faciaux détendus et des lèvres naturellement douces. La tristesse doit sembler authentique et discrète, sans exagération ni larmes.
+
+Elle tient d'une main un masque cérémoniel traditionnel à côté de son visage. Le masque ressemble étroitement à son identité faciale, à sa structure faciale, à sa coiffure et à ses traits reconnaissables, donnant l'impression qu'il représente son propre visage. Cependant, le masque affiche une émotion tout à fait opposée : une expression véritablement heureuse et joyeuse, avec des yeux brillants et rieurs, des joues rehaussées et rosées, et un sourire chaleureux et naturel aux lèvres rouges. Le visage de la femme doit rester triste tandis que le masque reste clairement joyeux.
+
+Elle porte un chemisier ivoire à épaules dénudées orné de délicates broderies florales roses, superposé d'un châle en soie rose poudré translucide orné de détails floraux dorés complexes. Éclairage de studio doux et chaleureux, arrière-plan rose-pêche onirique, ombres cinématographiques, pores de la peau réalistes, mèches de cheveux individuelles très fines, textures détaillées de la soie et des broderies, faible profondeur de champ, objectif portrait 85 mm, f/1.8, doux bokeh, élégante photographie éditoriale de mode coréenne, narration visuelle émotionnelle, photoréaliste, hautement détaillée, texture de peau naturelle, étalonnage cinématographique, niveau de détail 8K, composition verticale 4:5.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -798,6 +804,28 @@ Portrait / Selfie · Personnage · Article de mode · Publié
 
 ```text
 L'image est un portrait d'art vertical en pied haute résolution, Sony A1 et objectif 120 mm, capturant une svelte top-modèle au début de la vingtaine, baignée dans la chaude lumière de l'heure dorée, trouvant du réconfort sur une balançoire, couleurs pastel douces et vaporeuses, vêtue d'une robe en soie bleu cobalt, atmosphère de rêve, avec de longs cheveux noir de jais balayés par le vent, de grands yeux marron foncé expressifs, des lèvres rouges entrouvertes, véhiculant nostalgie et paix, regard pensif, un soupçon de nostalgie, perçant l'ambiance chaleureuse alors que les derniers rayons du soleil dansent à travers ses cheveux ébouriffés, dans un moment de quiétude.
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Traduction en cours
+
+Auteur：[@AIGuideNote](https://x.com/AIGuideNote) · [Publication originale](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Marketing produit · Affiche / Flyer · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097547198523388128-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)

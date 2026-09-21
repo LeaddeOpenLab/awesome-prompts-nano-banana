@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**27** Prompt · Bổ sung mới nhất: **2026-09-21**
+**28** Prompt · Bổ sung mới nhất: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -328,20 +328,26 @@ Một chàng trai trẻ đẹp trai với làn da rám nắng rạng rỡ đứn
 
 <a name="prompt-2102032872890913050"></a>
 
-### Đang dịch
+### Chân dung điện ảnh về một thiếu nữ u sầu trong trang phục hanbok cầm chiếc mặt nạ mỉm cười bên cạnh khuôn mặt.
 
 Tác giả：[@Elvorya](https://x.com/Elvorya) · [Bài gốc](https://x.com/Elvorya/status/2102032872890913050)
 
 Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung điện ảnh về một thiếu nữ u sầu trong trang phục hanbok cầm chiếc mặt nạ mỉm cười bên cạnh khuôn mặt.
 
 <img src="images/2102032872890913050-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chân dung nghệ thuật điện ảnh siêu thực về một thiếu nữ tuyệt đẹp, giữ nguyên chính xác nhận dạng khuôn mặt và các đường nét đặc trưng của khuôn mặt tham chiếu. Nàng mặc bộ hanbok Hàn Quốc lấy cảm hứng truyền thống đầy thanh lịch với tông màu hồng phấn nhẹ nhàng và trắng ngà. Nàng có mái tóc dài màu đen nhánh được tạo kiểu búi thấp tinh tế với các phụ kiện tóc ngọc trai thanh nhã và một dải ruy băng hồng mềm mại.
+
+Khuôn mặt nàng xinh đẹp, tự nhiên và chân thực như ảnh chụp, với biểu cảm buồn bã và u sầu rõ rệt — khóe mắt hơi cụp xuống, nỗi buồn cảm xúc tinh tế trong ánh nhìn, cơ mặt thả lỏng và đôi môi mềm mại tự nhiên. Nỗi buồn phải mang lại cảm giác chân thật và kín đáo, không phóng đại hay khóc lóc.
+
+Một tay nàng cầm một chiếc mặt nạ nghi lễ truyền thống bên cạnh khuôn mặt mình. Chiếc mặt nạ rất giống với nhận dạng khuôn mặt, cấu trúc khuôn mặt, kiểu tóc và các đường nét nhận diện của nàng, tạo cảm giác như nó đại diện cho chính gương mặt nàng. Tuy nhiên, chiếc mặt nạ lại mang cảm xúc hoàn toàn trái ngược: một biểu cảm thực sự hạnh phúc và vui tươi, với đôi mắt rạng rỡ hân hoan, đôi má nâng cao ửng hồng, và nụ cười ấm áp tự nhiên với đôi môi đỏ thắm. Khuôn mặt của người phụ nữ phải giữ nguyên nét buồn trong khi chiếc mặt nạ phải hiển thị rõ sự vui tươi.
+
+Nàng mặc một chiếc áo trễ vai màu trắng ngà thêu hoa hồng tinh xảo, khoác ngoài là chiếc khăn choàng lụa mờ màu hồng tro với các chi tiết hoa văn ánh vàng cầu kỳ. Ánh sáng studio mềm mại và ấm áp, phông nền hồng đào mơ màng, bóng đổ điện ảnh, lỗ chân lông chân thực, từng sợi tóc mỏng manh, chi tiết chất liệu lụa và hình thêu sắc nét, độ sâu trường ảnh nông, ống kính chân dung 85mm, f/1.8, bokeh mềm mại, phong cách chụp ảnh tạp chí thời trang Hàn Quốc thanh lịch, kể chuyện bằng hình ảnh đầy cảm xúc, chân thực như ảnh chụp, cực kỳ chi tiết, kết cấu da tự nhiên, chỉnh màu điện ảnh, chi tiết 8K, bố cục dọc 4:5.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -877,6 +883,28 @@ Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đ�
 
 ```text
 Hình ảnh là chân dung mỹ thuật dạng đứng toàn thân độ phân giải cao, chụp bằng máy ảnh Sony A1 và ống kính 120mm, ghi lại hình ảnh một siêu mẫu thon thả ở độ tuổi đầu 20, đắm mình trong ánh sáng hoàng hôn ấm áp, tìm kiếm sự bình yên trên chiếc xích đu, tông màu pastel mờ ảo mềm mại, mặc chiếc váy lụa màu xanh cô-ban, bầu không khí mơ màng, với mái tóc đen nhánh dài tung bay trong gió, đôi mắt nâu sẫm to tròn đầy biểu cảm, đôi môi đỏ khẽ hé mở, gợi lên nỗi nhớ nhung và sự bình yên, ánh nhìn đăm chiêu, một thoáng hoài niệm, xuyên qua bầu không khí ấm áp khi những tia nắng cuối cùng nhảy múa qua mái tóc rối bời của cô, trong khoảnh khắc tĩnh lặng.
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Đang dịch
+
+Tác giả：[@AIGuideNote](https://x.com/AIGuideNote) · [Bài gốc](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Tiếp thị sản phẩm · Áp phích / Tờ rơi · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097547198523388128-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

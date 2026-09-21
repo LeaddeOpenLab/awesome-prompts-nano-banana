@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**27** Prompts · Adição mais recente: **2026-09-21**
+**28** Prompts · Adição mais recente: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -328,20 +328,26 @@ Um jovem atraente com pele bronzeada e brilhante está virado diretamente para a
 
 <a name="prompt-2102032872890913050"></a>
 
-### Tradução em curso
+### Retrato cinematográfico de uma jovem melancólica num hanbok a segurar numa máscara sorridente junto ao rosto.
 
 Autor：[@Elvorya](https://x.com/Elvorya) · [Publicação original](https://x.com/Elvorya/status/2102032872890913050)
 
 Cena de Cinema / Fotograma · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Retrato cinematográfico de uma jovem melancólica num hanbok a segurar numa máscara sorridente junto ao rosto.
 
 <img src="images/2102032872890913050-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Retrato de beleza cinematográfico ultrarrealista de uma jovem deslumbrante, preservando a identidade facial exata e os traços reconhecíveis do rosto de referência. Veste um elegante hanbok coreano de inspiração tradicional em tons suaves de rosa-claro e marfim. Tem cabelos longos, negros e escuros, penteados num sofisticado apanhado baixo com delicados adornos de pérolas e uma fita cor-de-rosa suave.
+
+O seu rosto é belo, natural e fotorrealista, com uma expressão claramente triste e melancólica — olhos ligeiramente descaídos, uma subtil tristeza emocional no olhar, músculos faciais relaxados e lábios naturalmente suaves. A tristeza deve parecer autêntica e contida, não exagerada nem em pranto.
+
+Segura numa máscara cerimonial tradicional junto ao rosto com uma mão. A máscara assemelha-se de forma próxima à sua identidade facial, estrutura do rosto, penteado e traços reconhecíveis, criando a impressão de representar a sua própria face. Contudo, a máscara exibe uma emoção totalmente oposta: uma expressão genuinamente feliz e radiante, com olhos brilhantes e alegres, maçãs do rosto erguidas e rosadas, e um sorriso caloroso e natural de lábios vermelhos. O rosto da mulher deve permanecer triste enquanto a máscara permanece claramente feliz.
+
+Veste uma blusa marfim de ombros descobertos decorada com delicados bordados florais cor-de-rosa, sob um xaile de seda translúcido em tom rosa-velho com intrincados detalhes florais dourados. Iluminação de estúdio quente e suave, fundo rosa-pêssego etéreo, sombras cinematográficas, poros de pele realistas, fios de cabelo individuais finos, texturas detalhadas de seda e bordados, profundidade de campo reduzida, objetiva de retrato de 85 mm, f/1.8, bokeh suave, elegante fotografia editorial de moda coreana, narrativa visual emotiva, fotorrealista, altamente detalhada, textura de pele natural, gradação de cor cinematográfica, detalhe em 8K, composição vertical 4:5.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -877,6 +883,28 @@ Retrato / Selfie · Personagem · Item de Moda · Publicado
 
 ```text
 A imagem é um retrato artístico vertical de corpo inteiro em alta resolução, Sony A1 e lente de 120 mm, captando uma esbelta supermodelo no início dos seus 20 anos, banhada pela luz quente da hora dourada, encontrando consolo num baloiço, cores pastel suaves e nebulosas, vestindo um vestido de seda azul-cobalto, atmosfera de sonho, com longos cabelos pretos como azeviche esvoaçantes, grandes e expressivos olhos castanho-escuros, lábios vermelhos entreabertos, transmitindo nostalgia e paz, olhar pensativo, uma pitada de nostalgia, atravessa o ambiente acolhedor enquanto os últimos raios de sol dançam pelos seus cabelos desalinhados, num momento de quietude.
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Tradução em curso
+
+Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Publicação original](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Marketing de Produto · Pôster / Folheto · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2097547198523388128-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)
