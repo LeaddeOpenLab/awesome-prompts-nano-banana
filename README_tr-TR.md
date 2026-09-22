@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**28** Prompt · Son eklenen: **2026-09-21**
+**28** Prompt · Son eklenen: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -325,6 +325,28 @@ Işıltılı bronz tene sahip yakışıklı genç bir erkek, göğsünü açığ
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2102400640907645318"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Elvorya](https://x.com/Elvorya) · [Orijinal gönderi](https://x.com/Elvorya/status/2102400640907645318)
+
+Sinematik / Film Karesi · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2102400640907645318-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2102032872890913050"></a>
 
@@ -913,28 +935,6 @@ Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 
 ```text
 Görüntü, Sony A1 ve 120 mm lens ile çekilmiş, 20'li yaşlarının başında narin bir süper modeli yakalayan, altın saatin sıcak ışığıyla yıkanmış, bir salıncakta teselli bulan, yumuşak puslu pastel renkler, kobalt mavisi ipek bir elbise giymiş, rüya gibi bir atmosfer, rüzgarda savrulan uzun simsiyah saçlar, iri etkileyici koyu kahverengi gözler, aralık kırmızı dudaklar, nostalji ve huzur ileten, düşünceli bakış, bir nostalji kırıntısı, güneşin son ışınları darmadağınık saçlarının arasından dans ederken sıcak ambiyansı delen, sessiz bir anın içinde yüksek çözünürlüklü tam boy dikey güzel sanatlar portresidir.
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="prompt-2097547198523388128"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@AIGuideNote](https://x.com/AIGuideNote) · [Orijinal gönderi](https://x.com/AIGuideNote/status/2097547198523388128)
-
-Ürün Pazarlaması · Poster / El İlanı · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2097547198523388128-1.jpg" alt="Görsel 1" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**28** Prompts · Zuletzt hinzugefügt: **2026-09-21**
+**28** Prompts · Zuletzt hinzugefügt: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -325,6 +325,28 @@ Ein gutaussehender junger Mann mit strahlender, gebräunter Haut steht in selbst
 <a name="category-cinematic-film-still"></a>
 
 ## Kinematisch / Filmstill
+
+<a name="prompt-2102400640907645318"></a>
+
+### Übersetzung läuft
+
+Autor：[@Elvorya](https://x.com/Elvorya) · [Originalbeitrag](https://x.com/Elvorya/status/2102400640907645318)
+
+Kinematisch / Filmstill · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2102400640907645318-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2102032872890913050"></a>
 
@@ -804,28 +826,6 @@ Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
 ```text
 Das Bild ist ein hochauflösendes vertikales Kunstporträt in voller Höhe, aufgenommen mit einer Sony A1 und einem 120-mm-Objektiv, das ein schlankes Supermodel Anfang 20 einfängt, gebadet in warmes Licht der goldenen Stunde, Trost suchend auf einer Schaukel, weiche dunstige Pastellfarben, bekleidet mit einem kobaltblauen Seidenkleid, traumhafte Atmosphäre, mit langem, windverwehtem pechschwarzem Haar, großen ausdrucksstarken dunkelbraunen Augen, leicht geöffneten roten Lippen, die Nostalgie und Frieden vermitteln, nachdenklicher Blick, ein Hauch von Nostalgie, durchdringt das warme Ambiente, während die letzten Sonnenstrahlen durch ihr zerzaustes Haar tanzen, in einem Moment der Stille.
-```
-
-[↑ Zurück zu Kategorien](#catalog)
-
----
-
-<a name="prompt-2097547198523388128"></a>
-
-### Übersetzung läuft
-
-Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Originalbeitrag](https://x.com/AIGuideNote/status/2097547198523388128)
-
-Produktmarketing · Plakat / Flyer · Veröffentlicht
-
-**Zusammenfassung:** Übersetzung läuft
-
-<img src="images/2097547198523388128-1.jpg" alt="Bild 1" width="480" />
-
-**Prompt**
-
-```text
-Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

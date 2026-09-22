@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**28** Prompts · Latest addition: **2026-09-21**
+**28** Prompts · Latest addition: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -325,6 +325,28 @@ A handsome young male with glowing tanned skin stands facing the camera directly
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2102400640907645318"></a>
+
+### Ultra-realistic cinematic dark-fashion portrait of a woman in a black dress with a glass shard over her heart, holding a withered black rose before a cracked mirror.
+
+Author：[@Elvorya](https://x.com/Elvorya) · [Source](https://x.com/Elvorya/status/2102400640907645318)
+
+Cinematic / Film Still · Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** Ultra-realistic cinematic dark-fashion portrait of a woman in a black dress with a glass shard over her heart, holding a withered black rose before a cracked mirror.
+
+<img src="images/2102400640907645318-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Ultra-realistic cinematic dark-fashion portrait of a beautiful young woman, preserving the exact facial identity and recognizable features of the reference face, with naturally fair skin, delicate angular features, expressive hazel-green eyes, long dark-brown hair parted in the center and falling naturally over her shoulders. She stands in an elegant old European interior with tall windows, faded ornate walls, antique mirrors, and a cold desaturated atmosphere. She wears a fitted long-sleeve black dress with subtle distressed tears and worn fabric details. A samll sharp fragment of transparent broken glass is embedded through the fabric at the center-left chest, directly over the heart, with realistic cracks radiating outward across the dress like a shattered-glass pattern. A small amount of dark red blood naturally surrounds the wound and trails subtly downward onto the fabric. Keep the glass physically believable, transparent, reflective, and sharply defined. Her expression is quietly melancholic yet strangely peaceful, with slightly reddened watery eyes and natural tears slowly running down both cheeks, while maintaining a subtle soft smile. She gently holds a single withered black rose in one hand, its dried petals and brown leaves adding to the tragic gothic atmosphere. Behind her, a large antique mirror contains a natural reflection of her from behind. The mirror is heavily cracked with realistic branching fractures, while small pieces of broken glass are scattered across the wooden floor. Soft cold daylight enters through the windows from the side, creating delicate highlights on her hair, eyes, glass fragment, and tear tracks. Moody cinematic lighting, subtle volumetric atmosphere, realistic shadows, shallow depth of field, natural skin pores and fine facial texture, physically accurate materials, delicate hair strands, realistic hands and fingers, photorealistic photography, dark romantic gothic aesthetic, sophisticated editorial composition, 85mm portrait lens, f/1.8, cinematic depth of field, high dynamic range, subtle film grain, muted cool tones, dramatic but elegant, masterpiece-level realism, 8K detail.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2102032872890913050"></a>
 
@@ -856,45 +878,6 @@ Portrait / Selfie · Character · Fashion Item · Published
 
 ```text
 Image is high resolution full-hight vertical fine art portrait, Sony A1 and 120mm lens, capturing a lithe supermodel in her early 20s, bathed in warm golden hour light, finding solace on a swing, soft hazy pastel colors, wearing a cobalt blue silk dress, dreamy atmosphere, with long, windswept jet black hair, large expressive dark brown eyes, parted red lips, conveying nostalgia and peace, thoughtful gaze, hint of nostalgia, pierces through the warm ambiance as the sun's final rays dance through her tousled hair, in a moment of quietude.
-```
-
-[↑ Back to categories](#catalog)
-
----
-
-<a name="prompt-2097547198523388128"></a>
-
-### High-End Cosmetics &amp; Fragrance Launch Advertising Poster Design Prompt Template
-
-Author：[@AIGuideNote](https://x.com/AIGuideNote) · [Source](https://x.com/AIGuideNote/status/2097547198523388128)
-
-Product Marketing · Poster / Flyer · Published
-
-**Summary:** High-End Cosmetics &amp; Fragrance Launch Advertising Poster Design Prompt Template
-
-<img src="images/2097547198523388128-1.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-[Brand & Product Copy]
-- Main copy: {copy}
-- Product features & sub-copy: {subtext}
-- Brand collection name: {brandName}
-
-[Image Quality, Staging & Composition Specifications]
-- Style: Live-action beauty advertisement photo for high-end luxury cosmetic brands (such as CHANEL, DIOR, SHISEIDO, etc.).
-- Subject: Close-up of a female model's glossy, alluring lips or radiant skin, or a luxurious rouge (lipstick) or beauty serum bottle.
-- Background: Elegant, deep textures such as satin fabric, reflective black water surfaces, or marble.
-- Color & Lighting: Dramatic, gorgeous color palette emphasizing contrasts such as deep red (red of destiny), jet black, and gold. Highlighting glossiness and three-dimensionality with spotlights.
-- Typography (for GPT-image / Nano Banana Pro): The messages "{copy}" and "{subtext}", along with the brand name "{brandName}", are tastefully laid out in an extremely elegant, slender serif font.
-
-[Strict Layout and Output Constraints (Mandatory)]
-- Output the finished design itself, filling the entire canvas edge-to-edge. Interior backgrounds and scene depictions within the design (walls, spaces, shadows, etc.) may follow the instructions in the text.
-- Prohibited: Photos of the finished poster inside a picture frame, photos of it affixed to a wall, mockup photos placed on a desk or paper, perspective distortion of paper edges, or drop shadows.
-- Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.
-
-- Aspect Ratio: --ar 3:4
 ```
 
 [↑ Back to categories](#catalog)

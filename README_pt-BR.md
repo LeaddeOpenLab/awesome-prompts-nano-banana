@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**28** Prompts · Última adição: **2026-09-21**
+**28** Prompts · Última adição: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -325,6 +325,28 @@ Um jovem atraente com pele bronzeada e brilhante está de frente para a câmera 
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematográfico / Imagem de Filme
+
+<a name="prompt-2102400640907645318"></a>
+
+### Tradução em andamento
+
+Autor：[@Elvorya](https://x.com/Elvorya) · [Publicação original](https://x.com/Elvorya/status/2102400640907645318)
+
+Cinematográfico / Imagem de Filme · Retrato / Selfie · Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2102400640907645318-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2102032872890913050"></a>
 
@@ -883,28 +905,6 @@ Retrato / Selfie · Personagem · Item de Moda · Publicado
 
 ```text
 A imagem é um retrato artístico vertical de corpo inteiro em alta resolução, Sony A1 e lente de 120 mm, capturando uma esbelta supermodelo no início dos seus 20 anos, banhada pela luz quente da hora dourada, encontrando consolo em um balanço, cores pastéis suaves e nebulosas, vestindo um vestido de seda azul-cobalto, atmosfera de sonho, com longos cabelos negros como azeviche esvoaçantes, grandes e expressivos olhos castanho-escuros, lábios vermelhos entreabertos, transmitindo nostalgia e paz, olhar pensativo, um toque de nostalgia, atravessa o ambiente acolhedor enquanto os últimos raios de sol dançam por seus cabelos desalinhados, em um momento de quietude.
-```
-
-[↑ Voltar às categorias](#catalog)
-
----
-
-<a name="prompt-2097547198523388128"></a>
-
-### Tradução em andamento
-
-Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Publicação original](https://x.com/AIGuideNote/status/2097547198523388128)
-
-Marketing de Produto · Pôster / Flyer · Publicado
-
-**Resumo:** Tradução em andamento
-
-<img src="images/2097547198523388128-1.jpg" alt="Imagem 1" width="480" />
-
-**Prompt**
-
-```text
-Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)

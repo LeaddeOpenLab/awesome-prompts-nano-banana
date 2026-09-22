@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**28** Prompt · Ultima aggiunta: **2026-09-21**
+**28** Prompt · Ultima aggiunta: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -325,6 +325,28 @@ Un bell'uomo giovane dalla pelle abbronzata e luminosa è in piedi rivolto diret
 <a name="category-cinematic-film-still"></a>
 
 ## Fermo immagine cinematografico / Still fotografico
+
+<a name="prompt-2102400640907645318"></a>
+
+### Traduzione in corso
+
+Autore：[@Elvorya](https://x.com/Elvorya) · [Post originale](https://x.com/Elvorya/status/2102400640907645318)
+
+Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2102400640907645318-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2102032872890913050"></a>
 
@@ -804,28 +826,6 @@ Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
 
 ```text
 L'immagine è un ritratto artistico verticale a figura intera ad alta risoluzione, Sony A1 e obiettivo da 120 mm, che cattura una snella top model poco più che ventenne, immersa nella calda luce dell'ora d'oro, che trova conforto su un'altalena, morbidi e velati colori pastello, che indossa un abito di seta blu cobalto, atmosfera sognante, con lunghi capelli corvini scompigliati dal vento, grandi ed espressivi occhi castano scuro, labbra rosse dischiuse, che trasmettono nostalgia e pace, sguardo pensieroso, una punta di nostalgia, trafigge la calda atmosfera mentre gli ultimi raggi del sole danzano tra i suoi capelli spettinati, in un momento di quiete.
-```
-
-[↑ Torna alle categorie](#catalog)
-
----
-
-<a name="prompt-2097547198523388128"></a>
-
-### Traduzione in corso
-
-Autore：[@AIGuideNote](https://x.com/AIGuideNote) · [Post originale](https://x.com/AIGuideNote/status/2097547198523388128)
-
-Marketing di Prodotto · Poster / Volantino · Pubblicato
-
-**Riepilogo:** Traduzione in corso
-
-<img src="images/2097547198523388128-1.jpg" alt="Immagine 1" width="480" />
-
-**Prompt**
-
-```text
-Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)

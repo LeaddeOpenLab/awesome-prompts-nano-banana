@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**28** Prompt · Bổ sung mới nhất: **2026-09-21**
+**28** Prompt · Bổ sung mới nhất: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -325,6 +325,28 @@ Một chàng trai trẻ đẹp trai với làn da rám nắng rạng rỡ đứn
 <a name="category-cinematic-film-still"></a>
 
 ## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2102400640907645318"></a>
+
+### Đang dịch
+
+Tác giả：[@Elvorya](https://x.com/Elvorya) · [Bài gốc](https://x.com/Elvorya/status/2102400640907645318)
+
+Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2102400640907645318-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2102032872890913050"></a>
 
@@ -883,28 +905,6 @@ Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đ�
 
 ```text
 Hình ảnh là chân dung mỹ thuật dạng đứng toàn thân độ phân giải cao, chụp bằng máy ảnh Sony A1 và ống kính 120mm, ghi lại hình ảnh một siêu mẫu thon thả ở độ tuổi đầu 20, đắm mình trong ánh sáng hoàng hôn ấm áp, tìm kiếm sự bình yên trên chiếc xích đu, tông màu pastel mờ ảo mềm mại, mặc chiếc váy lụa màu xanh cô-ban, bầu không khí mơ màng, với mái tóc đen nhánh dài tung bay trong gió, đôi mắt nâu sẫm to tròn đầy biểu cảm, đôi môi đỏ khẽ hé mở, gợi lên nỗi nhớ nhung và sự bình yên, ánh nhìn đăm chiêu, một thoáng hoài niệm, xuyên qua bầu không khí ấm áp khi những tia nắng cuối cùng nhảy múa qua mái tóc rối bời của cô, trong khoảnh khắc tĩnh lặng.
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
-<a name="prompt-2097547198523388128"></a>
-
-### Đang dịch
-
-Tác giả：[@AIGuideNote](https://x.com/AIGuideNote) · [Bài gốc](https://x.com/AIGuideNote/status/2097547198523388128)
-
-Tiếp thị sản phẩm · Áp phích / Tờ rơi · Đã xuất bản
-
-**Tóm tắt:** Đang dịch
-
-<img src="images/2097547198523388128-1.jpg" alt="Hình ảnh 1" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

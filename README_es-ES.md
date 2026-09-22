@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**28** Prompts · Última incorporación: **2026-09-21**
+**28** Prompts · Última incorporación: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -325,6 +325,28 @@ Un apuesto joven de piel bronceada y brillante se encuentra de pie mirando direc
 <a name="category-cinematic-film-still"></a>
 
 ## Cine / Fotograma de película
+
+<a name="prompt-2102400640907645318"></a>
+
+### Traducción en curso
+
+Autor：[@Elvorya](https://x.com/Elvorya) · [Publicación original](https://x.com/Elvorya/status/2102400640907645318)
+
+Cine / Fotograma de película · Retrato / Selfie · Personaje · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2102400640907645318-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2102032872890913050"></a>
 
@@ -883,28 +905,6 @@ Retrato / Selfie · Personaje · Artículo de moda · Publicado
 
 ```text
 La imagen es un retrato vertical de bellas artes de cuerpo entero y alta resolución, tomado con Sony A1 y lente de 120 mm, que captura a una esbelta supermodelo de unos 20 años, bañada por la cálida luz de la hora dorada, encontrando solaz en un columpio, suaves y brumosos colores pastel, vestida con un vestido de seda azul cobalto, atmósfera de ensueño, con cabello largo negro azabache al viento, grandes y expresivos ojos marrón oscuro, labios rojos entreabiertos, transmitiendo nostalgia y paz, mirada pensativa, un toque de nostalgia, atraviesa el ambiente cálido mientras los últimos rayos del sol bailan a través de su cabello despeinado, en un momento de quietud.
-```
-
-[↑ Volver a categorías](#catalog)
-
----
-
-<a name="prompt-2097547198523388128"></a>
-
-### Traducción en curso
-
-Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Publicación original](https://x.com/AIGuideNote/status/2097547198523388128)
-
-Marketing de producto · Póster / Folleto · Publicado
-
-**Resumen:** Traducción en curso
-
-<img src="images/2097547198523388128-1.jpg" alt="Imagen 1" width="480" />
-
-**Prompt**
-
-```text
-Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)
