@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**28** Prompts · Latest addition: **2026-09-22**
+**29** Prompts · Latest addition: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -776,6 +776,64 @@ A breathtaking vertical view of a futuristic metropolis floating gracefully abov
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2102417435521634722"></a>
+
+### Portrait of a young woman in an unbuttoned white crop shirt against a pink studio backdrop.
+
+Author：[@NoahNeku](https://x.com/NoahNeku) · [Source](https://x.com/NoahNeku/status/2102417435521634722)
+
+Portrait / Selfie · Character · Published
+
+**Summary:** Portrait of a young woman in an unbuttoned white crop shirt against a pink studio backdrop.
+
+<img src="images/2102417435521634722-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2102417435521634722-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+{
+  "prompt": "4k HD portrait of a young woman with long dark wavy hair, hazel eyes, and a neutral expression looking directly at the camera, wearing an unbuttoned white short-sleeve collared crop shirt with a deep plunging neckline, posed in front of a smooth pink studio backdrop.",
+  "subject": {
+    "gender": "Female",
+    "hair": {
+      "color": "Dark brown",
+      "style": "Long, parted in the middle, loose natural waves falling over both shoulders"
+    },
+    "facial_features": {
+      "eyes": "Hazel / light brown, looking directly at the lens",
+      "eyebrows": "Naturally defined, dark",
+      "skin": "Fair complexion, natural texture, subtle dewy highlights",
+      "expression": "Neutral, relaxed, calm"
+    },
+    "attire": {
+      "top": "White short-sleeved collared crop shirt",
+      "style": "Deep plunge neckline, unbuttoned front"
+    }
+  },
+  "setting": {
+    "background": "Solid pastel pink seamless studio backdrop",
+    "details": "Studio equipment edge visible at the top right corner"
+  },
+  "technical_details": {
+    "shot_type": "Medium close-up portrait",
+    "framing": "Centered, waist-up composition",
+    "lighting": "Soft diffused studio lighting, gentle fill",
+    "camera_settings": {
+      "resolution": "4K UHD",
+      "lens_type": "85mm portrait lens",
+      "depth_of_field": "Shallow, sharp subject focus with soft background roll-off",
+      "color_grade": "Natural warm tones, clean pastel contrast"
+    }
+  }
+}
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098987568507535737"></a>
 

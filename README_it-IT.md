@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**28** Prompt · Ultima aggiunta: **2026-09-22**
+**29** Prompt · Ultima aggiunta: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -328,20 +328,26 @@ Un bell'uomo giovane dalla pelle abbronzata e luminosa è in piedi rivolto diret
 
 <a name="prompt-2102400640907645318"></a>
 
-### Traduzione in corso
+### Ritratto cinematografico dark-fashion ultra-realistico di una donna in abito nero con una scheggia di vetro sul cuore, che tiene una rosa nera appassita davanti a uno specchio incrinato.
 
 Autore：[@Elvorya](https://x.com/Elvorya) · [Post originale](https://x.com/Elvorya/status/2102400640907645318)
 
 Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto cinematografico dark-fashion ultra-realistico di una donna in abito nero con una scheggia di vetro sul cuore, che tiene una rosa nera appassita davanti a uno specchio incrinato.
 
 <img src="images/2102400640907645318-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Ritratto cinematografico dark-fashion ultra-realistico di una bella giovane donna, che preserva l'esatta identità facciale e i tratti riconoscibili del viso di riferimento, con pelle naturalmente chiara, lineamenti angolari delicati, espressivi occhi verde nocciola, lunghi capelli castano scuro con riga centrale che scendono naturalmente sulle sue spalle. Si trova in un elegante interno europeo antico con alte finestre, pareti decorate sbiadite, specchi d'epoca e un'atmosfera fredda e desaturata.
+
+Indossa un abito nero aderente a maniche lunghe con sottili strappi consumati e dettagli di tessuto logoro. Un piccolo e affilato frammento di vetro trasparente rotto è conficcato attraverso il tessuto al centro-sinistra del petto, direttamente sopra il cuore, con crepe realistiche che si irradiano verso l'esterno lungo l'abito come un motivo di vetro infranto. Una piccola quantità di sangue rosso scuro circonda naturalmente la ferita e scende sottilmente verso il basso sul tessuto. Mantenere il vetro fisicamente credibile, trasparente, riflettente e nitidamente definito.
+
+La sua espressione è silenziosamente malinconica ma stranamente pacifica, con occhi lucidi leggermente arrossati e lacrime naturali che scendono lentamente su entrambe le guance, pur mantenendo un sottile e dolce sorriso. Tiene delicatamente in una mano una singola rosa nera appassita, i cui petali secchi e le foglie marroni contribuiscono alla tragica atmosfera gotica.
+
+Dietro di lei, un grande specchio antico cattura un riflesso naturale della sua schiena. Lo specchio è pesantemente incrinato con realistiche fratture ramificate, mentre piccoli pezzi di vetro rotto sono sparsi sul pavimento di legno. Una morbida e fredda luce diurna entra lateralmente dalle finestre, creando delicati punti luce sui suoi capelli, occhi, frammento di vetro e scie di lacrime. Illuminazione cinematografica d'atmosfera, sottile atmosfera volumetrica, ombre realistiche, profondità di campo ridotta, pori della pelle naturali e texture fine del viso, materiali fisicamente accurati, ciocche di capelli delicate, mani e dita realistiche, fotografia fotorealistica, estetica gotica romantica e cupa, composizione editoriale sofisticata, obiettivo da ritratto 85mm, f/1.8, profondità di campo cinematografica, alta gamma dinamica, sottile grana della pellicola, toni freddi attenuati, drammatico ma elegante, realismo a livello di capolavoro, dettaglio 8K.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -724,6 +730,30 @@ Un'incredibile vista verticale di una metropoli futuristica che fluttua con graz
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2102417435521634722"></a>
+
+### Traduzione in corso
+
+Autore：[@NoahNeku](https://x.com/NoahNeku) · [Post originale](https://x.com/NoahNeku/status/2102417435521634722)
+
+Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2102417435521634722-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2102417435521634722-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098987568507535737"></a>
 

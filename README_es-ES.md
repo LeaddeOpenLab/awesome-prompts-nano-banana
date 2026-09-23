@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**28** Prompts · Última incorporación: **2026-09-22**
+**29** Prompts · Última incorporación: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -328,20 +328,26 @@ Un apuesto joven de piel bronceada y brillante se encuentra de pie mirando direc
 
 <a name="prompt-2102400640907645318"></a>
 
-### Traducción en curso
+### Retrato cinematográfico de moda oscura y ultrarrealista de una mujer con un vestido negro con un fragmento de vidrio sobre el corazón, sosteniendo una rosa negra marchita ante un espejo agrietado.
 
 Autor：[@Elvorya](https://x.com/Elvorya) · [Publicación original](https://x.com/Elvorya/status/2102400640907645318)
 
 Cine / Fotograma de película · Retrato / Selfie · Personaje · Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato cinematográfico de moda oscura y ultrarrealista de una mujer con un vestido negro con un fragmento de vidrio sobre el corazón, sosteniendo una rosa negra marchita ante un espejo agrietado.
 
 <img src="images/2102400640907645318-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Retrato cinematográfico de moda oscura y ultrarrealista de una hermosa mujer joven, preservando la identidad facial exacta y los rasgos reconocibles del rostro de referencia, con piel naturalmente clara, rasgos angulares delicados, expresivos ojos verde avellana, cabello largo castaño oscuro con raya en medio que cae de forma natural sobre sus hombros. Ella está de pie en un elegante interior europeo antiguo con ventanas altas, paredes ornamentadas desgastadas, espejos antiguos y una atmósfera fría y desaturada.
+
+Viste un vestido negro ajustado de manga larga con sutiles desgarros desgastados y detalles de tela gastada. Un pequeño y afilado fragmento de vidrio roto transparente está incrustado a través de la tela en la parte central izquierda del pecho, directamente sobre el corazón, con grietas realistas que se irradian hacia afuera a través del vestido como un patrón de vidrio roto. Una pequeña cantidad de sangre de color rojo oscuro rodea naturalmente la herida y desciende sutilmente sobre la tela. Mantén el vidrio físicamente creíble, transparente, reflectante y nítidamente definido.
+
+Su expresión es silenciosamente melancólica pero extrañamente pacífica, con ojos llorosos ligeramente enrojecidos y lágrimas naturales que corren lentamente por ambas mejillas, mientras mantiene una sutil y suave sonrisa. Sostiene suavemente una sola rosa negra marchita en una mano, cuyos pétalos secos y hojas marrones se suman a la trágica atmósfera gótica.
+
+Detrás de ella, un gran espejo antiguo contiene un reflejo natural de ella desde atrás. El espejo está fuertemente agrietado con fracturas ramificadas realistas, mientras que pequeños pedazos de vidrio roto están esparcidos por el suelo de madera. Una suave y fría luz natural entra por las ventanas desde un lado, creando delicados reflejos en su cabello, ojos, el fragmento de vidrio y los rastros de lágrimas. Iluminación cinematográfica evocadora, sutil atmósfera volumétrica, sombras realistas, baja profundidad de campo, poros de la piel naturales y textura facial fina, materiales físicamente precisos, mechones de cabello delicados, manos y dedos realistas, fotografía fotorrealista, estética gótica romántica oscura, composición editorial sofisticada, lente de retrato de 85 mm, f/1.8, profundidad de campo cinematográfica, alto rango dinámico, sutil grano de película, tonos fríos apagados, dramático pero elegante, realismo a nivel de obra maestra, detalle en 8K.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -803,6 +809,30 @@ Una impresionante vista vertical de una metrópolis futurista que flota grácilm
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2102417435521634722"></a>
+
+### Traducción en curso
+
+Autor：[@NoahNeku](https://x.com/NoahNeku) · [Publicación original](https://x.com/NoahNeku/status/2102417435521634722)
+
+Retrato / Selfie · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2102417435521634722-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2102417435521634722-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098987568507535737"></a>
 

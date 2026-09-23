@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**28** Prompt · Son eklenen: **2026-09-22**
+**29** Prompt · Son eklenen: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -328,20 +328,26 @@ Işıltılı bronz tene sahip yakışıklı genç bir erkek, göğsünü açığ
 
 <a name="prompt-2102400640907645318"></a>
 
-### Çeviri sürüyor
+### Kalbinin üzerinde bir cam kırığı bulunan, çatlak bir aynanın önünde solmuş siyah bir gül tutan siyah elbiseli bir kadının ultra gerçekçi sinematik karanlık moda portresi.
 
 Yazar：[@Elvorya](https://x.com/Elvorya) · [Orijinal gönderi](https://x.com/Elvorya/status/2102400640907645318)
 
 Sinematik / Film Karesi · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kalbinin üzerinde bir cam kırığı bulunan, çatlak bir aynanın önünde solmuş siyah bir gül tutan siyah elbiseli bir kadının ultra gerçekçi sinematik karanlık moda portresi.
 
 <img src="images/2102400640907645318-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Güzel bir genç kadının, referans yüzün tam yüz kimliğini ve tanınabilir özelliklerini koruyan, doğal olarak açık tenli, narin köşeli hatlara, etkileyici ela-yeşil gözlere, ortadan ayrılmış ve omuzlarına doğal bir şekilde dökülen uzun koyu kahverengi saçlara sahip ultra gerçekçi sinematik karanlık moda portresi. Yüksek pencereleri, solmuş süslemeli duvarları, antika aynaları ve soğuk, doygunluğu azaltılmış atmosferi olan zarif bir eski Avrupa iç mekanında duruyor.
+
+Hafif yıpranmış yırtıklara ve aşınmış kumaş detaylarına sahip, vücuda oturan uzun kollu siyah bir elbise giyiyor. Göğsün sol orta kısmında, tam kalbin üzerinde, kumaşın içinden saplanmış küçük, keskin ve şeffaf kırık cam parçası bulunuyor; elbise boyunca parçalanmış cam deseni gibi dışa doğru yayılan gerçekçi çatlaklar yer alıyor. Az miktarda koyu kırmızı kan, yarayı doğal bir şekilde çevreliyor ve kumaşın üzerine doğru zarifçe aşağı süzülüyor. Camın fiziksel olarak inandırıcı, şeffaf, yansıtıcı ve keskin bir şekilde belirgin olmasını sağlayın.
+
+İfadesi sessizce melankolik ancak garip bir şekilde huzurlu; hafifçe kızarmış sulu gözleri ve her iki yanağından yavaşça süzülen doğal gözyaşları varken, aynı zamanda hafif ve yumuşak bir tebessümü koruyor. Bir elinde solmuş tek bir siyah gülü nazikçe tutuyor; çiçeğin kurumuş taç yaprakları ve kahverengi yaprakları trajik gotik atmosfere katkıda bulunuyor.
+
+Arkasında yer alan büyük antika bir ayna, onun arkadan doğal bir yansımasını içeriyor. Ayna, gerçekçi dallanan kırıklarla ağır bir şekilde çatlamış durumda, küçük kırık cam parçaları ise ahşap zemine saçılmış. Pencerelerden yandan giren yumuşak soğuk gün ışığı; saçlarında, gözlerinde, cam parçasında ve gözyaşı izlerinde narin parıltılar oluşturuyor. Karamsar sinematik aydınlatma, hafif hacimsel atmosfer, gerçekçi gölgeler, sığ alan derinliği, doğal cilt gözenekleri ve ince yüz dokusu, fiziksel olarak doğru materyaller, narin saç telleri, gerçekçi eller ve parmaklar, fotogerçekçi fotoğrafçılık, karanlık romantik gotik estetik, sofistike editoryal kompozisyon, 85mm portre lensi, f/1.8, sinematik alan derinliği, yüksek dinamik aralık, hafif film greni, solgun soğuk tonlar, dramatik ama zarif, şaheser düzeyinde gerçekçilik, 8K detay.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -833,6 +839,30 @@ Alacakaranlıkta, dalgalanan yoğun koyu gri bulutlardan oluşan sonsuz bir deni
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2102417435521634722"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@NoahNeku](https://x.com/NoahNeku) · [Orijinal gönderi](https://x.com/NoahNeku/status/2102417435521634722)
+
+Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2102417435521634722-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2102417435521634722-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098987568507535737"></a>
 

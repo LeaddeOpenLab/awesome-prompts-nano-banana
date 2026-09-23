@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**28** Prompts · Última adição: **2026-09-22**
+**29** Prompts · Última adição: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -328,20 +328,26 @@ Um jovem atraente com pele bronzeada e brilhante está de frente para a câmera 
 
 <a name="prompt-2102400640907645318"></a>
 
-### Tradução em andamento
+### Retrato cinematográfico ultrarrealista de dark-fashion de uma mulher em um vestido preto com um caco de vidro sobre o coração, segurando uma rosa preta murcha diante de um espelho rachado.
 
 Autor：[@Elvorya](https://x.com/Elvorya) · [Publicação original](https://x.com/Elvorya/status/2102400640907645318)
 
 Cinematográfico / Imagem de Filme · Retrato / Selfie · Personagem · Item de Moda · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Retrato cinematográfico ultrarrealista de dark-fashion de uma mulher em um vestido preto com um caco de vidro sobre o coração, segurando uma rosa preta murcha diante de um espelho rachado.
 
 <img src="images/2102400640907645318-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Retrato cinematográfico ultrarrealista de dark-fashion de uma bela jovem, preservando a identidade facial exata e as características reconhecíveis do rosto de referência, com pele naturalmente clara, traços angulares delicados, olhos verde-avelã expressivos, longos cabelos castanho-escuros repartidos ao meio e caindo naturalmente sobre os ombros. Ela está de pé em um elegante e antigo interior europeu com janelas altas, paredes ornamentadas desbotadas, espelhos antigos e uma atmosfera fria e dessaturada.
+
+Ela veste um vestido preto justo de mangas compridas com rasgos sutis desgastados e detalhes de tecido gasto. Um pequeno fragmento afiado de vidro quebrado transparente está cravado através do tecido no centro-esquerdo do peito, diretamente sobre o coração, com rachaduras realistas irradiando para fora pelo vestido como um padrão de vidro estilhaçado. Uma pequena quantidade de sangue vermelho-escuro envolve naturalmente a ferida e escorre sutilmente para baixo no tecido. Mantenha o vidro fisicamente crível, transparente, reflexivo e nitidamente definido.
+
+Sua expressão é silenciosamente melancólica, mas estranhamente pacífica, com olhos lacrimejantes ligeiramente avermelhados e lágrimas naturais escorrendo lentamente por ambas as bochechas, enquanto mantém um sorriso suave e sutil. Ela segura delicadamente uma única rosa preta murcha em uma das mãos, suas pétalas secas e folhas marrons aumentando a atmosfera gótica e trágica.
+
+Atrás dela, um grande espelho antigo contém um reflexo natural dela por trás. O espelho está intensamente rachado com fraturas ramificadas realistas, enquanto pequenos pedaços de vidro quebrado estão espalhados pelo chão de madeira. Uma luz natural fria e suave entra pelas janelas pela lateral, criando realces delicados em seus cabelos, olhos, no fragmento de vidro e nos rastros de lágrimas. Iluminação cinematográfica melancólica, atmosfera volumétrica sutil, sombras realistas, profundidade de campo rasa, poros naturais da pele e textura facial fina, materiais fisicamente precisos, fios de cabelo delicados, mãos e dedos realistas, fotografia fotorrealista, estética gótica romântica e sombria, composição editorial sofisticada, lente de retrato de 85mm, f/1.8, profundidade de campo cinematográfica, alto alcance dinâmico, granulação de filme sutil, tons frios suaves, dramático mas elegante, realismo em nível de obra-prima, detalhes em 8K.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -803,6 +809,30 @@ Uma vista vertical deslumbrante de uma metrópole futurista flutuando graciosame
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2102417435521634722"></a>
+
+### Tradução em andamento
+
+Autor：[@NoahNeku](https://x.com/NoahNeku) · [Publicação original](https://x.com/NoahNeku/status/2102417435521634722)
+
+Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2102417435521634722-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2102417435521634722-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098987568507535737"></a>
 

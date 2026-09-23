@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**28** Prompts · Zuletzt hinzugefügt: **2026-09-22**
+**29** Prompts · Zuletzt hinzugefügt: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -328,20 +328,26 @@ Ein gutaussehender junger Mann mit strahlender, gebräunter Haut steht in selbst
 
 <a name="prompt-2102400640907645318"></a>
 
-### Übersetzung läuft
+### Ultrarealistisches filmisches Dark-Fashion-Porträt einer Frau in einem schwarzen Kleid mit einem Glassplitter über ihrem Herzen, die eine verwelkte schwarze Rose vor einem zersprungenen Spiegel hält.
 
 Autor：[@Elvorya](https://x.com/Elvorya) · [Originalbeitrag](https://x.com/Elvorya/status/2102400640907645318)
 
 Kinematisch / Filmstill · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ultrarealistisches filmisches Dark-Fashion-Porträt einer Frau in einem schwarzen Kleid mit einem Glassplitter über ihrem Herzen, die eine verwelkte schwarze Rose vor einem zersprungenen Spiegel hält.
 
 <img src="images/2102400640907645318-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ultrarealistisches, filmisches Dark-Fashion-Porträt einer wunderschönen jungen Frau, unter Beibehaltung der exakten Gesichtszüge und wiedererkennbaren Merkmale des Referenzgesichts, mit natürlich heller Haut, zarten kantigen Gesichtszügen, ausdrucksstarken haselnussgrünen Augen, langem dunkelbraunem Haar mit Mittelscheitel, das natürlich über ihre Schultern fällt. Sie steht in einem eleganten alten europäischen Innenraum mit hohen Fenstern, verblassten verzierten Wänden, antiken Spiegeln und einer kalten, entsättigten Atmosphäre.
+
+Sie trägt ein tailliertes, langärmeliges schwarzes Kleid mit dezenten Rissen im Used-Look und abgetragenen Stoffdetails. Ein kleiner, scharfer Splitter aus transparentem, zerbrochenem Glas ist links mittig auf der Brust direkt über dem Herzen durch den Stoff eingebettet, mit realistischen Rissen, die sich wie ein Glassplittermuster über das Kleid nach außen ziehen. Eine kleine Menge dunkelroten Blutes umgibt die Wunde auf natürliche Weise und zieht subtile Spuren nach unten auf den Stoff. Das Glas soll physikalisch glaubwürdig, transparent, reflektierend und scharf definiert bleiben.
+
+Ihr Ausdruck ist still melancholisch und dennoch seltsam friedlich, mit leicht geröteten, wässrigen Augen und natürlichen Tränen, die langsam über beide Wangen laufen, während sie ein dezentes, sanftes Lächeln bewahrt. Sie hält sanft eine einzelne verwelkte schwarze Rose in einer Hand, deren getrocknete Blütenblätter und braune Blätter zur tragischen gotischen Atmosphäre beitragen.
+
+Hinter ihr zeigt ein großer antiker Spiegel ihr natürliches Spiegelbild von hinten. Der Spiegel ist stark zersprungen mit realistischen, sich verzweigenden Brüchen, während kleine Glasscherben über den Holzboden verstreut sind. Sanftes, kaltes Tageslicht fällt von der Seite durch die Fenster und erzeugt zarte Glanzlichter auf ihrem Haar, ihren Augen, dem Glassplitter und den Tränenspuren. Stimmungsvolle filmische Beleuchtung, subtile volumetrische Atmosphäre, realistische Schatten, geringe Schärfentiefe, natürliche Hautporen und feine Gesichtstextur, physikalisch akkurate Materialien, feine Haarsträhnen, realistische Hände und Finger, fotorealistische Fotografie, düster-romantische Gothic-Ästhetik, anspruchsvolle redaktionelle Bildkomposition, 85-mm-Porträtobjektiv, f/1.8, filmische Schärfentiefe, hoher Dynamikumfang, dezente Filmkörnung, gedämpfte kühle Töne, dramatisch, aber elegant, Realismus auf Meisterwerk-Niveau, 8K-Detail.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -724,6 +730,30 @@ Eine atemberaubende vertikale Ansicht einer futuristischen Metropole, die in der
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2102417435521634722"></a>
+
+### Übersetzung läuft
+
+Autor：[@NoahNeku](https://x.com/NoahNeku) · [Originalbeitrag](https://x.com/NoahNeku/status/2102417435521634722)
+
+Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2102417435521634722-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2102417435521634722-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098987568507535737"></a>
 

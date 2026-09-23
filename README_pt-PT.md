@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**28** Prompts · Adição mais recente: **2026-09-22**
+**29** Prompts · Adição mais recente: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -328,20 +328,26 @@ Um jovem atraente com pele bronzeada e brilhante está virado diretamente para a
 
 <a name="prompt-2102400640907645318"></a>
 
-### Tradução em curso
+### Retrato cinematográfico ultrarrealista de dark-fashion de uma mulher num vestido preto com um caco de vidro sobre o coração, segurando uma rosa preta murcha diante de um espelho estalado.
 
 Autor：[@Elvorya](https://x.com/Elvorya) · [Publicação original](https://x.com/Elvorya/status/2102400640907645318)
 
 Cena de Cinema / Fotograma · Retrato / Selfie · Personagem · Item de Moda · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Retrato cinematográfico ultrarrealista de dark-fashion de uma mulher num vestido preto com um caco de vidro sobre o coração, segurando uma rosa preta murcha diante de um espelho estalado.
 
 <img src="images/2102400640907645318-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Retrato cinematográfico ultrarrealista de dark-fashion de uma bela jovem, preservando a identidade facial exata e os traços reconhecíveis do rosto de referência, com pele naturalmente clara, traços angulares delicados, olhos verde-avelã expressivos, longos cabelos castanho-escuros repartidos ao meio e caindo naturalmente sobre os ombros. Ela está de pé num elegante e antigo interior europeu com janelas altas, paredes ornamentadas desbotadas, espelhos antigos e uma atmosfera fria e dessaturada.
+
+Ela veste um vestido preto justo de mangas compridas com rasgos subtis desgastados e detalhes de tecido gasto. Um pequeno fragmento afiado de vidro partido transparente está cravado através do tecido no centro-esquerdo do peito, diretamente sobre o coração, com fendas realistas a irradiar para fora pelo vestido como um padrão de vidro estilhaçado. Uma pequena quantidade de sangue vermelho-escuro envolve naturalmente a ferida e escorre subtilmente para baixo no tecido. Mantenha o vidro fisicamente credível, transparente, refletor e nitidamente definido.
+
+A sua expressão é silenciosamente melancólica, mas estranhamente serena, com olhos lacrimejantes ligeiramente avermelhados e lágrimas naturais a escorrer lentamente por ambas as faces, enquanto mantém um sorriso suave e subtil. Ela segura delicadamente uma única rosa preta murcha numa das mãos, as suas pétalas secas e folhas castanhas aumentando a atmosfera gótica e trágica.
+
+Atrás dela, um grande espelho antigo contém um reflexo natural dela por trás. O espelho está intensamente estalado com fraturas ramificadas realistas, enquanto pequenos pedaços de vidro partido estão espalhados pelo chão de madeira. Uma luz natural fria e suave entra pelas janelas pela lateral, criando reflexos delicados nos seus cabelos, olhos, no fragmento de vidro e nos rastos de lágrimas. Iluminação cinematográfica melancólica, atmosfera volumétrica subtil, sombras realistas, profundidade de campo reduzida, poros naturais da pele e textura facial fina, materiais fisicamente precisos, fios de cabelo delicados, mãos e dedos realistas, fotografia fotorrealista, estética gótica romântica e sombria, composição editorial sofisticada, lente de retrato de 85mm, f/1.8, profundidade de campo cinematográfica, elevado alcance dinâmico, grão de filme subtil, tons frios suaves, dramático mas elegante, realismo de nível de obra-prima, detalhes em 8K.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -803,6 +809,30 @@ Uma vista vertical deslumbrante de uma metrópole futurista a flutuar graciosame
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2102417435521634722"></a>
+
+### Tradução em curso
+
+Autor：[@NoahNeku](https://x.com/NoahNeku) · [Publicação original](https://x.com/NoahNeku/status/2102417435521634722)
+
+Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2102417435521634722-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2102417435521634722-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098987568507535737"></a>
 
