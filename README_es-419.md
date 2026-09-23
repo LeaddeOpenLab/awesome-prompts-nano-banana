@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**29** Prompts · Última incorporación: **2026-09-23**
+**30** Prompts · Última incorporación: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -328,26 +328,20 @@ Un apuesto joven de piel bronceada y radiante se encuentra de pie mirando direct
 
 <a name="prompt-2102400640907645318"></a>
 
-### Retrato cinematográfico ultrarrealista de moda oscura de una mujer con un vestido negro con un fragmento de vidrio sobre su corazón, sosteniendo una rosa negra marchita ante un espejo agrietado.
+### Traducción en curso
 
 Autor：[@Elvorya](https://x.com/Elvorya) · [Publicación original](https://x.com/Elvorya/status/2102400640907645318)
 
 Cine / Fotograma · Retrato / Selfie · Personaje · Artículo de moda · Publicado
 
-**Resumen:** Retrato cinematográfico ultrarrealista de moda oscura de una mujer con un vestido negro con un fragmento de vidrio sobre su corazón, sosteniendo una rosa negra marchita ante un espejo agrietado.
+**Resumen:** Traducción en curso
 
 <img src="images/2102400640907645318-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Retrato cinematográfico ultrarrealista de moda oscura de una hermosa mujer joven, preservando la identidad facial exacta y los rasgos reconocibles del rostro de referencia, con piel naturalmente clara, delicados rasgos angulares, expresivos ojos verde avellana, cabello largo castaño oscuro dividido al centro y cayendo de forma natural sobre sus hombros. Está de pie en un elegante interior europeo antiguo con ventanas altas, paredes ornamentadas desgastadas, espejos antiguos y una atmósfera fría y desaturada.
-
-Viste un vestido negro entallado de manga larga con sutiles rasgaduras desgastadas y detalles de tela envejecida. Un pequeño y afilado fragmento de vidrio transparente roto está incrustado a través de la tela en la parte central izquierda del pecho, directamente sobre el corazón, con grietas realistas que se irradian hacia afuera a través del vestido como un patrón de vidrio roto. Una pequeña cantidad de sangre roja oscura rodea naturalmente la herida y se desliza sutilmente hacia abajo sobre la tela. Mantenga el vidrio físicamente verosímil, transparente, reflectante y nítidamente definido.
-
-Su expresión es silenciosamente melancólica pero extrañamente pacífica, con ojos llorosos ligeramente enrojecidos y lágrimas naturales que corren lentamente por ambas mejillas, mientras mantiene una sutil y suave sonrisa. Sostiene suavemente una sola rosa negra marchita en una mano, cuyos pétalos secos y hojas marrones se suman a la trágica atmósfera gótica.
-
-Detrás de ella, un gran espejo antiguo contiene un reflejo natural de ella desde atrás. El espejo está fuertemente agrietado con fracturas ramificadas realistas, mientras que pequeños pedazos de vidrio roto están esparcidos por el piso de madera. Una luz de día suave y fría entra lateralmente por las ventanas, creando delicados reflejos en su cabello, ojos, fragmento de vidrio y rastros de lágrimas. Iluminación cinematográfica melancólica, sutil atmósfera volumétrica, sombras realistas, profundidad de campo reducida, poros naturales de la piel y fina textura facial, materiales físicamente precisos, delicadas hebras de cabello, manos y dedos realistas, fotografía fotorrealista, estética gótica romántica oscura, sofisticada composición editorial, lente de retrato de 85 mm, f/1.8, profundidad de campo cinematográfica, alto rango dinámico, sutil grano de película, tonos fríos apagados, dramático pero elegante, realismo de nivel obra maestra, detalle en 8K.
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -733,13 +727,13 @@ Una impresionante vista vertical de una metrópolis futurista que flota grácilm
 
 <a name="prompt-2102417435521634722"></a>
 
-### Traducción en curso
+### Retrato de una mujer joven con una camisa corta blanca desabotonada frente a un fondo de estudio rosa.
 
 Autor：[@NoahNeku](https://x.com/NoahNeku) · [Publicación original](https://x.com/NoahNeku/status/2102417435521634722)
 
 Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato de una mujer joven con una camisa corta blanca desabotonada frente a un fondo de estudio rosa.
 
 <img src="images/2102417435521634722-1.jpg" alt="Imagen 1" width="480" />
 
@@ -748,7 +742,41 @@ Retrato / Selfie · Personaje · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+{
+  "prompt": "Retrato 4K HD de una mujer joven con cabello largo, oscuro y ondulado, ojos color avellana y una expresión neutra mirando directamente a la cámara, vistiendo una camisa corta blanca de manga corta con cuello y desabotonada con un escote pronunciado y profundo, posando frente a un fondo de estudio rosa liso.",
+  "subject": {
+    "gender": "Femenino",
+    "hair": {
+      "color": "Castaño oscuro",
+      "style": "Largo, con raya en medio, ondas naturales y sueltas cayendo sobre ambos hombros"
+    },
+    "facial_features": {
+      "eyes": "Color avellana / castaño claro, mirando directamente al lente",
+      "eyebrows": "Naturalmente definidas, oscuras",
+      "skin": "Tez clara, textura natural, sutiles reflejos húmedos y luminosos",
+      "expression": "Neutra, relajada, tranquila"
+    },
+    "attire": {
+      "top": "Camisa corta blanca de manga corta con cuello",
+      "style": "Escote en V profundo y pronunciado, frente desabotonado"
+    }
+  },
+  "setting": {
+    "background": "Fondo de estudio continuo rosa pastel liso",
+    "details": "Borde del equipo de estudio visible en la esquina superior derecha"
+  },
+  "technical_details": {
+    "shot_type": "Retrato en plano medio corto",
+    "framing": "Composición centrada, de la cintura hacia arriba",
+    "lighting": "Iluminación de estudio suave y difusa, relleno suave",
+    "camera_settings": {
+      "resolution": "4K UHD",
+      "lens_type": "Lente de retrato de 85 mm",
+      "depth_of_field": "Baja profundidad de campo, enfoque nítido en el sujeto con suave desenfoque del fondo",
+      "color_grade": "Tonos cálidos naturales, contraste pastel limpio"
+    }
+  }
+}
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -856,6 +884,28 @@ Retrato / Selfie · Personaje · Artículo de moda · Publicado
 
 ```text
 La imagen es un retrato vertical de bellas artes de cuerpo entero y alta resolución, tomado con Sony A1 y lente de 120 mm, que captura a una esbelta supermodelo de unos 20 años, bañada por la cálida luz de la hora dorada, encontrando consuelo en un columpio, suaves y brumosos colores pastel, vestida con un vestido de seda azul cobalto, atmósfera de ensueño, con cabello largo negro azabache al viento, grandes y expresivos ojos café oscuro, labios rojos entreabiertos, transmitiendo nostalgia y paz, mirada pensativa, una pizca de nostalgia, atraviesa el ambiente cálido mientras los últimos rayos del sol bailan a través de su cabello despeinado, en un momento de quietud.
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Traducción en curso
+
+Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Publicación original](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Marketing de producto · Póster / Volante · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097547198523388128-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

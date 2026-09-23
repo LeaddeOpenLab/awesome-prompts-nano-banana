@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**29** Prompt · Son eklenen: **2026-09-23**
+**30** Prompt · Son eklenen: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -328,26 +328,20 @@ Işıltılı bronz tene sahip yakışıklı genç bir erkek, göğsünü açığ
 
 <a name="prompt-2102400640907645318"></a>
 
-### Kalbinin üzerinde bir cam kırığı bulunan, çatlak bir aynanın önünde solmuş siyah bir gül tutan siyah elbiseli bir kadının ultra gerçekçi sinematik karanlık moda portresi.
+### Çeviri sürüyor
 
 Yazar：[@Elvorya](https://x.com/Elvorya) · [Orijinal gönderi](https://x.com/Elvorya/status/2102400640907645318)
 
 Sinematik / Film Karesi · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 
-**Özet:** Kalbinin üzerinde bir cam kırığı bulunan, çatlak bir aynanın önünde solmuş siyah bir gül tutan siyah elbiseli bir kadının ultra gerçekçi sinematik karanlık moda portresi.
+**Özet:** Çeviri sürüyor
 
 <img src="images/2102400640907645318-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Güzel bir genç kadının, referans yüzün tam yüz kimliğini ve tanınabilir özelliklerini koruyan, doğal olarak açık tenli, narin köşeli hatlara, etkileyici ela-yeşil gözlere, ortadan ayrılmış ve omuzlarına doğal bir şekilde dökülen uzun koyu kahverengi saçlara sahip ultra gerçekçi sinematik karanlık moda portresi. Yüksek pencereleri, solmuş süslemeli duvarları, antika aynaları ve soğuk, doygunluğu azaltılmış atmosferi olan zarif bir eski Avrupa iç mekanında duruyor.
-
-Hafif yıpranmış yırtıklara ve aşınmış kumaş detaylarına sahip, vücuda oturan uzun kollu siyah bir elbise giyiyor. Göğsün sol orta kısmında, tam kalbin üzerinde, kumaşın içinden saplanmış küçük, keskin ve şeffaf kırık cam parçası bulunuyor; elbise boyunca parçalanmış cam deseni gibi dışa doğru yayılan gerçekçi çatlaklar yer alıyor. Az miktarda koyu kırmızı kan, yarayı doğal bir şekilde çevreliyor ve kumaşın üzerine doğru zarifçe aşağı süzülüyor. Camın fiziksel olarak inandırıcı, şeffaf, yansıtıcı ve keskin bir şekilde belirgin olmasını sağlayın.
-
-İfadesi sessizce melankolik ancak garip bir şekilde huzurlu; hafifçe kızarmış sulu gözleri ve her iki yanağından yavaşça süzülen doğal gözyaşları varken, aynı zamanda hafif ve yumuşak bir tebessümü koruyor. Bir elinde solmuş tek bir siyah gülü nazikçe tutuyor; çiçeğin kurumuş taç yaprakları ve kahverengi yaprakları trajik gotik atmosfere katkıda bulunuyor.
-
-Arkasında yer alan büyük antika bir ayna, onun arkadan doğal bir yansımasını içeriyor. Ayna, gerçekçi dallanan kırıklarla ağır bir şekilde çatlamış durumda, küçük kırık cam parçaları ise ahşap zemine saçılmış. Pencerelerden yandan giren yumuşak soğuk gün ışığı; saçlarında, gözlerinde, cam parçasında ve gözyaşı izlerinde narin parıltılar oluşturuyor. Karamsar sinematik aydınlatma, hafif hacimsel atmosfer, gerçekçi gölgeler, sığ alan derinliği, doğal cilt gözenekleri ve ince yüz dokusu, fiziksel olarak doğru materyaller, narin saç telleri, gerçekçi eller ve parmaklar, fotogerçekçi fotoğrafçılık, karanlık romantik gotik estetik, sofistike editoryal kompozisyon, 85mm portre lensi, f/1.8, sinematik alan derinliği, yüksek dinamik aralık, hafif film greni, solgun soğuk tonlar, dramatik ama zarif, şaheser düzeyinde gerçekçilik, 8K detay.
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -842,13 +836,13 @@ Alacakaranlıkta, dalgalanan yoğun koyu gri bulutlardan oluşan sonsuz bir deni
 
 <a name="prompt-2102417435521634722"></a>
 
-### Çeviri sürüyor
+### Pembe stüdyo fonu önünde, önü iliklenmemiş beyaz crop gömlekli genç bir kadının portresi.
 
 Yazar：[@NoahNeku](https://x.com/NoahNeku) · [Orijinal gönderi](https://x.com/NoahNeku/status/2102417435521634722)
 
 Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Pembe stüdyo fonu önünde, önü iliklenmemiş beyaz crop gömlekli genç bir kadının portresi.
 
 <img src="images/2102417435521634722-1.jpg" alt="Görsel 1" width="480" />
 
@@ -857,7 +851,41 @@ Portre / Selfie · Karakter · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+{
+  "prompt": "Uzun koyu dalgalı saçlı, ela gözlü ve doğrudan kameraya bakan nötr bir ifadeye sahip genç bir kadının, derin dekolteli, önü iliklenmemiş beyaz kısa kollu yakalı crop gömlek giymiş, pürüzsüz pembe stüdyo fonu önünde poz vermiş 4k HD portresi.",
+  "subject": {
+    "gender": "Kadın",
+    "hair": {
+      "color": "Koyu kahverengi",
+      "style": "Uzun, ortadan ayrılmış, her iki omzuna dökülen gevşek doğal dalgalar"
+    },
+    "facial_features": {
+      "eyes": "Ela / açık kahverengi, doğrudan lense bakan",
+      "eyebrows": "Doğal olarak belirgin, koyu",
+      "skin": "Açık ten, doğal doku, hafif nemli ışıltılar",
+      "expression": "Nötr, rahat, sakin"
+    },
+    "attire": {
+      "top": "Beyaz kısa kollu yakalı crop gömlek",
+      "style": "Derin dekolteli, önü iliklenmemiş"
+    }
+  },
+  "setting": {
+    "background": "Düz pastel pembe kesintisiz stüdyo fonu",
+    "details": "Sağ üst köşede görünen stüdyo ekipmanı kenarı"
+  },
+  "technical_details": {
+    "shot_type": "Göğüs planı portre çekimi",
+    "framing": "Ortalanmış, belden yukarı kompozisyon",
+    "lighting": "Yumuşak dağınık stüdyo ışığı, nazik dolgu ışığı",
+    "camera_settings": {
+      "resolution": "4K UHD",
+      "lens_type": "85mm portre lensi",
+      "depth_of_field": "Sığ, yumuşak arka plan geçişi ile keskin nesne odağı",
+      "color_grade": "Doğal sıcak tonlar, temiz pastel kontrast"
+    }
+  }
+}
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -965,6 +993,28 @@ Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 
 ```text
 Görüntü, Sony A1 ve 120 mm lens ile çekilmiş, 20'li yaşlarının başında narin bir süper modeli yakalayan, altın saatin sıcak ışığıyla yıkanmış, bir salıncakta teselli bulan, yumuşak puslu pastel renkler, kobalt mavisi ipek bir elbise giymiş, rüya gibi bir atmosfer, rüzgarda savrulan uzun simsiyah saçlar, iri etkileyici koyu kahverengi gözler, aralık kırmızı dudaklar, nostalji ve huzur ileten, düşünceli bakış, bir nostalji kırıntısı, güneşin son ışınları darmadağınık saçlarının arasından dans ederken sıcak ambiyansı delen, sessiz bir anın içinde yüksek çözünürlüklü tam boy dikey güzel sanatlar portresidir.
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AIGuideNote](https://x.com/AIGuideNote) · [Orijinal gönderi](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Ürün Pazarlaması · Poster / El İlanı · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097547198523388128-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

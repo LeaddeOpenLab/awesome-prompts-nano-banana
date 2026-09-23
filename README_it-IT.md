@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**29** Prompt · Ultima aggiunta: **2026-09-23**
+**30** Prompt · Ultima aggiunta: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -328,26 +328,20 @@ Un bell'uomo giovane dalla pelle abbronzata e luminosa è in piedi rivolto diret
 
 <a name="prompt-2102400640907645318"></a>
 
-### Ritratto cinematografico dark-fashion ultra-realistico di una donna in abito nero con una scheggia di vetro sul cuore, che tiene una rosa nera appassita davanti a uno specchio incrinato.
+### Traduzione in corso
 
 Autore：[@Elvorya](https://x.com/Elvorya) · [Post originale](https://x.com/Elvorya/status/2102400640907645318)
 
 Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
 
-**Riepilogo:** Ritratto cinematografico dark-fashion ultra-realistico di una donna in abito nero con una scheggia di vetro sul cuore, che tiene una rosa nera appassita davanti a uno specchio incrinato.
+**Riepilogo:** Traduzione in corso
 
 <img src="images/2102400640907645318-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Ritratto cinematografico dark-fashion ultra-realistico di una bella giovane donna, che preserva l'esatta identità facciale e i tratti riconoscibili del viso di riferimento, con pelle naturalmente chiara, lineamenti angolari delicati, espressivi occhi verde nocciola, lunghi capelli castano scuro con riga centrale che scendono naturalmente sulle sue spalle. Si trova in un elegante interno europeo antico con alte finestre, pareti decorate sbiadite, specchi d'epoca e un'atmosfera fredda e desaturata.
-
-Indossa un abito nero aderente a maniche lunghe con sottili strappi consumati e dettagli di tessuto logoro. Un piccolo e affilato frammento di vetro trasparente rotto è conficcato attraverso il tessuto al centro-sinistra del petto, direttamente sopra il cuore, con crepe realistiche che si irradiano verso l'esterno lungo l'abito come un motivo di vetro infranto. Una piccola quantità di sangue rosso scuro circonda naturalmente la ferita e scende sottilmente verso il basso sul tessuto. Mantenere il vetro fisicamente credibile, trasparente, riflettente e nitidamente definito.
-
-La sua espressione è silenziosamente malinconica ma stranamente pacifica, con occhi lucidi leggermente arrossati e lacrime naturali che scendono lentamente su entrambe le guance, pur mantenendo un sottile e dolce sorriso. Tiene delicatamente in una mano una singola rosa nera appassita, i cui petali secchi e le foglie marroni contribuiscono alla tragica atmosfera gotica.
-
-Dietro di lei, un grande specchio antico cattura un riflesso naturale della sua schiena. Lo specchio è pesantemente incrinato con realistiche fratture ramificate, mentre piccoli pezzi di vetro rotto sono sparsi sul pavimento di legno. Una morbida e fredda luce diurna entra lateralmente dalle finestre, creando delicati punti luce sui suoi capelli, occhi, frammento di vetro e scie di lacrime. Illuminazione cinematografica d'atmosfera, sottile atmosfera volumetrica, ombre realistiche, profondità di campo ridotta, pori della pelle naturali e texture fine del viso, materiali fisicamente accurati, ciocche di capelli delicate, mani e dita realistiche, fotografia fotorealistica, estetica gotica romantica e cupa, composizione editoriale sofisticata, obiettivo da ritratto 85mm, f/1.8, profondità di campo cinematografica, alta gamma dinamica, sottile grana della pellicola, toni freddi attenuati, drammatico ma elegante, realismo a livello di capolavoro, dettaglio 8K.
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -733,13 +727,13 @@ Un'incredibile vista verticale di una metropoli futuristica che fluttua con graz
 
 <a name="prompt-2102417435521634722"></a>
 
-### Traduzione in corso
+### Ritratto di una giovane donna con una camicia crop bianca sbottonata davanti a uno sfondo da studio rosa.
 
 Autore：[@NoahNeku](https://x.com/NoahNeku) · [Post originale](https://x.com/NoahNeku/status/2102417435521634722)
 
 Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto di una giovane donna con una camicia crop bianca sbottonata davanti a uno sfondo da studio rosa.
 
 <img src="images/2102417435521634722-1.jpg" alt="Immagine 1" width="480" />
 
@@ -748,7 +742,41 @@ Ritratto / Selfie · Personaggio · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+{
+  "prompt": "Ritratto 4k HD di una giovane donna con lunghi capelli scuri ondulati, occhi nocciola e un'espressione neutra che guarda dritto nella fotocamera, con indosso una camicia crop bianca a maniche corte sbottonata con colletto e profonda scollatura a tuffo, in posa davanti a un fondale da studio liscio rosa.",
+  "subject": {
+    "gender": "Femmina",
+    "hair": {
+      "color": "Castano scuro",
+      "style": "Lunghi, con riga centrale, onde naturali sciolte che ricadono su entrambe le spalle"
+    },
+    "facial_features": {
+      "eyes": "Nocciola / marrone chiaro, che guardano direttamente nell'obiettivo",
+      "eyebrows": "Naturalmente definite, scure",
+      "skin": "Carnagione chiara, consistenza naturale, sottili riflessi rugiadosi",
+      "expression": "Neutra, rilassata, calma"
+    },
+    "attire": {
+      "top": "Camicia crop bianca a maniche corte con colletto",
+      "style": "Scollatura a tuffo profonda, parte anteriore sbottonata"
+    }
+  },
+  "setting": {
+    "background": "Fondale continuo da studio color rosa pastello uniforme",
+    "details": "Bordo dell'attrezzatura da studio visibile nell'angolo in alto a destra"
+  },
+  "technical_details": {
+    "shot_type": "Ritratto a mezzo busto ravvicinato",
+    "framing": "Inquadratura centrata, dalla vita in su",
+    "lighting": "Illuminazione da studio morbida e diffusa, luce di riempimento delicata",
+    "camera_settings": {
+      "resolution": "4K UHD",
+      "lens_type": "Obiettivo per ritratti da 85 mm",
+      "depth_of_field": "Ridotta, soggetto a fuoco nitido con morbido sfocato sullo sfondo",
+      "color_grade": "Tonalità calde naturali, contrasto pastello pulito"
+    }
+  }
+}
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -856,6 +884,28 @@ Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
 
 ```text
 L'immagine è un ritratto artistico verticale a figura intera ad alta risoluzione, Sony A1 e obiettivo da 120 mm, che cattura una snella top model poco più che ventenne, immersa nella calda luce dell'ora d'oro, che trova conforto su un'altalena, morbidi e velati colori pastello, che indossa un abito di seta blu cobalto, atmosfera sognante, con lunghi capelli corvini scompigliati dal vento, grandi ed espressivi occhi castano scuro, labbra rosse dischiuse, che trasmettono nostalgia e pace, sguardo pensieroso, una punta di nostalgia, trafigge la calda atmosfera mentre gli ultimi raggi del sole danzano tra i suoi capelli spettinati, in un momento di quiete.
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Traduzione in corso
+
+Autore：[@AIGuideNote](https://x.com/AIGuideNote) · [Post originale](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Marketing di Prodotto · Poster / Volantino · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097547198523388128-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)

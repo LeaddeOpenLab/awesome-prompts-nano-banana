@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**29** Prompts · Dernier ajout: **2026-09-23**
+**30** Prompts · Dernier ajout: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -328,26 +328,20 @@ Un beau jeune homme à la peau bronzée et éclatante se tient face à l'apparei
 
 <a name="prompt-2102400640907645318"></a>
 
-### Portrait de mode sombre cinématographique ultra-réaliste d'une femme vêtue d'une robe noire avec un éclat de verre sur le cœur, tenant une rose noire fanée devant un miroir brisé.
+### Traduction en cours
 
 Auteur：[@Elvorya](https://x.com/Elvorya) · [Publication originale](https://x.com/Elvorya/status/2102400640907645318)
 
 Image cinématographique / Photogramme de film · Portrait / Selfie · Personnage · Article de mode · Publié
 
-**Résumé:** Portrait de mode sombre cinématographique ultra-réaliste d'une femme vêtue d'une robe noire avec un éclat de verre sur le cœur, tenant une rose noire fanée devant un miroir brisé.
+**Résumé:** Traduction en cours
 
 <img src="images/2102400640907645318-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Portrait de mode sombre cinématographique ultra-réaliste d'une belle jeune femme, préservant l'identité faciale exacte et les traits reconnaissables du visage de référence, avec une peau naturellement claire, des traits angulaires délicats, des yeux noisette-vert expressifs, de longs cheveux châtain foncé séparés par une raie au milieu et tombant naturellement sur ses épaules. Elle se tient dans un intérieur européen ancien et élégant avec de hautes fenêtres, des murs ornés et délavés, des miroirs anciens et une atmosphère froide et désaturée.
-
-Elle porte une robe noire ajustée à manches longues avec de subtiles déchirures usées et des détails de tissu vieilli. Un petit éclat tranchant de verre brisé transparent est incrusté à travers le tissu au centre gauche de la poitrine, directement sur le cœur, avec des fissures réalistes rayonnant vers l'extérieur à travers la robe tel un motif de verre brisé. Une petite quantité de sang rouge foncé entoure naturellement la blessure et s'écoule subtilement vers le bas sur le tissu. Gardez le verre physiquement crédible, transparent, réfléchissant et nettement défini.
-
-Son expression est silencieusement mélancolique mais étrangement paisible, avec des yeux larmoyants légèrement rougis et des larmes naturelles coulant lentement sur ses deux joues, tout en conservant un sourire doux et subtil. Elle tient délicatement une seule rose noire fanée dans une main, ses pétales séchés et ses feuilles brunes ajoutant à l'atmosphère gothique tragique.
-
-Derrière elle, un grand miroir ancien contient un reflet naturel d'elle vue de dos. Le miroir est lourdement fissuré avec des fractures ramifiées réalistes, tandis que de petits morceaux de verre brisé sont dispersés sur le parquet. Une douce lumière du jour froide pénètre par les fenêtres depuis le côté, créant de délicats reflets sur ses cheveux, ses yeux, l'éclat de verre et les traces de larmes. Éclairage cinématographique d'ambiance, atmosphère volumétrique subtile, ombres réalistes, faible profondeur de champ, pores de peau naturels et texture faciale fine, matériaux physiquement précis, mèches de cheveux délicates, mains et doigts réalistes, photographie photoréaliste, esthétique gothique romantique sombre, composition éditoriale sophistiquée, objectif portrait 85 mm, f/1.8, profondeur de champ cinématographique, plage dynamique élevée, grain de film subtil, tons froids atténués, dramatique mais élégant, réalisme de niveau chef-d'œuvre, détail 8K.
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -733,13 +727,13 @@ Une vue verticale à couper le souffle d'une métropole futuriste flottant graci
 
 <a name="prompt-2102417435521634722"></a>
 
-### Traduction en cours
+### Portrait d'une jeune femme en chemise courte blanche déboutonnée devant un fond de studio rose.
 
 Auteur：[@NoahNeku](https://x.com/NoahNeku) · [Publication originale](https://x.com/NoahNeku/status/2102417435521634722)
 
 Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait d'une jeune femme en chemise courte blanche déboutonnée devant un fond de studio rose.
 
 <img src="images/2102417435521634722-1.jpg" alt="Image 1" width="480" />
 
@@ -748,7 +742,41 @@ Portrait / Selfie · Personnage · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+{
+  "prompt": "Portrait 4k HD d'une jeune femme aux longs cheveux noirs ondulés, aux yeux noisette et à l'expression neutre regardant directement l'appareil photo, vêtue d'une chemise courte blanche à col et manches courtes déboutonnée avec un décolleté plongeant profond, posant devant un fond de studio rose lisse.",
+  "subject": {
+    "gender": "Femme",
+    "hair": {
+      "color": "Brun foncé",
+      "style": "Longs, raie au milieu, ondulations naturelles lâches tombant sur les deux épaules"
+    },
+    "facial_features": {
+      "eyes": "Noisette / marron clair, regardant directement l'objectif",
+      "eyebrows": "Naturellement définis, foncés",
+      "skin": "Teint clair, texture naturelle, légers reflets éclatants et frais",
+      "expression": "Neutre, détendue, calme"
+    },
+    "attire": {
+      "top": "Chemise courte blanche à manches courtes avec col",
+      "style": "Décolleté plongeant profond, devant déboutonné"
+    }
+  },
+  "setting": {
+    "background": "Fond de studio uni sans raccord rose pastel",
+    "details": "Bord de matériel de studio visible dans le coin supérieur droit"
+  },
+  "technical_details": {
+    "shot_type": "Portrait en plan rapproché poitrine",
+    "framing": "Cadrage centré, à partir de la taille",
+    "lighting": "Éclairage de studio doux et diffus, lumière d'appoint douce",
+    "camera_settings": {
+      "resolution": "4K UHD",
+      "lens_type": "Objectif portrait 85 mm",
+      "depth_of_field": "Faible profondeur de champ, mise au point nette sur le sujet avec transition douce vers l'arrière-plan",
+      "color_grade": "Tons chauds naturels, contraste pastel net"
+    }
+  }
+}
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -856,6 +884,28 @@ Portrait / Selfie · Personnage · Article de mode · Publié
 
 ```text
 L'image est un portrait d'art vertical en pied haute résolution, Sony A1 et objectif 120 mm, capturant une svelte top-modèle au début de la vingtaine, baignée dans la chaude lumière de l'heure dorée, trouvant du réconfort sur une balançoire, couleurs pastel douces et vaporeuses, vêtue d'une robe en soie bleu cobalt, atmosphère de rêve, avec de longs cheveux noir de jais balayés par le vent, de grands yeux marron foncé expressifs, des lèvres rouges entrouvertes, véhiculant nostalgie et paix, regard pensif, un soupçon de nostalgie, perçant l'ambiance chaleureuse alors que les derniers rayons du soleil dansent à travers ses cheveux ébouriffés, dans un moment de quiétude.
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Traduction en cours
+
+Auteur：[@AIGuideNote](https://x.com/AIGuideNote) · [Publication originale](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Marketing produit · Affiche / Flyer · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097547198523388128-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)

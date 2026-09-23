@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**29** Prompt · Bổ sung mới nhất: **2026-09-23**
+**30** Prompt · Bổ sung mới nhất: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -328,26 +328,20 @@ Một chàng trai trẻ đẹp trai với làn da rám nắng rạng rỡ đứn
 
 <a name="prompt-2102400640907645318"></a>
 
-### Chân dung thời trang đen tối mang tính điện ảnh siêu thực về một người phụ nữ trong chiếc váy đen với mảnh kính trên tim, cầm một bông hồng đen héo úa trước tấm gương nứt.
+### Đang dịch
 
 Tác giả：[@Elvorya](https://x.com/Elvorya) · [Bài gốc](https://x.com/Elvorya/status/2102400640907645318)
 
 Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Chân dung thời trang đen tối mang tính điện ảnh siêu thực về một người phụ nữ trong chiếc váy đen với mảnh kính trên tim, cầm một bông hồng đen héo úa trước tấm gương nứt.
+**Tóm tắt:** Đang dịch
 
 <img src="images/2102400640907645318-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Chân dung thời trang đen tối mang tính điện ảnh siêu thực về một phụ nữ trẻ xinh đẹp, giữ nguyên danh tính khuôn mặt chính xác và các đặc điểm dễ nhận biết của khuôn mặt tham chiếu, với làn da trắng tự nhiên, các đường nét góc cạnh thanh tú, đôi mắt màu xanh lục hạt dẻ đầy biểu cảm, mái tóc dài màu nâu sẫm rẽ ngôi giữa và xõa tự nhiên trên vai. Cô đứng trong một không gian nội thất châu Âu cổ kính trang nhã với những ô cửa sổ cao, những bức tường hoa văn phai màu, gương cổ và bầu không khí lạnh lẽo giảm bão hòa màu sắc.
-
-Cô mặc một chiếc váy đen dài tay ôm sát với những vết rách tinh tế và chi tiết vải sờn mòn. Một mảnh vỡ nhỏ sắc nhọn bằng thủy tinh trong suốt găm xuyên qua lớp vải ở phần ngực giữa bên trái, ngay phía trên tim, với các vết nứt chân thực lan tỏa ra ngoài khắp chiếc váy như họa tiết kính vỡ. Một lượng nhỏ máu đỏ sẫm tự nhiên bao quanh vết thương và chảy nhẹ xuống mặt vải. Giữ cho mảnh kính chân thực về mặt vật lý, trong suốt, phản chiếu và sắc nét.
-
-Biểu cảm của cô đượm buồn một cách lặng lẽ nhưng lại yên bình đến lạ kỳ, với đôi mắt ngân ngấn nước hơi đỏ và những giọt nước mắt tự nhiên chầm chậm lăn dài trên hai gò má, trong khi vẫn giữ một nụ cười mỉm nhẹ nhàng. Cô khẽ cầm một bông hồng đen héo úa trên một tay, những cánh hoa khô và lá nâu làm tăng thêm bầu không khí gothic bi thương.
-
-Phía sau cô, một tấm gương cổ lớn phản chiếu tự nhiên bóng lưng của cô. Tấm gương bị nứt nặng nề với các vết nứt phân nhánh chân thực, trong khi những mảnh kính vỡ nhỏ nằm rải rác trên sàn gỗ. Ánh sáng ban ngày dịu nhẹ và lạnh lẽo lọt qua các cửa sổ từ bên cạnh, tạo ra những điểm sáng tinh tế trên tóc, mắt, mảnh kính và vệt nước mắt của cô. Ánh sáng điện ảnh đầy tâm trạng, bầu không khí thể tích tinh tế, bóng đổ chân thực, độ sâu trường ảnh nông, lỗ chân lông tự nhiên và kết cấu khuôn mặt mịn màng, vật liệu chính xác về mặt vật lý, các lọn tóc tinh xảo, bàn tay và ngón tay chân thực, nhiếp ảnh siêu thực, thẩm mỹ gothic lãng mạn đen tối, bố cục tạp chí tinh tế, ống kính chân dung 85mm, f/1.8, độ sâu trường ảnh điện ảnh, dải tương phản động cao, hạt phim tinh tế, tông màu lạnh trầm, kịch tính nhưng tao nhã, độ chân thực tầm kiệt tác, chi tiết 8K.
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -812,13 +806,13 @@ Góc nhìn thẳng đứng ngoạn mục của một đô thị tương lai lơ 
 
 <a name="prompt-2102417435521634722"></a>
 
-### Đang dịch
+### Chân dung một phụ nữ trẻ mặc áo croptop trắng cởi cúc trên phông nền studio màu hồng.
 
 Tác giả：[@NoahNeku](https://x.com/NoahNeku) · [Bài gốc](https://x.com/NoahNeku/status/2102417435521634722)
 
 Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung một phụ nữ trẻ mặc áo croptop trắng cởi cúc trên phông nền studio màu hồng.
 
 <img src="images/2102417435521634722-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -827,7 +821,41 @@ Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+{
+  "prompt": "Chân dung độ phân giải 4k HD của một phụ nữ trẻ với mái tóc dài gợn sóng màu tối, đôi mắt màu hạt dẻ và biểu cảm trung tính nhìn thẳng vào máy ảnh, mặc áo sơ mi croptop ngắn tay có cổ màu trắng cởi cúc với cổ áo khoét sâu, tạo dáng trước phông nền studio màu hồng mịn màng.",
+  "subject": {
+    "gender": "Nữ",
+    "hair": {
+      "color": "Nâu sẫm",
+      "style": "Dài, rẽ ngôi giữa, gợn sóng tự nhiên buông lơi trên hai vai"
+    },
+    "facial_features": {
+      "eyes": "Màu hạt dẻ / nâu nhạt, nhìn thẳng vào ống kính",
+      "eyebrows": "Đường nét tự nhiên, sẫm màu",
+      "skin": "Nước da sáng, kết cấu da tự nhiên, điểm nhấn bóng nhẹ như phủ sương",
+      "expression": "Trung tính, thư thái, điềm tĩnh"
+    },
+    "attire": {
+      "top": "Áo sơ mi croptop ngắn tay có cổ màu trắng",
+      "style": "Cổ khoét sâu, cởi cúc phía trước"
+    }
+  },
+  "setting": {
+    "background": "Phông nền studio liền mạch màu hồng pastel trơn",
+    "details": "Cạnh của thiết bị studio có thể nhìn thấy ở góc trên bên phải"
+  },
+  "technical_details": {
+    "shot_type": "Chân dung cận cảnh vừa",
+    "framing": "Căn giữa, bố cục từ thắt lưng trở lên",
+    "lighting": "Ánh sáng studio khuếch tán mềm mại, ánh sáng bổ trợ dịu nhẹ",
+    "camera_settings": {
+      "resolution": "4K UHD",
+      "lens_type": "Ống kính chân dung 85mm",
+      "depth_of_field": "Độ sâu trường ảnh nông, chủ thể lấy nét sắc nét với hậu cảnh mờ dần mềm mại",
+      "color_grade": "Tông màu ấm tự nhiên, độ tương phản pastel trong trẻo"
+    }
+  }
+}
 ```
 
 [↑ Về danh mục](#catalog)
@@ -935,6 +963,28 @@ Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đ�
 
 ```text
 Hình ảnh là chân dung mỹ thuật dạng đứng toàn thân độ phân giải cao, chụp bằng máy ảnh Sony A1 và ống kính 120mm, ghi lại hình ảnh một siêu mẫu thon thả ở độ tuổi đầu 20, đắm mình trong ánh sáng hoàng hôn ấm áp, tìm kiếm sự bình yên trên chiếc xích đu, tông màu pastel mờ ảo mềm mại, mặc chiếc váy lụa màu xanh cô-ban, bầu không khí mơ màng, với mái tóc đen nhánh dài tung bay trong gió, đôi mắt nâu sẫm to tròn đầy biểu cảm, đôi môi đỏ khẽ hé mở, gợi lên nỗi nhớ nhung và sự bình yên, ánh nhìn đăm chiêu, một thoáng hoài niệm, xuyên qua bầu không khí ấm áp khi những tia nắng cuối cùng nhảy múa qua mái tóc rối bời của cô, trong khoảnh khắc tĩnh lặng.
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Đang dịch
+
+Tác giả：[@AIGuideNote](https://x.com/AIGuideNote) · [Bài gốc](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Tiếp thị sản phẩm · Áp phích / Tờ rơi · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097547198523388128-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

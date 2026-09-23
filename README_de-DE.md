@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**29** Prompts · Zuletzt hinzugefügt: **2026-09-23**
+**30** Prompts · Zuletzt hinzugefügt: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -328,26 +328,20 @@ Ein gutaussehender junger Mann mit strahlender, gebräunter Haut steht in selbst
 
 <a name="prompt-2102400640907645318"></a>
 
-### Ultrarealistisches filmisches Dark-Fashion-Porträt einer Frau in einem schwarzen Kleid mit einem Glassplitter über ihrem Herzen, die eine verwelkte schwarze Rose vor einem zersprungenen Spiegel hält.
+### Übersetzung läuft
 
 Autor：[@Elvorya](https://x.com/Elvorya) · [Originalbeitrag](https://x.com/Elvorya/status/2102400640907645318)
 
 Kinematisch / Filmstill · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Ultrarealistisches filmisches Dark-Fashion-Porträt einer Frau in einem schwarzen Kleid mit einem Glassplitter über ihrem Herzen, die eine verwelkte schwarze Rose vor einem zersprungenen Spiegel hält.
+**Zusammenfassung:** Übersetzung läuft
 
 <img src="images/2102400640907645318-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Ultrarealistisches, filmisches Dark-Fashion-Porträt einer wunderschönen jungen Frau, unter Beibehaltung der exakten Gesichtszüge und wiedererkennbaren Merkmale des Referenzgesichts, mit natürlich heller Haut, zarten kantigen Gesichtszügen, ausdrucksstarken haselnussgrünen Augen, langem dunkelbraunem Haar mit Mittelscheitel, das natürlich über ihre Schultern fällt. Sie steht in einem eleganten alten europäischen Innenraum mit hohen Fenstern, verblassten verzierten Wänden, antiken Spiegeln und einer kalten, entsättigten Atmosphäre.
-
-Sie trägt ein tailliertes, langärmeliges schwarzes Kleid mit dezenten Rissen im Used-Look und abgetragenen Stoffdetails. Ein kleiner, scharfer Splitter aus transparentem, zerbrochenem Glas ist links mittig auf der Brust direkt über dem Herzen durch den Stoff eingebettet, mit realistischen Rissen, die sich wie ein Glassplittermuster über das Kleid nach außen ziehen. Eine kleine Menge dunkelroten Blutes umgibt die Wunde auf natürliche Weise und zieht subtile Spuren nach unten auf den Stoff. Das Glas soll physikalisch glaubwürdig, transparent, reflektierend und scharf definiert bleiben.
-
-Ihr Ausdruck ist still melancholisch und dennoch seltsam friedlich, mit leicht geröteten, wässrigen Augen und natürlichen Tränen, die langsam über beide Wangen laufen, während sie ein dezentes, sanftes Lächeln bewahrt. Sie hält sanft eine einzelne verwelkte schwarze Rose in einer Hand, deren getrocknete Blütenblätter und braune Blätter zur tragischen gotischen Atmosphäre beitragen.
-
-Hinter ihr zeigt ein großer antiker Spiegel ihr natürliches Spiegelbild von hinten. Der Spiegel ist stark zersprungen mit realistischen, sich verzweigenden Brüchen, während kleine Glasscherben über den Holzboden verstreut sind. Sanftes, kaltes Tageslicht fällt von der Seite durch die Fenster und erzeugt zarte Glanzlichter auf ihrem Haar, ihren Augen, dem Glassplitter und den Tränenspuren. Stimmungsvolle filmische Beleuchtung, subtile volumetrische Atmosphäre, realistische Schatten, geringe Schärfentiefe, natürliche Hautporen und feine Gesichtstextur, physikalisch akkurate Materialien, feine Haarsträhnen, realistische Hände und Finger, fotorealistische Fotografie, düster-romantische Gothic-Ästhetik, anspruchsvolle redaktionelle Bildkomposition, 85-mm-Porträtobjektiv, f/1.8, filmische Schärfentiefe, hoher Dynamikumfang, dezente Filmkörnung, gedämpfte kühle Töne, dramatisch, aber elegant, Realismus auf Meisterwerk-Niveau, 8K-Detail.
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -733,13 +727,13 @@ Eine atemberaubende vertikale Ansicht einer futuristischen Metropole, die in der
 
 <a name="prompt-2102417435521634722"></a>
 
-### Übersetzung läuft
+### Porträt einer jungen Frau in einem aufgeknöpften weißen Crop-Hemd vor einem rosa Studiohintergrund.
 
 Autor：[@NoahNeku](https://x.com/NoahNeku) · [Originalbeitrag](https://x.com/NoahNeku/status/2102417435521634722)
 
 Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Porträt einer jungen Frau in einem aufgeknöpften weißen Crop-Hemd vor einem rosa Studiohintergrund.
 
 <img src="images/2102417435521634722-1.jpg" alt="Bild 1" width="480" />
 
@@ -748,7 +742,41 @@ Porträt / Selfie · Charakter · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+{
+  "prompt": "4K-HD-Porträt einer jungen Frau mit langem, dunklem, welligem Haar, haselnussbraunen Augen und einem neutralen Gesichtsausdruck mit direktem Blick in die Kamera, bekleidet mit einem aufgeknöpften weißen kurzärmeligen Crop-Hemd mit Kragen und tiefem Dekolleté, posiert vor einem glatten rosa Studiohintergrund.",
+  "subject": {
+    "gender": "Weiblich",
+    "hair": {
+      "color": "Dunkelbraun",
+      "style": "Lang, mit Mittelscheitel, lockere natürliche Wellen, die über beide Schultern fallen"
+    },
+    "facial_features": {
+      "eyes": "Haselnussbraun / hellbraun, blickt direkt in das Objektiv",
+      "eyebrows": "Natürlich definiert, dunkel",
+      "skin": "Heller Teint, natürliche Textur, dezente feuchte Glanzlichter",
+      "expression": "Neutral, entspannt, ruhig"
+    },
+    "attire": {
+      "top": "Weißes, kurzärmeliges Crop-Hemd mit Kragen",
+      "style": "Tiefer Ausschnitt, vorne aufgeknöpft"
+    }
+  },
+  "setting": {
+    "background": "Einfarbiger nahtloser Studiohintergrund in Pastellrosa",
+    "details": "Kante der Studioausrüstung in der oberen rechten Ecke sichtbar"
+  },
+  "technical_details": {
+    "shot_type": "Halbnahaufnahme-Porträt",
+    "framing": "Zentriert, Bildausschnitt ab der Taille aufwärts",
+    "lighting": "Weiches, diffuses Studiolicht, sanftes Aufhelllicht",
+    "camera_settings": {
+      "resolution": "4K UHD",
+      "lens_type": "85mm-Porträtobjektiv",
+      "depth_of_field": "Geringe Schärfentiefe, scharfer Fokus auf das Motiv mit sanftem Hintergrundübergang",
+      "color_grade": "Natürliche warme Farbtöne, sauberer Pastellkontrast"
+    }
+  }
+}
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -856,6 +884,28 @@ Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
 ```text
 Das Bild ist ein hochauflösendes vertikales Kunstporträt in voller Höhe, aufgenommen mit einer Sony A1 und einem 120-mm-Objektiv, das ein schlankes Supermodel Anfang 20 einfängt, gebadet in warmes Licht der goldenen Stunde, Trost suchend auf einer Schaukel, weiche dunstige Pastellfarben, bekleidet mit einem kobaltblauen Seidenkleid, traumhafte Atmosphäre, mit langem, windverwehtem pechschwarzem Haar, großen ausdrucksstarken dunkelbraunen Augen, leicht geöffneten roten Lippen, die Nostalgie und Frieden vermitteln, nachdenklicher Blick, ein Hauch von Nostalgie, durchdringt das warme Ambiente, während die letzten Sonnenstrahlen durch ihr zerzaustes Haar tanzen, in einem Moment der Stille.
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2097547198523388128"></a>
+
+### Übersetzung läuft
+
+Autor：[@AIGuideNote](https://x.com/AIGuideNote) · [Originalbeitrag](https://x.com/AIGuideNote/status/2097547198523388128)
+
+Produktmarketing · Plakat / Flyer · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097547198523388128-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
